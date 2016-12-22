@@ -1,0 +1,16 @@
+{
+  "Ranking_0001_Menu": "战斗点数",
+  "Ranking_0001_Header": "战斗点数排行",
+  "Ranking_0002_Menu": "大师点数",
+  "Ranking_0002_Header": "大师点数排行",
+  "Ranking_0003_Menu": "排位胜利数",
+  "Ranking_0003_Header": "排位胜利数排行",
+  "Ranking_0004_Menu": "双选胜利数",
+  "Ranking_0004_Header": "双选胜利数排行",
+  "Ranking_0101": "胜",
+  "Ranking_0102": "pt",
+  "Ranking_0201": "※战绩需要一定时间才能反馈至排行榜。",
+  "Ranking_0202": "排名正在统计中",
+  "Ranking_0301": "上赛季",
+  "Ranking_0302": "本赛季"
+}

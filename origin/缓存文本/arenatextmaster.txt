@@ -1,0 +1,19 @@
+{
+    "arenatextmaster": {
+        "Jpn": {
+            "Arena_Load_0001": "2Pick",
+            "Arena_Load_0002": "2枚組のカードを選択し続け、30枚のデッキを作成し、5回対戦を行う特別なバトルです。なお、勝利数に応じて報酬が豪華になります。",
+            "Arena_Load_0003": "下記の入場料が必要となります"
+        },
+        "Eng": {
+            "Arena_Load_0001": "Take Two",
+            "Arena_Load_0002": "Choose a total of 15 pairs to build a 30-card Take Two deck. This deck can be used to fight up to five matches and win rewards.",
+            "Arena_Load_0003": "Choose how to enter."
+        },
+        "Chs": {
+            "Arena_Load_0001": "2Pick",
+            "Arena_Load_0002": "Arena_Load_0002",
+            "Arena_Load_0003": "Arena_Load_0003"
+        }
+    }
+}

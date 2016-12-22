@@ -1,0 +1,34 @@
+{
+    "cardsetnametextmaster": {
+        "Jpn": {
+            "90000_long": "トークンカード",
+            "90000_short": "トークン",
+            "10000_long": "プライズ",
+            "10000_short": "プライズ",
+            "10001_long": "スタンダードカードパック",
+            "10001_short": "STD",
+            "10002_long": "ダークネス・エボルヴ",
+            "10002_short": "DRK"
+        },
+        "Eng": {
+            "90000_long": "Token",
+            "90000_short": "Token",
+            "10000_long": "Basic",
+            "10000_short": "Basic",
+            "10001_long": "Standard Card Pack",
+            "10001_short": "Standard",
+            "10002_long": "Darkness Evolved",
+            "10002_short": "Darkness"
+        },
+        "Chs": {
+            "90000_long": "90000_long",
+            "90000_short": "90000_short",
+            "10000_long": "10000_long",
+            "10000_short": "10000_short",
+            "10001_long": "10001_long",
+            "10001_short": "10001_short",
+            "10002_long": "10002_long",
+            "10002_short": "10002_short"
+        }
+    }
+}
