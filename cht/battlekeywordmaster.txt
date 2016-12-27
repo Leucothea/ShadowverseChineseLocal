@@ -66,7 +66,7 @@
   "Battle_keyword_Title_0065": "終段詛咒",
   "Battle_keyword_Title_0066": "騎士",
   "Battle_keyword_Title_0067": "重甲騎士",
-  "Battle_keyword_Title_0068": "重甲騎士",
+  "Battle_keyword_Title_0068": "鋼鐵騎士",
   "Battle_keyword_Title_0069": "海賊",
   "Battle_keyword_Title_0070": "維京武士",
   "Battle_keyword_Title_0071": "前將軍副官",
