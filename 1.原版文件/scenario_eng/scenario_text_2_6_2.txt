@@ -1,0 +1,3 @@
+"dummy"
+"Text_01","Princess..."
+"Text_02","I will destroy you!"

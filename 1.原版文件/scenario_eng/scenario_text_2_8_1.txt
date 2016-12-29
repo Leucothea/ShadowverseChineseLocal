@@ -1,0 +1,7 @@
+"dummy"
+"Text_01","(It's him!)"
+"Text_02","Urias Formonde, adversary to the crown!"
+"Text_03","Hm?"
+"Text_04","You have breathed your last."
+"Text_05","...! Though you are weak, you are passionate. "
+"Text_06","Let us fight."

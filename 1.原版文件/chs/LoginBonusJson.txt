@@ -1,0 +1,28 @@
+{
+  "LoginBonusJson": {
+    "Jpn": {
+      "LoginBonus_0001": "獲得済み",
+      "LoginBonus_0002": "次回は {0}×{1} が獲得できます",
+      "LoginBonus_0003": "キャンペーン期間 : {0}",
+      "LoginBonus_0004": "NEXT"
+    },
+    "Eng": {
+      "LoginBonus_0001": "Received",
+      "LoginBonus_0002": "Next time: {0} x{1}",
+      "LoginBonus_0003": "Promotion: {0}",
+      "LoginBonus_0004": "NEXT"
+    },
+    "Chs": {
+      "LoginBonus_0001": "已获得",
+      "LoginBonus_0002": "LoginBonus_0002 {0} {1}",
+      "LoginBonus_0003": "LoginBonus_0003 {0}",
+      "LoginBonus_0004": "LoginBonus_0004"
+    },
+    "Kor": {
+      "LoginBonus_0001": "획득 완료",
+      "LoginBonus_0002": "다음 보상 : {0}×{1}",
+      "LoginBonus_0003": "캠페인 기간 : {0}",
+      "LoginBonus_0004": "NEXT"
+    }
+  }
+}

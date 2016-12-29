@@ -1,0 +1,52 @@
+{
+  "sleeveproducttextmaster": {
+    "Jpn": {
+      "sleeve_1": "神撃のバハムート 1～2",
+      "sleeve_2": "神撃のバハムート 3～5",
+      "sleeve_3": "スリーブ３",
+      "sleeve_4": "スリーブ４",
+      "sleeve_5": "スリーブ５",
+      "sleeve_6": "スリーブ６",
+      "sleeve_7": "グランブルーファンタジー 1～3",
+      "sleeve_8": "グランブルーファンタジー 4～6",
+      "sleeve_9": "アイドルマスターシンデレラガールズ 1～3",
+      "sleeve_10": "アイドルマスターシンデレラガールズ 4～6"
+    },
+    "Eng": {
+      "sleeve_1": "Rage of Bahamut 1-2 Set",
+      "sleeve_2": "Rage of Bahamut 3-5 Set",
+      "sleeve_3": "Sleeve 3",
+      "sleeve_4": "Sleeve 4",
+      "sleeve_5": "Sleeve 5",
+      "sleeve_6": "Sleeve 6",
+      "sleeve_7": "Granblue Fantasy 1-3 Set",
+      "sleeve_8": "Granblue Fantasy 4-6 Set",
+      "sleeve_9": "sleeve_9",
+      "sleeve_10": "sleeve_10"
+    },
+    "Chs": {
+      "sleeve_1": "巴哈姆特之怒 1-2",
+      "sleeve_2": "巴哈姆特之怒 3-5",
+      "sleeve_3": "卡套3",
+      "sleeve_4": "卡套4",
+      "sleeve_5": "卡套5",
+      "sleeve_6": "卡套6",
+      "sleeve_7": "碧蓝幻想 1-3",
+      "sleeve_8": "碧蓝幻想 4-6",
+      "sleeve_9": "sleeve_9",
+      "sleeve_10": "sleeve_10"
+    },
+    "Kor": {
+      "sleeve_1": "바하무트 : 배틀 오브 레전드 1~2",
+      "sleeve_2": "바하무트 : 배틀 오브 레전드 3~5",
+      "sleeve_3": "카드뒷면 3",
+      "sleeve_4": "카드뒷면 4",
+      "sleeve_5": "카드뒷면 5",
+      "sleeve_6": "카드뒷면 6",
+      "sleeve_7": "그랑블루 판타지 1~3",
+      "sleeve_8": "그랑블루 판타지 4~6",
+      "sleeve_9": "아이돌 마스터 신데렐라 걸즈 1~3",
+      "sleeve_10": "아이돌 마스터 신데렐라 걸즈 4~6"
+    }
+  }
+}

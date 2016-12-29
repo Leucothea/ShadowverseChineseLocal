@@ -1,0 +1,7 @@
+"dummy"
+"Text_01","[ROAR]"
+"Text_02","They change shape..."
+"Text_03","(Any one of them could be pretending to be me.)"
+"Text_04","(Don't know what'll happen if I go home.)"
+"Text_05","(But I can imagine what will happen if I don't.)"
+"Text_06","Time to get moving."

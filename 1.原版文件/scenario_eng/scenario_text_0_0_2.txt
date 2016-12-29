@@ -1,0 +1,5 @@
+"dummy"
+"Text_01","Arisa!"
+"Text_02","Losaria!"
+"Text_03","Give her back!"
+"Text_04","[ROAR]"

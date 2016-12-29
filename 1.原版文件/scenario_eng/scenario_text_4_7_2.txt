@@ -1,0 +1,4 @@
+"dummy"
+"Text_01","[ROAR]"
+"Text_02","[ROAR]"
+"Text_03","May your despair become your liberation."

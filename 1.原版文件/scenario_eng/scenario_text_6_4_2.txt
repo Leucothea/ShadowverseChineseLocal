@@ -1,0 +1,7 @@
+"dummy"
+"Text_01","[ROAR]"
+"Text_02","You are by no means feeble..."
+"Text_03","But you do not hunger for battle."
+"Text_04","Nor do you thirst after victory."
+"Text_05","Begone."
+"Text_06","I am truly alone..."

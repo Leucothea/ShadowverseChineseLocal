@@ -1,0 +1,20 @@
+{
+  "leaderskinseriestextmaster": {
+    "Jpn": {
+      "LSSI_神撃のバハムート": "神撃のバハムートのリーダースキンです。\n\nリーダースキンはプロフィール画面で変更できます。",
+      "LSSSN_神撃のバハムート": "神撃のバハムートリーダースキンセット"
+    },
+    "Eng": {
+      "LSSI_神撃のバハムート": "Rage of Bahamut Leaders\n\nYou can change leaders on the Profile screen.",
+      "LSSSN_神撃のバハムート": "Rage of Bahamut Leader Pack"
+    },
+    "Chs": {
+      "LSSI_神撃のバハムート": "LSSI_神撃のバハムート",
+      "LSSSN_神撃のバハムート": "LSSSN_神撃のバハムート"
+    },
+    "Kor": {
+      "LSSI_神撃のバハムート": "바하무트 : 배틀 오브 레전드의 리더스킨입니다.\n\n리더스킨은 프로필 화면에서 변경할 수 있습니다.",
+      "LSSSN_神撃のバハムート": "바하무트 : 배틀 오브 레전드 리더스킨 세트"
+    }
+  }
+}

@@ -1,0 +1,6 @@
+"dummy"
+"Text_01","Only time remains..."
+"Text_02","This is a nightmare."
+"Text_03","(I don't understand what's going on.)"
+"Text_04","(Those creatures could only bring more suffering.)"
+"Text_05","(I have to figure out how to stop this.)"

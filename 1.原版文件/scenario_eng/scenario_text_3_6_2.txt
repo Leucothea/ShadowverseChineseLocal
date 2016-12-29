@@ -1,0 +1,8 @@
+"dummy"
+"Text_01","[ROAR]"
+"Text_02","Why are you still moving?"
+"Text_03","Just hurry up and die!"
+"Text_04","Finally..."
+"Text_05","I can't allow those beasts to keep interfering with my research."
+"Text_06","I'll have to take the fight to them."
+"Text_07","Their marks suggest they nest near the Morning Star..."

@@ -1,0 +1,7 @@
+"dummy"
+"Text_01","(What's going on?)"
+"Text_02","(The Morning Star... These creatures... I don't know what to make of them.)"
+"Text_03","[ROAR]"
+"Text_04","Another one!"
+"Text_05","......"
+"Text_06","Who is that?"

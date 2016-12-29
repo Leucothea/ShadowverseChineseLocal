@@ -1,0 +1,5 @@
+"dummy"
+"Text_01","[ROAR]"
+"Text_02","You're not so strong."
+"Text_03","But why did you attack Losaria and me?"
+"Text_04","Argh! There's no time! I've got to save Losaria!"
