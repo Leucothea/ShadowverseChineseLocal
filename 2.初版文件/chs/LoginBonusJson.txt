@@ -1,0 +1,6 @@
+{
+      "LoginBonus_0001": "已获得",
+      "LoginBonus_0002": "下回获得 : {0}×{1}",
+      "LoginBonus_0003": "活动期间 : {0}",
+      "LoginBonus_0004": "NEXT"
+}
