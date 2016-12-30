@@ -1,0 +1,17 @@
+{
+      "Ranking_0001_Menu": "对战积分",
+      "Ranking_0001_Header": "对战积分排行榜",
+      "Ranking_0002_Menu": "大师级积分",
+      "Ranking_0002_Header": "大师级积分排行榜",
+      "Ranking_0003_Menu": "排位胜利数",
+      "Ranking_0003_Header": "排位胜利数排行榜",
+      "Ranking_0004_Menu": "竞技场胜利数",
+      "Ranking_0004_Header": "竞技场胜利数排行榜",
+      "Ranking_0101": "胜",
+      "Ranking_0102": "pt",
+      "Ranking_0201": "※战绩需要一定时间才能更新至排行榜。",
+      "Ranking_0202": "排行榜统计中",
+      "Ranking_0301": "上赛季",
+      "Ranking_0302": "本赛季",
+      "Ranking_0303": "赛季"
+}
