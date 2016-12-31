@@ -12,7 +12,7 @@
       "OtherFriend_0011": "全部取消",
       "OtherFriend_0012": "移除",
       "OtherFriend_0013": "全部取消",
-      "OtherFriend_0014": "登录",
+      "OtherFriend_0014": "通过",
       "OtherFriend_0015": "确认移除此好友吗？",
       "OtherFriend_0016": "拒绝此好友申请吗？",
       "OtherFriend_0017": "拒绝全部好友申请吗？",
