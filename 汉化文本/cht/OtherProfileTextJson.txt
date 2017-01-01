@@ -5,7 +5,7 @@
       "Profile_0004": "變更頭像",
       "Profile_0005": "變更國旗",
       "Profile_0006": "變更稱號",
-      "Profile_0007": "改名",
+      "Profile_0007": "變更姓名",
       "Profile_0008": "玩家ID",
       "Profile_0009": "複製",
       "Profile_0010": "對戰積分",
