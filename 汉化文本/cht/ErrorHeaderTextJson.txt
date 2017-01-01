@@ -252,5 +252,5 @@
       "ErrorHeader_10004": "牌組代碼出錯",
       "ErrorHeader_10005": "牌組代碼出錯",
       "ErrorHeader_20001": "對戰重連出錯",
-      "ErrorHeader_20002": "關於回到對戰功能"
+      "ErrorHeader_20002": "關于回到對戰功能"
 }
