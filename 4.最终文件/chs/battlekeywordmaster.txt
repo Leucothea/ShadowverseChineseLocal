@@ -1,6 +1,4 @@
 {
-  "battlekeywordmaster": {
-    "Jpn": {
       "Battle_keyword_Title_0001": "战吼",
       "Battle_keyword_Title_0002": "亡语",
       "Battle_keyword_Title_0003": "进化时",
@@ -345,3 +343,4 @@
       "Battle_keyword_0170": "消耗为3的随从\n2/2\n战吼 随机将牌组中1张消耗为2的牌置入手牌。\n(进化后)\n4/4",
       "Battle_keyword_0171": "消耗为2的随从\n2/2\n亡语 将1张「诡异胡萝卜」置入手牌。\n(进化后)\n4/4\n亡语 将1张「诡异胡萝卜」置入手牌。",
       "Battle_keyword_0172": "消耗为5的随从\n13/13\n(进化后)\n15/15"
+}
