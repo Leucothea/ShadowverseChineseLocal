@@ -1,5 +1,0 @@
-"dummy"
-"Text_01","Mother... Father... Where are you?"
-"Text_02","How could she do this to someone so innocent?"
-"Text_03","I must show the impostor that she is wrong."
-"Text_04","Whoever she is, I must stop her before it is too late!"

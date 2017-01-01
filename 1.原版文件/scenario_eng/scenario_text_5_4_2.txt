@@ -1,7 +1,0 @@
-"dummy"
-"Text_01","[ROAR]"
-"Text_02","Aww... I wanted to play with it some more."
-"Text_03","（You did a great job, Luna.）"
-"Text_04","（Your mother and I had a lot of fun, too.）"
-"Text_05","Hehe. Thanks!"
-"Text_06","I hope we can do that to a real person next!"

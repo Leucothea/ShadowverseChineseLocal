@@ -1,7 +1,0 @@
-"dummy"
-"Text_01","Losaria? What's going on?"
-"Text_02","No longer doth this vessel hold her mind."
-"Text_03","No, that can't be! Losaria, you've got to be in there!"
-"Text_04","Fear not. On the other side, all pain is forgotten."
-"Text_05","I don't know who you are, but I will get Losaria back!"
-"Text_06","Wait. What is this? No!"

@@ -1,8 +1,0 @@
-"dummy"
-"Text_01","(This all has to be connected.)"
-"Text_02","(The vampire, the creatures, the Morning Star, the curse...)"
-"Text_03","(This damn curse goes if it's the last thing I do.)"
-"Text_04","[ROAR]"
-"Text_05","I'm going to tear you apart!"
-"Text_06","(There's no else one to hurt out here...)"
-"Text_07","[ROAR]"

@@ -1,6 +1,0 @@
-"dummy"
-"Text_01","[ROAR]"
-"Text_02","Huh! You are but a pale imitation."
-"Text_03","Indeed, this world is barren."
-"Text_04","My strength has made me an exile twice over."
-"Text_05","Try to destroy me, beasts..."

@@ -1,7 +1,0 @@
-"dummy"
-"Text_01","[ROAR]"
-"Text_02","That should do it..."
-"Text_03","It's got the mark of the Morning Star on it."
-"Text_04","That can't be the only one of them."
-"Text_05","Rachel and Natalie could be in danger..."
-"Text_06","I can't hide here any longer."

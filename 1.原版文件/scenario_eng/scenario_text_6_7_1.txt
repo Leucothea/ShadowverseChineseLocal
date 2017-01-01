@@ -1,8 +1,0 @@
-"dummy"
-"Text_01","(The thrill of true contest and the threat of defeat…)"
-"Text_02","(Perhaps soon I will know these again.)"
-"Text_03","[ROAR]"
-"Text_04","Away! You cannot contend with me."
-"Text_05","Well, your form is most intimidating..."
-"Text_06","This may be the worthy opponent I seek."
-"Text_07","Time to battle!"

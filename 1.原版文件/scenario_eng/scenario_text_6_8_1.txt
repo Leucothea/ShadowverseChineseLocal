@@ -1,8 +1,0 @@
-"dummy"
-"Text_01","The Morning Star..."
-"Text_02","Indeed it is extraordinary."
-"Text_03","Urias Formonde, adversary to the crown!"
-"Text_04","Hm?"
-"Text_05","You have breathed your last."
-"Text_06","...! Though you are weak, you are passionate. "
-"Text_07","Let us fight."
