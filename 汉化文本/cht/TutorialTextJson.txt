@@ -3,7 +3,7 @@
       "Tutorial_0002": "真開心哇！",
       "Tutorial_0003": "教程信息3",
       "Tutorial_0004": "場景{0}",
-      "Tutorial_0005": "亞裡莎",
+      "Tutorial_0005": "亞里莎",
       "Tutorial_0006": "場景{0}",
       "Tutorial_0007": "教程",
       "Tutorial_0008": "跳過教程",
