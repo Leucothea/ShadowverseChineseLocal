@@ -1,6 +1,6 @@
 {
       "OtherTop_0001": "个人信息",
-      "OtherTop_0002": "排行",
+      "OtherTop_0002": "排行榜",
       "OtherTop_0003": "设定",
       "OtherTop_0004": "继承",
       "OtherTop_0005": "好友",

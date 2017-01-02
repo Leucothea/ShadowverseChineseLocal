@@ -1,6 +1,6 @@
 {
       "OtherTop_0001": "個人資訊",
-      "OtherTop_0002": "排行",
+      "OtherTop_0002": "排行榜",
       "OtherTop_0003": "設定",
       "OtherTop_0004": "繼承",
       "OtherTop_0005": "好友",
