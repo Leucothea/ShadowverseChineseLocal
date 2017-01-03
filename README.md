@@ -36,7 +36,7 @@ pCloud：http://pc.cd/AJ8otalK<br><br><br><br>
 -----
 1、进入网盘内“Mac版”下载适合自己的简体或繁体压缩包。<br>
 
-2、解压里面的两个DLL文件夹到Shadowverse\Shadowverse_Data\Managed覆盖原文件即可。<br>
+2、解压里面的两个DLL文件夹到Shadowverse>Contents>Resources>Data>Managed覆盖原文件即可。<br>
 
 3、卸载方法：验证游戏完整性。若补丁今后有更新直接下载新的覆盖即可，无需先卸载再覆盖。<br><br><br><br>
 
