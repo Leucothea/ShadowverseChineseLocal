@@ -1,4 +1,4 @@
-暗影之诗 Shadowverse 安卓+PC+Mac简繁汉化补丁 v4.1
+暗影之诗 Shadowverse 安卓+PC+Mac简繁汉化补丁 v4.2
 =====
 汉化：淺夏 <http://steam.pm/id/fylab><br>
 　　　岚兮雨汐 <http://steam.pm/4cxrww><br>
@@ -22,11 +22,11 @@ pCloud：http://pc.cd/AJ8otalK<br><br><br><br>
 
 【PC安装方法】
 -----
-★★★注意：从v4.0升级v4.1必须先按3卸载之后再安装，切记！<br>
+★★★注意：1月5日官方更新v1.4.2，大家更新好游戏版本后第一次打补丁直接打不要先按3卸载了，切记！<br>
 
-1、确保游戏当前没有打过任何补丁且您使用的不是自带暗影之诗游戏扩展包的代理软件。<br>
+1、确保游戏当前没有打过任何补丁。<br>
 
-2、解压ShadowverseLangPatch_v4.1到游戏根目录执行即可，输入1是简体、2是繁体。<br>
+2、解压ShadowverseLangPatch_v4.2到游戏根目录执行即可，输入1是简体、2是繁体。<br>
 
 3、卸载方法：运行程序按3。且今后安装新版补丁之前必须先卸载再安装，切不可反复重打。<br><br><br><br>
 
@@ -38,7 +38,7 @@ pCloud：http://pc.cd/AJ8otalK<br><br><br><br>
 
 2、解压里面的两个DLL文件夹到Shadowverse>Contents>Resources>Data>Managed覆盖原文件即可。<br>
 
-3、卸载方法：验证游戏完整性。若补丁今后有更新直接下载新的覆盖即可，无需先卸载再覆盖。<br><br><br><br>
+3、卸载方法：验证游戏完整性。若补丁今后有更新直接下载新的覆盖即可，无需先验证再覆盖。<br><br><br><br>
 
 
 
@@ -54,8 +54,8 @@ pCloud：http://pc.cd/AJ8otalK<br><br><br><br>
 
 【手工制作安卓安装包】
 -----
-先把官方日文版或英文版APK弄到手（500+M那种不用下载缓存的大APK不行！），<br>
-然后把APK文件拖拽到ShadowverseLangPatch_v4.1上松手即可（如果有报错但是APK已经生成，也算制作成功）。<br>
+先把官方日文版或英文版APK弄到手（600+M那种不用下载缓存的大APK不行！），<br>
+然后把APK文件拖拽到ShadowverseLangPatch_v4.2上松手即可（如果有报错但是APK已经生成，也算制作成功）。<br>
 他会自动生成一个带_unsign后缀的APK，然后自行签名该APK，手机和电脑上都有很多签名软件，任意一款即可。
 签名之后传到手机上就能装了（覆盖安装失败的话卸掉原版再装）。<br><br><br><br>
 
@@ -71,4 +71,4 @@ NGA：http://bbs.ngacn.cc/read.php?tid=10709138<br><br><br><br>
 
 
 
-2017/01/03 Updated<br>
+2017/01/05 Updated<br>
