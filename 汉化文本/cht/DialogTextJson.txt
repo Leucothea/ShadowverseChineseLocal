@@ -67,7 +67,7 @@
       "Dia_DeckSelect_001_Title": "確認",
       "Dia_DeckSelect_002_Title": "牌數不足",
       "Dia_DeckSelect_003_Title": "牌數過多",
-      "Dia_DeckSelect_002_Button": "移動",
+      "Dia_DeckSelect_002_Button": "編輯",
       "Dia_BuyCrystal_001_Button": "確定",
       "Dia_BuyCrystal_002_Button": "登録",
       "Dia_BuyCrystal_003_Title": "確認",
