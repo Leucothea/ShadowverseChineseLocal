@@ -66,8 +66,7 @@ pCloud：http://pc.cd/AJ8otalK<br><br><br><br>
 QQ群：550817506<br>
 Steam指南：http://steamcommunity.com/sharedfiles/filedetails/?id=796814505<br>
 贴吧：http://tieba.baidu.com/p/4923676607<br>
-GitHub（在这里可以看到我们的汉化进度哦~）：https://github.com/Leucothea/ShadowverseChineseLocal<br>
-NGA：http://bbs.ngacn.cc/read.php?tid=10709138<br><br><br><br>
+GitHub：您现在所在的位置(´･ω･`)<br><br><br><br>
 
 
 
