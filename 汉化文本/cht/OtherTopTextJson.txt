@@ -27,5 +27,5 @@
       "OtherTop_0030": "Shadowverse資料站",
       "OtherTop_0031": "官方網站",
       "OtherTop_0032": "選擇語言",
-      "OtherTop_0033": "重播"
+      "OtherTop_0033": "回放"
 }
