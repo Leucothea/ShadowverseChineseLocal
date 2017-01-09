@@ -40,7 +40,7 @@
       "Dia_CardList_003_Button": "製作",
       "Dia_DeckEdit_013_Title": "無法編輯牌組",
       "Dia_DeckEdit_013_Body": "參加大會後，就無法再編輯牌組。",
-      "Dia_BuySleeve_001_Title": "購買牌套",
+      "Dia_BuySleeve_001_Title": "購買牌背",
       "Dia_BuySleeve_002_Title": "水晶不足",
       "Dia_BuySleeve_002_Button": "購買",
       "Dia_BuySleeve_003_Title": "套裝詳情",

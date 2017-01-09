@@ -31,7 +31,7 @@
       "Scenario_0001": "菜單",
       "Scenario_0002": "記録",
       "Scenario_0003": "跳過",
-      "Scenario_0004": "→",
+      "Scenario_0004": "繼續",
       "Scenario_0005": "AUTO",
       "Scenario_0006": "概要",
       "Scenario_0007": "選擇章節",
