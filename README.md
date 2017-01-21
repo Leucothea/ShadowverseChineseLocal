@@ -1,4 +1,4 @@
-暗影之诗 Shadowverse 安卓+PC+Mac简繁汉化补丁 v4.2
+﻿暗影之诗 Shadowverse 安卓+PC+Mac简繁汉化补丁 v4.2
 =====
 汉化：淺夏 <http://steam.pm/id/fylab><br>
 　　　岚兮雨汐 <http://steam.pm/4cxrww><br>
@@ -66,7 +66,8 @@ pCloud：http://pc.cd/AJ8otalK<br><br><br><br>
 QQ群：550817506<br>
 Steam指南：http://steamcommunity.com/sharedfiles/filedetails/?id=796814505<br>
 贴吧：http://tieba.baidu.com/p/4923676607<br>
-GitHub：您现在所在的位置(´･ω･`)<br><br><br><br>
+GitHub：您现在所在的位置(´･ω･`)
+巴哈哈拉版：https://forum.gamer.com.tw/C.php?bsn=29330&snA=2130<br><br><br><br>
 
 
 
