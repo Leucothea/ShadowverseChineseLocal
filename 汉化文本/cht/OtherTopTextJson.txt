@@ -8,7 +8,7 @@
       "OtherTop_0007": "諮詢",
       "OtherTop_0009": "隱私保護",
       "OtherTop_0010": "使用條款",
-      "OtherTop_0012": "視頻録影設定",
+      "OtherTop_0012": "視頻録像設定",
       "OtherTop_0014": "其它",
       "OtherTop_0015": "相關連結",
       "OtherTop_0017": "下載數據",
