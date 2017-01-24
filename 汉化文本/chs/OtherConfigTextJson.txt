@@ -29,7 +29,7 @@
       "OtherConfig_0028": "显示预测提示",
       "OtherConfig_0029": "开",
       "OtherConfig_0030": "关",
-      "OtherConfig_0031": "显示角色动画",
+      "OtherConfig_0031": "显示英雄动画",
       "OtherConfig_0032": "开",
       "OtherConfig_0033": "关",
       "OtherConfig_0034": "分辨率",
