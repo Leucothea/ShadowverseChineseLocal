@@ -15,7 +15,7 @@
       "OtherConfig_0014": "自動翻頁",
       "OtherConfig_0015": "開",
       "OtherConfig_0016": "關",
-      "OtherConfig_0017": "聲音",
+      "OtherConfig_0017": "開啓聲音",
       "OtherConfig_0018": "打開",
       "OtherConfig_0019": "靜音",
       "OtherConfig_0020": "正常",

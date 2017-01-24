@@ -15,7 +15,7 @@
       "OtherConfig_0014": "自动阅读",
       "OtherConfig_0015": "开",
       "OtherConfig_0016": "关",
-      "OtherConfig_0017": "声音",
+      "OtherConfig_0017": "开启声音",
       "OtherConfig_0018": "打开",
       "OtherConfig_0019": "静音",
       "OtherConfig_0020": "正常",
