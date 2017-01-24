@@ -32,7 +32,7 @@
       "OtherConfig_0031": "顯示角色動畫",
       "OtherConfig_0032": "開",
       "OtherConfig_0033": "關",
-      "OtherConfig_0034": "分辨率",
+      "OtherConfig_0034": "解析度",
       "OtherConfig_0035": "全屏",
       "OtherConfig_0036": "後臺時開啓聲音",
       "OtherConfig_0037": "接受好友的私人對戰邀請",

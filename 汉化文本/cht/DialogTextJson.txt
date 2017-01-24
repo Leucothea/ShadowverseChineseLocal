@@ -9,7 +9,7 @@
       "Dia_Tutorial_001_Button": "跳過",
       "Dia_Title_001_Button": "完成",
       "Dia_Title_002_Button": "結束",
-      "Dia_Web_001_Button": "跳轉",
+      "Dia_Web_001_Button": "打開",
       "Dia_ChapterSelect_001_Button": "劇本",
       "Dia_Arena_001_Title": "進入雙選模式",
       "Dia_Arena_002_Button": "重新連接",
