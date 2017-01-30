@@ -6,17 +6,17 @@
             Regex regex2 = new Regex("Evolve followers (.+?) times(.+)");
             str = regex2.Replace(str, "进化随从$1次(私人对战除外)");
             Regex regex6 = new Regex(@"Win (.+?) ranked match[e]?[s]? as (.+?)\b");
-            str = regex6.Replace(str, "用$2赢$1场天梯");
+            str = regex6.Replace(str, "用$2赢$1场天梯模式");
             Regex regex7 = new Regex(@"Win (.+?) unranked match[e]?[s]? as (.+?)\b");
             str = regex7.Replace(str, "用$2赢$1场自由对战");
             Regex regex8 = new Regex(@"Win (.+?) Take Two match[e]?[s]? as (.+?)\b");
-            str = regex8.Replace(str, "用$2赢$1场双选");
+            str = regex8.Replace(str, "用$2赢$1场双选模式");
             Regex regex9 = new Regex("Win (.+?) ranked matche[e]?[s]?");
-            str = regex9.Replace(str, "赢$1场天梯");
+            str = regex9.Replace(str, "赢$1场天梯模式");
             Regex regex10 = new Regex("Win (.+?) unranked matche[e]?[s]?");
             str = regex10.Replace(str, "赢$1场自由对战");
             Regex regex11 = new Regex("Win (.+?) Take Two matche[e]?[s]?");
-            str = regex11.Replace(str, "赢$1场双选");
+            str = regex11.Replace(str, "赢$1场双选模式");
             Regex regex12 = new Regex("Win (.+?) Private matche[e]?[s]?");
             str = regex12.Replace(str, "赢$1场私人对战");
             Regex regex4 = new Regex(@"Win (.+?) match[e]?[s]? as (.+?)\b");
@@ -36,10 +36,10 @@
             str = str.Replace("Bloodcraft", "血族");
             str = str.Replace("Havencraft", "主教");
             //最后替换没什么用的东西
-            str = str.Replace("Ranked", "天梯");
+            str = str.Replace("Ranked", "天梯模式");
             str = str.Replace("Unranked", "自由对战");
             str = str.Replace("or ", "或者");
-            str = str.Replace("Take Two", "双选");
+            str = str.Replace("Take Two", "双选模式");
             str = str.Replace("Link Shadowverse with another service", "绑定Google或者Facebook");
             str = str.Replace("Clear seven leaders' stories", "通关全部7位英雄的主线剧情");
             return str;
@@ -53,11 +53,11 @@
             Regex regex3 = new Regex(@"進化を(.+?)回する\(ルームマッチを除く\)");
             str = regex3.Replace(str, "进化随从$1次(私人对战除外)");
             Regex regex9 = new Regex("ランクマッチで(.+?)勝する");
-            str = regex9.Replace(str, "赢$1场天梯");
+            str = regex9.Replace(str, "赢$1场天梯模式");
             Regex regex10 = new Regex("フリーマッチで(.+?)勝する");
             str = regex10.Replace(str, "赢$1场自由对战");
             Regex regex11 = new Regex("2Pickで(.+?)勝する");
-            str = regex11.Replace(str, "赢$1场双选");
+            str = regex11.Replace(str, "赢$1场双选模式");
             Regex regex12 = new Regex("ルームマッチで(.+?)勝する");
             str = regex12.Replace(str, "赢$1场私人对战");
             Regex regex5 = new Regex("バトルで(.+?)勝する");
@@ -75,10 +75,10 @@
             str = str.Replace("ヴァンパイア", "血族");
             str = str.Replace("ビショップ", "主教");
             //最后替换没什么用的东西
-            str = str.Replace("ランクマッチ", "天梯");
+            str = str.Replace("ランクマッチ", "天梯模式");
             str = str.Replace("フリーマッチ", "自由对战");
             str = str.Replace("か", "或者");
-            str = str.Replace("2Pick", "双选");
+            str = str.Replace("2Pick", "双选模式");
             str = str.Replace("アカウント連携をする", "绑定Google或者Facebook");
             str = str.Replace("にする", "级");
             str = str.Replace("ランクに", "天梯等级");
