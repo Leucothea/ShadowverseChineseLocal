@@ -46,5 +46,12 @@
       "OtherConfig_0045": "帧数",
       "OtherConfig_0046": "30 FPS",
       "OtherConfig_0047": "60 FPS",
-      "OtherConfig_0048": "舞台"
+      "OtherConfig_0048": "舞台",
+      "OtherConfig_0049": "使用卡牌",
+      "OtherConfig_0050": "随从进化",
+      "OtherConfig_0051": "卡牌信息展示",
+      "OtherConfig_0052": "点击滑轮",
+      "OtherConfig_0053": "长按左键",
+      "OtherConfig_0054": "鼠标悬停",
+      "OtherConfig_0055": "卡牌信息窗口尺寸"
 }

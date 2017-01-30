@@ -8,7 +8,7 @@
       "OtherFriend_0007": "最後登録",
       "OtherFriend_0008": "{0}分鐘前",
       "OtherFriend_0009": "{0}小時前",
-      "OtherFriend_0010": "{0}日前",
+      "OtherFriend_0010": "{0}天前",
       "OtherFriend_0011": "全部取消",
       "OtherFriend_0012": "移除",
       "OtherFriend_0013": "全部取消",

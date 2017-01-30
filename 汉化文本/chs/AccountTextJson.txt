@@ -66,7 +66,7 @@
       "Account_0065": "请输入继承代码以进行数据继承。",
       "Account_0066": "使用Game Center帐号\n进行继承",
       "Account_0067": "使用Google Play帐号\n进行继承",
-      "Account_0068": "使用FaceBook帐号\n进行继承",
+      "Account_0068": "使用Facebook帐号\n进行继承",
       "Account_0069": "确认隐私权保护",
       "Account_0070": "请确认并同意隐私权保护",
       "Account_0071": "发行继承代码",
