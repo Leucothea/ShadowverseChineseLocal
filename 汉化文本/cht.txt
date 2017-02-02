@@ -17,7 +17,7 @@
             str = regex10.Replace(str, "贏$1場自由對戰");
             Regex regex11 = new Regex("Win (.+?) Take Two matche[e]?[s]?");
             str = regex11.Replace(str, "贏$1場雙選模式");
-            Regex regex12 = new Regex("Win (.+?) Private matche[e]?[s]?");
+            Regex regex12 = new Regex("Win (.+?) Private Matche[e]?[s]?");
             str = regex12.Replace(str, "贏$1場私人對戰");
             Regex regex4 = new Regex(@"Win (.+?) match[e]?[s]? as (.+?)\b");
             str = regex4.Replace(str, "用$2贏$1場比賽");
