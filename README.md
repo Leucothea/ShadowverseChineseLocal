@@ -28,7 +28,7 @@
 【Mac安装方法】
 -----
 1、进入网盘内“Mac版”下载适合自己的简体或繁体压缩包。<br>
-2、右击Shadowverse，点“显示包内容”，依次进入Shadowverse>Contents>Resources>Data>Managed，解压压缩包内的两个DLL文件至此覆盖即可。<br>
+2、在Steam库中右击Shadowverse→属性→本地文件→浏览本地文件，再右击Shadowverse点“显示包内容”，依次进入Contents>Resources>Data>Managed，解压压缩包内的两个DLL文件至此覆盖即可。<br>
 3、卸载方法：验证游戏完整性。若补丁今后有更新直接下载新的覆盖即可，无需先验证再覆盖。<br><br><br><br>
 
 
