@@ -20,6 +20,7 @@
       "RoomBattle_0019": "房主已离开。",
       "RoomBattle_0020": "您已在该房间中。",
       "RoomBattle_0021": "进入房间失败",
+      "RoomBattle_0022": "已就绪",
       "RoomBattle_0023": "准备中",
       "RoomBattle_0024": "胜利数：{0}",
       "RoomBattle_0025": "解散房间",
