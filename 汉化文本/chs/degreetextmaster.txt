@@ -61,5 +61,8 @@
       "DEG_RAGE_vol.3_優勝": "RAGE vol.3 冠军",
       "DEG_RAGE_vol.3_準優勝": "RAGE vol.3 亚军",
       "DEG_RAGE_vol.3_3位": "RAGE vol.3 季军",
-      "DEG_JCG_OPEN_優勝_2nd_season": "JCG OPEN 第2赛季冠军"
+      "DEG_JCG_OPEN_優勝_2nd_season": "JCG OPEN 第2赛季冠军",
+	  "DEG_Famitsu_cup_優勝": "法米通杯冠军",
+      "DEG_Famitsu_cup_準優勝": "法米通杯亚军",
+      "DEG_Famitsu_cup_3位": "法米通杯季军"
 }

@@ -133,7 +133,7 @@
       "Con_Management_005_Body": "・提交的信息已经全部确认了，没有发送回信。\n・上述报告中包含了用户ID、操作系统信息、游戏版本、手机机型信息。\n　提交的信息在确认之前不可用。\n・如果有不明确的地方可以点击「咨询」按钮与我们联系。\n・如果想再次汇报信息，请在10分钟后重试。",
       "Con_Management_004_Button": "发送",
       "Con_Management_002_Title": "意见/问题反馈",
-      "Con_Management_005_Button": "输入内容确认",
+      "Con_Management_005_Button": "确认",
       "Con_Management_003_Title": "确认",
       "Con_Management_006_Body": "确认要发送输入的内容吗？",
       "Con_Management_007_Body": "发送完毕。\n谢谢您的合作。"

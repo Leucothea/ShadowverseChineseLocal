@@ -133,7 +133,7 @@
       "Con_Management_005_Body": "・提交的資訊已經全部確認了，沒有發送回信。\n・上述報告中包含了玩家ID、作業系統資訊、遊戲版本、手機機型資訊。\n　提交的資訊在確認之前不可用。\n・如果有不明確的地方可以點撃「諮詢」按鈕與我們聯繫。\n・如果想再次彙報資訊，請在10分鐘後重試。",
       "Con_Management_004_Button": "發送",
       "Con_Management_002_Title": "意見/問題回饋",
-      "Con_Management_005_Button": "輸入内容確認",
+      "Con_Management_005_Button": "確認",
       "Con_Management_003_Title": "確認",
       "Con_Management_006_Body": "確認要發送輸入的内容嘛？",
       "Con_Management_007_Body": "發送完畢。\n謝謝祢的合作。"
