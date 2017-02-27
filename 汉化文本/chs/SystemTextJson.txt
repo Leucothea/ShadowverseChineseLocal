@@ -42,7 +42,7 @@
       "System_0041": "语言将被切换为 {0} 。\n切换后将会下载新数据。",
       "System_0042": "English",
       "System_0043": "한국어",
-	  "System_0044": "{0}正在进行维护，更多信息请关注官方新闻。",
+      "System_0044": "{0}正在进行维护，更多信息请关注官方公告。",
       "System_TimeDateLong": "yyyy/MM/dd HH:mm",
       "System_TimeDateShort": "MM/dd HH:mm",
       "System_DateLong": "yyyy/MM/dd",
