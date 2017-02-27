@@ -106,5 +106,5 @@
       "EM_グラブル_オリヴィエ": "幽暗天使・奧莉維亞",
       "EM_グラブル_バハムート": "原初之竜・巴哈姆特",
       "EM_JCG_2nd_season": "JCG 第2賽季",
-	  "EM_Famitsu_cup": "Fami通杯"
+	  "EM_Famitsu_cup": "法米通杯"
 }
