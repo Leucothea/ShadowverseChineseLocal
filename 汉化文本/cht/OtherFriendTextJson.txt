@@ -28,7 +28,7 @@
       "OtherFriend_0027": "沒有找到玩家。\n請確認ID是否正確。",
       "OtherFriend_0028": "査詢",
       "OtherFriend_0029": "玩家ID",
-      "OtherFriend_0030": "玩家ID是可以在\n【個人資訊】中査詢的9位號碼。",
+      "OtherFriend_0030": "玩家ID是可以在\n「個人資訊」中査詢的9位號碼。",
       "OtherFriend_0031": "申請好友",
       "OtherFriend_0032": "申請",
       "OtherFriend_0033": "近期遊戲",

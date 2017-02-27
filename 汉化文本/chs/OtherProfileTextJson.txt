@@ -1,6 +1,6 @@
 {
       "Profile_0001": "战绩",
-      "Profile_0002": "姓名",
+      "Profile_0002": "名称",
       "Profile_0003": "称号",
       "Profile_0004": "变更头像",
       "Profile_0005": "变更国旗",
@@ -15,7 +15,7 @@
       "Profile_0014": "用户名已改为{0}。",
       "Profile_0015": "用户ID已复制。",
       "Profile_0016": "Page",
-      "Profile_0017": "不设定",
+      "Profile_0017": "不使用",
       "Profile_0018": "大师级菜单",
       "Profile_0019": "大师级等级",
       "Profile_0020": "大师级积分",

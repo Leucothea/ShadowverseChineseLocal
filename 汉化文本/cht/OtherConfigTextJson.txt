@@ -46,7 +46,7 @@
       "OtherConfig_0045": "幀數",
       "OtherConfig_0046": "30 FPS",
       "OtherConfig_0047": "60 FPS",
-      "OtherConfig_0048": "舞臺",
+      "OtherConfig_0048": "場景",
       "OtherConfig_0049": "使用手牌",
       "OtherConfig_0050": "隨從進化",
       "OtherConfig_0051": "牌資訊展示",

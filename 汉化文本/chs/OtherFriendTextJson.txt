@@ -28,7 +28,7 @@
       "OtherFriend_0027": "没有找到玩家。\n请确认ID是否正确。",
       "OtherFriend_0028": "查询",
       "OtherFriend_0029": "玩家ID",
-      "OtherFriend_0030": "玩家ID是可以在\n【个人信息】中查询的9位号码。",
+      "OtherFriend_0030": "玩家ID是可以在\n「个人信息」中查询的9位号码。",
       "OtherFriend_0031": "申请好友",
       "OtherFriend_0032": "申请",
       "OtherFriend_0033": "近期游戏",
