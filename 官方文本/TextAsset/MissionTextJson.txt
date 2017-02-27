@@ -44,7 +44,8 @@
       "Mission_0041": "ミッション開始まで\n{0}:{1}",
       "Mission_0042": "ミッションが更新されました。",
       "Mission_0043": "累積BP報酬の集計期間が切り替わりました。\n\n未受取の報酬はギフトから受け取れます。",
-      "Mission_0044": "累積BP報酬の集計期間外です。"
+      "Mission_0044": "累積BP報酬の集計期間外です。",
+      "Mission_0045": "新カードパックのリリース後に使用できます。"
     },
     "Eng": {
       "Mission_0001": "Missions",
@@ -90,7 +91,8 @@
       "Mission_0041": "{0}:{1} until the mission starts.",
       "Mission_0042": "A new mission is now available.",
       "Mission_0043": "The season has ended. Unclaimed rewards can be picked up from your crate.",
-      "Mission_0044": "Score Rewards are currently unavailable."
+      "Mission_0044": "Score Rewards are currently unavailable.",
+      "Mission_0045": "Available upon release of the upcoming card pack."
     },
     "Chs": {
       "Mission_0001": "任务",
@@ -136,7 +138,8 @@
       "Mission_0041": "离任务开始还有\n{0}:{1}",
       "Mission_0042": "任务已更新",
       "Mission_0043": "累计BP报酬的统计期间已切换。\n\n未领取的报酬可从礼物中领取。",
-      "Mission_0044": "Mission_0044"
+      "Mission_0044": "Mission_0044",
+      "Mission_0045": "Mission_0045"
     },
     "Kor": {
       "Mission_0001": "미션",
@@ -182,7 +185,55 @@
       "Mission_0041": "미션 개시까지\n{0}:{1}",
       "Mission_0042": "미션이 변경되었습니다.",
       "Mission_0043": "누적 BP 보상의 집계기간이 갱신되었습니다.\n\n보상은 선물함에서 수령하실 수 있습니다.",
-      "Mission_0044": "누적 BP 보상의 집계기간이 아닙니다."
+      "Mission_0044": "누적 BP 보상의 집계기간이 아닙니다.",
+      "Mission_0045": "신규 카드팩 출시 후에 사용 가능합니다."
+    },
+    "Cht": {
+      "Mission_0001": "任務",
+      "Mission_0003": "確認任務",
+      "Mission_0002": "成就",
+      "Mission_0007": "成就詳細內容",
+      "Mission_0008": "購買",
+      "Mission_0005": "購買任務欄位",
+      "Mission_0004": "解鎖追加欄位",
+      "Mission_0006": "增加任務承接上限\n是否使用[ffca45]{0}[-]購買追加欄位？",
+      "Mission_0009": "獎勵：",
+      "Mission_0010": "未達成",
+      "Mission_0011": "達成率",
+      "Mission_0012": "完成",
+      "Mission_0013": "請至任務介面領取\n獎勵",
+      "Mission_0014": "獎勵：{0}ｘ{1}個",
+      "Mission_0015": "放棄",
+      "Mission_0016": "離任務出現",
+      "Mission_0017": "達成度：{0}/{1}勝",
+      "Mission_0018": "消費水晶",
+      "Mission_0019": "[ffca45]{0}[-]個/{1}/日",
+      "Mission_0020": "到{0}為止\n任務追加。",
+      "Mission_0021": "已達成　{0}",
+      "Mission_0022": "達成度：",
+      "Mission_0023": "條件：",
+      "Mission_0024": "累積BP獎勵",
+      "Mission_0025": "獎勵詳細",
+      "Mission_0026": "計算期間",
+      "Mission_0027": "累積BP",
+      "Mission_0028": "累積BP:",
+      "Mission_0029": "變更",
+      "Mission_0030": "請問要變更{0}嗎？\n\n任務每21小時可變更1次。\n",
+      "Mission_0031": "每21小時可變更1次任務。離下次可變更時間{0}:{1}",
+      "Mission_0032": "",
+      "Mission_0033": "確認",
+      "Mission_0034": "請問要變更{0}嗎？\n\n任務每21小時可變更1次。\n",
+      "Mission_0035": "CLEAR",
+      "Mission_0036": "任務每21小時可變更1次。",
+      "Mission_0037": "{0}/",
+      "Mission_0038": "{0}BP",
+      "Mission_0039": "Complete!",
+      "Mission_0040": "已達成帳號連動的任務!\n※獎勵直接發送。",
+      "Mission_0041": "離任務開始\n{0}:{1}",
+      "Mission_0042": "任務已更新。",
+      "Mission_0043": "累積BP獎勵的計算期間已更新。\n\n未領取的獎勵可透過禮物介面領取。",
+      "Mission_0044": "現在非累積BP報酬的採計期間。",
+      "Mission_0045": "Mission_0045"
     }
   }
 }

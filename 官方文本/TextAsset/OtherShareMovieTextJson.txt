@@ -11,6 +11,9 @@
     },
     "Kor": {
       "OtherShareMovie_0001": "플레이 영상 공유"
+    },
+    "Cht": {
+      "OtherShareMovie_0001": "分享遊戲影片"
     }
   }
 }

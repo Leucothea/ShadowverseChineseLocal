@@ -63,7 +63,10 @@
       "DEG_RAGE_vol.3_優勝": "RAGE vol.3 優勝",
       "DEG_RAGE_vol.3_準優勝": "RAGE vol.3 準優勝",
       "DEG_RAGE_vol.3_3位": "RAGE vol.3 3位",
-      "DEG_JCG_OPEN_優勝_2nd_season": "JCG OPEN 優勝 2nd season"
+      "DEG_JCG_OPEN_優勝_2nd_season": "DEG_JCG_OPEN_優勝_2nd_season",
+      "DEG_Famitsu_cup_優勝": "ファミ通CUP 優勝",
+      "DEG_Famitsu_cup_準優勝": "ファミ通CUP 準優勝",
+      "DEG_Famitsu_cup_3位": "ファミ通CUP 3位"
     },
     "Eng": {
       "DEG_私だって戦えるんだから！": "Proving Myself",
@@ -128,7 +131,10 @@
       "DEG_RAGE_vol.3_優勝": "RAGE Champion",
       "DEG_RAGE_vol.3_準優勝": "RAGE 1st Runner-Up",
       "DEG_RAGE_vol.3_3位": "RAGE 2nd Runner-Up",
-      "DEG_JCG_OPEN_優勝_2nd_season": "JCG Open Champion 2nd season"
+      "DEG_JCG_OPEN_優勝_2nd_season": "degree_301211",
+      "DEG_Famitsu_cup_優勝": "Famitsu Cup 2017 Champion",
+      "DEG_Famitsu_cup_準優勝": "Famitsu Cup 2017 1st Runner-Up",
+      "DEG_Famitsu_cup_3位": "Famitsu Cup 2017 2nd Runner-Up"
     },
     "Chs": {
       "DEG_私だって戦えるんだから！": "我也能战斗！",
@@ -179,10 +185,10 @@
       "DEG_エンジョイ勢": "休闲玩家",
       "DEG_ガチ勢": "职业玩家",
       "DEG_二択の玄人": "双选高手",
-      "DEG_Master of Shadowverse": "影之诗主宰",
+      "DEG_Master of Shadowverse": "暗影次元主宰",
       "DEG_始まりに集いし者": "集结于最初者",
       "DEG_1st Season　覇者": "第一赛季霸主",
-      "DEG_しゃどばすチャンネラー": "影之诗频道用户",
+      "DEG_しゃどばすチャンネラー": "暗影次元频道用户",
       "DEG_至高のPick": "神之手",
       "DEG_理を外れし者": "超越法则者",
       "DEG_初級": "初级",
@@ -193,7 +199,10 @@
       "DEG_RAGE_vol.3_優勝": "RAGE冠军",
       "DEG_RAGE_vol.3_準優勝": "RAGE亚军",
       "DEG_RAGE_vol.3_3位": "RAGE季军",
-      "DEG_JCG_OPEN_優勝_2nd_season": "JCG OPEN冠军 2nd season"
+      "DEG_JCG_OPEN_優勝_2nd_season": "degree_301211",
+      "DEG_Famitsu_cup_優勝": "Famitsu Cup 2017 Champion",
+      "DEG_Famitsu_cup_準優勝": "Famitsu Cup 2017 1st Runner-Up",
+      "DEG_Famitsu_cup_3位": "Famitsu Cup 2017 2nd Runner-Up"
     },
     "Kor": {
       "DEG_私だって戦えるんだから！": "나도 싸울 수 있다구!",
@@ -258,7 +267,10 @@
       "DEG_RAGE_vol.3_優勝": "RAGE vol.3 우승",
       "DEG_RAGE_vol.3_準優勝": "RAGE vol.3 준우승",
       "DEG_RAGE_vol.3_3位": "RAGE vol.3 3위",
-      "DEG_JCG_OPEN_優勝_2nd_season": "JCG OPEN 우승 2nd season"
+      "DEG_JCG_OPEN_優勝_2nd_season": "degree_301211",
+      "DEG_Famitsu_cup_優勝": "Famitsu Cup 2017 Champion",
+      "DEG_Famitsu_cup_準優勝": "Famitsu Cup 2017 1st Runner-Up",
+      "DEG_Famitsu_cup_3位": "Famitsu Cup 2017 2nd Runner-Up"
     }
   }
 }

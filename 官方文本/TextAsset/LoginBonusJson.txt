@@ -14,14 +14,20 @@
     },
     "Chs": {
       "LoginBonus_0001": "已获得",
-      "LoginBonus_0002": "LoginBonus_0002 {0} {1}",
-      "LoginBonus_0003": "LoginBonus_0003 {0}",
-      "LoginBonus_0004": "LoginBonus_0004"
+      "LoginBonus_0002": "下次登入可获得 {0}×{1}",
+      "LoginBonus_0003": "登入活动期间 : {0}",
+      "LoginBonus_0004": "下一个"
     },
     "Kor": {
       "LoginBonus_0001": "획득 완료",
       "LoginBonus_0002": "다음 보상 : {0}×{1}",
       "LoginBonus_0003": "캠페인 기간 : {0}",
+      "LoginBonus_0004": "NEXT"
+    },
+    "Cht": {
+      "LoginBonus_0001": "已獲得",
+      "LoginBonus_0002": "下次登入禮可獲得 {0}×{1} ",
+      "LoginBonus_0003": "活動期間 : {0}",
       "LoginBonus_0004": "NEXT"
     }
   }

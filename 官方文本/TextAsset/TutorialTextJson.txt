@@ -47,6 +47,18 @@
       "Tutorial_0008": "튜토리얼 스킵",
       "Tutorial_0009": "이 대전을 스킵하시겠습니까?",
       "Tutorial_0010": "먼저 모험을 선택해 주시기 바랍니다."
+    },
+    "Cht": {
+      "Tutorial_0001": "蘿莎麗亞果然很厲害耶",
+      "Tutorial_0002": "好期待呀",
+      "Tutorial_0003": "新手教學信息３",
+      "Tutorial_0004": "Stage{0}",
+      "Tutorial_0005": "亞里莎",
+      "Tutorial_0006": "Stage{0}",
+      "Tutorial_0007": "新手教學",
+      "Tutorial_0008": "跳過新手教學",
+      "Tutorial_0009": "是否跳過此戰鬥？",
+      "Tutorial_0010": "請先選擇單人遊戲"
     }
   }
 }

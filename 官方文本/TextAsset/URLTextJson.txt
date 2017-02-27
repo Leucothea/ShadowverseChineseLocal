@@ -120,9 +120,9 @@
       "URL_0012_steam": "https://shadowverse.com/gameguide/",
       "URL_0013_steam": "https://shadowverse.com/faq/?fromapp",
       "URL_0014_steam": "https://shadowverse.com/ko/",
-      "URL_0015": "https://shadowverse.com/ko/",
+      "URL_0015": "https://zGqDTagRas.shadowverse.jp/shadowverse/information/withdrawal?lang=kor",
       "URL_0015_dmm": "/URL_0015_dmm/",
-      "URL_0015_steam": "https://steam.shadowverse.com/"
+      "URL_0015_steam": "https://shadowverse.com/ko/withdrawal"
     },
     "Cht": {
       "URL_0001": "URL_0001",

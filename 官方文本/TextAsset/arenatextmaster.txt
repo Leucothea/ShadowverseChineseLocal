@@ -11,9 +11,9 @@
       "Arena_Load_0003": "Choose how to enter."
     },
     "Chs": {
-      "Arena_Load_0001": "2Pick",
-      "Arena_Load_0002": "Arena_Load_0002",
-      "Arena_Load_0003": "Arena_Load_0003"
+      "Arena_Load_0001": "双选模式",
+      "Arena_Load_0002": "二张一组选择卡牌，做成30张牌的牌组，\n进行5次对战的特别对战模式。\n根据胜场可获得豪华报酬。",
+      "Arena_Load_0003": "需要以下入场费"
     },
     "Kor": {
       "Arena_Load_0001": "2Pick",
