@@ -30,7 +30,7 @@
             //替换人名
             str = str.Replace("Forestcraft", "精灵");
             str = str.Replace("Swordcraft", "皇室护卫");
-            str = str.Replace("Runecraft", "女巫");
+            str = str.Replace("Runecraft", "巫师");
             str = str.Replace("Dragoncraft", "龙");
             str = str.Replace("Shadowcraft", "死灵术士");
             str = str.Replace("Bloodcraft", "血族");
@@ -69,7 +69,7 @@
             //替换人名
             str = str.Replace("エルフ", "精灵");
             str = str.Replace("ロイヤル", "皇室护卫");
-            str = str.Replace("ウィッチ", "女巫");
+            str = str.Replace("ウィッチ", "巫师");
             str = str.Replace("ドラゴン", "龙");
             str = str.Replace("ネクロマンサー", "死灵术士");
             str = str.Replace("ヴァンパイア", "血族");
