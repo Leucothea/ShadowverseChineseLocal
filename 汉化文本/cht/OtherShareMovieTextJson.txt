@@ -1,3 +1,3 @@
 {
-      "OtherShareMovie_0001": "分享遊戲録影"
+      "OtherShareMovie_0001": "分享遊戲録像"
 }

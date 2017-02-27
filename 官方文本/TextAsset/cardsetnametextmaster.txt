@@ -1,0 +1,52 @@
+{
+  "cardsetnametextmaster": {
+    "Jpn": {
+      "90000_long": "トークンカード",
+      "90000_short": "トークン",
+      "10000_long": "プライズ",
+      "10000_short": "プライズ",
+      "10001_long": "スタンダードカードパック",
+      "10001_short": "STD",
+      "10002_long": "ダークネス・エボルヴ",
+      "10002_short": "DRK",
+      "10003_long": "バハムート降臨",
+      "10003_short": "ROB"
+    },
+    "Eng": {
+      "90000_long": "Token",
+      "90000_short": "Token",
+      "10000_long": "Basic",
+      "10000_short": "Basic",
+      "10001_long": "Standard Card Pack",
+      "10001_short": "Standard",
+      "10002_long": "Darkness Evolved",
+      "10002_short": "Darkness",
+      "10003_long": "Rise of Bahamut",
+      "10003_short": "Bahamut"
+    },
+    "Chs": {
+      "90000_long": "附属卡牌",
+      "90000_short": "附属卡牌",
+      "10000_long": "奖励卡牌",
+      "10000_short": "奖励卡牌",
+      "10001_long": "基本牌组卡包",
+      "10001_short": "基本牌组卡包",
+      "10002_long": "暗影进化",
+      "10002_short": "暗影进化",
+      "10003_long": "巴哈姆特降临",
+      "10003_short": "巴哈姆特降临"
+    },
+    "Kor": {
+      "90000_long": "토큰 카드",
+      "90000_short": "토큰",
+      "10000_long": "보상",
+      "10000_short": "보상",
+      "10001_long": "스탠다드 카드팩",
+      "10001_short": "STD",
+      "10002_long": "진화하는 어둠",
+      "10002_short": "DRK",
+      "10003_long": "바하무트 강림",
+      "10003_short": "ROB"
+    }
+  }
+}

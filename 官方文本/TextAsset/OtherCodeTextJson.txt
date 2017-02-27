@@ -1,0 +1,64 @@
+{
+  "OtherCodeTextJson": {
+    "Jpn": {
+      "OtherCode_0005": "コード入力",
+      "OtherCode_0007": "入力履歴",
+      "OtherCode_0001": "コードを入力することで特典が受け取れます。\n獲得した特典は受け取りBOXに送られます。",
+      "OtherCode_0003": "※ハイフンを除いて入力してください。",
+      "OtherCode_0004": "コードは１つにつき１回のみ使用可能です。",
+      "OtherCode_0006": "TITLE",
+      "OtherCode_0008": "受け取り日時",
+      "OtherCode_0009": "キャンペーンコードを入力してください",
+      "OtherCode_0010": "コードの入力が完了しました。\nギフトから特典を受け取ってください。",
+      "OtherCode_0011": "コード入力完了"
+    },
+    "Eng": {
+      "OtherCode_0005": "Enter Promo Code",
+      "OtherCode_0007": "Code Log",
+      "OtherCode_0001": "Enter a promo code to get rewards.",
+      "OtherCode_0003": "Don't enter hyphens as part of their code.",
+      "OtherCode_0004": "Each code can be used once.",
+      "OtherCode_0006": "Title",
+      "OtherCode_0008": "Claimed",
+      "OtherCode_0009": "Enter your promotional code below and tap OK.",
+      "OtherCode_0010": "Promo code successfully entered. Rewards can be collected from your crate.",
+      "OtherCode_0011": "Promo Code Entered"
+    },
+    "Chs": {
+      "OtherCode_0005": "输入兑换码",
+      "OtherCode_0007": "输入履历",
+      "OtherCode_0001": "输入兑换码可以领取特典。\n获得的特典会直接送到领取BOX。",
+      "OtherCode_0003": "※请不要输入“-”",
+      "OtherCode_0004": "1个兑换码只能使用1次。",
+      "OtherCode_0006": "TITLE",
+      "OtherCode_0008": "领取日期",
+      "OtherCode_0009": "",
+      "OtherCode_0010": "",
+      "OtherCode_0011": ""
+    },
+    "Kor": {
+      "OtherCode_0005": "쿠폰번호 입력",
+      "OtherCode_0007": "입력이력",
+      "OtherCode_0001": "쿠폰번호를 입력하면 특전 보상을 획득하실 수 있습니다.\n획득한 특전 보상은 선물함으로 보내집니다.",
+      "OtherCode_0003": "※하이픈을 제외하고 입력해 주시기 바랍니다.",
+      "OtherCode_0004": "쿠폰번호는 일회용입니다.",
+      "OtherCode_0006": "TITLE",
+      "OtherCode_0008": "수령일자",
+      "OtherCode_0009": "쿠폰번호를 입력해 주십시오",
+      "OtherCode_0010": "쿠폰번호 입력을 완료하였습니다.\n선물함에서 특전 보상을 수령해 주십시오.",
+      "OtherCode_0011": "쿠폰번호 입력 완료"
+    },
+    "Cht": {
+      "OtherCode_0005": "輸入兌換碼",
+      "OtherCode_0007": "輸入記錄",
+      "OtherCode_0001": "輸入兌換碼可領取特典。\n獲得的特典會發送至禮物BOX。",
+      "OtherCode_0003": "※輸入時請勿包含連字號“-”。",
+      "OtherCode_0004": "兌換碼每一組僅能使用一次。",
+      "OtherCode_0006": "TITLE",
+      "OtherCode_0008": "領取日期",
+      "OtherCode_0009": "請輸入活動代碼",
+      "OtherCode_0010": "您已經輸入活動代碼了。\n請至禮物頁面領取活動獎勵。",
+      "OtherCode_0011": "完成輸入代碼"
+    }
+  }
+}

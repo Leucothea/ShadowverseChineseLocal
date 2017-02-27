@@ -1,6 +1,6 @@
 {
       "Profile_0001": "戰績",
-      "Profile_0002": "姓名",
+      "Profile_0002": "名稱",
       "Profile_0003": "稱號",
       "Profile_0004": "變更頭像",
       "Profile_0005": "變更國旗",
@@ -15,7 +15,7 @@
       "Profile_0014": "玩家名已改為{0}。",
       "Profile_0015": "玩家ID已複製。",
       "Profile_0016": "Page",
-      "Profile_0017": "不設定",
+      "Profile_0017": "不使用",
       "Profile_0018": "大師級菜單",
       "Profile_0019": "大師級等級",
       "Profile_0020": "大師級積分",

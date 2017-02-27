@@ -24,5 +24,8 @@
       "URL_0011_steam": "https://steam.shadowverse.jp/help/",
       "URL_0012_steam": "https://shadowverse.jp/gameguide/",
       "URL_0013_steam": "https://shadowverse.jp/faq/?fromapp",
-      "URL_0014_steam": "https://steam.shadowverse.jp/"
+      "URL_0014_steam": "https://steam.shadowverse.jp/",
+      "URL_0015": "https://shadowverse.jp/",
+      "URL_0015_dmm": "https://dmm.shadowverse.jp/",
+      "URL_0015_steam": "https://steam.shadowverse.jp/"
 }

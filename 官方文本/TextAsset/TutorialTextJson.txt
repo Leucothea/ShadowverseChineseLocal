@@ -1,0 +1,64 @@
+{
+  "TutorialTextJson": {
+    "Jpn": {
+      "Tutorial_0001": "ロザリアはさすがだよね",
+      "Tutorial_0002": "楽しみだなぁ",
+      "Tutorial_0003": "チュートリアルコメント３",
+      "Tutorial_0004": "ステージ{0}",
+      "Tutorial_0005": "アリサ",
+      "Tutorial_0006": "ステージ{0}",
+      "Tutorial_0007": "チュートリアル",
+      "Tutorial_0008": "チュートリアルスキップ",
+      "Tutorial_0009": "このバトルをスキップしますか？",
+      "Tutorial_0010": "まずはソロプレイを選んでください"
+    },
+    "Eng": {
+      "Tutorial_0001": "Go Losaria!",
+      "Tutorial_0002": "This'll be fun!",
+      "Tutorial_0003": "Tutorial Message 3",
+      "Tutorial_0004": "Stage {0}",
+      "Tutorial_0005": "Arisa",
+      "Tutorial_0006": "Stage {0}",
+      "Tutorial_0007": "Tutorial",
+      "Tutorial_0008": "Skip Tutorial",
+      "Tutorial_0009": "Skip this battle?",
+      "Tutorial_0010": "First try playing the Main Story."
+    },
+    "Chs": {
+      "Tutorial_0001": "萝沙丽亚真厉害！",
+      "Tutorial_0002": "快点开始吧！",
+      "Tutorial_0003": "教程信息3",
+      "Tutorial_0004": "场景{0}",
+      "Tutorial_0005": "亚里莎",
+      "Tutorial_0006": "场景{0}",
+      "Tutorial_0007": "教程",
+      "Tutorial_0008": "跳过教程",
+      "Tutorial_0009": "跳过本场战斗吗？",
+      "Tutorial_0010": "请先进行练习赛来练习吧。"
+    },
+    "Kor": {
+      "Tutorial_0001": "역시 로자리아야",
+      "Tutorial_0002": "기대되는 걸",
+      "Tutorial_0003": "튜토리얼 코멘트 3",
+      "Tutorial_0004": "스테이지 {0}",
+      "Tutorial_0005": "아리사",
+      "Tutorial_0006": "스테이지 {0}",
+      "Tutorial_0007": "튜토리얼",
+      "Tutorial_0008": "튜토리얼 스킵",
+      "Tutorial_0009": "이 대전을 스킵하시겠습니까?",
+      "Tutorial_0010": "먼저 모험을 선택해 주시기 바랍니다."
+    },
+    "Cht": {
+      "Tutorial_0001": "蘿莎麗亞果然很厲害耶",
+      "Tutorial_0002": "好期待呀",
+      "Tutorial_0003": "新手教學信息３",
+      "Tutorial_0004": "Stage{0}",
+      "Tutorial_0005": "亞里莎",
+      "Tutorial_0006": "Stage{0}",
+      "Tutorial_0007": "新手教學",
+      "Tutorial_0008": "跳過新手教學",
+      "Tutorial_0009": "是否跳過此戰鬥？",
+      "Tutorial_0010": "請先選擇單人遊戲"
+    }
+  }
+}
