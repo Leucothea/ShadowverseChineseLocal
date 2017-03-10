@@ -10,7 +10,7 @@
       "Dia_Title_001_Button": "完成",
       "Dia_Title_002_Button": "结束",
       "Dia_Web_001_Button": "打开",
-      "Dia_ChapterSelect_001_Button": "剧本",
+      "Dia_ChapterSelect_001_Button": "开始",
       "Dia_Arena_001_Title": "进入双选模式",
       "Dia_Arena_002_Button": "重新连接",
       "Dia_Arena_003_Button": "进入",
