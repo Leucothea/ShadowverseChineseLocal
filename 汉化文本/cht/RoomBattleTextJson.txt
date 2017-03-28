@@ -64,7 +64,7 @@
       "RoomBattle_0063": "取消邀請",
       "RoomBattle_0064": "輸入房間ID",
       "RoomBattle_0065": "接受邀請",
-      "RoomBattle_0066": "戰鬥",
+      "RoomBattle_0066": "接受",
       "RoomBattle_0067": "沒有來自好友的邀請",
       "RoomBattle_0068": "私人對戰出錯",
       "RoomBattle_0069": "邀請一覽",
