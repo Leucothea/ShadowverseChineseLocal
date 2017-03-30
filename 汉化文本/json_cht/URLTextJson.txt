@@ -1,6 +1,6 @@
 {
       "URL_0001": "https://shadowverse.jp/faq/?fromapp",
-      "URL_0002": "https://shadowverse-portal.com/",
+      "URL_0002": "http://sennatsu.com/",
       "URL_0003": "https://shadowverse.jp/",
       "URL_0012": "https://shadowverse.jp/gameguide/",
       "URL_0004_dmm": "https://dmm.shadowverse.jp/news/",
