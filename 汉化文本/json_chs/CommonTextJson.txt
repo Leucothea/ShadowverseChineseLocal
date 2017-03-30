@@ -80,5 +80,7 @@
       "Common_0148": "打得好！",
       "Common_0149": "结束回放",
       "Common_0150": "BP",
-      "Common_0151": "MP"
+      "Common_0151": "MP",
+      "Common_0152": "滑动",
+      "Common_0153": "放开"
 }
