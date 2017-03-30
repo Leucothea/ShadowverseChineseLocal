@@ -51,11 +51,15 @@
       "OtherConfig_0048": "ステージ",
       "OtherConfig_0049": "カードのプレイ",
       "OtherConfig_0050": "フォロワーの進化",
-      "OtherConfig_0051": "カード情報ウィンドの表示",
+      "OtherConfig_0051": "カード情報ウィンドウの表示",
       "OtherConfig_0052": "ホイールクリック",
       "OtherConfig_0053": "左ボタン長押し",
       "OtherConfig_0054": "マウスオーバー",
-      "OtherConfig_0055": "カード情報ウィンドのサイズ"
+      "OtherConfig_0055": "カード情報ウィンドウのサイズ",
+      "OtherConfig_0056": "バトル中のキーボード操作",
+      "OtherConfig_0057": "フォロワーのショートカット進化（E）",
+      "OtherConfig_0058": "決定・ターン終了のショートカット操作（スペース）",
+      "OtherConfig_0059": "エンハンスを持つカードの補足情報を表示する"
     },
     "Eng": {
       "OtherConfig_0001": "Music",
@@ -112,7 +116,11 @@
       "OtherConfig_0052": "Middle click",
       "OtherConfig_0053": "Hold down left button",
       "OtherConfig_0054": "Scroll over",
-      "OtherConfig_0055": "Adjust card detail window size"
+      "OtherConfig_0055": "Adjust card detail window size",
+      "OtherConfig_0056": "Use keyboard controls in battle",
+      "OtherConfig_0057": "Evolve follower shortcut (E)",
+      "OtherConfig_0058": "Confirm/end turn shortcut (Space)",
+      "OtherConfig_0059": "Display cost of Enhance ability"
     },
     "Chs": {
       "OtherConfig_0001": "背景音乐",
@@ -169,14 +177,18 @@
       "OtherConfig_0052": "",
       "OtherConfig_0053": "",
       "OtherConfig_0054": "",
-      "OtherConfig_0055": ""
+      "OtherConfig_0055": "",
+      "OtherConfig_0056": "",
+      "OtherConfig_0057": "",
+      "OtherConfig_0058": "",
+      "OtherConfig_0059": "OtherConfig_0059"
     },
     "Kor": {
       "OtherConfig_0001": "BGM",
       "OtherConfig_0002": "SE",
       "OtherConfig_0003": "VOICE",
       "OtherConfig_0004": "턴 종료 전에 확인",
-      "OtherConfig_0005": "대전상대로부터의 메시지 표시",
+      "OtherConfig_0005": "대전 상대로부터의 메시지 표시",
       "OtherConfig_0006": "확인하기",
       "OtherConfig_0007": "확인하지 않음",
       "OtherConfig_0008": "표시하기",
@@ -226,7 +238,11 @@
       "OtherConfig_0052": "휠 클릭",
       "OtherConfig_0053": "왼쪽 버튼 길게 누르게",
       "OtherConfig_0054": "마우스 오버",
-      "OtherConfig_0055": "카드 정보 화면 사이즈"
+      "OtherConfig_0055": "카드 정보 화면 사이즈",
+      "OtherConfig_0056": "대전 중 키보드 조작",
+      "OtherConfig_0057": "추종자 단축키 진화(E)",
+      "OtherConfig_0058": "결정/턴 종료 단축기 조작(스페이스)",
+      "OtherConfig_0059": "강화를 지닌 카드의 추가 정보를 표시"
     },
     "Cht": {
       "OtherConfig_0001": "BGM",
@@ -238,14 +254,14 @@
       "OtherConfig_0007": "Off",
       "OtherConfig_0008": "On",
       "OtherConfig_0009": "Off",
-      "OtherConfig_0010": "戰鬥演出輕量化",
+      "OtherConfig_0010": "使用簡易版戰鬥效果",
       "OtherConfig_0011": "固定畫面方向",
       "OtherConfig_0012": "On",
       "OtherConfig_0013": "Off",
-      "OtherConfig_0014": "自動發送訊息",
+      "OtherConfig_0014": "自動播放劇情",
       "OtherConfig_0015": "On",
       "OtherConfig_0016": "Off",
-      "OtherConfig_0017": "聲音",
+      "OtherConfig_0017": "音效",
       "OtherConfig_0018": "On",
       "OtherConfig_0019": "Off",
       "OtherConfig_0020": "普通",
@@ -264,11 +280,11 @@
       "OtherConfig_0033": "Off",
       "OtherConfig_0034": "解析度",
       "OtherConfig_0035": "全螢幕",
-      "OtherConfig_0036": "置於背景也會播放聲音",
-      "OtherConfig_0037": "接受好友的私人對戰邀請",
-      "OtherConfig_0038": "接受與其他玩家對戰中時收到的邀請",
-      "OtherConfig_0039": "接受離線時收到的邀請",
-      "OtherConfig_0040": "對戰中的滑鼠游標自定義操作",
+      "OtherConfig_0036": "音效背景播放功能",
+      "OtherConfig_0037": "接收好友的私人對戰邀請",
+      "OtherConfig_0038": "接收與其他玩家對戰中時的邀請",
+      "OtherConfig_0039": "接收離線時的邀請",
+      "OtherConfig_0040": "對戰中的滑鼠游標自訂操作",
       "OtherConfig_0041": "對戰中的快捷設定",
       "OtherConfig_0042": "OFF",
       "OtherConfig_0043": "右鍵",
@@ -282,8 +298,12 @@
       "OtherConfig_0051": "顯示卡片資訊視窗",
       "OtherConfig_0052": "按下滑鼠中鍵",
       "OtherConfig_0053": "長按滑鼠左鍵",
-      "OtherConfig_0054": "滑鼠變換影像",
-      "OtherConfig_0055": "卡片資訊視窗大小"
+      "OtherConfig_0054": "遊標自動提示",
+      "OtherConfig_0055": "卡片資訊視窗大小",
+      "OtherConfig_0056": "對戰中以鍵盤操作",
+      "OtherConfig_0057": "從者進化時的單鍵操作（E）",
+      "OtherConfig_0058": "確定及回合結束時的單鍵操作（空白鍵）",
+      "OtherConfig_0059": "顯示持有爆能強化能力卡片的補充資訊"
     }
   }
 }

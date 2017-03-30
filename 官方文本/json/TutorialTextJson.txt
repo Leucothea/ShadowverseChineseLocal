@@ -56,9 +56,9 @@
       "Tutorial_0005": "亞里莎",
       "Tutorial_0006": "Stage{0}",
       "Tutorial_0007": "新手教學",
-      "Tutorial_0008": "跳過新手教學",
-      "Tutorial_0009": "是否跳過此戰鬥？",
-      "Tutorial_0010": "請先選擇單人遊戲"
+      "Tutorial_0008": "略過新手教學",
+      "Tutorial_0009": "是否要略過本次對戰？",
+      "Tutorial_0010": "請先選擇單人遊戲。"
     }
   }
 }

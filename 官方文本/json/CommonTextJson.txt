@@ -82,7 +82,9 @@
       "Common_0148": "Nice!",
       "Common_0149": "リプレイ終了",
       "Common_0150": "BP",
-      "Common_0151": "MP"
+      "Common_0151": "MP",
+      "Common_0152": "",
+      "Common_0153": ""
     },
     "Eng": {
       "Common_0001": "Yes",
@@ -166,7 +168,9 @@
       "Common_0148": "Great!",
       "Common_0149": "Quit",
       "Common_0150": "",
-      "Common_0151": ""
+      "Common_0151": "",
+      "Common_0152": "Drag!",
+      "Common_0153": "Drop!"
     },
     "Chs": {
       "Common_0001": "是",
@@ -250,7 +254,9 @@
       "Common_0148": "打得好！",
       "Common_0149": "结束回放",
       "Common_0150": "BP",
-      "Common_0151": "MP"
+      "Common_0151": "MP",
+      "Common_0152": "",
+      "Common_0153": ""
     },
     "Kor": {
       "Common_0001": "네",
@@ -334,7 +340,9 @@
       "Common_0148": "Great!",
       "Common_0149": "리플레이 종료",
       "Common_0150": "BP",
-      "Common_0151": "MP"
+      "Common_0151": "MP",
+      "Common_0152": "Drag!",
+      "Common_0153": "Drop!"
     },
     "Cht": {
       "Common_0001": "是",
@@ -344,7 +352,7 @@
       "Common_0053": "取消",
       "Common_0005": "取消",
       "Common_0008": "關閉",
-      "Common_0009": "點擊",
+      "Common_0009": "TOUCH",
       "Common_0021": "確認",
       "Common_0022": "詳細",
       "Common_0026": "輸入",
@@ -364,7 +372,7 @@
       "Common_0202": "{0}水晶",
       "Common_0206": "付費水晶",
       "Common_0207": "卡包兌換券",
-      "Common_0208": "是否同意開啟瀏覽器,\n連接到官網？",
+      "Common_0208": "是否同意開啟瀏覽器，\n連接到官方網站？",
       "Common_0209": "設定",
       "Common_0102": "過關獎勵",
       "Common_0401": "{0}個文字以內",
@@ -418,7 +426,9 @@
       "Common_0148": "Nice!",
       "Common_0149": "停止播放",
       "Common_0150": "BP",
-      "Common_0151": "MP"
+      "Common_0151": "MP",
+      "Common_0152": "滑動",
+      "Common_0153": "放開"
     }
   }
 }
