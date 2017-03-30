@@ -6,7 +6,7 @@
     },
     "Eng": {
       "BDSSN_構築済みデッキ1弾": "BDSSN_構築済みデッキ1弾",
-      "BDSI_構築済みデッキ1弾": "An exclusive animated Legendary card featuring new art is included in each deck! Each prebuilt deck can be bought up to three times. The first costs 500 crystals, afterwards they're 750."
+      "BDSI_構築済みデッキ1弾": "Prebuilt decks contain an animated Legendary with special art! Priced at 500 crystals the first time and 750 afterwards. Each deck can be purchased up to three times."
     },
     "Chs": {
       "BDSSN_構築済みデッキ1弾": "BDSSN_構築済みデッキ1弾",
@@ -15,6 +15,10 @@
     "Kor": {
       "BDSSN_構築済みデッキ1弾": "BDSSN_構築済みデッキ1弾",
       "BDSI_構築済みデッキ1弾": "특별 일러스트의 프리미엄 레전드 카드가 1장 포함된 테마팩 판매!\n각 테마팩은 3번까지 구매 가능합니다.\n(첫구매 시 크리스탈 500개, 이후 크리스탈 750개)"
+    },
+    "Cht": {
+      "BDSSN_構築済みデッキ1弾": "BDSSN_主題牌組第1彈",
+      "BDSI_構築済みデッキ1弾": "主題牌組內容包含１張限定插畫的珍藏版傳說卡。每套限購買3次，首次購買享有優惠價格。\n首次購買：500水晶，第2次以後：750水晶"
     }
   }
 }

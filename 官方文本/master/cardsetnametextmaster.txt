@@ -10,7 +10,9 @@
       "10002_long": "ダークネス・エボルヴ",
       "10002_short": "DRK",
       "10003_long": "バハムート降臨",
-      "10003_short": "ROB"
+      "10003_short": "ROB",
+      "10004_long": "神々の騒嵐",
+      "10004_short": "TOG"
     },
     "Eng": {
       "90000_long": "Token",
@@ -19,10 +21,12 @@
       "10000_short": "Basic",
       "10001_long": "Standard Card Pack",
       "10001_short": "Standard",
-      "10002_long": "Darkness Evolved",
+      "10002_long": "Darkness Evolved Card Pack",
       "10002_short": "Darkness",
-      "10003_long": "Rise of Bahamut",
-      "10003_short": "Bahamut"
+      "10003_long": "Rise of Bahamut Card Pack",
+      "10003_short": "Bahamut",
+      "10004_long": "Tempest of the Gods Card Pack",
+      "10004_short": "Tempest"
     },
     "Chs": {
       "90000_long": "附属卡牌",
@@ -34,7 +38,9 @@
       "10002_long": "暗影进化",
       "10002_short": "暗影进化",
       "10003_long": "巴哈姆特降临",
-      "10003_short": "巴哈姆特降临"
+      "10003_short": "巴哈姆特降临",
+      "10004_long": "10004_long",
+      "10004_short": "10004_short"
     },
     "Kor": {
       "90000_long": "토큰 카드",
@@ -46,7 +52,23 @@
       "10002_long": "진화하는 어둠",
       "10002_short": "DRK",
       "10003_long": "바하무트 강림",
-      "10003_short": "ROB"
+      "10003_short": "ROB",
+      "10004_long": "신들의 폭풍",
+      "10004_short": "TOG"
+    },
+    "Cht": {
+      "90000_long": "特殊卡",
+      "90000_short": "特殊卡",
+      "10000_long": "永久卡",
+      "10000_short": "永久卡",
+      "10001_long": "標準卡包",
+      "10001_short": "標準卡",
+      "10002_long": "暗影進化",
+      "10002_short": "暗影進化",
+      "10003_long": "巴哈姆特降臨",
+      "10003_short": "巴哈姆特",
+      "10004_long": "諸神狂嵐",
+      "10004_short": "諸神狂嵐"
     }
   }
 }

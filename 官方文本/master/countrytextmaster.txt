@@ -1,0 +1,39 @@
+{
+  "countrytextmaster": {
+    "Jpn": {
+      "Country_Category_Asia": "アジア",
+      "Country_Category_Europe": "ヨーロッパ",
+      "Country_Category_Americas": "北米・中南米",
+      "Country_Category_Oceania": "オセアニア",
+      "Country_Category_Africa": "アフリカ"
+    },
+    "Eng": {
+      "Country_Category_Asia": "Asia",
+      "Country_Category_Europe": "Europe",
+      "Country_Category_Americas": "Americas",
+      "Country_Category_Oceania": "Oceania",
+      "Country_Category_Africa": "Africa"
+    },
+    "Chs": {
+      "Country_Category_Asia": "Country_Category_Asia",
+      "Country_Category_Europe": "Country_Category_Europe",
+      "Country_Category_Americas": "Country_Category_Americas",
+      "Country_Category_Oceania": "Country_Category_Oceania",
+      "Country_Category_Africa": "Country_Category_Africa"
+    },
+    "Kor": {
+      "Country_Category_Asia": "아시아",
+      "Country_Category_Europe": "유럽",
+      "Country_Category_Americas": "남 ·북아메리카",
+      "Country_Category_Oceania": "오세아니아",
+      "Country_Category_Africa": "아프리카"
+    },
+    "Cht": {
+      "Country_Category_Asia": "亞洲",
+      "Country_Category_Europe": "歐洲",
+      "Country_Category_Americas": "北美及中南美",
+      "Country_Category_Oceania": "大洋洲",
+      "Country_Category_Africa": "非洲"
+    }
+  }
+}
