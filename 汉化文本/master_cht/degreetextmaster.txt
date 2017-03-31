@@ -70,6 +70,6 @@
       "DEG_ウルトラお嬢様": "極道千金",
       "DEG_Famitsu_cup_優勝": "2017法米通杯冠軍",
       "DEG_Famitsu_cup_準優勝": "2017法米通杯亞軍",
-      "DEG_Famitsu_cup_3位": "2017法米通杯季軍"
-      "DEG_JCG_OPEN_優勝_2nd_season": "JCG OPEN 第2賽季冠軍",
+      "DEG_Famitsu_cup_3位": "2017法米通杯季軍",
+      "DEG_JCG_OPEN_優勝_2nd_season": "JCG OPEN 第2賽季冠軍"
 }
