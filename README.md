@@ -1,10 +1,10 @@
-﻿暗影之诗 Shadowverse PC+Mac简繁汉化补丁 v5.0
+﻿暗影之诗 Shadowverse PC+Mac简繁汉化补丁 v5.1
 =====
 汉化：淺夏 <http://steam.pm/id/fylab><br>
-　　　岚兮雨汐 <http://steam.pm/4cxrww><br>
-　　　蔽月八云 <http://steam.pm/42flgs><br>
-程序：永久告别 <https://www.perfare.net/><br>
-原扩展版提供：真神 <http://weibo.com/galstars><br><br><br><br>
+　　　岚兮雨汐 <http://steam.pm/id/momohu><br>
+　　　蔽月八云 <http://steam.pm/id/yakumo17s><br>
+　　　安里 <http://steam.pm/id/anrianri><br>
+程序：永久告别 <https://www.perfare.net/><br><br><br><br>
 
 
 
@@ -17,7 +17,7 @@
 【PC安装方法】
 -----
 1、确保游戏当前没有打过任何补丁（打开游戏若是旧版汉化，先按3卸载一次）。<br>
-2、解压ShadowverseLangPatch_v5.0到游戏根目录执行即可，输入1是简体、2是繁体。<br>
+2、解压ShadowverseLangPatch_v5.1到游戏根目录执行即可，输入1是简体、2是繁体。<br>
 3、卸载方法：运行程序按3。<br>
 4、若游戏没有更新但汉化补丁有更新，需要先按3卸载后再装新补丁；<br>
  　若游戏自身有更新，更新后不需要卸载，直接按1或2给新版游戏打补丁。<br>
@@ -38,11 +38,11 @@
 QQ群：550817506<br>
 个人博客：http://sennatsu.com/<br>
 Steam指南：http://steamcommunity.com/sharedfiles/filedetails/?id=796814505<br>
-GitHub：您现在所在的位置(´･ω･`)<br>
+GitHub：您现在所在的位置_(:з」∠)_<br>
 NGA：http://bbs.ngacn.cc/read.php?tid=10709138<br>
 巴哈哈拉版：https://forum.gamer.com.tw/C.php?bsn=29330&snA=2130<br><br>
 ※转载需注明出处，未经许可，禁止商业转载。<br><br><br><br>
 
 
 
-2017/02/28 Updated<br>
+2017/04/01 Updated<br>
