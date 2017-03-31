@@ -11,7 +11,7 @@
       "VideoHosting_0010": "开",
       "VideoHosting_0011": "关",
       "VideoHosting_0012": "NICO视频录影",
-      "VideoHosting_0013": "显示对战者的用户名称",
+      "VideoHosting_0013": "显示对战者的用户昵称",
       "VideoHosting_0014": "Everyplay错误",
       "VideoHosting_0015": "录影中开启相机功能",
       "VideoHosting_0016": "录影中开启麦克风功能",

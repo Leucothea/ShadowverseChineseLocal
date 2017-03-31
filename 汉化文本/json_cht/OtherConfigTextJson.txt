@@ -55,7 +55,7 @@
       "OtherConfig_0054": "滑鼠懸停",
       "OtherConfig_0055": "牌資訊視窗尺寸",
       "OtherConfig_0056": "戰局中以鍵盤操作",
-      "OtherConfig_0057": "進化隨從時的單鍵操作（E）",
-      "OtherConfig_0058": "確定及回合結束時的單鍵操作（空白鍵）",
+      "OtherConfig_0057": "進化隨從時的單鍵操作(E)",
+      "OtherConfig_0058": "確定及回合結束時的單鍵操作(空白鍵)",
       "OtherConfig_0059": "顯示擁有增效能力的牌的補充資訊"
 }

@@ -11,7 +11,7 @@
       "VideoHosting_0010": "開",
       "VideoHosting_0011": "關",
       "VideoHosting_0012": "NICO視頻録影",
-      "VideoHosting_0013": "顯示對戰者的玩家名稱",
+      "VideoHosting_0013": "顯示對戰者的玩家昵稱",
       "VideoHosting_0014": "Everyplay錯誤",
       "VideoHosting_0015": "録影中開啓相機功能",
       "VideoHosting_0016": "録影中開啓麥克風功能",

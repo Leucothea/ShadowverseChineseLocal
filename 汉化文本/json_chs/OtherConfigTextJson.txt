@@ -55,7 +55,7 @@
       "OtherConfig_0054": "鼠标悬停",
       "OtherConfig_0055": "卡牌信息窗口尺寸",
       "OtherConfig_0056": "战局中以键盘操作",
-      "OtherConfig_0057": "进化随从时的单键操作（E）",
-      "OtherConfig_0058": "确定及回合结束时的单键操作（空格键）",
+      "OtherConfig_0057": "进化随从时的单键操作(E)",
+      "OtherConfig_0058": "确定及回合结束时的单键操作(空格键)",
       "OtherConfig_0059": "显示拥有增效能力的卡牌的补充资讯"
 }

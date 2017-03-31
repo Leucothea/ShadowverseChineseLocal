@@ -1,11 +1,11 @@
 {
       "Profile_0001": "战绩",
-      "Profile_0002": "名称",
+      "Profile_0002": "昵称",
       "Profile_0003": "称号",
       "Profile_0004": "变更徽章",
       "Profile_0005": "变更旗帜",
       "Profile_0006": "变更称号",
-      "Profile_0007": "变更名称",
+      "Profile_0007": "变更昵称",
       "Profile_0008": "用户ID",
       "Profile_0009": "复制",
       "Profile_0010": "对战积分",
