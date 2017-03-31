@@ -1,4 +1,13 @@
 {
+      "System_TimeDateLong": "yyyy/MM/dd HH:mm",
+      "System_TimeDateShort": "MM/dd HH:mm",
+      "System_DateLong": "yyyy/MM/dd",
+      "System_DateShort": "MM/dd",
+      "System_Time": "HH:mm",
+      "System_YearMonth": "yyyy/MM",
+      "System_Between": "{0} ～ {1}",
+      "System_LineHeadWrap": "､、｡。)）］」』}｝】,〕〉＞》≫〟’”.・:; 　!?！？…ー～－☆★♪ヽヾぁぃぅぇぉっゃゅょゎァィゥェォッャュョヮヵヶ‐＝゛゜％+＋々",
+      "System_LineEndWrap": "(（［{｛〔〈＜《≪「『【〝‘“×",
       "System_0001": "载入中",
       "System_0002": "代码",
       "System_0003": "网络连接出错",
@@ -39,15 +48,9 @@
       "System_0038": "存在正在维护的卡牌",
       "System_0039": "牌组中存在一个或多个正在维护的卡牌。\n请将这些卡牌暂时移除您的牌组。\n是否前往牌组编辑界面？",
       "System_0040": "选择语言",
-      "System_0041": "语言将被切换为 {0} 。\n切换后将会下载新数据。",
+      "System_0041": "语言将被切换为{0}。\n切换后将会下载新数据。",
       "System_0042": "English",
       "System_0043": "한국어",
-      "System_0044": "{0}正在进行维护，更多信息请关注官方公告。",
-      "System_TimeDateLong": "yyyy/MM/dd HH:mm",
-      "System_TimeDateShort": "MM/dd HH:mm",
-      "System_DateLong": "yyyy/MM/dd",
-      "System_DateShort": "MM/dd",
-      "System_Time": "HH:mm",
-      "System_YearMonth": "yyyy/MM",
-      "System_Between": "{0} - {1}"
+      "System_0044": "将于{0}开始进行系统维护。\n更多信息请关注官方公告。",
+      "System_0045": "ja"
 }
