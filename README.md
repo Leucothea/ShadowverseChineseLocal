@@ -3,7 +3,7 @@
 汉化：淺夏 <http://steam.pm/id/fylab><br>
 　　　岚兮雨汐 <http://steam.pm/id/momohu><br>
 　　　蔽月八云 <http://steam.pm/id/yakumo17s><br>
-　　　安里 <http://steam.pm/id/anrianri><br>
+　　　町城安里 <http://steam.pm/id/anrianri><br>
 程序：永久告别 <https://www.perfare.net/><br><br><br><br>
 
 
