@@ -90,7 +90,7 @@
       "Dia_DeckSelect_003_Title": "卡牌过多",
       "Dia_DeckSelect_002_Button": "编辑",
       "Dia_BuyCrystal_001_Button": "确定",
-      "Dia_BuyCrystal_002_Button": "登录",
+      "Dia_BuyCrystal_002_Button": "确认",
       "Dia_BuyCrystal_003_Title": "确认",
       "Dia_BuyCrystal_004_Title": "购买水晶",
       "Dia_BuyCrystal_004_Button": "购买",
