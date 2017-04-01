@@ -6,7 +6,7 @@
       "System_Time": "HH:mm",
       "System_YearMonth": "yyyy/MM",
       "System_Between": "{0} ～ {1}",
-      "System_LineHeadWrap": "､、｡。)）］」』}｝】,〕〉＞》≫〟’”.・:; 　!?！？…ー～－☆★♪ヽヾぁぃぅぇぉっゃゅょゎァィゥェォッャュョヮヵヶ‐＝゛゜％+＋々",
+      "System_LineHeadWrap": "､、｡。)）］」』}｝】,〕〉＞》≫〟’”.・:; 　!?！？…ー～－☆★♪，‐＝゛゜％+＋",
       "System_LineEndWrap": "(（［{｛〔〈＜《≪「『【〝‘“×",
       "System_0001": "载入中",
       "System_0002": "代码",
