@@ -75,9 +75,9 @@
       "RoomBattle_0074": "創建房間",
       "RoomBattle_0075": "對戰形式",
       "RoomBattle_0076": "規則",
-      "RoomBattle_0077": "三局兩勝",
-      "RoomBattle_0078": "五局三勝",
-      "RoomBattle_0079": "一局一勝",
+      "RoomBattle_0077": "三局兩勝模式",
+      "RoomBattle_0078": "五局三勝模式",
+      "RoomBattle_0079": "一局一勝模式",
       "RoomBattle_0080": "雙選牌組互換模式",
       "RoomBattle_0081": "私人對戰(牌組互換)",
       "RoomBattle_0082": "私人對戰(三局兩勝)",
@@ -91,7 +91,7 @@
       "RoomBattle_0090": "選定規則(雙選模式)",
       "RoomBattle_0091": "確定要使用所選的牌組嘛？",
       "RoomBattle_0092": "確定要刪除對手正在使用的牌組，並重新構築牌組嘛？",
-      "RoomBattle_0093": "雙選模式",
+      "RoomBattle_0093": "雙選通常模式",
       "RoomBattle_0094": "選定對戰形式",
       "RoomBattle_0095": "選定規則"
 }
