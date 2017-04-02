@@ -45,7 +45,7 @@
       "VideoHosting_0044": "數位TCG",
       "VideoHosting_0045": "「Shadowverse」{0}的遊戲視頻{1}",
       "VideoHosting_0046": "***",
-      "VideoHosting_0047": "録影菜單",
+      "VideoHosting_0047": "録影選單",
       "VideoHosting_0048": "結束",
       "VideoHosting_0049": "從録影開始已經過25分鐘，\n録影已結束。\n\n録製的視頻可從「録影/觀看」發布。\n只能發布最近一次録製的視頻。",
       "VideoHosting_0050": "録影已結束。\n\n録製的視頻可從「録影/觀看」發布。\n只能發布最近一次録製的視頻。\n[ffcd45]無法在此畫面發布視頻。[-]",
