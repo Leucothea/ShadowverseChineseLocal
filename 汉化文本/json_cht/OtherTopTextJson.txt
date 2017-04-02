@@ -24,8 +24,8 @@
       "OtherTop_0027": "確定返回開始界面嘛？",
       "OtherTop_0028": "確定",
       "OtherTop_0029": "退出遊戲",
-      "OtherTop_0030": "漢化補丁官網",
-      "OtherTop_0031": "遊戲日服官網",
+      "OtherTop_0030": "漢化模組官網",
+      "OtherTop_0031": "暗影之詩官網",
       "OtherTop_0032": "選擇語言",
       "OtherTop_0033": "回放"
 }

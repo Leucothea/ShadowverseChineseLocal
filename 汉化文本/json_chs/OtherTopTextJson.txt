@@ -25,7 +25,7 @@
       "OtherTop_0028": "确定",
       "OtherTop_0029": "退出游戏",
       "OtherTop_0030": "汉化补丁官网",
-      "OtherTop_0031": "游戏日服官网",
+      "OtherTop_0031": "暗影之诗官网",
       "OtherTop_0032": "选择语言",
       "OtherTop_0033": "回放"
 }
