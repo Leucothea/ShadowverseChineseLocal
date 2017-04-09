@@ -1,0 +1,292 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="AccountTextJson" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\AccountTextJson.txt;System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
+  </data>
+  <data name="ArenaTextJson" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\ArenaTextJson.txt;System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
+  </data>
+  <data name="arenatextmaster" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\arenatextmaster.txt;System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
+  </data>
+  <data name="battlekeywordmaster" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\battlekeywordmaster.txt;System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
+  </data>
+  <data name="BattleTextJson" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\BattleTextJson.txt;System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
+  </data>
+  <data name="bufftextmaster" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\bufftextmaster.txt;System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
+  </data>
+  <data name="builddeckproducttextmaster" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\builddeckproducttextmaster.txt;System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
+  </data>
+  <data name="builddeckseriestextmaster" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\builddeckseriestextmaster.txt;System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
+  </data>
+  <data name="cardnametextmaster" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\cardnametextmaster.txt;System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
+  </data>
+  <data name="cardsetnametextmaster" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\cardsetnametextmaster.txt;System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
+  </data>
+  <data name="CardTextJson" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\CardTextJson.txt;System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
+  </data>
+  <data name="classcharanametextmaster" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\classcharanametextmaster.txt;System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
+  </data>
+  <data name="classnametextmaster" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\classnametextmaster.txt;System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
+  </data>
+  <data name="CommonTextJson" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\CommonTextJson.txt;System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
+  </data>
+  <data name="countrytextmaster" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\countrytextmaster.txt;System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
+  </data>
+  <data name="degreetextmaster" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\degreetextmaster.txt;System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
+  </data>
+  <data name="DialogTextJson" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\DialogTextJson.txt;System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
+  </data>
+  <data name="emblemtextmaster" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\emblemtextmaster.txt;System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
+  </data>
+  <data name="emotetextmaster" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\emotetextmaster.txt;System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
+  </data>
+  <data name="ErrorHeaderTextJson" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\ErrorHeaderTextJson.txt;System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
+  </data>
+  <data name="ErrorTextJson" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\ErrorTextJson.txt;System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
+  </data>
+  <data name="FirstTipsJson" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\FirstTipsJson.txt;System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
+  </data>
+  <data name="flavourtextmaster" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\flavourtextmaster.txt;System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
+  </data>
+  <data name="itemtextmaster" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\itemtextmaster.txt;System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
+  </data>
+  <data name="leaderskinproducttextmaster" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\leaderskinproducttextmaster.txt;System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
+  </data>
+  <data name="leaderskinseriestextmaster" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\leaderskinseriestextmaster.txt;System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
+  </data>
+  <data name="LoadTextJson" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\LoadTextJson.txt;System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
+  </data>
+  <data name="LoginBonusJson" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\LoginBonusJson.txt;System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
+  </data>
+  <data name="MailTextJson" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\MailTextJson.txt;System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
+  </data>
+  <data name="MissionTextJson" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\MissionTextJson.txt;System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
+  </data>
+  <data name="MyPageTextJson" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\MyPageTextJson.txt;System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
+  </data>
+  <data name="OtherCodeTextJson" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\OtherCodeTextJson.txt;System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
+  </data>
+  <data name="OtherConfigTextJson" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\OtherConfigTextJson.txt;System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
+  </data>
+  <data name="OtherFriendTextJson" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\OtherFriendTextJson.txt;System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
+  </data>
+  <data name="OtherPasswordTextJson" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\OtherPasswordTextJson.txt;System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
+  </data>
+  <data name="OtherProfileTextJson" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\OtherProfileTextJson.txt;System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
+  </data>
+  <data name="OtherRankingTextJson" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\OtherRankingTextJson.txt;System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
+  </data>
+  <data name="OtherShareMovieTextJson" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\OtherShareMovieTextJson.txt;System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
+  </data>
+  <data name="OtherTopTextJson" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\OtherTopTextJson.txt;System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
+  </data>
+  <data name="practicetextmaster" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\practicetextmaster.txt;System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
+  </data>
+  <data name="raritynametextmaster" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\raritynametextmaster.txt;System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
+  </data>
+  <data name="RoomBattleTextJson" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\RoomBattleTextJson.txt;System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
+  </data>
+  <data name="ShopTextJson" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\ShopTextJson.txt;System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
+  </data>
+  <data name="skilldesctextmaster" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\skilldesctextmaster.txt;System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
+  </data>
+  <data name="sleevenametextmaster" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\sleevenametextmaster.txt;System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
+  </data>
+  <data name="sleeveproducttextmaster" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\sleeveproducttextmaster.txt;System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
+  </data>
+  <data name="sleeveseriesnametextmaster" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\sleeveseriesnametextmaster.txt;System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
+  </data>
+  <data name="sleeveseriestextmaster" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\sleeveseriestextmaster.txt;System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
+  </data>
+  <data name="StoryTextJson" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\StoryTextJson.txt;System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
+  </data>
+  <data name="storytextmaster" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\storytextmaster.txt;System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
+  </data>
+  <data name="SystemTextJson" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\SystemTextJson.txt;System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
+  </data>
+  <data name="TitleTextJson" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\TitleTextJson.txt;System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
+  </data>
+  <data name="tribenametextmaster" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\tribenametextmaster.txt;System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
+  </data>
+  <data name="TutorialTextJson" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\TutorialTextJson.txt;System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
+  </data>
+  <data name="tutorialtextmaster" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\tutorialtextmaster.txt;System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
+  </data>
+  <data name="URLTextJson" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\URLTextJson.txt;System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;gb2312</value>
+  </data>
+  <data name="VideoHostingTextJson" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\VideoHostingTextJson.txt;System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
+  </data>
+</root>
