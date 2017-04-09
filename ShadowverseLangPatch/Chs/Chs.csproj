@@ -1014,9 +1014,9 @@
     <PostBuildEvent>copy /y "$(TargetPath)" "$(SolutionDir)ShadowverseLangPatch\Resources\Chs.dll"</PostBuildEvent>
   </PropertyGroup>
   <PropertyGroup>
-    <PreBuildEvent>copy /y "$(ProjectDir)..\..\汉化文本\json_chs\" "$(ProjectDir)Resources\"
-copy /y "$(ProjectDir)..\..\汉化文本\master_chs\" "$(ProjectDir)Resources\"
-copy /y "$(ProjectDir)..\..\汉化文本\scenario_chs\" "$(ProjectDir)Resources\"</PreBuildEvent>
+    <PreBuildEvent>copy /y "$(ProjectDir)..\..\Completed\json_chs\" "$(ProjectDir)Resources\"
+copy /y "$(ProjectDir)..\..\Completed\master_chs\" "$(ProjectDir)Resources\"
+copy /y "$(ProjectDir)..\..\Completed\scenario_chs\" "$(ProjectDir)Resources\"</PreBuildEvent>
   </PropertyGroup>
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
