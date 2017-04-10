@@ -174,7 +174,7 @@ namespace ShadowverseLangPatch
         {
             if (!flag)
                 return true;
-            //1
+            //第1部分
             var type = assembly.MainModule.Types.FirstOrDefault(x => x.FullName == "Global");
             if (type != null)
             {
@@ -187,7 +187,7 @@ namespace ShadowverseLangPatch
                     {
                         method.Body.Instructions[217] = Instruction.Create(OpCodes.Ldstr, "TT0818M");
                         method.Body.Instructions[219] = Instruction.Create(OpCodes.Ldstr, "TT0818M");
-                        //2
+                        //第2部分
                         type = assembly.MainModule.Types.FirstOrDefault(x => x.FullName == "UILabel");
                         if (type != null)
                         {
