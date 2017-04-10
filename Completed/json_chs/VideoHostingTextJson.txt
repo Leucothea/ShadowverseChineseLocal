@@ -57,7 +57,7 @@
       "VideoHosting_0056": "为了保护个人隐私，\n接下来无法进行录影。\n请停止录制并重试。",
       "VideoHosting_0057": "为了保护个人隐私，\n接下来无法进行NICO直播。\n请停止直播并重试。",
       "VideoHosting_0058": "正统手游卡牌战斗「Shadowverse」!!从APP发布游戏视频吧!!<br>\n<br>\n<b>游戏名称:</b>「Shadowverse」<br>\n<b>官网：</b>https://shadowverse.jp/",
-      "VideoHosting_0059": "正統手遊卡牌戰鬥「Shadowverse」!!目前正在APP上直播!!<br>\n<br>\n<b>直播中的游戏:</b>「Shadowverse」<br>\n<b>官网：</b>https://shadowverse.jp/",
+      "VideoHosting_0059": "正统手游卡牌战斗「Shadowverse」!!目前正在APP上直播!!<br>\n<br>\n<b>直播中的游戏:</b>「Shadowverse」<br>\n<b>官网：</b>https://shadowverse.jp/",
       "VideoHosting_0060": "「Shadowverse」{0}的直播",
       "VideoHosting_0061": "NICO发生错误",
       "VideoHosting_0062": "发生错误。\n请重启游戏后再次尝试。",
