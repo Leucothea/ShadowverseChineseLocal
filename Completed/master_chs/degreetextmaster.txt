@@ -71,5 +71,11 @@
       "DEG_Famitsu_cup_優勝": "2017法米通杯冠军",
       "DEG_Famitsu_cup_準優勝": "2017法米通杯亚军",
       "DEG_Famitsu_cup_3位": "2017法米通杯季军",
-      "DEG_JCG_OPEN_優勝_2nd_season": "JCG OPEN 第2赛季冠军"
+      "DEG_JCG_OPEN_優勝_2nd_season": "JCG OPEN 第2赛季冠军",
+      "DEG_RAGE_vol.4_優勝": "RAGE vol.4 冠军",
+      "DEG_RAGE_vol.4_準優勝": "RAGE vol.4 亚军",
+      "DEG_RAGE_vol.4_3位": "RAGE vol.4 季军",
+      "DEG_NGE_Grand_Champion": "NGE 总冠军",
+      "DEG_NGE_Season_1_MVP": "NGE 第1赛季之星",
+      "DEG_NGE_Weekly_Champion": "NGE 周常冠军"
 }

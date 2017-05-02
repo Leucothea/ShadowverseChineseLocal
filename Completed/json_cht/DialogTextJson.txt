@@ -44,7 +44,7 @@
       "Dia_CardList_004_Button1": "分解多餘的牌",
       "Dia_CardList_004_Button2": "分解選擇的牌",
       "Dia_DestructMode_001_Title": "確認分解",
-      "Dia_DestructMode_001_Body": "如果祢離開本界面，\n祢所選擇的牌將不會被分解。\n確定要繼續嘛？",
+      "Dia_DestructMode_001_Body": "如果祢離開本介面，\n祢所選擇的牌將不會被分解。\n確定要繼續嘛？",
       "Dia_DestructMode_001_Button1": "離開",
       "Dia_DestructMode_001_Button2": "返回",
       "Dia_DestructMode_002_Title": "統一分解",

@@ -73,7 +73,13 @@
       "DEG_Famitsu_cup_優勝": "ファミ通CUP2017 覇者",
       "DEG_Famitsu_cup_準優勝": "ファミ通CUP2017 準優勝",
       "DEG_Famitsu_cup_3位": "ファミ通CUP2017 3位",
-      "DEG_JCG_OPEN_優勝_2nd_season": "JCG OPEN 優勝 2nd season"
+      "DEG_JCG_OPEN_優勝_2nd_season": "JCG OPEN 優勝 2nd season",
+      "DEG_RAGE_vol.4_優勝": "RAGE vol.4 優勝",
+      "DEG_RAGE_vol.4_準優勝": "RAGE vol.4 準優勝",
+      "DEG_RAGE_vol.4_3位": "RAGE vol.4 3位",
+      "DEG_NGE_Grand_Champion": "NGE Grand Champion",
+      "DEG_NGE_Season_1_MVP": "NGE Season 1 MVP",
+      "DEG_NGE_Weekly_Champion": "NGE Weekly Champion"
     },
     "Eng": {
       "DEG_私だって戦えるんだから！": "Proving Myself",
@@ -148,7 +154,13 @@
       "DEG_Famitsu_cup_優勝": "Famitsu Cup 2017 Champion",
       "DEG_Famitsu_cup_準優勝": "Famitsu Cup 2017 1st Runner-Up",
       "DEG_Famitsu_cup_3位": "Famitsu Cup 2017 2nd Runner-Up",
-      "DEG_JCG_OPEN_優勝_2nd_season": "JCG Open Champion 2nd season"
+      "DEG_JCG_OPEN_優勝_2nd_season": "JCG Open Champion 2nd season",
+      "DEG_RAGE_vol.4_優勝": "RAGE Champion (June 2017)",
+      "DEG_RAGE_vol.4_準優勝": "RAGE 1st Runner-Up (June 2017)",
+      "DEG_RAGE_vol.4_3位": "RAGE 2nd Runner-Up (June 2017)",
+      "DEG_NGE_Grand_Champion": "NGE Grand Champion",
+      "DEG_NGE_Season_1_MVP": "NGE Season 1 MVP",
+      "DEG_NGE_Weekly_Champion": "NGE Weekly Champion"
     },
     "Chs": {
       "DEG_私だって戦えるんだから！": "我也能战斗！",
@@ -223,7 +235,13 @@
       "DEG_Famitsu_cup_優勝": "Famitsu Cup 2017冠军",
       "DEG_Famitsu_cup_準優勝": "Famitsu Cup 2017亚军",
       "DEG_Famitsu_cup_3位": "Famitsu Cup 2017季军",
-      "DEG_JCG_OPEN_優勝_2nd_season": "JCG OPEN冠军 2nd season"
+      "DEG_JCG_OPEN_優勝_2nd_season": "JCG OPEN冠军 2nd season",
+      "DEG_RAGE_vol.4_優勝": "DEG_RAGE_vol.4_優勝",
+      "DEG_RAGE_vol.4_準優勝": "DEG_RAGE_vol.4_準優勝",
+      "DEG_RAGE_vol.4_3位": "DEG_RAGE_vol.4_3位",
+      "DEG_NGE_Grand_Champion": "NGE Grand Champion",
+      "DEG_NGE_Season_1_MVP": "NGE Season 1 MVP",
+      "DEG_NGE_Weekly_Champion": "NGE Weekly Champion"
     },
     "Kor": {
       "DEG_私だって戦えるんだから！": "나도 싸울 수 있다구!",
@@ -298,7 +316,13 @@
       "DEG_Famitsu_cup_優勝": "Famitsu Cup 2017 우승",
       "DEG_Famitsu_cup_準優勝": "Famitsu Cup 2017 준우승",
       "DEG_Famitsu_cup_3位": "Famitsu Cup 2017 3위",
-      "DEG_JCG_OPEN_優勝_2nd_season": "JCG OPEN 우승 2nd season"
+      "DEG_JCG_OPEN_優勝_2nd_season": "JCG OPEN 우승 2nd season",
+      "DEG_RAGE_vol.4_優勝": "RAGE vol.4 우승",
+      "DEG_RAGE_vol.4_準優勝": "RAGE vol.4 준우승",
+      "DEG_RAGE_vol.4_3位": "RAGE vol.4 3위",
+      "DEG_NGE_Grand_Champion": "NGE Grand Champion",
+      "DEG_NGE_Season_1_MVP": "NGE Season 1 MVP",
+      "DEG_NGE_Weekly_Champion": "NGE Weekly Champion"
     },
     "Cht": {
       "DEG_私だって戦えるんだから！": "我也是能戰鬥的！",
@@ -329,7 +353,7 @@
       "DEG_瞳の中の災禍": "瞳孔中的災禍",
       "DEG_救済の導き手": "救贖之路的指引者",
       "DEG_Bishop Master": "Bishop Master",
-      "DEG_シャドウバースの使徒": "闇影次元的使徒",
+      "DEG_シャドウバースの使徒": "闇影詩章的使徒",
       "DEG_蠢く影": "蠢動之影",
       "DEG_虚ろの残滓": "虛妄的殘渣",
       "DEG_闇の訪れ": "悄悄來訪的闇影",
@@ -352,7 +376,7 @@
       "DEG_Master of Shadowverse": "Master of Shadowverse",
       "DEG_始まりに集いし者": "起跑點上的玩家",
       "DEG_1st Season　覇者": "Season 1 霸主",
-      "DEG_しゃどばすチャンネラー": "闇影次元板鄉民",
+      "DEG_しゃどばすチャンネラー": "闇影詩章板鄉民",
       "DEG_至高のPick": "神抽",
       "DEG_理を外れし者": "超越一切法則",
       "DEG_初級": "初級",
@@ -373,7 +397,13 @@
       "DEG_Famitsu_cup_優勝": "Famitsu Cup 2017 冠軍",
       "DEG_Famitsu_cup_準優勝": "Famitsu Cup 2017 亞軍",
       "DEG_Famitsu_cup_3位": "Famitsu Cup 2017 季軍",
-      "DEG_JCG_OPEN_優勝_2nd_season": "JCG OPEN 冠軍 2nd season"
+      "DEG_JCG_OPEN_優勝_2nd_season": "JCG OPEN 冠軍 2nd season",
+      "DEG_RAGE_vol.4_優勝": "RAGE vol.4 冠軍",
+      "DEG_RAGE_vol.4_準優勝": "RAGE vol.4 亞軍",
+      "DEG_RAGE_vol.4_3位": "RAGE vol.4 季軍",
+      "DEG_NGE_Grand_Champion": "NGE Grand Champion",
+      "DEG_NGE_Season_1_MVP": "NGE Season 1 MVP",
+      "DEG_NGE_Weekly_Champion": "NGE Weekly Champion"
     }
   }
 }
