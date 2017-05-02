@@ -353,6 +353,230 @@ namespace Galstars.Extensions {
         
         /// <summary>
         ///   查找类似 &quot;dummy&quot;
+        ///&quot;Text_01&quot;,&quot;（……我，終於能和蘿沙麗亞一起，
+        ///成為森林守護者了吶。
+        ///這是真的罷？）&quot;
+        ///&quot;Text_02&quot;,&quot;（可是……怎麼一點都高興不起來吶。
+        ///恩。明明應該感到喜悅才對，我怎麼……覺得這麼不安吶。
+        ///是因為剛才那個人的原因嘛？還是説……）&quot;
+        ///&quot;Text_03&quot;,&quot;亞里莎、危險！
+        ///小心脚下！&quot;
+        ///&quot;Text_04&quot;,&quot;阿，好疼阿！？&quot;
+        ///&quot;Text_05&quot;,&quot;欸呀，祢阿。
+        ///這樣不注意安全可不行阿？&quot;
+        ///&quot;Text_06&quot;,&quot;我錯了，蘿沙麗亞。
+        ///稍微有點走神。&quot;
+        ///&quot;Text_07&quot;,&quot;（剛才絆到我的……
+        ///難道是礦石？
+        ///森林裡還會有礦石阿……）&quot;
+        ///&quot;Text_08&quot;,&quot;（……果然，有些奇怪。
+        ///總覺得，什麼地方不太對勁。
+        ///雖然説不出具體是什麼問題……）&quot;
+        ///&quot;Text_09&quot;,&quot;欸，祢又開始沈思了。
+        ///亞里莎……怎麼了？
+        ///祢今天的状態很差阿？&quot;
+        ///&quot;Text_10&quot;,&quot;……是我自己出了問題嘛。
+        ///變得奇怪的是我自己嘛……。&quot;
+        ///&quot;Text_11&quot;,&quot;亞里莎……祢確定祢沒事嘛？
+        ///我們休息一會罷？&quot;
+        ///&quot;Text_12&quot;,&quot;恩……。
+        ///稍微休息會，仔細想一想應… [字符串的其余部分被截断]&quot;; 的本地化字符串。
+        /// </summary>
+        internal static string scenario_text_1_12_1 {
+            get {
+                return ResourceManager.GetString("scenario_text_1_12_1", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   查找类似 &quot;dummy&quot;
+        ///&quot;Text_01&quot;,&quot;幹得漂亮，亞里莎！
+        ///祢真是太厲害了！
+        ///有祢在什麼都不用害怕！&quot;
+        ///&quot;Text_02&quot;,&quot;……有這麼厲害嘛？&quot;
+        ///&quot;Text_03&quot;,&quot;（不對……不是我太強，而是魔物太弱了。
+        ///蘿沙麗亞應該能發現的才對。
+        ///因為蘿沙麗亞比我……）&quot;
+        ///&quot;Text_04&quot;,&quot;（……對。對阿。蘿沙麗亞比我強才對阿。
+        ///什麼都能做到，那麼得出色！
+        ///所以我總是一直依賴著他……）&quot;
+        ///&quot;Text_05&quot;,&quot;亞里莎……？
+        ///想什麼吶？&quot;
+        ///&quot;Text_06&quot;,&quot;吶，蘿沙麗亞。
+        ///……祢是真的蘿沙麗亞嘛？&quot;
+        ///&quot;Text_07&quot;,&quot;祢在説什麼？
+        ///我就是我自己阿。……欸呀，祢到底是不是身體不舒服阿。&quot;
+        ///&quot;Text_08&quot;,&quot;我總是一直依靠著蘿沙麗亞祢罷？
+        ///所以，蘿沙麗亞的能力肯定是在我之上的。&quot;
+        ///&quot;Text_09&quot;,&quot;依賴的人一直都是我，祢才是更強的。
+        ///不管是弓術也好，還是其他的……
+        ///和祢比起來，我沒有任何一項能勝過祢的。&quot;
+        ///&quot;Text_10&quot;,&quot;祢還記得嘛？
+        ///我在河邊撈魚的時候……突然，出現了魔物。
+        ///那個時候，祢……。&quot;
+        ///&quot;Text_11&quot;,&quot;我……？
+        ///……不對阿。不是的阿 [字符串的其余部分被截断]&quot;; 的本地化字符串。
+        /// </summary>
+        internal static string scenario_text_1_12_2 {
+            get {
+                return ResourceManager.GetString("scenario_text_1_12_2", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   查找类似 &quot;dummy&quot;
+        ///&quot;Text_01&quot;,&quot;（不管是我忘記了試煉也好……
+        ///還是蘿沙麗亞的情況……
+        ///森林裡有著這麼多礦石……這一切都很反常）&quot;
+        ///&quot;Text_02&quot;,&quot;（越想越覺得……都有點奇怪。
+        ///這個世界……絶對有問題！
+        ///一定可以找到問題的！）&quot;
+        ///&quot;Text_03&quot;,&quot;……世界是不會錯的。
+        ///有錯的，是祢自己。&quot;
+        ///&quot;Text_04&quot;,&quot;……祢究竟知道些什麼？
+        ///全都説出來……！&quot;
+        ///&quot;Text_05&quot;,&quot;為何，要如此反抗自身所願？
+        ///為何，不能接受夢想成真？&quot;
+        ///&quot;Text_06&quot;,&quot;願望、期望……
+        ///誰會知道祢在指什麼！&quot;
+        ///&quot;Text_07&quot;,&quot;祢祈願過。祢期望過。
+        ///所以涅墨西斯大人，才會將這一切實現。
+        ///在這災厄之樹裡……。&quot;
+        ///&quot;Text_08&quot;,&quot;災厄之樹……涅墨西斯……。
+        ///阿……想起來了。
+        ///全部，都想起來了……！&quot;
+        ///&quot;Text_09&quot;,&quot;我是為了救回蘿沙麗亞……
+        ///才來到災厄之樹的。
+        ///然後，和涅墨西斯戰鬥……再然後……！&quot;
+        ///&quot;Text_10&quot;,&quot;……！
+        ///這個世界是怎麼回事！？
+        ///請告訴我真相罷……伊莉絲小姐！&quot;
+        ///&quot;Text_11&quot;,&quot;真實這個東西毫無價値。
+        ///我不能理解…… [字符串的其余部分被截断]&quot;; 的本地化字符串。
+        /// </summary>
+        internal static string scenario_text_1_13_1 {
+            get {
+                return ResourceManager.GetString("scenario_text_1_13_1", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   查找类似 &quot;dummy&quot;
+        ///&quot;Text_01&quot;,&quot;……阿。
+        ///為什麼？為什麼……不願接受這分安寧吶？
+        ///&quot;
+        ///&quot;Text_02&quot;,&quot;安寧……？
+        ///才不是！
+        ///這種虚假的世界，是那門子的安寧……！&quot;
+        ///&quot;Text_03&quot;,&quot;是祢把森林弄成這樣的嘛？
+        ///是祢把蘿沙麗亞抓走的嘛！？
+        ///把一切回歸原樣，立刻……！&quot;
+        ///&quot;Text_04&quot;,&quot;我既沒有改變什麼，也沒有奪走什麼……
+        ///在那偉大的存在……災厄之樹的懷抱裡、
+        ///祢進入了夢境。祢所期望著的夢境。&quot;
+        ///&quot;Text_05&quot;,&quot;夢……！？
+        ///那麼這裡不是現實世界了……
+        ///災厄之樹裡面，是夢的世界嘛……！？&quot;
+        ///&quot;Text_06&quot;,&quot;沒錯。就是祢所追求的。
+        ///祢夢想有一個祢比蘿沙麗亞更強的世界。
+        ///所以涅墨西斯大人實現了它。&quot;
+        ///&quot;Text_07&quot;,&quot;欸……！？
+        ///是，是這樣嘛……！
+        ///不是的，我不會……！&quot;
+        ///&quot;Text_08&quot;,&quot;涅墨西斯大人是至高無上的。
+        ///絶對不會讀錯祢的内心。
+        ///……這裡就是由祢心中所想而生成的世界。&quot;
+        ///&quot;Text_09&quot;,&quot;這裡，就是專為祢而存在的世界。
+        ///祢夢想的搖籃。
+        ///祢只要在搖籃裡安詳地沈眠就好……。&quot;
+        ///&quot;Text_10&quot;,&quot;蘿沙麗亞變成那 [字符串的其余部分被截断]&quot;; 的本地化字符串。
+        /// </summary>
+        internal static string scenario_text_1_13_2 {
+            get {
+                return ResourceManager.GetString("scenario_text_1_13_2", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   查找类似 &quot;dummy&quot;
+        ///&quot;Text_01&quot;,&quot;我……。
+        ///這個世界……。
+        ///不是阿……不是阿……。&quot;
+        ///&quot;Text_02&quot;,&quot;亞里莎！
+        ///欸呀，祢剛剛去什麼地方了！？
+        ///可讓我找了一陣！&quot;
+        ///&quot;Text_03&quot;,&quot;……蘿沙麗亞。
+        ///
+        ///&quot;
+        ///&quot;Text_04&quot;,&quot;怎麼了，亞里莎。祢臉色這麼差……。
+        ///祢要是總這樣，我可就麻煩吶？
+        ///如果祢不在的話，我什麼也做不了。&quot;
+        ///&quot;Text_05&quot;,&quot;……別這樣。
+        ///蘿沙麗亞才不會説這種話。
+        ///才不會説吶……。&quot;
+        ///&quot;Text_06&quot;,&quot;亞里莎……？
+        ///
+        ///&quot;
+        ///&quot;Text_07&quot;,&quot;我……難道是覺得高興嘛。剛才也是……感覺有點喜悅的心情。
+        ///受到別人的依賴，心情就會變愉悅。
+        ///是阿……我的確會感到高興……。&quot;
+        ///&quot;Text_08&quot;,&quot;亞里莎……祢在哭嘛？
+        ///吶，祢還好罷……？祢一哭，我也……。
+        ///欸呀，該怎麼辨才好阿……。&quot;
+        ///&quot;Text_09&quot;,&quot;但是，這是不對。絶對不是我想要的……。
+        ///這不是真正的蘿沙麗亞。
+        ///蘿沙麗亞，要比這更帥氣……更出色……。&quot;
+        ///&quot;Text_10&quot;,&quot;吶，亞里莎……。
+        ///亞里莎……。
+        ///&quot;
+        ///&quot;Text_11&quot;,&quot;我……
+        ///讓我憧憬得都要嫉妬的 [字符串的其余部分被截断]&quot;; 的本地化字符串。
+        /// </summary>
+        internal static string scenario_text_1_14_1 {
+            get {
+                return ResourceManager.GetString("scenario_text_1_14_1", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   查找类似 &quot;dummy&quot;
+        ///&quot;Text_01&quot;,&quot;……嗚。
+        ///夢之世界……如此多彩……。
+        ///阿……世界在歪曲著……！&quot;
+        ///&quot;Text_02&quot;,&quot;……好刺眼。
+        ///
+        ///&quot;
+        ///&quot;Text_03&quot;,&quot;……再往前走的話，等待著祢的只有殘酷了。
+        ///即使這樣也可以接受嘛……？
+        ///即使這樣，祢也執意要走嘛……！&quot;
+        ///&quot;Text_04&quot;,&quot;是的，我決定了！
+        ///不管前方如何艱難，
+        ///我也絶對不會放棄！&quot;
+        ///&quot;Text_05&quot;,&quot;我想要幇助蘿沙麗亞。
+        ///真正蘿沙麗亞！
+        ///不是通過夢境，而是自己親手來完成！&quot;
+        ///&quot;Text_06&quot;,&quot;……願意不惜一切的話就去做罷。
+        ///祢是要擁抱這安寧的夢境……還是要將世間的殘酷忍耐到底……
+        ///世界將會消失，一切都會得到救贖……。&quot;
+        ///&quot;Text_07&quot;,&quot;再往前……就是真正的世界了……。
+        ///
+        ///&quot;
+        ///&quot;Text_08&quot;,&quot;……對不起，蘿沙麗亞。
+        ///我似乎迷路了一陣子吶。
+        ///&quot;
+        ///&quot;Text_09&quot;,&quot;不過，已經不會再迷路了。
+        ///我會一路直奔到祢那裡去的！
+        ///等著我阿！&quot;
+        /// 的本地化字符串。
+        /// </summary>
+        internal static string scenario_text_1_14_2 {
+            get {
+                return ResourceManager.GetString("scenario_text_1_14_2", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   查找类似 &quot;dummy&quot;
         ///&quot;Text_01&quot;,&quot;（蘿沙麗亞……沒事罷……。
         ///為什麼會變成現在這種壮況吶……。）&quot;
         ///&quot;Text_02&quot;,&quot;（蘿沙麗亞…。）&quot;
@@ -610,9 +834,9 @@ namespace Galstars.Extensions {
         ///&quot;Text_11&quot;,&quot;冷靜下來，亞里莎。&quot;
         ///&quot;Text_12&quot;,&quot;阿！
         ///祢，祢是剛才幇我的那位……&quot;
-        ///&quot;Text_13&quot;,&quot;不能被困於黑暗之中。
-        ///這是祢心中黑暗面的映射…。&quot;
-        ///&quot;Text_14&quot;,&quot;如果是祢的話，應該是可以打破黑暗的。&quot;
+        ///&quot;Text_13&quot;,&quot;不能被困於黑闇之中。
+        ///這是祢心中黑闇面的映射…。&quot;
+        ///&quot;Text_14&quot;,&quot;如果是祢的話，應該是可以打破黑闇的。&quot;
         ///&quot;Text_15&quot;,&quot;沒錯……！
         ///我，絶不會輸。&quot;
         ///&quot;Text_16&quot;,&quot;敢變成我的模樣，決不饒恕！&quot;
@@ -638,7 +862,7 @@ namespace Galstars.Extensions {
         ///祢是那個時候的……！
         ///又受到祢照顧了吶。&quot;
         ///&quot;Text_08&quot;,&quot;我什麼也沒有做。
-        ///是祢自己的堅強意志，驅散了黑暗。&quot;
+        ///是祢自己的堅強意志，驅散了黑闇。&quot;
         ///&quot;Text_09&quot;,&quot;我能救得了我的朋友麼…。&quot;
         ///&quot;Text_10&quot;,&quot;一定沒問題，相信自己前進罷。&quot;
         ///&quot;Text_11&quot;,&quot;非常感謝。
@@ -744,7 +968,7 @@ namespace Galstars.Extensions {
         ///不是蘿沙麗亞……麼？&quot;
         ///&quot;Text_08&quot;,&quot;蘿沙麗亞！！&quot;
         ///&quot;Text_09&quot;,&quot;終焉之門即將打開。
-        ///獻祭汝之黑暗，成為光之基石。&quot;
+        ///獻祭汝之黑闇，成為光之基石。&quot;
         ///&quot;Text_10&quot;,&quot;蘿沙麗亞…？&quot;
         ///&quot;Text_11&quot;,&quot;雖然不知道祢是誰，但是快離開蘿沙麗亞！&quot;
         /// 的本地化字符串。
@@ -1059,6 +1283,264 @@ namespace Galstars.Extensions {
         internal static string scenario_text_2_11_2 {
             get {
                 return ResourceManager.GetString("scenario_text_2_11_2", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   查找类似 &quot;dummy&quot;
+        ///&quot;Text_01&quot;,&quot;別別別……！
+        ///我的老婆孩子都被抓取當人質了……！
+        ///我沒辨法才幇的反抗軍的……真的阿……！&quot;
+        ///&quot;Text_02&quot;,&quot;……。
+        ///
+        ///&quot;
+        ///&quot;Text_03&quot;,&quot;嗚阿阿阿！
+        ///
+        ///&quot;
+        ///&quot;Text_04&quot;,&quot;……第一個任務完成。
+        ///接下來，是第二個任務。
+        ///&quot;
+        ///&quot;Text_05&quot;,&quot;等等……我的老婆孩子……。
+        ///我家人們……會怎樣……？
+        ///求求祢……放過他們把……。&quot;
+        ///&quot;Text_06&quot;,&quot;當然，賜予他們一死。
+        ///只要膽敢與國家作對，全都得死。
+        ///&quot;
+        ///&quot;Text_07&quot;,&quot;……惡魔。
+        ///祢這家夥……是惡魔……。
+        ///&quot;
+        ///&quot;Text_08&quot;,&quot;……哈，哈。
+        ///不……我，不會。已經，金盆洗手了。
+        ///現在的我，只為公主殿下揮劍……！&quot;
+        ///&quot;Text_09&quot;,&quot;艾莉華，不用在意哦。
+        ///我會寬恕祢，接受祢的。
+        ///&quot;
+        ///&quot;Text_10&quot;,&quot;這些幻想……滾開！
+        ///
+        ///&quot;
+        ///&quot;Text_11&quot;,&quot;不管祢手上沾了多少鮮血。
+        ///不管祢是多麼汚穢不堪。
+        ///我也會原諒祢，接受祢的。原諒祢。接受祢……。&quot;
+        ///&quot;Text_12&quot;,&quot;別説了……！
+        ///別再用公主殿下的面孔……用公主殿下的姿態… [字符串的其余部分被截断]&quot;; 的本地化字符串。
+        /// </summary>
+        internal static string scenario_text_2_12_1 {
+            get {
+                return ResourceManager.GetString("scenario_text_2_12_1", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   查找类似 &quot;dummy&quot;
+        ///&quot;Text_01&quot;,&quot;嗚……！
+        ///
+        ///&quot;
+        ///&quot;Text_02&quot;,&quot;……連自己的内心都不知道。
+        ///那就去看看……接受這一切！
+        ///這就是祢真正的願望……！&quot;
+        ///&quot;Text_03&quot;,&quot;我的願望……！？
+        ///祢是説把長的像公主殿下的幻象殺了……
+        ///就是我的願望……！？&quot;
+        ///&quot;Text_04&quot;,&quot;不，祢錯了。
+        ///祢所祈願的是寬恕。接納。
+        ///重要的人可以接受祢的過去。&quot;
+        ///&quot;Text_05&quot;,&quot;祢對我……！
+        ///我的事情祢知道多少！
+        ///&quot;
+        ///&quot;Text_06&quot;,&quot;當然是，全部。
+        ///我被涅墨西斯大人選中，召喚出災厄之樹。
+        ///然後……成為了這個世界的管理者。&quot;
+        ///&quot;Text_07&quot;,&quot;災厄之樹……。
+        ///涅墨西斯……？
+        ///&quot;
+        ///&quot;Text_08&quot;,&quot;（剛才説的……有點印象……！
+        ///怎麼會……為什麼……！？）
+        ///&quot;
+        ///&quot;Text_09&quot;,&quot;所以我知曉祢、祢們過去的全部。
+        ///祢們所背負的痛楚，全都清清楚楚。
+        ///&quot;
+        ///&quot;Text_10&quot;,&quot;祢曾出仕過某個國家。
+        ///……不是作為騎士，也不是士兵，而是一名殺手。
+        ///一味地遵照命令殺死目標。&quot;
+        ///&quot;Text_11&quot;,&quot;祢是國家用來殺人的劍。	
+        ///……但是劍，只有敵人出現的時候 [字符串的其余部分被截断]&quot;; 的本地化字符串。
+        /// </summary>
+        internal static string scenario_text_2_12_2 {
+            get {
+                return ResourceManager.GetString("scenario_text_2_12_2", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   查找类似 &quot;dummy&quot;
+        ///&quot;Text_01&quot;,&quot;我們懷疑祢們有殺人的嫌疑！
+        ///老實點別動！
+        ///&quot;
+        ///&quot;Text_02&quot;,&quot;可惡！為了上面的人，
+        ///不惜弄臟自己的手幹到現在……
+        ///消滅了反抗軍之後就變成沒用的廢物了嘛！&quot;
+        ///&quot;Text_03&quot;,&quot;艾莉華，祢的路還長著吶！
+        ///快逃走罷，活下去！
+        ///&quot;
+        ///&quot;Text_04&quot;,&quot;哈、哈、哈……。
+        ///哈、哈、哈……。
+        ///&quot;
+        ///&quot;Text_05&quot;,&quot;死了……都死了……。為什麼……為什麼……。
+        ///我……我們……為了國家……一直……。
+        ///&quot;
+        ///&quot;Text_06&quot;,&quot;殺掉……殺掉……殺掉……。
+        ///阿阿……！阿阿阿阿……。
+        ///為什麼……阿……。&quot;
+        ///&quot;Text_07&quot;,&quot;請問祢還好嘛？
+        ///好可憐的樣子……受傷了罷……。
+        ///不僅是身體。連眼裡都……。&quot;
+        ///&quot;Text_08&quot;,&quot;吶……祢相信命運嘛？
+        ///我相信哦。
+        ///所以……祢要來我這裡嘛？&quot;
+        ///&quot;Text_09&quot;,&quot;我……。
+        ///從那時候起，一切只為了公主……。
+        ///我相信這就是我的命運……。&quot;
+        ///&quot;Text_10&quot;,&quot;真的嘛？
+        ///……不需要隱瞞哦。
+        ///我們是同伴嘛。&quot;
+        ///&quot;Text_11&quot;,&quot;……。
+        ///
+        ///&quot;
+        ///&quot;Text_12&quot;,&quot;一直以為 [字符串的其余部分被截断]&quot;; 的本地化字符串。
+        /// </summary>
+        internal static string scenario_text_2_13_1 {
+            get {
+                return ResourceManager.GetString("scenario_text_2_13_1", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   查找类似 &quot;dummy&quot;
+        ///&quot;Text_01&quot;,&quot;哈、哈……。
+        ///
+        ///&quot;
+        ///&quot;Text_02&quot;,&quot;救贖之時到來的話，祢的痛楚也會消除的。
+        ///連祢不願直面罪惡的怠慢，
+        ///也一定會一起得到寬恕。現在就在沈眠中等待罷。&quot;
+        ///&quot;Text_03&quot;,&quot;救贖之時……？
+        ///竟然真會有吶……？
+        ///&quot;
+        ///&quot;Text_04&quot;,&quot;恩。
+        ///救贖已經來到了祢的身邊。
+        ///所以祢就先在這夢境之中靜靜等待罷。&quot;
+        ///&quot;Text_05&quot;,&quot;艾莉華。
+        ///祢一路過來的艱辛。
+        ///誰也比不過祢。所以祢就好好休息罷。&quot;
+        ///&quot;Text_06&quot;,&quot;祢從原來國家逃離開。
+        ///然後來到了我的國家，來到了我這裡。
+        ///這就是命運。我和祢的命運。&quot;
+        ///&quot;Text_07&quot;,&quot;在我身邊，保護我好嘛？成為我的劍與盾罷？
+        ///這樣的話，我便會原諒祢的一切……
+        ///祢自己也可以原諒祢自己罷。&quot;
+        ///&quot;Text_08&quot;,&quot;我，原諒，我自己……。
+        ///
+        ///&quot;
+        ///&quot;Text_09&quot;,&quot;（是阿……我……。
+        ///一直，想要得到原諒。
+        ///我的所作所為……我的罪過……）&quot;
+        ///&quot;Text_10&quot;,&quot;……阿，對的。
+        ///這才對嘛。
+        ///向著夢境祈願罷。&quot;
+        ///&quot;Text_11&quot;,&quot;不用焦慮，不用擔心。
+        ///祢的痛苦也好，其他人 [字符串的其余部分被截断]&quot;; 的本地化字符串。
+        /// </summary>
+        internal static string scenario_text_2_13_2 {
+            get {
+                return ResourceManager.GetString("scenario_text_2_13_2", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   查找类似 &quot;dummy&quot;
+        ///&quot;Text_01&quot;,&quot;來，艾莉華。
+        ///現在一起喝杯茶罷？
+        ///準備祢喜歡的茶葉哦。&quot;
+        ///&quot;Text_02&quot;,&quot;……好的。
+        ///
+        ///&quot;
+        ///&quot;Text_03&quot;,&quot;怎麼還是一幅悶悶不樂。
+        ///還在擔心什麼嘛？
+        ///&quot;
+        ///&quot;Text_04&quot;,&quot;……沒。
+        ///
+        ///&quot;
+        ///&quot;Text_05&quot;,&quot;沒瞞著我罷？
+        ///對不對？
+        ///艾莉華，説説罷？有什麼想要的我都能滿足祢的……。&quot;
+        ///&quot;Text_06&quot;,&quot;……救贖。
+        ///救贖是個什麼樣的東西吶？
+        ///能讓公主殿下和我都感到幸福嘛……？&quot;
+        ///&quot;Text_07&quot;,&quot;當然能拉。
+        ///難受、悲傷，這些都會消失掉的。
+        ///&quot;
+        ///&quot;Text_08&quot;,&quot;那是，怎麼辨到的……？
+        ///
+        ///&quot;
+        ///&quot;Text_09&quot;,&quot;涅墨西斯大人會把這個世界抹消掉。
+        ///一點痕跡不留。一點碎末也不留。
+        ///&quot;
+        ///&quot;Text_10&quot;,&quot;抹消……！？
+        ///怎麼會……！！
+        ///&quot;
+        ///&quot;Text_11&quot;,&quot;全部抹消掉。
+        ///痛苦也好，悲哀也好。
+        ///全部。&quot;
+        ///&quot;Text_12&quot;,&quot;那樣，公主殿下就會……！
+        ///
+        ///&quot;
+        ///&quot;Text_13&quot;,&quot;也會抹消掉哦。
+        ///不過能從殘酷的世界中獲得解脱，那沒什麼不好的！
+        ///在那一刻到來之前，愉快地喝茶罷 [字符串的其余部分被截断]&quot;; 的本地化字符串。
+        /// </summary>
+        internal static string scenario_text_2_14_1 {
+            get {
+                return ResourceManager.GetString("scenario_text_2_14_1", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   查找类似 &quot;dummy&quot;
+        ///&quot;Text_01&quot;,&quot;為什麼，理解不了吶……。
+        ///我有多麼想要拯救世間萬物……。
+        ///為此才帶給祢們的安寧……。&quot;
+        ///&quot;Text_02&quot;,&quot;祢確實是在追求著拯救人們。
+        ///也許人們也會願意，
+        ///在幻象的環繞下帶著痛楚一同消失&quot;
+        ///&quot;Text_03&quot;,&quot;不過，至少我不是這種人。
+        ///我有著必須要去完成的使命。
+        ///必須……要再見到公主殿下。&quot;
+        ///&quot;Text_04&quot;,&quot;祢即使見到了想見的人，未來也不會因此而改變。
+        ///祢即使離開了這裡，救贖之時也必將到來……。
+        ///&quot;
+        ///&quot;Text_05&quot;,&quot;縱然如此，我也會高舉手中之劍。
+        ///至死守護公主殿下。
+        ///&quot;
+        ///&quot;Text_06&quot;,&quot;祢守護著公主殿下，
+        ///不就是為了自己的罪惡可以得到寬恕嘛？
+        ///想要寬恕的話，這裡已經有了……。
+        ///&quot;
+        ///&quot;Text_07&quot;,&quot;得到幻想的寬恕，有什麼意義。
+        ///……讓我從這裡出去。
+        ///&quot;
+        ///&quot;Text_08&quot;,&quot;阿……世界又將綻開。
+        ///與那殘酷的世界相連，變得更加歪曲……。
+        ///&quot;
+        ///&quot;Text_09&quot;,&quot;……那一頭，就是現實世界了。
+        ///
+        ///&quot;
+        ///&quot;Text_10&quot;,&quot;在那邊！
+        ///……在那邊是沒有安寧的。
+        ///即使這樣……。&quot;
+        ///&quot;Text_ [字符串的其余部分被截断]&quot;; 的本地化字符串。
+        /// </summary>
+        internal static string scenario_text_2_14_2 {
+            get {
+                return ResourceManager.GetString("scenario_text_2_14_2", resourceCulture);
             }
         }
         
@@ -1450,7 +1932,7 @@ namespace Galstars.Extensions {
         ///&quot;Text_06&quot;,&quot;吾乃涅墨西斯。
         ///世界之調和者。&quot;
         ///&quot;Text_07&quot;,&quot;終焉之門即將打開。
-        ///獻祭汝之黑暗，成為光之基石。&quot;
+        ///獻祭汝之黑闇，成為光之基石。&quot;
         ///&quot;Text_08&quot;,&quot;這是…！&quot;
         ///&quot;Text_09&quot;,&quot;無需恐懼。
         ///光之彼岸，萬般苦痛皆歸於夢。&quot;
@@ -1863,7 +2345,7 @@ namespace Galstars.Extensions {
         ///&quot;Text_04&quot;,&quot;（今天他任務結束就要回來了…。）&quot;
         ///&quot;Text_05&quot;,&quot;（黑黑。太激動了，必須好好招待他一下。）&quot;
         ///&quot;Text_06&quot;,&quot;（阿拉？誰來了…。）&quot;
-        ///&quot;Text_07&quot;,&quot;來了，什麼地方位阿？&quot;
+        ///&quot;Text_07&quot;,&quot;來了，什麼人阿？&quot;
         ///&quot;Text_08&quot;,&quot;抱歉夜裡來打擾祢。&quot;
         ///&quot;Text_09&quot;,&quot;祢是，王國軍的…。
         ///怎麼了…？&quot;
@@ -1881,7 +2363,7 @@ namespace Galstars.Extensions {
         ///在與竜的戰鬥中，喪失了性命。&quot;
         ///&quot;Text_17&quot;,&quot;黑色的……竜……？&quot;
         ///&quot;Text_18&quot;,&quot;他已經不會回來了…？&quot;
-        ///&quot;Text_19&quot;,&quot; [字符串的其余部分被截断]&quot;; 的本地化字符串。
+        ///&quot;Text_19&quot;,&quot;不要 [字符串的其余部分被截断]&quot;; 的本地化字符串。
         /// </summary>
         internal static string scenario_text_3_6_1 {
             get {
@@ -2032,7 +2514,7 @@ namespace Galstars.Extensions {
         ///&quot;Text_08&quot;,&quot;吾乃涅墨西斯。
         ///世界之調和者。&quot;
         ///&quot;Text_09&quot;,&quot;終焉之門即將打開。
-        ///獻祭汝之黑暗，成為光之基石。&quot;
+        ///獻祭汝之黑闇，成為光之基石。&quot;
         ///&quot;Text_10&quot;,&quot;嗚！
         ///這個光…！
         ///怎麼回事……！？&quot;
@@ -2512,7 +2994,7 @@ namespace Galstars.Extensions {
         ///&quot;Text_09&quot;,&quot;吾乃涅墨西斯。
         ///世界之調和者。&quot;
         ///&quot;Text_10&quot;,&quot;終焉之門即將打開。
-        ///獻祭汝之黑暗，成為光之基石。&quot;
+        ///獻祭汝之黑闇，成為光之基石。&quot;
         ///&quot;Text_11&quot;,&quot;嗚！
         ///這個光…！
         ///怎麼回事……！？&quot;
@@ -2736,6 +3218,292 @@ namespace Galstars.Extensions {
         internal static string scenario_text_5_11_2 {
             get {
                 return ResourceManager.GetString("scenario_text_5_11_2", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   查找类似 &quot;dummy&quot;
+        ///&quot;Text_01&quot;,&quot;露娜，祢怎麼了？
+        ///看起來不舒服的樣子？
+        ///&quot;
+        ///&quot;Text_02&quot;,&quot;説不清楚……。
+        ///總感覺聽到了奇怪的聲音……。
+        ///一直能聽到……。&quot;
+        ///&quot;Text_03&quot;,&quot;阿……阿阿……。
+        ///
+        ///&quot;
+        ///&quot;Text_04&quot;,&quot;奇怪的聲音？
+        ///耙耙什麼也沒有聽見。
+        ///&quot;
+        ///&quot;Text_05&quot;,&quot;露娜，辛苦了很久吶。
+        ///已經有點累了罷。
+        ///去休息一會罷？&quot;
+        ///&quot;Text_06&quot;,&quot;恩……。
+        ///
+        ///&quot;
+        ///&quot;Text_07&quot;,&quot;阿……。阿阿……。
+        ///
+        ///&quot;
+        ///&quot;Text_08&quot;,&quot;好煩阿……別叫了……。
+        ///別來搗亂了……。
+        ///一聽到聲音……腦子就……。&quot;
+        ///&quot;Text_09&quot;,&quot;耙耙……媽媽……。
+        ///起來阿……快起來阿……？
+        ///&quot;
+        ///&quot;Text_10&quot;,&quot;阿……。
+        ///
+        ///&quot;
+        ///&quot;Text_11&quot;,&quot;快起來阿……。
+        ///吶……。
+        ///&quot;
+        ///&quot;Text_12&quot;,&quot;什麼……？那是什麼……？
+        ///從剛才到現在……腦子裡……好奇怪……。
+        ///&quot;
+        ///&quot;Text_13&quot;,&quot;不管是外表還是内部裝飾都是個豪華的房子吶……。
+        ///真棒阿，好羡慕阿。也給我分一點罷！
+        ///……敢動的話，想嘗嘗苦頭嘛？&quot;
+        ///&quot;Text_1 [字符串的其余部分被截断]&quot;; 的本地化字符串。
+        /// </summary>
+        internal static string scenario_text_5_12_1 {
+            get {
+                return ResourceManager.GetString("scenario_text_5_12_1", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   查找类似 &quot;dummy&quot;
+        ///&quot;Text_01&quot;,&quot;阿阿。
+        ///阿阿……！
+        ///&quot;
+        ///&quot;Text_02&quot;,&quot;為什麼……！？
+        ///説了讓祢安靜一會了……！
+        ///&quot;
+        ///&quot;Text_03&quot;,&quot;把耙耙媽媽還給我。
+        ///還給我阿。
+        ///&quot;
+        ///&quot;Text_04&quot;,&quot;阿阿阿！
+        ///
+        ///&quot;
+        ///&quot;Text_05&quot;,&quot;嗚……！？
+        ///這是什麼玩意……！？
+        ///這個小孩……是怪物嘛……！？&quot;
+        ///&quot;Text_06&quot;,&quot;頭，好疼……。
+        ///疼阿，疼阿，疼阿，好疼阿，好疼阿！！！！
+        ///&quot;
+        ///&quot;Text_07&quot;,&quot;阿阿阿！！！！
+        ///
+        ///&quot;
+        ///&quot;Text_08&quot;,&quot;什麼……！？
+        ///怎忙回事……！？
+        ///&quot;
+        ///&quot;Text_09&quot;,&quot;阿阿阿！
+        ///
+        ///&quot;
+        ///&quot;Text_10&quot;,&quot;耙、耙耙！？
+        ///媽媽！？
+        ///&quot;
+        ///&quot;Text_11&quot;,&quot;露、娜……。
+        ///
+        ///&quot;
+        ///&quot;Text_12&quot;,&quot;露娜……。
+        ///
+        ///&quot;
+        ///&quot;Text_13&quot;,&quot;什麼！？什麼、什麼、什麼！？
+        ///別動我耙耙媽媽！
+        ///&quot;
+        ///&quot;Text_14&quot;,&quot;阿……。
+        ///阿阿……。
+        ///&quot;
+        ///&quot;Text_15&quot;,&quot;祢……是祢嘛？
+        ///是祢傷害耙耙媽媽的？
+        ///住手阿……停下來！&quot;
+        ///&quot;Text_16&quot;,&quot;……為什麼，會這樣。
+        ///這個孩子…… [字符串的其余部分被截断]&quot;; 的本地化字符串。
+        /// </summary>
+        internal static string scenario_text_5_12_2 {
+            get {
+                return ResourceManager.GetString("scenario_text_5_12_2", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   查找类似 &quot;dummy&quot;
+        ///&quot;Text_01&quot;,&quot;祢在那裡！
+        ///祢逃到什麼地方去了！
+        ///出來讓露娜殺掉阿！&quot;
+        ///&quot;Text_02&quot;,&quot;露娜要殺了傷害耙耙媽媽的人！
+        ///敢傷害耙耙媽媽……必須死！
+        ///出來！快點出來！&quot;
+        ///&quot;Text_03&quot;,&quot;……。
+        ///
+        ///&quot;
+        ///&quot;Text_04&quot;,&quot;疼……！
+        ///為什麼要對露娜的耙耙媽媽下手！
+        ///為什麼……為什麼！&quot;
+        ///&quot;Text_05&quot;,&quot;……這是如祢所願。
+        ///祢所祈望的情況。
+        ///祢自己……也正享受在其中。&quot;
+        ///&quot;Text_06&quot;,&quot;但是……祢卻並不能因此得到安寧。
+        ///若要説此乃命運的話，確認過於殘酷了。
+        ///沒錯，太殘酷了……。&quot;
+        ///&quot;Text_07&quot;,&quot;祢在説什麼！？
+        ///露娜可要生氣了！
+        ///&quot;
+        ///&quot;Text_08&quot;,&quot;嗚嗚嗚！
+        ///
+        ///&quot;
+        ///&quot;Text_09&quot;,&quot;祢聽……又是那聲音！
+        ///説了讓祢停下來！
+        ///&quot;
+        ///&quot;Text_10&quot;,&quot;……那聲音並不是我的作為。
+        ///那是祢雙親的聲音。
+        ///&quot;
+        ///&quot;Text_11&quot;,&quot;露娜的雙親……
+        ///是在説耙耙媽媽嘛……？
+        ///……！那不可能的！&quot;
+        ///&quot;Text_12&quot;,&quot;……我不想讓人們的生活更加殘酷。
+        ///所以我讓人們活在安寧的環境中。
+        ///但是……。&quot;
+        ///&quot; [字符串的其余部分被截断]&quot;; 的本地化字符串。
+        /// </summary>
+        internal static string scenario_text_5_13_1 {
+            get {
+                return ResourceManager.GetString("scenario_text_5_13_1", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   查找类似 &quot;dummy&quot;
+        ///&quot;Text_01&quot;,&quot;膽敢傷害耙耙媽媽的人！
+        ///露娜會殺了他！
+        ///露娜必須殺了他！&quot;
+        ///&quot;Text_02&quot;,&quot;……是的。這正是祢祈望著的。祢的願望。
+        ///所以涅墨西斯大人將這個世界賜予了祢。
+        ///讓祢可以無限次對殺了雙親的盜賊進行復仇的世界。&quot;
+        ///&quot;Text_03&quot;,&quot;……欸？
+        ///祢在説什麼……？
+        ///露娜聽不明白阿……。&quot;
+        ///&quot;Text_04&quot;,&quot;原來如此。
+        ///祢將自己的記憶封存了起來。
+        ///&quot;
+        ///&quot;Text_05&quot;,&quot;祢出生在一個優越的家庭。
+        ///有著善良温柔的雙親，祢的生活充滿自由歡樂。
+        ///……直到盜賊闖進家門之前。&quot;
+        ///&quot;Text_06&quot;,&quot;祢照著父母所言，
+        ///藏在了衣櫃裡。
+        ///抱著自己喜歡的人偶，控制不住害怕地發抖。&quot;
+        ///&quot;Text_07&quot;,&quot;辱罵。咆哮。悲鳴。
+        ///…祢應該記得的。打開衣櫃的門，
+        ///在祢面前的……是渾身鮮血的父母。&quot;
+        ///&quot;Text_08&quot;,&quot;不能再和祢在一起了，對不起……。
+        ///
+        ///&quot;
+        ///&quot;Text_09&quot;,&quot;露娜……祢要活下去……。
+        ///幸福的……活下去阿……。
+        ///&quot;
+        ///&quot;Text_10&quot;,&quot;……不是罷。
+        ///這……絶不是真的。
+        ///&quot;
+        ///&quot;Text_11&quot;,&quot;雙親倒在了血泊之中， [字符串的其余部分被截断]&quot;; 的本地化字符串。
+        /// </summary>
+        internal static string scenario_text_5_13_2 {
+            get {
+                return ResourceManager.GetString("scenario_text_5_13_2", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   查找类似 &quot;dummy&quot;
+        ///&quot;Text_01&quot;,&quot;耙耙……。
+        ///媽媽……。
+        ///露娜，好孤單阿……。&quot;
+        ///&quot;Text_02&quot;,&quot;露娜，能和耙耙媽媽説話的罷……？
+        ///可以的罷……？
+        ///&quot;
+        ///&quot;Text_03&quot;,&quot;阿……。
+        ///阿阿……。
+        ///&quot;
+        ///&quot;Text_04&quot;,&quot;……那是在做夢嘛？
+        ///還是説是騙人的……？
+        ///&quot;
+        ///&quot;Text_05&quot;,&quot;……那就看祢的想法了。
+        ///不過對於祢來説，
+        ///那只是些無關緊要的小事。……。&quot;
+        ///&quot;Text_06&quot;,&quot;……聽不明白了。
+        ///什麼，都不清楚了。
+        ///露娜該怎麼辨？&quot;
+        ///&quot;Text_07&quot;,&quot;不用多久救贖就將到來。
+        ///在那之前……只需靜靜等待就好。
+        ///&quot;
+        ///&quot;Text_08&quot;,&quot;……只要露娜等著，
+        ///就能和耙耙媽媽説話了嘛？
+        ///這不太可能罷。&quot;
+        ///&quot;Text_09&quot;,&quot;……。
+        ///
+        ///&quot;
+        ///&quot;Text_10&quot;,&quot;露娜已經決定了。
+        ///……露娜想和耙耙媽媽説話。
+        ///像以前一樣。像剛才一樣……。&quot;
+        ///&quot;Text_11&quot;,&quot;所以才給了祢這個夢境。
+        ///能和雙親一起生活，讓祢實現願望的夢境。
+        ///&quot;
+        ///&quot;Text_12&quot;,&quot;露娜……。
+        ///
+        ///&quot;
+        ///&quot;Text_13&quot;,&quot;……只要在夢境中，
+        ///他們就會一直出現的 [字符串的其余部分被截断]&quot;; 的本地化字符串。
+        /// </summary>
+        internal static string scenario_text_5_14_1 {
+            get {
+                return ResourceManager.GetString("scenario_text_5_14_1", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   查找类似 &quot;dummy&quot;
+        ///&quot;Text_01&quot;,&quot;……我已經感受到祢的決心了。
+        ///請罷……朝著這邊前進罷。
+        ///&quot;
+        ///&quot;Text_02&quot;,&quot;恩。
+        ///
+        ///&quot;
+        ///&quot;Text_03&quot;,&quot;對不起。
+        ///我不能治癒祢的傷痕……
+        ///我，什麼也做不到……。&quot;
+        ///&quot;Text_04&quot;,&quot;為什麼要道歉吶？
+        ///是露娜的錯。
+        ///露娜是個壞孩子。&quot;
+        ///&quot;Text_05&quot;,&quot;阿阿阿阿…。
+        ///
+        ///&quot;
+        ///&quot;Text_06&quot;,&quot;讓耙耙和媽媽受苦，都是露娜的錯。
+        ///露娜説過，讓把耙耙媽媽還回來……
+        ///才變成現在的情況的。&quot;
+        ///&quot;Text_07&quot;,&quot;那個，露娜我……想起來了。
+        ///……死亡就是永遠的別離。
+        ///&quot;
+        ///&quot;Text_08&quot;,&quot;……。
+        ///
+        ///&quot;
+        ///&quot;Text_09&quot;,&quot;已經不能再和耙耙媽媽説話了吶。
+        ///因為露娜的耙耙媽媽已經死了。
+        ///&quot;
+        ///&quot;Text_10&quot;,&quot;……大姐姐。
+        ///露娜想要幇耙耙媽媽的話，該怎麼辨吶？
+        ///露娜死了就可以嘛？&quot;
+        ///&quot;Text_11&quot;,&quot;……不好意思。
+        ///我不清楚……。
+        ///&quot;
+        ///&quot;Text_12&quot;,&quot;……好罷。
+        ///那麼再見了，大姐姐。
+        ///拜拜。&quot;
+        ///&quot;Text_13&quot;,&quot;……露娜好想一直在這裡。
+        ///能和耙耙媽媽一起玩……
+        ///能吃到 [字符串的其余部分被截断]&quot;; 的本地化字符串。
+        /// </summary>
+        internal static string scenario_text_5_14_2 {
+            get {
+                return ResourceManager.GetString("scenario_text_5_14_2", resourceCulture);
             }
         }
         
@@ -3161,7 +3929,7 @@ namespace Galstars.Extensions {
         ///&quot;Text_12&quot;,&quot;吾乃涅墨西斯。
         ///世界之調和者。&quot;
         ///&quot;Text_13&quot;,&quot;終焉之門即將打開。
-        ///獻祭汝之黑暗，成為光之基石。&quot;
+        ///獻祭汝之黑闇，成為光之基石。&quot;
         ///&quot;Text_14&quot;,&quot;無需恐懼。
         ///光之彼岸，萬般苦痛皆歸於夢。&quot;
         ///&quot;Text_15&quot;,&quot;來罷，露娜。&quot;
@@ -3694,7 +4462,7 @@ namespace Galstars.Extensions {
         ///&quot;Text_06&quot;,&quot;吾乃涅墨西斯。
         ///世界之調和者。&quot;
         ///&quot;Text_07&quot;,&quot;終焉之門即將打開。
-        ///獻祭汝之黑暗，成為光之基石。&quot;
+        ///獻祭汝之黑闇，成為光之基石。&quot;
         ///&quot;Text_08&quot;,&quot;這是…！&quot;
         ///&quot;Text_09&quot;,&quot;無需恐懼。
         ///光之彼岸，萬般苦痛皆歸於夢。&quot;
@@ -3720,7 +4488,7 @@ namespace Galstars.Extensions {
         ///&quot;Text_01&quot;,&quot;嗚……。&quot;
         ///&quot;Text_02&quot;,&quot;沒事罷！？
         ///伊莉絲大人！！&quot;
-        ///&quot;Text_03&quot;,&quot;祢們是……什麼地方位阿……？&quot;
+        ///&quot;Text_03&quot;,&quot;祢們是……什麼人阿……？&quot;
         ///&quot;Text_04&quot;,&quot;祢在説什麼笑阿……！？&quot;
         ///&quot;Text_05&quot;,&quot;什麼……該不會！
         ///怎麼會這樣…！&quot;
@@ -3740,7 +4508,7 @@ namespace Galstars.Extensions {
         ///&quot;Text_16&quot;,&quot;（那個印記…，和災厄之樹很像…。）&quot;
         ///&quot;Text_17&quot;,&quot;嗚…！&quot;
         ///&quot;Text_18&quot;,&quot;（好疼…，右眼…。）&quot;
-        ///&quot;Text_19&quot; [字符串的其余部分被截断]&quot;; 的本地化字符串。
+        ///&quot;Text_19&quot;,&quot; [字符串的其余部分被截断]&quot;; 的本地化字符串。
         /// </summary>
         internal static string scenario_text_7_1_1 {
             get {
@@ -3886,7 +4654,7 @@ namespace Galstars.Extensions {
         ///&quot;Text_01&quot;,&quot;（該到了罷…。）&quot;
         ///&quot;Text_02&quot;,&quot;説起來還真是毛骨悚然的地方…
         ///…呀阿！&quot;
-        ///&quot;Text_03&quot;,&quot;（阿…，討厭黑暗的森林…。）&quot;
+        ///&quot;Text_03&quot;,&quot;（阿…，討厭黑闇的森林…。）&quot;
         ///&quot;Text_04&quot;,&quot;嗚阿阿阿阿！&quot;
         ///&quot;Text_05&quot;,&quot;阿！
         ///又是……&quot;
@@ -3951,10 +4719,10 @@ namespace Galstars.Extensions {
         ///&quot;Text_05&quot;,&quot;就是字面意思哦。
         ///我們為了拯救這個世界，
         ///祈禱著大門的降臨。&quot;
-        ///&quot;Text_06&quot;,&quot;打開那扇大門的鑰匙，是人心的黑暗。&quot;
+        ///&quot;Text_06&quot;,&quot;打開那扇大門的鑰匙，是人心的黑闇。&quot;
         ///&quot;Text_07&quot;,&quot;我從背負著沈重的殘酷的人那裡，
-        ///收集他們的黑暗。&quot;
-        ///&quot;Text_08&quot;,&quot;被祢打倒的東西，可以説是心中黑暗的殘渣。&quot;
+        ///收集他們的黑闇。&quot;
+        ///&quot;Text_08&quot;,&quot;被祢打倒的東西，可以説是心中黑闇的殘渣。&quot;
         ///&quot;Text_09&quot;,&quot;到底是怎麼樣做到的…。&quot;
         ///&quot;Text_10&quot;,&quot;那扇門打開了會發生什麼？&quot;
         ///&quot;Text_11&quot;,&quot;人們會被指引到永遠的夢之世界，
@@ -3984,7 +4752,7 @@ namespace Galstars.Extensions {
         ///&quot;Text_06&quot;,&quot;和以往的都不一樣…！&quot;
         ///&quot;Text_07&quot;,&quot;虚無的世界…。&quot;
         ///&quot;Text_08&quot;,&quot;好強大的力量…。
-        ///這也是某人心中的黑暗麼…。&quot;
+        ///這也是某人心中的黑闇麼…。&quot;
         /// 的本地化字符串。
         /// </summary>
         internal static string scenario_text_7_6_1 {
@@ -4108,7 +4876,7 @@ namespace Galstars.Extensions {
         ///&quot;Text_07&quot;,&quot;吾乃涅墨西斯。
         ///世界之調和者。&quot;
         ///&quot;Text_08&quot;,&quot;終焉之門即將打開。
-        ///獻祭汝之黑暗，成為光之基石。&quot;
+        ///獻祭汝之黑闇，成為光之基石。&quot;
         ///&quot;Text_09&quot;,&quot;我苦苦等待，就是為了這個時刻。&quot;
         ///&quot;Text_10&quot;,&quot;無需恐懼。
         ///光之彼岸，萬般苦痛皆歸於夢。&quot;

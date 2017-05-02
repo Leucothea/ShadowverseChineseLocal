@@ -16,7 +16,7 @@ namespace ShadowverseLangPatch
             try
             {
                 Console.ForegroundColor = ConsoleColor.Yellow;
-                Console.WriteLine("暗影之诗 Shadowverse PC+Mac简繁汉化补丁 v5.4");
+                Console.WriteLine("暗影之诗 Shadowverse PC+Mac简繁汉化补丁 v5.5");
                 Console.WriteLine("汉化：淺夏 <http://steam.pm/id/fylab>");
                 Console.WriteLine("      岚兮雨汐 <http://steam.pm/id/momohu>");
                 Console.WriteLine("      蔽月八云 <http://steam.pm/id/yakumo17s>");
@@ -174,7 +174,7 @@ namespace ShadowverseLangPatch
         {
             if (!flag)
                 return true;
-            //第1部分
+            //1
             var type = assembly.MainModule.Types.FirstOrDefault(x => x.FullName == "Global");
             if (type != null)
             {
@@ -187,7 +187,7 @@ namespace ShadowverseLangPatch
                     {
                         method.Body.Instructions[217] = Instruction.Create(OpCodes.Ldstr, "TT0818M");
                         method.Body.Instructions[219] = Instruction.Create(OpCodes.Ldstr, "TT0818M");
-                        //第2部分
+                        //2
                         type = assembly.MainModule.Types.FirstOrDefault(x => x.FullName == "UILabel");
                         if (type != null)
                         {
