@@ -88,7 +88,7 @@ namespace Galstars.Extensions {
         }
         
         /// <summary>
-        ///   查找类似 {&quot;Battle_keyword_Title_0001&quot;:&quot;戰吼&quot;,&quot;Battle_keyword_Title_0002&quot;:&quot;終語&quot;,&quot;Battle_keyword_Title_0003&quot;:&quot;進化時&quot;,&quot;Battle_keyword_Title_0004&quot;:&quot;攻撃時&quot;,&quot;Battle_keyword_Title_0005&quot;:&quot;守護&quot;,&quot;Battle_keyword_Title_0006&quot;:&quot;疾走&quot;,&quot;Battle_keyword_Title_0007&quot;:&quot;潛伏&quot;,&quot;Battle_keyword_Title_0008&quot;:&quot;必殺&quot;,&quot;Battle_keyword_Title_0009&quot;:&quot;系命&quot;,&quot;Battle_keyword_Title_0010&quot;:&quot;覺醒&quot;,&quot;Battle_keyword_Title_0011&quot;:&quot;復仇&quot;,&quot;Battle_keyword_Title_0012&quot;:&quot;共鳴&quot;,&quot;Battle_keyword_Title_0013&quot;:&quot;詠唱&quot;,&quot;Battle_keyword_Title_0014&quot;:&quot;通靈&quot;,&quot;Battle_keyword_Title_0015&quot;:&quot;土之秘術&quot;,&quot;Battle_keyw [字符串的其余部分被截断]&quot;; 的本地化字符串。
+        ///   查找类似 {&quot;Battle_keyword_Title_0001&quot;:&quot;啓言&quot;,&quot;Battle_keyword_Title_0002&quot;:&quot;終語&quot;,&quot;Battle_keyword_Title_0003&quot;:&quot;進化時&quot;,&quot;Battle_keyword_Title_0004&quot;:&quot;攻撃時&quot;,&quot;Battle_keyword_Title_0005&quot;:&quot;守護&quot;,&quot;Battle_keyword_Title_0006&quot;:&quot;疾走&quot;,&quot;Battle_keyword_Title_0007&quot;:&quot;潛伏&quot;,&quot;Battle_keyword_Title_0008&quot;:&quot;必殺&quot;,&quot;Battle_keyword_Title_0009&quot;:&quot;系命&quot;,&quot;Battle_keyword_Title_0010&quot;:&quot;覺醒&quot;,&quot;Battle_keyword_Title_0011&quot;:&quot;復仇&quot;,&quot;Battle_keyword_Title_0012&quot;:&quot;共鳴&quot;,&quot;Battle_keyword_Title_0013&quot;:&quot;詠唱&quot;,&quot;Battle_keyword_Title_0014&quot;:&quot;通靈&quot;,&quot;Battle_keyword_Title_0015&quot;:&quot;土之秘術&quot;,&quot;Battle_keyw [字符串的其余部分被截断]&quot;; 的本地化字符串。
         /// </summary>
         internal static string battlekeywordmaster {
             get {
@@ -115,7 +115,7 @@ namespace Galstars.Extensions {
         }
         
         /// <summary>
-        ///   查找类似 {&quot;BDPN_構築済みデッキ1弾_エルフ&quot;:&quot;白銀射手(精靈)&quot;,&quot;BDPN_構築済みデッキ1弾_ロイヤル&quot;:&quot;盛宴開場(皇室護衛)&quot;,&quot;BDPN_構築済みデッキ1弾_ウィッチ&quot;:&quot;法神降臨(巫師)&quot;,&quot;BDPN_構築済みデッキ1弾_ドラゴン&quot;:&quot;暗黑竜騎(竜)&quot;,&quot;BDPN_構築済みデッキ1弾_ネクロマンサー&quot;:&quot;冥炎咆哮(死靈術士)&quot;,&quot;BDPN_構築済みデッキ1弾_ヴァンパイア&quot;:&quot;女王之吻(吸血鬼)&quot;,&quot;BDPN_構築済みデッキ1弾_ビショップ&quot;:&quot;聖潔戰場(主教)&quot;} 的本地化字符串。
+        ///   查找类似 {&quot;BDPN_構築済みデッキ1弾_エルフ&quot;:&quot;白銀射手(精靈)&quot;,&quot;BDPN_構築済みデッキ1弾_ロイヤル&quot;:&quot;盛宴開場(皇室護衛)&quot;,&quot;BDPN_構築済みデッキ1弾_ウィッチ&quot;:&quot;法神降臨(巫師)&quot;,&quot;BDPN_構築済みデッキ1弾_ドラゴン&quot;:&quot;闇黑竜騎(竜)&quot;,&quot;BDPN_構築済みデッキ1弾_ネクロマンサー&quot;:&quot;冥炎咆哮(死靈術士)&quot;,&quot;BDPN_構築済みデッキ1弾_ヴァンパイア&quot;:&quot;女王之吻(吸血鬼)&quot;,&quot;BDPN_構築済みデッキ1弾_ビショップ&quot;:&quot;聖潔戰場(主教)&quot;} 的本地化字符串。
         /// </summary>
         internal static string builddeckproducttextmaster {
             get {
@@ -133,7 +133,7 @@ namespace Galstars.Extensions {
         }
         
         /// <summary>
-        ///   查找类似 {&quot;CN_100011010&quot;:&quot;地精戰士&quot;,&quot;CN_100011020&quot;:&quot;格鬥士&quot;,&quot;CN_101011010&quot;:&quot;牛頭怪&quot;,&quot;CN_101011020&quot;:&quot;沙漠騎手&quot;,&quot;CN_100011030&quot;:&quot;流浪傭兵&quot;,&quot;CN_100011040&quot;:&quot;巨兵衛&quot;,&quot;CN_100011050&quot;:&quot;天劍神女&quot;,&quot;CN_101011030&quot;:&quot;執盾天使&quot;,&quot;CN_100031010&quot;:&quot;囚罪雙子・烈焰&quot;,&quot;CN_100031020&quot;:&quot;囚罪雙子・琉璃&quot;,&quot;CN_101021010&quot;:&quot;聖鈴天使&quot;,&quot;CN_101021020&quot;:&quot;蜥蜴怪人&quot;,&quot;CN_101011040&quot;:&quot;愈光天使&quot;,&quot;CN_101021030&quot;:&quot;英雄王・吉爾伽美什&quot;,&quot;CN_101021040&quot;:&quot;地精惡魔騎手&quot;,&quot;CN_101031010&quot;:&quot;命運之末・烏露德&quot;,&quot;CN_101031020&quot;:&quot;天流風神&quot;,&quot;CN_101031030&quot;:&quot;天翼喰魔&quot;,&quot;CN_101031040&quot;:&quot;軍神・雅典娜&quot;,&quot;CN_101041010&quot;:&quot;啓言天使・加百列&quot;,&quot;CN_101041020&quot;:&quot;晨星天使・路西法&quot;,&quot;CN_101041030&quot;:&quot;地獄之主・撒旦&quot;, [字符串的其余部分被截断]&quot;; 的本地化字符串。
+        ///   查找类似 {&quot;CN_100011010&quot;:&quot;地精戰士&quot;,&quot;CN_100011020&quot;:&quot;格鬥士&quot;,&quot;CN_101011010&quot;:&quot;牛頭怪&quot;,&quot;CN_101011020&quot;:&quot;沙漠騎手&quot;,&quot;CN_100011030&quot;:&quot;流浪傭兵&quot;,&quot;CN_100011040&quot;:&quot;巨兵衛&quot;,&quot;CN_100011050&quot;:&quot;天劍神女&quot;,&quot;CN_101011030&quot;:&quot;執盾天使&quot;,&quot;CN_100031010&quot;:&quot;囚罪雙子・烈焰&quot;,&quot;CN_100031020&quot;:&quot;囚罪雙子・琉璃&quot;,&quot;CN_101021010&quot;:&quot;聖鈴天使&quot;,&quot;CN_101021020&quot;:&quot;蜥蜴怪人&quot;,&quot;CN_101011040&quot;:&quot;愈光天使&quot;,&quot;CN_101021030&quot;:&quot;英雄王・吉爾伽美什&quot;,&quot;CN_101021040&quot;:&quot;地精惡魔騎手&quot;,&quot;CN_101031010&quot;:&quot;命運之末・烏露德&quot;,&quot;CN_101031020&quot;:&quot;天流風神&quot;,&quot;CN_101031030&quot;:&quot;天翼喰魔&quot;,&quot;CN_101031040&quot;:&quot;知惠神・雅典娜&quot;,&quot;CN_101041010&quot;:&quot;聖告天使・加百列&quot;,&quot;CN_101041020&quot;:&quot;晨星天使・路西法&quot;,&quot;CN_101041030&quot;:&quot;地獄之主・撒旦&quot; [字符串的其余部分被截断]&quot;; 的本地化字符串。
         /// </summary>
         internal static string cardnametextmaster {
             get {
@@ -142,7 +142,7 @@ namespace Galstars.Extensions {
         }
         
         /// <summary>
-        ///   查找类似 {&quot;90000_long&quot;:&quot;代幣&quot;,&quot;90000_short&quot;:&quot;TKN&quot;,&quot;10000_long&quot;:&quot;基本&quot;,&quot;10000_short&quot;:&quot;BSC&quot;,&quot;10001_long&quot;:&quot;標準&quot;,&quot;10001_short&quot;:&quot;STD&quot;,&quot;10002_long&quot;:&quot;黑暗進化&quot;,&quot;10002_short&quot;:&quot;DRK&quot;,&quot;10003_long&quot;:&quot;巴哈姆特降臨&quot;,&quot;10003_short&quot;:&quot;ROB&quot;,&quot;10004_long&quot;:&quot;諸神狂嵐&quot;,&quot;10004_short&quot;:&quot;TOG&quot;} 的本地化字符串。
+        ///   查找类似 {&quot;90000_long&quot;:&quot;代幣&quot;,&quot;90000_short&quot;:&quot;TKN&quot;,&quot;10000_long&quot;:&quot;基本&quot;,&quot;10000_short&quot;:&quot;BSC&quot;,&quot;10001_long&quot;:&quot;標準&quot;,&quot;10001_short&quot;:&quot;STD&quot;,&quot;10002_long&quot;:&quot;黑闇進化&quot;,&quot;10002_short&quot;:&quot;DRK&quot;,&quot;10003_long&quot;:&quot;巴哈姆特降臨&quot;,&quot;10003_short&quot;:&quot;ROB&quot;,&quot;10004_long&quot;:&quot;諸神狂嵐&quot;,&quot;10004_short&quot;:&quot;TOG&quot;} 的本地化字符串。
         /// </summary>
         internal static string cardsetnametextmaster {
             get {
@@ -214,7 +214,7 @@ namespace Galstars.Extensions {
         }
         
         /// <summary>
-        ///   查找类似 {&quot;EM_シャドウバース&quot;:&quot;暗影之詩&quot;,&quot;EM_アリサ&quot;:&quot;亞里莎&quot;,&quot;EM_エリカ&quot;:&quot;艾莉華&quot;,&quot;EM_イザベル&quot;:&quot;伊莎貝爾&quot;,&quot;EM_ローウェン&quot;:&quot;羅文&quot;,&quot;EM_ルナ&quot;:&quot;露娜&quot;,&quot;EM_ユリアス&quot;:&quot;尤里亞斯&quot;,&quot;EM_イリス&quot;:&quot;伊莉絲&quot;,&quot;EM_セルウィン&quot;:&quot;箭神・塞爾温&quot;,&quot;EM_レイサム&quot;:&quot;無畏先鋒・萊瑟姆&quot;,&quot;EM_エラスムス&quot;:&quot;大召喚師・伊拉斯謨&quot;,&quot;EM_フォルテ&quot;:&quot;黑竜戰騎・法露特&quot;,&quot;EM_モルディカイ&quot;:&quot;決死者・莫迪凱&quot;,&quot;EM_ヴァンピィ&quot;:&quot;吸血姫・斑比&quot;,&quot;EM_ガルラ&quot;:&quot;天煌守護者・迦樓羅&quot;,&quot;EM_ルシフェル&quot;:&quot;晨星天使・路西法&quot;,&quot;EM_アテナ&quot;:&quot;軍神・雅典娜&quot;,&quot;EM_ファイター&quot;:&quot;格斗士&quot;,&quot;EM_ローズクイーン&quot;:&quot;真紅薔薇女皇&quot;,&quot;EM_ロビンフッド&quot;:&quot;森綠義賊・羅賓漢&quot;,&quot;EM_森の聖域&quot;:&quot;森之聖域&quot;,&quot;EM_ベビーエルフ・メイ&quot;:&quot;年幼精靈・梅伊&quot;,&quot;EM_ロイヤルセイバー・オーレリア&quot;:&quot;聖御劍士・奧蕾莉亞&quot;,&quot;EM_騎士王の威光&quot;:&quot;騎士王的威光&quot;,&quot;EM_アドミラル&quot;:&quot;海軍上將&quot;,&quot;EM_ジャイアントスレイヤー&quot;:&q... 的本地化字符串。
+        ///   查找类似 {&quot;EM_シャドウバース&quot;:&quot;闇影詩章&quot;,&quot;EM_アリサ&quot;:&quot;亞里莎&quot;,&quot;EM_エリカ&quot;:&quot;艾莉華&quot;,&quot;EM_イザベル&quot;:&quot;伊莎貝爾&quot;,&quot;EM_ローウェン&quot;:&quot;羅文&quot;,&quot;EM_ルナ&quot;:&quot;露娜&quot;,&quot;EM_ユリアス&quot;:&quot;尤里亞斯&quot;,&quot;EM_イリス&quot;:&quot;伊莉絲&quot;,&quot;EM_セルウィン&quot;:&quot;箭神・塞爾温&quot;,&quot;EM_レイサム&quot;:&quot;無畏先鋒・萊瑟姆&quot;,&quot;EM_エラスムス&quot;:&quot;大召喚師・伊拉斯謨&quot;,&quot;EM_フォルテ&quot;:&quot;黑竜戰騎・法露特&quot;,&quot;EM_モルディカイ&quot;:&quot;決死者・莫迪凱&quot;,&quot;EM_ヴァンピィ&quot;:&quot;吸血姫・斑比&quot;,&quot;EM_ガルラ&quot;:&quot;天煌守護者・迦樓羅&quot;,&quot;EM_ルシフェル&quot;:&quot;晨星天使・路西法&quot;,&quot;EM_アテナ&quot;:&quot;知惠神・雅典娜&quot;,&quot;EM_ファイター&quot;:&quot;格斗士&quot;,&quot;EM_ローズクイーン&quot;:&quot;真紅薔薇女皇&quot;,&quot;EM_ロビンフッド&quot;:&quot;森綠義賊・羅賓漢&quot;,&quot;EM_森の聖域&quot;:&quot;森之聖域&quot;,&quot;EM_ベビーエルフ・メイ&quot;:&quot;年幼精靈・梅伊&quot;,&quot;EM_ロイヤルセイバー・オーレリア&quot;:&quot;聖御劍士・奧蕾莉亞&quot;,&quot;EM_騎士王の威光&quot;:&quot;騎士王的威光&quot;,&quot;EM_アドミラル&quot;:&quot;海軍上將&quot;,&quot;EM_ジャイアントスレイヤー&quot;:&... 的本地化字符串。
         /// </summary>
         internal static string emblemtextmaster {
             get {
@@ -241,7 +241,7 @@ namespace Galstars.Extensions {
         }
         
         /// <summary>
-        ///   查找类似 {&quot;Error_DEFAULT&quot;:&quot;發生錯誤。\n如果問題無法解決，\n煩請附上錯誤代碼進行諮詢。\n（錯誤代碼{0}）&quot;,&quot;Error_0001&quot;:&quot;錯誤&quot;,&quot;Error_0002&quot;:&quot;錯誤&quot;,&quot;Error_0003&quot;:&quot;出錯了&quot;,&quot;Error_0004&quot;:&quot;{0}出錯了。&quot;,&quot;Error_0005&quot;:&quot;系統維護中。\n\n在維護結束之前，請祢耐心等待。&quot;,&quot;Error_0006&quot;:&quot;超時了。&quot;,&quot;Error_0009&quot;:&quot;繼承失敗了。\n（錯誤代碼：9）&quot;,&quot;Error_0010&quot;:&quot;繼承的設定失敗了。\n（錯誤代碼：10）&quot;,&quot;Error_0011&quot;:&quot;存档的繼承失敗了。\n（錯誤代碼：11）&quot;,&quot;Error_0012&quot;:&quot;網路連接發生錯誤。\n\n請確認網路連接状況後重試。\n&quot;,&quot;Error_0007&quot;:&quot;超出字數限制或使用了禁止使用的字詞。&quot;,&quot;Error_0008&quot;:&quot;無法使用特殊符號和繪文字。&quot;,&quot;Error_0013&quot;:&quot;檢測到有新的資料。\n請返回開始畫面進行資料下載。&quot;,&quot;Error_0100&quot;:&quot;發生錯誤。\n如果問題無法解決，\n煩請附上錯誤代碼進行諮詢。\n（錯誤代碼：100）&quot;, [字符串的其余部分被截断]&quot;; 的本地化字符串。
+        ///   查找类似 {&quot;Error_DEFAULT&quot;:&quot;發生錯誤。\n如果問題無法解決，\n煩請附上錯誤代碼進行諮詢。\n(錯誤代碼{0})&quot;,&quot;Error_0001&quot;:&quot;錯誤&quot;,&quot;Error_0002&quot;:&quot;錯誤&quot;,&quot;Error_0003&quot;:&quot;出錯了&quot;,&quot;Error_0004&quot;:&quot;{0}出錯了。&quot;,&quot;Error_0005&quot;:&quot;系統維護中。\n\n在維護結束之前，請祢耐心等待。&quot;,&quot;Error_0006&quot;:&quot;超時了。&quot;,&quot;Error_0009&quot;:&quot;繼承失敗了。\n(錯誤代碼：9)&quot;,&quot;Error_0010&quot;:&quot;繼承的設定失敗了。\n(錯誤代碼：10)&quot;,&quot;Error_0011&quot;:&quot;存档的繼承失敗了。\n(錯誤代碼：11)&quot;,&quot;Error_0012&quot;:&quot;網路連接發生錯誤。\n\n請確認網路連接状況後重試。\n&quot;,&quot;Error_0007&quot;:&quot;超出字數限制或使用了禁止使用的字詞。&quot;,&quot;Error_0008&quot;:&quot;無法使用特殊符號和繪文字。&quot;,&quot;Error_0013&quot;:&quot;檢測到有新的資料。\n請返回開始畫面進行資料下載。&quot;,&quot;Error_0100&quot;:&quot;發生錯誤。\n如果問題無法解決，\n煩請附上錯誤代碼進行諮詢。\n(錯誤代碼：100)&quot;, [字符串的其余部分被截断]&quot;; 的本地化字符串。
         /// </summary>
         internal static string ErrorTextJson {
             get {
@@ -268,7 +268,7 @@ namespace Galstars.Extensions {
         }
         
         /// <summary>
-        ///   查找类似 {&quot;IT_1&quot;:&quot;競技場入場券&quot;,&quot;IT_1000&quot;:&quot;次元石&quot;,&quot;IT_10001&quot;:&quot;標準牌包兌換券&quot;,&quot;IT_10002&quot;:&quot;黑暗進化牌包兌換券&quot;,&quot;IT_10003&quot;:&quot;巴哈姆特降臨牌包兌換券&quot;,&quot;IT_10004&quot;:&quot;諸神狂嵐牌包兌換券&quot;,&quot;IT_10005&quot;:&quot;未來版本新牌包兌換券&quot;} 的本地化字符串。
+        ///   查找类似 {&quot;IT_1&quot;:&quot;競技場入場券&quot;,&quot;IT_1000&quot;:&quot;次元石&quot;,&quot;IT_10001&quot;:&quot;標準牌包兌換券&quot;,&quot;IT_10002&quot;:&quot;黑闇進化牌包兌換券&quot;,&quot;IT_10003&quot;:&quot;巴哈姆特降臨牌包兌換券&quot;,&quot;IT_10004&quot;:&quot;諸神狂嵐牌包兌換券&quot;,&quot;IT_10005&quot;:&quot;未來版本新牌包兌換券&quot;} 的本地化字符串。
         /// </summary>
         internal static string itemtextmaster {
             get {
@@ -286,7 +286,7 @@ namespace Galstars.Extensions {
         }
         
         /// <summary>
-        ///   查找类似 {&quot;LSSI_神撃のバハムート&quot;:&quot;巴哈姆特之怒皮膚。\n\n祢可以在個人資料界面切換皮膚。&quot;,&quot;LSSSN_神撃のバハムート&quot;:&quot;巴哈姆特之怒皮膚包&quot;,&quot;LSSI_SF5&quot;:&quot;快打旋風5皮膚。\n\n祢可以在個人資料界面切換皮膚。&quot;,&quot;LSSSN_SF5&quot;:&quot;快打旋風5皮膚包&quot;} 的本地化字符串。
+        ///   查找类似 {&quot;LSSI_神撃のバハムート&quot;:&quot;巴哈姆特之怒皮膚。\n\n祢可以在個人資料介面切換皮膚。&quot;,&quot;LSSSN_神撃のバハムート&quot;:&quot;巴哈姆特之怒皮膚包&quot;,&quot;LSSI_SF5&quot;:&quot;快打旋風5皮膚。\n\n祢可以在個人資料介面切換皮膚。&quot;,&quot;LSSSN_SF5&quot;:&quot;快打旋風5皮膚包&quot;} 的本地化字符串。
         /// </summary>
         internal static string leaderskinseriestextmaster {
             get {
@@ -322,7 +322,7 @@ namespace Galstars.Extensions {
         }
         
         /// <summary>
-        ///   查找类似 {&quot;Mission_0001&quot;:&quot;任務&quot;,&quot;Mission_0003&quot;:&quot;任務詳細内容&quot;,&quot;Mission_0002&quot;:&quot;成就&quot;,&quot;Mission_0007&quot;:&quot;成就詳細内容&quot;,&quot;Mission_0008&quot;:&quot;解鎖&quot;,&quot;Mission_0005&quot;:&quot;解鎖新的任務欄&quot;,&quot;Mission_0004&quot;:&quot;解鎖追加欄&quot;,&quot;Mission_0006&quot;:&quot;因已經達到可接受任務的數量上限，購買[ffca45]{0}[-]個追加任務欄嘛？&quot;,&quot;Mission_0009&quot;:&quot;報酬：&quot;,&quot;Mission_0010&quot;:&quot;未達成&quot;,&quot;Mission_0011&quot;:&quot;達成率&quot;,&quot;Mission_0012&quot;:&quot;完成&quot;,&quot;Mission_0013&quot;:&quot;請到任務界面\n領取報酬。&quot;,&quot;Mission_0014&quot;:&quot;報酬：{0}ｘ{1}個&quot;,&quot;Mission_0015&quot;:&quot;放棄&quot;,&quot;Mission_0016&quot;:&quot;離下一個任務&quot;,&quot;Mission_0017&quot;:&quot;達成度：{0}/{1}勝&quot;,&quot;Mission_0018&quot;:&quot;消費水晶&quot;,&quot;Mission_0019&quot;:&quot;[ffca45]{0}[-]個/{1}/日&quot;,&quot;Mission_0020&quot;:&quot;到{0 [字符串的其余部分被截断]&quot;; 的本地化字符串。
+        ///   查找类似 {&quot;Mission_0001&quot;:&quot;任務&quot;,&quot;Mission_0003&quot;:&quot;任務詳細内容&quot;,&quot;Mission_0002&quot;:&quot;成就&quot;,&quot;Mission_0007&quot;:&quot;成就詳細内容&quot;,&quot;Mission_0008&quot;:&quot;解鎖&quot;,&quot;Mission_0005&quot;:&quot;解鎖新的任務欄&quot;,&quot;Mission_0004&quot;:&quot;解鎖追加欄&quot;,&quot;Mission_0006&quot;:&quot;因已經達到可接受任務的數量上限，購買[ffca45]{0}[-]個追加任務欄嘛？&quot;,&quot;Mission_0009&quot;:&quot;報酬：&quot;,&quot;Mission_0010&quot;:&quot;未達成&quot;,&quot;Mission_0011&quot;:&quot;達成率&quot;,&quot;Mission_0012&quot;:&quot;完成&quot;,&quot;Mission_0013&quot;:&quot;請到任務介面\n領取報酬。&quot;,&quot;Mission_0014&quot;:&quot;報酬：{0}ｘ{1}個&quot;,&quot;Mission_0015&quot;:&quot;放棄&quot;,&quot;Mission_0016&quot;:&quot;離下一個任務&quot;,&quot;Mission_0017&quot;:&quot;達成度：{0}/{1}勝&quot;,&quot;Mission_0018&quot;:&quot;消費水晶&quot;,&quot;Mission_0019&quot;:&quot;[ffca45]{0}[-]個/{1}/日&quot;,&quot;Mission_0020&quot;:&quot;到{0 [字符串的其余部分被截断]&quot;; 的本地化字符串。
         /// </summary>
         internal static string MissionTextJson {
             get {
@@ -331,7 +331,7 @@ namespace Galstars.Extensions {
         }
         
         /// <summary>
-        ///   查找类似 {&quot;MyPage_0001&quot;:&quot;主界面&quot;,&quot;MyPage_0002&quot;:&quot;單人&quot;,&quot;MyPage_0003&quot;:&quot;對戰&quot;,&quot;MyPage_0004&quot;:&quot;競技場&quot;,&quot;MyPage_0005&quot;:&quot;收藏&quot;,&quot;MyPage_0006&quot;:&quot;商店&quot;,&quot;MyPage_0007&quot;:&quot;其它&quot;,&quot;MyPage_0008&quot;:&quot;劇情模式&quot;,&quot;MyPage_0009&quot;:&quot;練習模式&quot;,&quot;MyPage_0010&quot;:&quot;自由匹配&quot;,&quot;MyPage_0011&quot;:&quot;天梯匹配&quot;,&quot;MyPage_0012&quot;:&quot;私人對戰&quot;,&quot;MyPage_0013&quot;:&quot;雙選模式&quot;,&quot;MyPage_0014&quot;:&quot;編輯牌組&quot;,&quot;MyPage_0015&quot;:&quot;牌一覽/製作&quot;,&quot;MyPage_0016&quot;:&quot;購買牌包&quot;,&quot;MyPage_0017&quot;:&quot;購買禮包&quot;,&quot;MyPage_0018&quot;:&quot;購買水晶&quot;,&quot;MyPage_0019&quot;:&quot;和AI對戰&quot;,&quot;MyPage_0020&quot;:&quot;和段位相近的隨機玩家對戰\n排名不會發生變化&quot;,&quot;MyPage_0021&quot;:&quot;和段位相近的隨機玩家對戰\n排名會發生變化&quot;,&quot;MyPage_0022&quot;:&quot;和指定的玩家\n進行對戰&quot;} 的本地化字符串。
+        ///   查找类似 {&quot;MyPage_0001&quot;:&quot;主介面&quot;,&quot;MyPage_0002&quot;:&quot;單人&quot;,&quot;MyPage_0003&quot;:&quot;對戰&quot;,&quot;MyPage_0004&quot;:&quot;競技場&quot;,&quot;MyPage_0005&quot;:&quot;收藏&quot;,&quot;MyPage_0006&quot;:&quot;商店&quot;,&quot;MyPage_0007&quot;:&quot;其它&quot;,&quot;MyPage_0008&quot;:&quot;劇情模式&quot;,&quot;MyPage_0009&quot;:&quot;練習模式&quot;,&quot;MyPage_0010&quot;:&quot;自由匹配&quot;,&quot;MyPage_0011&quot;:&quot;天梯匹配&quot;,&quot;MyPage_0012&quot;:&quot;私人對戰&quot;,&quot;MyPage_0013&quot;:&quot;雙選模式&quot;,&quot;MyPage_0014&quot;:&quot;編輯牌組&quot;,&quot;MyPage_0015&quot;:&quot;牌一覽/製作&quot;,&quot;MyPage_0016&quot;:&quot;購買牌包&quot;,&quot;MyPage_0017&quot;:&quot;購買禮包&quot;,&quot;MyPage_0018&quot;:&quot;購買水晶&quot;,&quot;MyPage_0019&quot;:&quot;和AI對戰&quot;,&quot;MyPage_0020&quot;:&quot;和段位相近的隨機玩家對戰\n排名不會發生變化&quot;,&quot;MyPage_0021&quot;:&quot;和段位相近的隨機玩家對戰\n排名會發生變化&quot;,&quot;MyPage_0022&quot;:&quot;和指定的玩家\n進行對戰&quot;} 的本地化字符串。
         /// </summary>
         internal static string MyPageTextJson {
             get {
@@ -358,7 +358,7 @@ namespace Galstars.Extensions {
         }
         
         /// <summary>
-        ///   查找类似 {&quot;OtherFriend_0001&quot;:&quot;好友&quot;,&quot;OtherFriend_0002&quot;:&quot;好友一覽&quot;,&quot;OtherFriend_0003&quot;:&quot;申請中&quot;,&quot;OtherFriend_0004&quot;:&quot;等待通過&quot;,&quot;OtherFriend_0005&quot;:&quot;通過&quot;,&quot;OtherFriend_0006&quot;:&quot;好友檢索&quot;,&quot;OtherFriend_0007&quot;:&quot;上次登録時間&quot;,&quot;OtherFriend_0008&quot;:&quot;{0}分鐘前&quot;,&quot;OtherFriend_0009&quot;:&quot;{0}小時前&quot;,&quot;OtherFriend_0010&quot;:&quot;{0}天前&quot;,&quot;OtherFriend_0011&quot;:&quot;全部取消&quot;,&quot;OtherFriend_0012&quot;:&quot;移除&quot;,&quot;OtherFriend_0013&quot;:&quot;全部取消&quot;,&quot;OtherFriend_0014&quot;:&quot;通過&quot;,&quot;OtherFriend_0015&quot;:&quot;確認移除此好友嘛？&quot;,&quot;OtherFriend_0016&quot;:&quot;拒絶此好友申請嘛？&quot;,&quot;OtherFriend_0017&quot;:&quot;拒絶全部好友申請嘛？&quot;,&quot;OtherFriend_0018&quot;:&quot;通過好友申請嘛？&quot;,&quot;OtherFriend_0019&quot;:&quot;申請加此玩 [字符串的其余部分被截断]&quot;; 的本地化字符串。
+        ///   查找类似 {&quot;OtherFriend_0001&quot;:&quot;好友&quot;,&quot;OtherFriend_0002&quot;:&quot;好友一覽&quot;,&quot;OtherFriend_0003&quot;:&quot;申請中&quot;,&quot;OtherFriend_0004&quot;:&quot;等待通過&quot;,&quot;OtherFriend_0005&quot;:&quot;通過&quot;,&quot;OtherFriend_0006&quot;:&quot;好友檢索&quot;,&quot;OtherFriend_0007&quot;:&quot;上次登録時間&quot;,&quot;OtherFriend_0008&quot;:&quot;{0}分鐘前&quot;,&quot;OtherFriend_0009&quot;:&quot;{0}小時前&quot;,&quot;OtherFriend_0010&quot;:&quot;{0}天前&quot;,&quot;OtherFriend_0011&quot;:&quot;全部取消&quot;,&quot;OtherFriend_0012&quot;:&quot;移除&quot;,&quot;OtherFriend_0013&quot;:&quot;全部取消&quot;,&quot;OtherFriend_0014&quot;:&quot;通過&quot;,&quot;OtherFriend_0015&quot;:&quot;確認移除此好友嘛？&quot;,&quot;OtherFriend_0016&quot;:&quot;確認撤銷此申請嘛？&quot;,&quot;OtherFriend_0017&quot;:&quot;確認撤銷全部好友申請嘛？&quot;,&quot;OtherFriend_0018&quot;:&quot;通過好友申請嘛？&quot;,&quot;OtherFriend_0019&quot;:&quot;申請加 [字符串的其余部分被截断]&quot;; 的本地化字符串。
         /// </summary>
         internal static string OtherFriendTextJson {
             get {
@@ -376,7 +376,7 @@ namespace Galstars.Extensions {
         }
         
         /// <summary>
-        ///   查找类似 {&quot;Profile_0001&quot;:&quot;戰績&quot;,&quot;Profile_0002&quot;:&quot;昵稱&quot;,&quot;Profile_0003&quot;:&quot;稱號&quot;,&quot;Profile_0004&quot;:&quot;變更徽章&quot;,&quot;Profile_0005&quot;:&quot;變更旗幟&quot;,&quot;Profile_0006&quot;:&quot;變更稱號&quot;,&quot;Profile_0007&quot;:&quot;變更昵稱&quot;,&quot;Profile_0008&quot;:&quot;玩家ID&quot;,&quot;Profile_0009&quot;:&quot;複製&quot;,&quot;Profile_0010&quot;:&quot;對戰積分&quot;,&quot;Profile_0011&quot;:&quot;NEXT&quot;,&quot;Profile_0012&quot;:&quot;等級一覽&quot;,&quot;Profile_0013&quot;:&quot;職業角色勝利次數&quot;,&quot;Profile_0014&quot;:&quot;玩家名已變更為\n{0}&quot;,&quot;Profile_0015&quot;:&quot;已複製玩家ID&quot;,&quot;Profile_0016&quot;:&quot;Page&quot;,&quot;Profile_0017&quot;:&quot;不使用&quot;,&quot;Profile_0018&quot;:&quot;大師級菜單&quot;,&quot;Profile_0019&quot;:&quot;大師級等級&quot;,&quot;Profile_0020&quot;:&quot;大師級積分&quot;,&quot;Profile_0021&quot;:&quot;過去的等級&quot;,&quot;Profile_0022&quot;:&quot;等級&quot;,&quot;Profile_0023&quot;:&quot;統計中 [字符串的其余部分被截断]&quot;; 的本地化字符串。
+        ///   查找类似 {&quot;Profile_0001&quot;:&quot;戰績&quot;,&quot;Profile_0002&quot;:&quot;昵稱&quot;,&quot;Profile_0003&quot;:&quot;稱號&quot;,&quot;Profile_0004&quot;:&quot;變更徽章&quot;,&quot;Profile_0005&quot;:&quot;變更旗幟&quot;,&quot;Profile_0006&quot;:&quot;變更稱號&quot;,&quot;Profile_0007&quot;:&quot;變更昵稱&quot;,&quot;Profile_0008&quot;:&quot;玩家ID&quot;,&quot;Profile_0009&quot;:&quot;複製&quot;,&quot;Profile_0010&quot;:&quot;對戰積分&quot;,&quot;Profile_0011&quot;:&quot;NEXT&quot;,&quot;Profile_0012&quot;:&quot;等級一覽&quot;,&quot;Profile_0013&quot;:&quot;職業角色勝利次數&quot;,&quot;Profile_0014&quot;:&quot;玩家名已變更為\n{0}&quot;,&quot;Profile_0015&quot;:&quot;已複製玩家ID&quot;,&quot;Profile_0016&quot;:&quot;Page&quot;,&quot;Profile_0017&quot;:&quot;不使用&quot;,&quot;Profile_0018&quot;:&quot;大師級選單&quot;,&quot;Profile_0019&quot;:&quot;大師級等級&quot;,&quot;Profile_0020&quot;:&quot;大師級積分&quot;,&quot;Profile_0021&quot;:&quot;過去的等級&quot;,&quot;Profile_0022&quot;:&quot;等級&quot;,&quot;Profile_0023&quot;:&quot;統計中 [字符串的其余部分被截断]&quot;; 的本地化字符串。
         /// </summary>
         internal static string OtherProfileTextJson {
             get {
@@ -403,7 +403,7 @@ namespace Galstars.Extensions {
         }
         
         /// <summary>
-        ///   查找类似 {&quot;OtherTop_0001&quot;:&quot;個人資訊&quot;,&quot;OtherTop_0002&quot;:&quot;排行榜&quot;,&quot;OtherTop_0003&quot;:&quot;設定&quot;,&quot;OtherTop_0004&quot;:&quot;繼承&quot;,&quot;OtherTop_0005&quot;:&quot;好友&quot;,&quot;OtherTop_0006&quot;:&quot;協助&quot;,&quot;OtherTop_0007&quot;:&quot;諮詢&quot;,&quot;OtherTop_0009&quot;:&quot;隱私條款&quot;,&quot;OtherTop_0010&quot;:&quot;服務協議&quot;,&quot;OtherTop_0012&quot;:&quot;視頻録像設定&quot;,&quot;OtherTop_0014&quot;:&quot;其它&quot;,&quot;OtherTop_0015&quot;:&quot;相關連結&quot;,&quot;OtherTop_0017&quot;:&quot;下載數據&quot;,&quot;OtherTop_0018&quot;:&quot;下載遊戲存档數據嘛？\n※推薦在連接Wi-Fi後下載。&quot;,&quot;OtherTop_0019&quot;:&quot;遊戲存档資料下載完成。&quot;,&quot;OtherTop_0020&quot;:&quot;如果祢已擁有Shadowverse遊戲帳號，請選擇「繼承」。\n通過輸入玩家ID和密碼可以繼承帳號資料以繼續遊戲。\n如果繼承帳號資料，\n[ffcd45]會覆蓋當前帳號數據。[-]&quot;,&quot;OtherTop_0021&quot;:&quot;指南&quot;,&quot;OtherTop_0022&quot;: [字符串的其余部分被截断]&quot;; 的本地化字符串。
+        ///   查找类似 {&quot;OtherTop_0001&quot;:&quot;個人資訊&quot;,&quot;OtherTop_0002&quot;:&quot;排行榜&quot;,&quot;OtherTop_0003&quot;:&quot;設定&quot;,&quot;OtherTop_0004&quot;:&quot;繼承&quot;,&quot;OtherTop_0005&quot;:&quot;好友&quot;,&quot;OtherTop_0006&quot;:&quot;協助&quot;,&quot;OtherTop_0007&quot;:&quot;諮詢&quot;,&quot;OtherTop_0009&quot;:&quot;隱私條款&quot;,&quot;OtherTop_0009_Update&quot;:&quot;隱私條款(更新)&quot;,&quot;OtherTop_0010&quot;:&quot;服務協議&quot;,&quot;OtherTop_0010_Update&quot;:&quot;服務協議(更新)&quot;,&quot;OtherTop_0012&quot;:&quot;視頻録像設定&quot;,&quot;OtherTop_0014&quot;:&quot;其它&quot;,&quot;OtherTop_0015&quot;:&quot;相關連結&quot;,&quot;OtherTop_0017&quot;:&quot;下載數據&quot;,&quot;OtherTop_0018&quot;:&quot;下載遊戲存档數據嘛？\n※推薦在連接Wi-Fi後下載。&quot;,&quot;OtherTop_0019&quot;:&quot;遊戲存档資料下載完成。&quot;,&quot;OtherTop_0020&quot;:&quot;如果祢已擁有Shadowverse遊戲帳號，請選擇「繼承」。\n通過輸入玩家ID和密碼可以繼承帳號資料以繼續遊戲。\n如果繼 [字符串的其余部分被截断]&quot;; 的本地化字符串。
         /// </summary>
         internal static string OtherTopTextJson {
             get {
@@ -502,7 +502,7 @@ namespace Galstars.Extensions {
         }
         
         /// <summary>
-        ///   查找类似 {&quot;ST_chapter_01_01&quot;:&quot;第1章 啓程&quot;,&quot;ST_chapter_01_02&quot;:&quot;第2章 幽暗森林&quot;,&quot;ST_chapter_01_03&quot;:&quot;第3章 通靈少女&quot;,&quot;ST_chapter_01_04&quot;:&quot;第4章 黑竜&quot;,&quot;ST_chapter_01_05&quot;:&quot;第5章 重要的人&quot;,&quot;ST_chapter_01_06&quot;:&quot;第6章 心靈的黑暗&quot;,&quot;ST_chapter_01_07&quot;:&quot;第7章 回憶&quot;,&quot;ST_chapter_01_08&quot;:&quot;第8章 災厄之樹&quot;,&quot;ST_chapter_02_01&quot;:&quot;第1章 王命&quot;,&quot;ST_chapter_02_02&quot;:&quot;第2章 邂逅&quot;,&quot;ST_chapter_02_03&quot;:&quot;第3章 共振&quot;,&quot;ST_chapter_02_04&quot;:&quot;第4章 憂鬱的騎士&quot;,&quot;ST_chapter_02_05&quot;:&quot;第5章 代價&quot;,&quot;ST_chapter_02_06&quot;:&quot;第6章 金剛不壞&quot;,&quot;ST_chapter_02_07&quot;:&quot;第7章 霸者的足跡&quot;,&quot;ST_chapter_02_08&quot;:&quot;第8章 災厄之樹&quot;,&quot;ST_chapter_03_01&quot;:&quot;第1章 思念之人&quot;,&quot;ST_chapter_ [字符串的其余部分被截断]&quot;; 的本地化字符串。
+        ///   查找类似 {&quot;ST_chapter_01_01&quot;:&quot;第1章 啓程&quot;,&quot;ST_chapter_01_02&quot;:&quot;第2章 幽闇森林&quot;,&quot;ST_chapter_01_03&quot;:&quot;第3章 通靈少女&quot;,&quot;ST_chapter_01_04&quot;:&quot;第4章 黑竜&quot;,&quot;ST_chapter_01_05&quot;:&quot;第5章 重要的人&quot;,&quot;ST_chapter_01_06&quot;:&quot;第6章 心靈的黑闇&quot;,&quot;ST_chapter_01_07&quot;:&quot;第7章 回憶&quot;,&quot;ST_chapter_01_08&quot;:&quot;第8章 災厄之樹&quot;,&quot;ST_chapter_02_01&quot;:&quot;第1章 王命&quot;,&quot;ST_chapter_02_02&quot;:&quot;第2章 邂逅&quot;,&quot;ST_chapter_02_03&quot;:&quot;第3章 共振&quot;,&quot;ST_chapter_02_04&quot;:&quot;第4章 憂鬱的騎士&quot;,&quot;ST_chapter_02_05&quot;:&quot;第5章 代價&quot;,&quot;ST_chapter_02_06&quot;:&quot;第6章 金剛不壞&quot;,&quot;ST_chapter_02_07&quot;:&quot;第7章 霸者的足跡&quot;,&quot;ST_chapter_02_08&quot;:&quot;第8章 災厄之樹&quot;,&quot;ST_chapter_03_01&quot;:&quot;第1章 思念之人&quot;,&quot;ST_chapter_ [字符串的其余部分被截断]&quot;; 的本地化字符串。
         /// </summary>
         internal static string storytextmaster {
             get {
@@ -511,7 +511,7 @@ namespace Galstars.Extensions {
         }
         
         /// <summary>
-        ///   查找类似 {&quot;System_TimeDateLong&quot;:&quot;yyyy/MM/dd HH:mm&quot;,&quot;System_TimeDateShort&quot;:&quot;MM/dd HH:mm&quot;,&quot;System_DateLong&quot;:&quot;yyyy/MM/dd&quot;,&quot;System_DateShort&quot;:&quot;MM/dd&quot;,&quot;System_Time&quot;:&quot;HH:mm&quot;,&quot;System_YearMonth&quot;:&quot;yyyy/MM&quot;,&quot;System_Between&quot;:&quot;{0} ～ {1}&quot;,&quot;System_LineHeadWrap&quot;:&quot;､、｡。)）］」』}｝】,〕〉＞》≫〟’”.・:; 　!?！？…ー～－☆★♪ヽヾぁぃぅぇぉっゃゅょゎァィゥェォッャュョヮヵヶ‐＝゛゜％+＋々&quot;,&quot;System_LineEndWrap&quot;:&quot;(（［{｛〔〈＜《≪「『【〝‘“×&quot;,&quot;System_0001&quot;:&quot;載入中&quot;,&quot;System_0002&quot;:&quot;代碼&quot;,&quot;System_0003&quot;:&quot;網路連接出錯&quot;,&quot;System_0004&quot;:&quot;網路連接超時&quot;,&quot;System_0005&quot;:&quot;網路連接出現錯誤&quot;,&quot;System_0006&quot;:&quot;返回開始畫面&quot;,&quot;System_0007&quot;:&quot;秒&quot;,&quot;System_ [字符串的其余部分被截断]&quot;; 的本地化字符串。
+        ///   查找类似 {&quot;System_TimeDateLong&quot;:&quot;yyyy/MM/dd HH:mm&quot;,&quot;System_TimeDateShort&quot;:&quot;MM/dd HH:mm&quot;,&quot;System_DateLong&quot;:&quot;yyyy/MM/dd&quot;,&quot;System_DateShort&quot;:&quot;MM/dd&quot;,&quot;System_Time&quot;:&quot;HH:mm&quot;,&quot;System_YearMonth&quot;:&quot;yyyy/MM&quot;,&quot;System_Between&quot;:&quot;{0} ～ {1}&quot;,&quot;System_LineHeadWrap&quot;:&quot;､、｡。)）］」』}｝】,〕〉＞》≫〟’”.・:; 　!?！？…ー～－☆★♪，‐＝゛゜％+＋&quot;,&quot;System_LineEndWrap&quot;:&quot;(（［{｛〔〈＜《≪「『【〝‘“×&quot;,&quot;System_0001&quot;:&quot;載入中&quot;,&quot;System_0002&quot;:&quot;代碼&quot;,&quot;System_0003&quot;:&quot;網路連接出錯&quot;,&quot;System_0004&quot;:&quot;網路連接超時&quot;,&quot;System_0005&quot;:&quot;網路連接出現錯誤&quot;,&quot;System_0006&quot;:&quot;返回開始畫面&quot;,&quot;System_0007&quot;:&quot;秒&quot;,&quot;System_0008&quot;:&quot;分&quot;,&quot;System_0009&quot;: [字符串的其余部分被截断]&quot;; 的本地化字符串。
         /// </summary>
         internal static string SystemTextJson {
             get {
@@ -520,7 +520,7 @@ namespace Galstars.Extensions {
         }
         
         /// <summary>
-        ///   查找类似 {&quot;Title_0002&quot;:&quot;請輸入昵稱&quot;,&quot;Title_0001&quot;:&quot;註冊昵稱&quot;,&quot;Title_0003&quot;:&quot;昵稱註冊完成&quot;,&quot;Title_0004&quot;:&quot;昵稱:{0}\n註冊完成&quot;,&quot;Title_0005&quot;:&quot;昵稱:{0}\n註冊失敗。\n請重新註冊昵稱。&quot;,&quot;Title_0006&quot;:&quot;菜單&quot;,&quot;Title_0007&quot;:&quot;清除緩存&quot;,&quot;Title_0008&quot;:&quot;清除緩存的話可能可以減輕硬體的負擔。\n不會刪除遊戲的存档資料。\n清除緩存後會再次下載相關資料。\n根據網路連接状況，可能會花費較長時間。\n\n確定清除緩存嘛？\n[ffcd45]清除緩存會導致正在進行中的對局結算為敗北。[-]&quot;,&quot;Title_0009&quot;:&quot;緩存已清除。&quot;,&quot;Title_0010&quot;:&quot;下載數據&quot;,&quot;Title_0011&quot;:&quot;檢測到有新的資料。\n請點撃確認鍵進行下載。&quot;,&quot;Title_0012&quot;:&quot;資料下載完成&quot;,&quot;Title_0013&quot;:&quot;新的資料下載完成。&quot;,&quot;Title_0014&quot;:&quot;請輸入至少1個字作為昵稱。&quot;,&quot;Title_0015&quot;:&quot;同意&quot;,&quot;Title_0016&quot;:&quot;確認結束程式&quot;,&quot;Title_0017&quot;:&quot;確 [字符串的其余部分被截断]&quot;; 的本地化字符串。
+        ///   查找类似 {&quot;Title_0002&quot;:&quot;請輸入昵稱&quot;,&quot;Title_0001&quot;:&quot;註冊昵稱&quot;,&quot;Title_0003&quot;:&quot;昵稱註冊完成&quot;,&quot;Title_0004&quot;:&quot;昵稱:{0}\n註冊完成&quot;,&quot;Title_0005&quot;:&quot;昵稱:{0}\n註冊失敗。\n請重新註冊昵稱。&quot;,&quot;Title_0006&quot;:&quot;選單&quot;,&quot;Title_0007&quot;:&quot;清除緩存&quot;,&quot;Title_0008&quot;:&quot;清除緩存的話可能可以減輕硬體的負擔。\n不會刪除遊戲的存档資料。\n清除緩存後會再次下載相關資料。\n根據網路連接状況，可能會花費較長時間。\n\n確定清除緩存嘛？\n[ffcd45]清除緩存會導致正在進行中的對局結算為敗北。[-]&quot;,&quot;Title_0009&quot;:&quot;緩存已清除。&quot;,&quot;Title_0010&quot;:&quot;下載數據&quot;,&quot;Title_0011&quot;:&quot;檢測到有新的資料。\n請點撃確認鍵進行下載。&quot;,&quot;Title_0012&quot;:&quot;資料下載完成&quot;,&quot;Title_0013&quot;:&quot;新的資料下載完成。&quot;,&quot;Title_0014&quot;:&quot;請輸入至少1個字作為昵稱。&quot;,&quot;Title_0015&quot;:&quot;同意&quot;,&quot;Title_0016&quot;:&quot;確認結束程式&quot;,&quot;Title_0017&quot;:&quot;確 [字符串的其余部分被截断]&quot;; 的本地化字符串。
         /// </summary>
         internal static string TitleTextJson {
             get {

@@ -199,9 +199,7 @@ namespace Galstars.Extensions {
         ///&quot;Text_14&quot;,&quot;是、朋友吗？&quot;
         ///&quot;Text_15&quot;,&quot;朋友……并不能算是这种关系。&quot;
         ///&quot;Text_16&quot;,&quot;不过，为了那个人即使赴汤蹈火，我也在所不辞。&quot;
-        ///&quot;Text_17&quot;,&quot;能让你这样为一个人着想，
-        ///也是非常幸福的一件事吧。&quot;
-        ///&quot;Text_ [字符串的其余部分被截断]&quot;; 的本地化字符串。
+        ///&quot;Text_17&quot;,&quot;能让你这样为一个 [字符串的其余部分被截断]&quot;; 的本地化字符串。
         /// </summary>
         internal static string scenario_text_1_1_2 {
             get {
@@ -355,6 +353,230 @@ namespace Galstars.Extensions {
         
         /// <summary>
         ///   查找类似 &quot;dummy&quot;
+        ///&quot;Text_01&quot;,&quot;（……我，终于能和萝沙丽亚一起，
+        ///成为森林守护者了呢。
+        ///这是真的吧？）&quot;
+        ///&quot;Text_02&quot;,&quot;（可是……怎么一点都高兴不起来呢。
+        ///嗯。明明应该感到喜悦才对，我怎么……觉得这么不安呢。
+        ///是因为刚才那个人的原因吗？还是说……）&quot;
+        ///&quot;Text_03&quot;,&quot;亚里莎、危险！
+        ///小心脚下！&quot;
+        ///&quot;Text_04&quot;,&quot;啊，好疼啊！？&quot;
+        ///&quot;Text_05&quot;,&quot;哎呀，你啊。
+        ///这样不注意安全可不行啊？&quot;
+        ///&quot;Text_06&quot;,&quot;我错了，萝沙丽亚。
+        ///稍微有点走神。&quot;
+        ///&quot;Text_07&quot;,&quot;（刚才跘到我的……
+        ///难道是矿石？
+        ///森林里还会有矿石啊……）&quot;
+        ///&quot;Text_08&quot;,&quot;（……果然，有些奇怪。
+        ///总觉得，哪里不太对劲。
+        ///虽然说不出具体是哪的问题……）&quot;
+        ///&quot;Text_09&quot;,&quot;喂，你又开始沉思了。
+        ///亚里莎……怎么了？
+        ///你今天的状态很差啊？&quot;
+        ///&quot;Text_10&quot;,&quot;……是我自己出了问题吗。
+        ///变得奇怪的是我自己吗……。&quot;
+        ///&quot;Text_11&quot;,&quot;亚里莎……你确定你没事吗？
+        ///我们休息一会吧？&quot;
+        ///&quot;Text_12&quot;,&quot;恩……。
+        ///稍微休息会，仔细想一想应……。 [字符串的其余部分被截断]&quot;; 的本地化字符串。
+        /// </summary>
+        internal static string scenario_text_1_12_1 {
+            get {
+                return ResourceManager.GetString("scenario_text_1_12_1", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   查找类似 &quot;dummy&quot;
+        ///&quot;Text_01&quot;,&quot;干得漂亮，亚里莎！
+        ///你真是太厉害了！
+        ///有你在什么都不用害怕！&quot;
+        ///&quot;Text_02&quot;,&quot;……有这么厉害吗？&quot;
+        ///&quot;Text_03&quot;,&quot;（不对……不是我太强，而是魔物太弱了。
+        ///萝沙丽亚应该能发现的才对。
+        ///因为萝沙丽亚比我……）&quot;
+        ///&quot;Text_04&quot;,&quot;（……对。对啊。萝沙丽亚比我强才对啊。
+        ///什么都能做到，那么得出色！
+        ///所以我总是一直依赖着她……）&quot;
+        ///&quot;Text_05&quot;,&quot;亚里莎……？
+        ///想什么呢？&quot;
+        ///&quot;Text_06&quot;,&quot;呐，萝沙丽亚。
+        ///……你是真的萝沙丽亚吗？&quot;
+        ///&quot;Text_07&quot;,&quot;你在说什么？
+        ///我就是我自己啊。……哎呀，你到底是哪里不舒服啊。&quot;
+        ///&quot;Text_08&quot;,&quot;我总是一直依靠着萝沙丽亚你吧？
+        ///所以，萝沙丽亚的能力肯定是在我之上的。&quot;
+        ///&quot;Text_09&quot;,&quot;依赖的人一直都是我，你才是更强的。
+        ///不管是弓术也好，还是其他的……
+        ///和你比起来，我没有哪一项能胜过你的。&quot;
+        ///&quot;Text_10&quot;,&quot;你还记得吗？
+        ///我在河边捞鱼的时候……突然，出现了魔物。
+        ///那个时候，你……。&quot;
+        ///&quot;Text_11&quot;,&quot;我……？
+        ///……不对啊。不是的啊。&quot;        /// [字符串的其余部分被截断]&quot;; 的本地化字符串。
+        /// </summary>
+        internal static string scenario_text_1_12_2 {
+            get {
+                return ResourceManager.GetString("scenario_text_1_12_2", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   查找类似 &quot;dummy&quot;
+        ///&quot;Text_01&quot;,&quot;（不管是我忘记了试炼……
+        ///还是萝沙丽亚的情况也好……
+        ///以及森林里有着这么多矿石……这一切都很反常）&quot;
+        ///&quot;Text_02&quot;,&quot;（越想越觉得……有点奇怪。
+        ///这个世界……绝对有问题！
+        ///一定是在哪里能找到问题的！）&quot;
+        ///&quot;Text_03&quot;,&quot;……世界是不会错的。
+        ///有错的，是你自己。&quot;
+        ///&quot;Text_04&quot;,&quot;……你究竟知道些什么？
+        ///全都说出来……！&quot;
+        ///&quot;Text_05&quot;,&quot;为何，要如此反抗自身所愿？
+        ///为何，不能接受梦想成真？&quot;
+        ///&quot;Text_06&quot;,&quot;愿望、期盼……
+        ///谁会知道你在指什么！&quot;
+        ///&quot;Text_07&quot;,&quot;你祈愿过。你期盼过。
+        ///所以涅墨西斯大人，才会将这一切实现。
+        ///在这灾厄之树里……。&quot;
+        ///&quot;Text_08&quot;,&quot;灾厄之树……涅墨西斯……。
+        ///啊……想起来了。
+        ///全部，都想起来了……！&quot;
+        ///&quot;Text_09&quot;,&quot;我是为了救回萝沙丽亚……
+        ///才来到灾厄之树的。
+        ///然后，和涅墨西斯战斗……再然后……！&quot;
+        ///&quot;Text_10&quot;,&quot;……！
+        ///这个世界是怎么回事！？
+        ///请告诉我真相吧……伊莉丝小姐！&quot;
+        ///&quot;Text_11&quot;,&quot;真实这个东西毫无价值。
+        ///我不能 [字符串的其余部分被截断]&quot;; 的本地化字符串。
+        /// </summary>
+        internal static string scenario_text_1_13_1 {
+            get {
+                return ResourceManager.GetString("scenario_text_1_13_1", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   查找类似 &quot;dummy&quot;
+        ///&quot;Text_01&quot;,&quot;……呃。
+        ///为什么？为什么……不愿接受这份安宁呢？
+        ///&quot;
+        ///&quot;Text_02&quot;,&quot;安宁……？
+        ///才不是！
+        ///这种虚假的世界，是哪门子的安宁……！&quot;
+        ///&quot;Text_03&quot;,&quot;是你把森林弄成这样的嘛？
+        ///是你把萝沙丽亚抓走的嘛！？
+        ///把一切回归原样，立刻……！&quot;
+        ///&quot;Text_04&quot;,&quot;我既没有改变什么，也没有夺走什么……
+        ///在那伟大的存在……灾厄之树的怀抱里、
+        ///你进入了梦境。你所期盼着的梦境。&quot;
+        ///&quot;Text_05&quot;,&quot;梦……！？
+        ///那么这里不是现实世界了……
+        ///灾厄之树里面，是梦的世界吗……！？&quot;
+        ///&quot;Text_06&quot;,&quot;没错。就是你所追求的。
+        ///你梦想有一个你比萝沙丽亚更强的世界。
+        ///所以涅墨西斯大人实现了它。&quot;
+        ///&quot;Text_07&quot;,&quot;哎……！？
+        ///是，是这样吗……！
+        ///不是的，我不会……！&quot;
+        ///&quot;Text_08&quot;,&quot;涅墨西斯大人是至高无上的。
+        ///绝对不会读错你的内心。
+        ///……这里就是由你心中所想而生成的世界。&quot;
+        ///&quot;Text_09&quot;,&quot;这里，就是专为你而存在的世界。
+        ///你梦想的摇篮。
+        ///你只要在摇篮里安详地沉眠就好……。&quot;
+        ///&quot;Text_10&quot;,&quot;萝沙丽亚变成那 [字符串的其余部分被截断]&quot;; 的本地化字符串。
+        /// </summary>
+        internal static string scenario_text_1_13_2 {
+            get {
+                return ResourceManager.GetString("scenario_text_1_13_2", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   查找类似 &quot;dummy&quot;
+        ///&quot;Text_01&quot;,&quot;我……。
+        ///这个世界……。
+        ///不是啊……不是啊……。&quot;
+        ///&quot;Text_02&quot;,&quot;亚里莎！
+        ///哎哟，你跑哪里去了！？
+        ///可让我找了一阵！&quot;
+        ///&quot;Text_03&quot;,&quot;……萝沙丽亚。
+        ///
+        ///&quot;
+        ///&quot;Text_04&quot;,&quot;怎么了，亚里莎。你脸色这么差……。
+        ///你要是总这样，我可就麻烦喽？
+        ///如果你不在的话，我什么也做不了。&quot;
+        ///&quot;Text_05&quot;,&quot;……别这样。
+        ///萝沙丽亚才不会说这种话。
+        ///才不会说呢……。&quot;
+        ///&quot;Text_06&quot;,&quot;亚里莎……？
+        ///
+        ///&quot;
+        ///&quot;Text_07&quot;,&quot;我……难道是觉得高兴吗。刚才也是……感觉有点喜悦的心情。
+        ///受到别人的依赖，心情就会变愉悦。
+        ///是啊……我的确会感到高兴……。&quot;
+        ///&quot;Text_08&quot;,&quot;亚里莎……你在哭吗？
+        ///呐，你还好吧……？你一哭，我也……。
+        ///哎呀，该怎么办才好啊……。&quot;
+        ///&quot;Text_09&quot;,&quot;但是，这是不对。绝对不是我想要的……。
+        ///这不是真正的萝沙丽亚。
+        ///萝沙丽亚，要比这更帅气……更出色……。&quot;
+        ///&quot;Text_10&quot;,&quot;呐，亚里莎……。
+        ///亚里莎……。
+        ///&quot;
+        ///&quot;Text_11&quot;,&quot;我……
+        ///让我憧憬得都要嫉妒的萝沙丽 [字符串的其余部分被截断]&quot;; 的本地化字符串。
+        /// </summary>
+        internal static string scenario_text_1_14_1 {
+            get {
+                return ResourceManager.GetString("scenario_text_1_14_1", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   查找类似 &quot;dummy&quot;
+        ///&quot;Text_01&quot;,&quot;……呜。
+        ///梦之世界……如此多彩……。
+        ///啊……世界在扭曲着……！&quot;
+        ///&quot;Text_02&quot;,&quot;……好刺眼。
+        ///
+        ///&quot;
+        ///&quot;Text_03&quot;,&quot;……再往前走的话，等待着你的只有残酷了。
+        ///即使这样也可以接受吗……？
+        ///即使这样，你也执意要走吗……！&quot;
+        ///&quot;Text_04&quot;,&quot;是的，我决定了！
+        ///不管前方如何艰难，
+        ///我也绝对不会放弃！&quot;
+        ///&quot;Text_05&quot;,&quot;我想要帮助萝沙丽亚。
+        ///真正萝沙丽亚！
+        ///不是通过梦境，而是自己亲手来完成！&quot;
+        ///&quot;Text_06&quot;,&quot;……愿意不惜一切的话就去做吧。
+        ///你是要拥抱这安宁的梦境……还是要将世间的残酷忍耐到底……
+        ///世界将会消失，一切都会得到救赎……。&quot;
+        ///&quot;Text_07&quot;,&quot;再往前……就是真正的世界了……。
+        ///
+        ///&quot;
+        ///&quot;Text_08&quot;,&quot;……对不起，萝沙丽亚。
+        ///我似乎迷路了一阵子呢。
+        ///&quot;
+        ///&quot;Text_09&quot;,&quot;不过，已经不会再迷路了。
+        ///我会一路直奔到你那里去的！
+        ///等着我啊！&quot;
+        /// 的本地化字符串。
+        /// </summary>
+        internal static string scenario_text_1_14_2 {
+            get {
+                return ResourceManager.GetString("scenario_text_1_14_2", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   查找类似 &quot;dummy&quot;
         ///&quot;Text_01&quot;,&quot;（萝沙丽亚……没事吧……。
         ///为什么会变成现在这种状况呢……。）&quot;
         ///&quot;Text_02&quot;,&quot;（萝沙丽亚…。）&quot;
@@ -417,10 +639,7 @@ namespace Galstars.Extensions {
         ///&quot;Text_15&quot;,&quot;当然啦。
         ///所以早点回家怎么样？&quot;
         ///&quot;Text_16&quot;,&quot;那就是说……姐姐你喜欢露娜吗？&quot;
-        ///&quot;Text_17&quot;,&quot;能成为露娜的朋友吗？&quot;
-        ///&quot;Text_18&quot;,&quot;恩！
-        ///当然可以！&quot;
-        ///&quot;Tex [字符串的其余部分被截断]&quot;; 的本地化字符串。
+        ///&quot;Text_17&quot;,&quot;能成为露娜的朋友吗 [字符串的其余部分被截断]&quot;; 的本地化字符串。
         /// </summary>
         internal static string scenario_text_1_3_1 {
             get {
@@ -454,9 +673,7 @@ namespace Galstars.Extensions {
         ///露娜不寂寞！露娜不是一个人！&quot;
         ///&quot;Text_14&quot;,&quot;你就是这样在一直欺骗着自己吗。&quot;
         ///&quot;Text_15&quot;,&quot;你骗人！！&quot;
-        ///&quot;Text_16&quot;,&quot;没有骗你哦。
-        ///露娜酱的心情，我非常理解。&quot;
-        ///&quot;Text_1 [字符串的其余部分被截断]&quot;; 的本地化字符串。
+        ///&quot;Text_16&quot;,&quot;没有骗你 [字符串的其余部分被截断]&quot;; 的本地化字符串。
         /// </summary>
         internal static string scenario_text_1_3_2 {
             get {
@@ -591,9 +808,7 @@ namespace Galstars.Extensions {
         ///&quot;Text_14&quot;,&quot;……&quot;
         ///&quot;Text_15&quot;,&quot;加油啊，别等到变成我这样。
         ///……抱歉，除了说这些也做不了什么了。&quot;
-        ///&quot;Text_16&quot;,&quot;不，不……。
-        ///没有这回事……&quot;
-        ///&quot;Text_ [字符串的其余部分被截断]&quot;; 的本地化字符串。
+        ///&quot;Tex [字符串的其余部分被截断]&quot;; 的本地化字符串。
         /// </summary>
         internal static string scenario_text_1_5_2 {
             get {
@@ -692,8 +907,7 @@ namespace Galstars.Extensions {
         ///&quot;Text_17&quot;,&quot;嘿！&quot;
         ///&quot;Text_18&quot;,&quot;伊莉丝！？
         ///你又来帮我了啊！&quot;
-        ///&quot;Text_19&quot;,&quot;哎？&quot;
-        ///&quot;Text_20&quot;,&quot;呜啊啊啊啊啊！ [字符串的其余部分被截断]&quot;; 的本地化字符串。
+        ///&quot;Text_ [字符串的其余部分被截断]&quot;; 的本地化字符串。
         /// </summary>
         internal static string scenario_text_1_7_1 {
             get {
@@ -731,9 +945,7 @@ namespace Galstars.Extensions {
         ///但是刚才的伊莉丝怎么想也不像是假冒的…。）&quot;
         ///&quot;Text_16&quot;,&quot;啊，完全搞不懂！&quot;
         ///&quot;Text_17&quot;,&quot;…不能在这里停滞不前。
-        ///现在必须要做的是救出萝沙丽亚！&quot;
-        ///&quot;Text_18&quot;,&quot;（马上就能到灾厄之树了。
-        ///萝 [字符串的其余部分被截断]&quot;; 的本地化字符串。
+        ///现在必须要做的是救出萝沙丽 [字符串的其余部分被截断]&quot;; 的本地化字符串。
         /// </summary>
         internal static string scenario_text_1_7_2 {
             get {
@@ -888,9 +1100,7 @@ namespace Galstars.Extensions {
         ///我想让你去那座封印古城调查一下。&quot;
         ///&quot;Text_16&quot;,&quot;遵命。
         ///公主殿下。
-        ///我立刻准备出发。&quot;
-        ///&quot;Text_17&quot;,&quot;嗯嗯。
-        ///一如既往的可 [字符串的其余部分被截断]&quot;; 的本地化字符串。
+        ///我立刻准备出发 [字符串的其余部分被截断]&quot;; 的本地化字符串。
         /// </summary>
         internal static string scenario_text_2_1_1 {
             get {
@@ -1078,6 +1288,264 @@ namespace Galstars.Extensions {
         
         /// <summary>
         ///   查找类似 &quot;dummy&quot;
+        ///&quot;Text_01&quot;,&quot;别别别……！
+        ///我的老婆孩子都被抓取当人质了……！
+        ///我没办法才帮的反抗军的……真的啊……！&quot;
+        ///&quot;Text_02&quot;,&quot;……。
+        ///
+        ///&quot;
+        ///&quot;Text_03&quot;,&quot;呜啊啊啊！
+        ///
+        ///&quot;
+        ///&quot;Text_04&quot;,&quot;……第一个任务完成。
+        ///接下来，是第二个任务。
+        ///&quot;
+        ///&quot;Text_05&quot;,&quot;等等……我的老婆孩子……。
+        ///我家人们……会怎样……？
+        ///求求你……放过他们把……。&quot;
+        ///&quot;Text_06&quot;,&quot;当然，赐予他们一死。
+        ///只要胆敢与国家作对，全都得死。
+        ///&quot;
+        ///&quot;Text_07&quot;,&quot;……恶魔。
+        ///你这家伙……是恶魔……。
+        ///&quot;
+        ///&quot;Text_08&quot;,&quot;……哈，哈。
+        ///不……我，不会。已经，金盆洗手了。
+        ///现在的我，只为公主殿下挥剑……！&quot;
+        ///&quot;Text_09&quot;,&quot;艾莉卡，不用在意哦。
+        ///我会宽恕你，接受你的。
+        ///&quot;
+        ///&quot;Text_10&quot;,&quot;这些幻想……滚开！
+        ///
+        ///&quot;
+        ///&quot;Text_11&quot;,&quot;不管你手上沾了多少鲜血。
+        ///不管你是多么污秽不堪。
+        ///我也会原谅你，接受你的。原谅你。接受你……。&quot;
+        ///&quot;Text_12&quot;,&quot;别说了……！
+        ///别再用公主殿下的脸庞……用公主殿下的姿态… [字符串的其余部分被截断]&quot;; 的本地化字符串。
+        /// </summary>
+        internal static string scenario_text_2_12_1 {
+            get {
+                return ResourceManager.GetString("scenario_text_2_12_1", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   查找类似 &quot;dummy&quot;
+        ///&quot;Text_01&quot;,&quot;呜……！
+        ///
+        ///&quot;
+        ///&quot;Text_02&quot;,&quot;……连自己的内心都不知道。
+        ///那就去看看……接受这一切！
+        ///这就是你真正的愿望……！&quot;
+        ///&quot;Text_03&quot;,&quot;我的愿望……！？
+        ///你是说把长的像公主殿下的幻象砍了……
+        ///就是我的愿望……！？&quot;
+        ///&quot;Text_04&quot;,&quot;不，你错了。
+        ///你所祈愿的是宽恕。接纳。
+        ///重要的人能够接受你的过去。&quot;
+        ///&quot;Text_05&quot;,&quot;你对我……！
+        ///我的事情你知道多少！
+        ///&quot;
+        ///&quot;Text_06&quot;,&quot;当然是，全部。
+        ///我被涅墨西斯大人选中，召唤出灾厄之树。
+        ///然后……成为了这个世界的管理者。&quot;
+        ///&quot;Text_07&quot;,&quot;灾厄之树……。
+        ///涅墨西斯……？
+        ///&quot;
+        ///&quot;Text_08&quot;,&quot;（刚才说的……有点印象……！
+        ///怎么会……为什么……！？）
+        ///&quot;
+        ///&quot;Text_09&quot;,&quot;所以我知晓你、你们过去的全部。
+        ///你们所背负的痛楚，全都清清楚楚。
+        ///&quot;
+        ///&quot;Text_10&quot;,&quot;你曾出仕过某个国家。
+        ///……不是作为骑士，也不是士兵，而是一名杀手。
+        ///一味地遵照命令杀死目标。&quot;
+        ///&quot;Text_11&quot;,&quot;你是国家用来杀人的剑。
+        ///……但是剑，只有敌人出现的时候才 [字符串的其余部分被截断]&quot;; 的本地化字符串。
+        /// </summary>
+        internal static string scenario_text_2_12_2 {
+            get {
+                return ResourceManager.GetString("scenario_text_2_12_2", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   查找类似 &quot;dummy&quot;
+        ///&quot;Text_01&quot;,&quot;我们怀疑你们有杀人的嫌疑！
+        ///老实点别动！
+        ///&quot;
+        ///&quot;Text_02&quot;,&quot;可恶！为了上面的人，
+        ///不惜弄脏自己的手干到现在……
+        ///消灭了反抗军之后就变成没用的废物了吗！&quot;
+        ///&quot;Text_03&quot;,&quot;艾莉卡，你的路还长着呢！
+        ///快逃走吧，活下去！
+        ///&quot;
+        ///&quot;Text_04&quot;,&quot;哈、哈、哈……。
+        ///哈、哈、哈……。
+        ///&quot;
+        ///&quot;Text_05&quot;,&quot;死了……都死了……。为什么……为什么……。
+        ///我……我们……为了国家……一直……。
+        ///&quot;
+        ///&quot;Text_06&quot;,&quot;杀掉……杀掉……杀掉……。
+        ///啊啊……！啊啊啊啊……。
+        ///为什么……啊……。&quot;
+        ///&quot;Text_07&quot;,&quot;请问你还好吗？
+        ///好可怜的样子……受伤了吧……。
+        ///不仅是身体。连眼里都……。&quot;
+        ///&quot;Text_08&quot;,&quot;呐……你相信命运吗？
+        ///我相信哦。
+        ///所以……你要来我这里吗？&quot;
+        ///&quot;Text_09&quot;,&quot;我……。
+        ///从那时候起，一切只为了公主……。
+        ///我相信这就是我的命运……。&quot;
+        ///&quot;Text_10&quot;,&quot;真的吗？
+        ///……不需要说谎哦。
+        ///我们是同伴嘛。&quot;
+        ///&quot;Text_11&quot;,&quot;……。
+        ///
+        ///&quot;
+        ///&quot;Text_12&quot;,&quot;一直以为 [字符串的其余部分被截断]&quot;; 的本地化字符串。
+        /// </summary>
+        internal static string scenario_text_2_13_1 {
+            get {
+                return ResourceManager.GetString("scenario_text_2_13_1", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   查找类似 &quot;dummy&quot;
+        ///&quot;Text_01&quot;,&quot;哈、哈……。
+        ///
+        ///&quot;
+        ///&quot;Text_02&quot;,&quot;救赎之时到来的话，你的痛楚也会消除的。
+        ///连你不愿直面罪孽的怠慢，
+        ///也一定会一起得到宽恕。现在就在沉眠中等待吧。&quot;
+        ///&quot;Text_03&quot;,&quot;救赎之时……？
+        ///竟然真会有呢……？
+        ///&quot;
+        ///&quot;Text_04&quot;,&quot;恩。
+        ///救赎已经来到了你的身边。
+        ///所以你就先在这梦境之中静静等待吧。&quot;
+        ///&quot;Text_05&quot;,&quot;艾莉卡。
+        ///你一路过来的艰辛。
+        ///谁也比不过你。所以你就好好休息吧。&quot;
+        ///&quot;Text_06&quot;,&quot;你从原来国家逃离开。
+        ///然后来到了我的国家，来到了我这里。
+        ///这就是命运。我和你的命运。&quot;
+        ///&quot;Text_07&quot;,&quot;在我身边，保护我好吗？成为我的剑与盾吧？
+        ///这样的话，我便会原谅你的一切……
+        ///你自己也能够原谅你自己吧。&quot;
+        ///&quot;Text_08&quot;,&quot;我，原谅，我自己……。
+        ///
+        ///&quot;
+        ///&quot;Text_09&quot;,&quot;（是啊……我……。
+        ///一直，想要得到原谅。
+        ///我的所作所为……我的罪过……）&quot;
+        ///&quot;Text_10&quot;,&quot;……啊，对的。
+        ///这才对嘛。
+        ///向着梦境祈愿吧。&quot;
+        ///&quot;Text_11&quot;,&quot;不用焦虑，不用担心。
+        ///你的痛苦也好，其他人 [字符串的其余部分被截断]&quot;; 的本地化字符串。
+        /// </summary>
+        internal static string scenario_text_2_13_2 {
+            get {
+                return ResourceManager.GetString("scenario_text_2_13_2", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   查找类似 &quot;dummy&quot;
+        ///&quot;Text_01&quot;,&quot;来，艾莉卡。
+        ///现在一起喝杯茶吧？
+        ///准备你喜欢的茶叶哦。&quot;
+        ///&quot;Text_02&quot;,&quot;……好的。
+        ///
+        ///&quot;
+        ///&quot;Text_03&quot;,&quot;怎么还是一幅闷闷不乐。
+        ///还在担心什么吗？
+        ///&quot;
+        ///&quot;Text_04&quot;,&quot;……没。
+        ///
+        ///&quot;
+        ///&quot;Text_05&quot;,&quot;没瞒着我吧？
+        ///对不对？
+        ///艾莉卡，说说吧？有什么想要的我都能满足你的……。&quot;
+        ///&quot;Text_06&quot;,&quot;……救赎。
+        ///救赎是个什么样的东西呢？
+        ///能让公主殿下和我都感到幸福吗……？&quot;
+        ///&quot;Text_07&quot;,&quot;当然能啦。
+        ///难受、悲伤，这些都会消失掉的。
+        ///&quot;
+        ///&quot;Text_08&quot;,&quot;那是，怎么办到的……？
+        ///
+        ///&quot;
+        ///&quot;Text_09&quot;,&quot;涅墨西斯大人会把这个世界抹消掉。
+        ///一点痕迹不留。一点碎末也不留。
+        ///&quot;
+        ///&quot;Text_10&quot;,&quot;抹消……！？
+        ///怎么会……！！
+        ///&quot;
+        ///&quot;Text_11&quot;,&quot;全部抹消掉。
+        ///痛苦也好，悲哀也好。
+        ///全部。&quot;
+        ///&quot;Text_12&quot;,&quot;那样，公主殿下就会……！
+        ///
+        ///&quot;
+        ///&quot;Text_13&quot;,&quot;也会抹消掉哦。
+        ///不过能从残酷的世界中获得解脱，那没什么不好的！
+        ///在那一刻到来之前，愉快地喝茶吧 [字符串的其余部分被截断]&quot;; 的本地化字符串。
+        /// </summary>
+        internal static string scenario_text_2_14_1 {
+            get {
+                return ResourceManager.GetString("scenario_text_2_14_1", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   查找类似 &quot;dummy&quot;
+        ///&quot;Text_01&quot;,&quot;为什么，理解不了呢……。
+        ///我有多么想要拯救世间万物……。
+        ///为此才带给你们的安宁……。&quot;
+        ///&quot;Text_02&quot;,&quot;你确实是在追求着拯救人们。
+        ///也许人们也会愿意，
+        ///在幻象的萦绕下带着痛楚一同消失&quot;
+        ///&quot;Text_03&quot;,&quot;不过，至少我不是这种人。
+        ///我有着必须要去完成的使命。
+        ///必须……要再见到公主殿下。&quot;
+        ///&quot;Text_04&quot;,&quot;你即使见到了想见的人，未来也不会因此而改变。
+        ///你即使离开了这里，救赎之时也必将到来……。
+        ///&quot;
+        ///&quot;Text_05&quot;,&quot;纵然如此，我也会高举手中之剑。
+        ///至死守护公主殿下。
+        ///&quot;
+        ///&quot;Text_06&quot;,&quot;你守护着公主殿下，
+        ///不就是为了自己的罪孽能够得到宽恕吗？
+        ///想要宽恕的话，这里已经有了……。
+        ///&quot;
+        ///&quot;Text_07&quot;,&quot;得到幻想的宽恕，有什么意义。
+        ///……让我从这里出去。
+        ///&quot;
+        ///&quot;Text_08&quot;,&quot;啊……世界又将绽开。
+        ///与那残酷的世界相连，变得更加扭曲……。
+        ///&quot;
+        ///&quot;Text_09&quot;,&quot;……那一头，就是现实世界了。
+        ///
+        ///&quot;
+        ///&quot;Text_10&quot;,&quot;在那边！
+        ///……在那边是没有安宁的。
+        ///即使这样……。&quot;
+        ///&quot;Text_ [字符串的其余部分被截断]&quot;; 的本地化字符串。
+        /// </summary>
+        internal static string scenario_text_2_14_2 {
+            get {
+                return ResourceManager.GetString("scenario_text_2_14_2", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   查找类似 &quot;dummy&quot;
         ///&quot;Text_01&quot;,&quot;（看守的士兵们不在……。
         ///封印的棺材……打开了？）&quot;
         ///&quot;Text_02&quot;,&quot;我不记得发过邀请函吧，有何贵干？&quot;
@@ -1132,8 +1600,7 @@ namespace Galstars.Extensions {
         ///&quot;Text_18&quot;,&quot;哎呀，害羞了吗。
         ///因为一直以来你都尽心尽力，
         ///所以我想做点什么报答你一下。&quot;
-        ///&quot;Text_19&quot;,&quot;艾莉卡有什么想要的东西吗？&quot;
-        ///&quot;Text_20&quot;,&quot;…并没有什么特别想 [字符串的其余部分被截断]&quot;; 的本地化字符串。
+        ///&quot;Text_19&quot;,&quot;艾莉卡有什 [字符串的其余部分被截断]&quot;; 的本地化字符串。
         /// </summary>
         internal static string scenario_text_2_2_2 {
             get {
@@ -1190,9 +1657,7 @@ namespace Galstars.Extensions {
         ///&quot;Text_15&quot;,&quot;朋友，并不能算那种关系。&quot;
         ///&quot;Text_16&quot;,&quot;但是，为了那个人的话，我什么都愿意做。&quot;
         ///&quot;Text_17&quot;,&quot;能让你这样为一个人着想，
-        ///也是非常幸福的一件事吧。&quot;
-        ///&quot;Text_18&quot;,&quot;哎。
-        ///那样的 [字符串的其余部分被截断]&quot;; 的本地化字符串。
+        ///也是非常幸 [字符串的其余部分被截断]&quot;; 的本地化字符串。
         /// </summary>
         internal static string scenario_text_2_3_2 {
             get {
@@ -1257,9 +1722,7 @@ namespace Galstars.Extensions {
         ///不过……他像我打听了巴尔萨泽大人的事情。&quot;
         ///&quot;Text_15&quot;,&quot;（巴尔萨泽大人…？
         ///是曾经封印了尤利亚斯的国王吧。）&quot;
-        ///&quot;Text_16&quot;,&quot;他知道封印了自己的是巴尔萨泽大人吧。
-        ///毕竟是封印自己的人，
-        ///一定对他怀恨在心。&quot; [字符串的其余部分被截断]&quot;; 的本地化字符串。
+        ///&quot;Text_16&quot;,&quot;他知道封印了自己的是巴尔 [字符串的其余部分被截断]&quot;; 的本地化字符串。
         /// </summary>
         internal static string scenario_text_2_4_2 {
             get {
@@ -1294,9 +1757,7 @@ namespace Galstars.Extensions {
         ///&quot;Text_15&quot;,&quot;如果要封印在这个时代再度觉醒的尤利亚斯･费尔蒙德，
         ///必须要用现在公主的生命。&quot;
         ///&quot;Text_16&quot;,&quot;够了。
-        ///我已经认为你是公主殿下的敌人了。
-        ///束手就擒吧。&quot;
-        /// 的本地化字符串。
+        /// [字符串的其余部分被截断]&quot;; 的本地化字符串。
         /// </summary>
         internal static string scenario_text_2_5_1 {
             get {
@@ -1334,10 +1795,7 @@ namespace Galstars.Extensions {
         ///呜……。&quot;
         ///&quot;Text_16&quot;,&quot;艾莉卡，放心吧。
         ///我没事的。&quot;
-        ///&quot;Text_17&quot;,&quot;哦……。真是辛苦你了。
-        ///尤利亚斯居然复活了……。
-        ///要马上向兄长传达此事…。&quot;
-        ///&quot; [字符串的其余部分被截断]&quot;; 的本地化字符串。
+        ///&quot;Text_17&quot;,&quot;哦……。真是辛苦你了。 [字符串的其余部分被截断]&quot;; 的本地化字符串。
         /// </summary>
         internal static string scenario_text_2_5_2 {
             get {
@@ -1666,9 +2124,7 @@ namespace Galstars.Extensions {
         ///周边的住户并不会去接近森林。&quot;
         ///&quot;Text_14&quot;,&quot;似乎有着去一趟的价值。
         ///感谢你提供的情报。&quot;
-        ///&quot;Text_15&quot;,&quot;抱歉，刚才太激动了…。&quot;
-        ///&quot;Text_16&quot;,&quot;没有关系。
-        ///我也是为了 [字符串的其余部分被截断]&quot;; 的本地化字符串。
+        ///&quot;Text_15&quot;,&quot;抱歉，刚才太激动了…。 [字符串的其余部分被截断]&quot;; 的本地化字符串。
         /// </summary>
         internal static string scenario_text_3_2_2 {
             get {
@@ -1705,8 +2161,7 @@ namespace Galstars.Extensions {
         ///你在和死者说话吗？&quot;
         ///&quot;Text_16&quot;,&quot;那么求求你了！
         ///告诉我！
-        ///如何才能和死者说话呢？&quot;
-        ///&quot;Text_17&quot;,&quot;有一个人，我无论如 [字符串的其余部分被截断]&quot;; 的本地化字符串。
+        ///如何才能和 [字符串的其余部分被截断]&quot;; 的本地化字符串。
         /// </summary>
         internal static string scenario_text_3_3_1 {
             get {
@@ -1743,9 +2198,7 @@ namespace Galstars.Extensions {
         ///一点也不能体会露娜的感受。&quot;
         ///&quot;Text_14&quot;,&quot;不理解露娜的人，讨厌。&quot;
         ///&quot;Text_15&quot;,&quot;血族的叔叔……？
-        ///难道说……血族复活了！？&quot;
-        ///&quot;Text_16&quot;,&quot;不知道。
-        ///姐姐，叔叔都 [字符串的其余部分被截断]&quot;; 的本地化字符串。
+        ///难道说……血族复 [字符串的其余部分被截断]&quot;; 的本地化字符串。
         /// </summary>
         internal static string scenario_text_3_3_2 {
             get {
@@ -1814,8 +2267,7 @@ namespace Galstars.Extensions {
         ///我真是个不称职的队长…。&quot;
         ///&quot;Text_17&quot;,&quot;不是罗文的错啊。
         ///对不起。
-        ///说了这些话。&quot;
-        ///&quot;Text_18&quot;,&quot;但是，能和一直下落不 [字符串的其余部分被截断]&quot;; 的本地化字符串。
+        ///说 [字符串的其余部分被截断]&quot;; 的本地化字符串。
         /// </summary>
         internal static string scenario_text_3_4_2 {
             get {
@@ -1879,8 +2331,7 @@ namespace Galstars.Extensions {
         ///&quot;Text_17&quot;,&quot;什么……骗人！
         ///只要有血族的血的话――&quot;
         ///&quot;Text_18&quot;,&quot;我的血，不适合人类的身体。&quot;
-        ///&quot;Text_19&quot;,&quot;如果我的血，
-        ///能将人类从死亡的世界里召回 [字符串的其余部分被截断]&quot;; 的本地化字符串。
+        ///&quot;Text_ [字符串的其余部分被截断]&quot;; 的本地化字符串。
         /// </summary>
         internal static string scenario_text_3_5_2 {
             get {
@@ -1914,9 +2365,7 @@ namespace Galstars.Extensions {
         ///在与龙的战斗中，丧失了性命。&quot;
         ///&quot;Text_17&quot;,&quot;黑色的……龙……？&quot;
         ///&quot;Text_18&quot;,&quot;他已经不会回来了…？&quot;
-        ///&quot;Text_19&quot;,&quot;不要…。
-        ///不要啊……！&quot;
-        ///&quot;Text_20&quot;,&quot;凯伊鲁… [字符串的其余部分被截断]&quot;; 的本地化字符串。
+        ///&quot;Text_19&quot;,&quot;不要… [字符串的其余部分被截断]&quot;; 的本地化字符串。
         /// </summary>
         internal static string scenario_text_3_6_1 {
             get {
@@ -2007,9 +2456,7 @@ namespace Galstars.Extensions {
         ///&quot;Text_14&quot;,&quot;……&quot;
         ///&quot;Text_15&quot;,&quot;加油啊，别等到变成我这样。
         ///……抱歉，除了说这些也做不了什么了。&quot;
-        ///&quot;Text_16&quot;,&quot;不，不……。
-        ///没有这回事……&quot;
-        ///&quot;Text_ [字符串的其余部分被截断]&quot;; 的本地化字符串。
+        ///&quot;Tex [字符串的其余部分被截断]&quot;; 的本地化字符串。
         /// </summary>
         internal static string scenario_text_3_7_2 {
             get {
@@ -2046,8 +2493,7 @@ namespace Galstars.Extensions {
         ///&quot;Text_15&quot;,&quot;伊莎贝尔……！
         ///为什么你在这里……&quot;
         ///&quot;Text_16&quot;,&quot;快回答我！
-        ///是你杀了凯伊鲁？&quot;
-        ///&quot;Text_17&quot;,&quot;……伊莎贝尔，听我 [字符串的其余部分被截断]&quot;; 的本地化字符串。
+        ///是你 [字符串的其余部分被截断]&quot;; 的本地化字符串。
         /// </summary>
         internal static string scenario_text_3_8_1 {
             get {
@@ -2239,8 +2685,7 @@ namespace Galstars.Extensions {
         ///&quot;Text_15&quot;,&quot;想起来，有一件事想问下。&quot;
         ///&quot;Text_16&quot;,&quot;巴尔萨泽，怎么样了？
         ///曾经，和最后的血族战斗过的那个男人。&quot;
-        ///&quot;Text_17&quot;,&quot;…为什么突然问起数代之前的王的事情？&quot;
-        ///&quot;Text_18&quot;,&quot;数代 [字符串的其余部分被截断]&quot;; 的本地化字符串。
+        ///&quot;Text_17&quot;,&quot;…为什么 [字符串的其余部分被截断]&quot;; 的本地化字符串。
         /// </summary>
         internal static string scenario_text_4_3_2 {
             get {
@@ -2276,8 +2721,7 @@ namespace Galstars.Extensions {
         ///&quot;Text_16&quot;,&quot;罗文，你居然还活着………
         ///我还以为你早已经…。&quot;
         ///&quot;Text_17&quot;,&quot;呜啊啊啊啊啊！！&quot;
-        ///&quot;Text_18&quot;,&quot;我们的样子…！？&quot;
-        ///&quot;Text_19&quot;,&quot;伊莎贝尔，这些家伙是敌人 [字符串的其余部分被截断]&quot;; 的本地化字符串。
+        ///&quot;Text_18&quot;,&quot;我们的样子… [字符串的其余部分被截断]&quot;; 的本地化字符串。
         /// </summary>
         internal static string scenario_text_4_4_1 {
             get {
@@ -2311,9 +2755,7 @@ namespace Galstars.Extensions {
         ///&quot;Text_16&quot;,&quot;这样啊……。&quot;
         ///&quot;Text_17&quot;,&quot;……。&quot;
         ///&quot;Text_18&quot;,&quot;你是和凯伊鲁在同一个队的吧。那个时候也是…。
-        ///那个人最后是怎么死的，你知道些什么吗？
-        ///我想，知道得更详细点…。&quot;
-        /// [字符串的其余部分被截断]&quot;; 的本地化字符串。
+        ///那个人最后是怎么死 [字符串的其余部分被截断]&quot;; 的本地化字符串。
         /// </summary>
         internal static string scenario_text_4_4_2 {
             get {
@@ -2385,9 +2827,7 @@ namespace Galstars.Extensions {
         ///&quot;Text_15&quot;,&quot;他知道封印了自己的是巴尔萨泽大人吧。
         ///毕竟是封印自己的人，
         ///一定对他怀恨在心。&quot;
-        ///&quot;Text_16&quot;,&quot;这样的话……他的目标是王都……。
-        ///…公主殿下…！&quot;
-        ///&quot; [字符串的其余部分被截断]&quot;; 的本地化字符串。
+        ///&quot;Text_16&quot; [字符串的其余部分被截断]&quot;; 的本地化字符串。
         /// </summary>
         internal static string scenario_text_4_5_2 {
             get {
@@ -2428,10 +2868,7 @@ namespace Galstars.Extensions {
         ///&quot;Text_16&quot;,&quot;（怎么了……？身体好热……！）&quot;
         ///&quot;Text_17&quot;,&quot;（好痛苦……！）&quot;
         ///&quot;Text_18&quot;,&quot;呀！？
-        ///这是怎么了！？
-        ///什么也看不见了！&quot;
-        ///&quot;Text_19&quot;,&quot;呜啊啊啊啊！！&quot;
-        /// [字符串的其余部分被截断]&quot;; 的本地化字符串。
+        ///这是怎么了！ [字符串的其余部分被截断]&quot;; 的本地化字符串。
         /// </summary>
         internal static string scenario_text_4_6_1 {
             get {
@@ -2468,9 +2905,7 @@ namespace Galstars.Extensions {
         ///&quot;Text_14&quot;,&quot;…你为什么会知道这种事？
         ///你是什么人。&quot;
         ///&quot;Text_15&quot;,&quot;相信我或是不相信，你自己决断。
-        ///但是我是真心想要救你。&quot;
-        ///&quot;Text_16&quot;,&quot;（现在的我，什么也保护不了。
-        /// [字符串的其余部分被截断]&quot;; 的本地化字符串。
+        ///但是我是真心想要救你。 [字符串的其余部分被截断]&quot;; 的本地化字符串。
         /// </summary>
         internal static string scenario_text_4_6_2 {
             get {
@@ -2791,6 +3226,292 @@ namespace Galstars.Extensions {
         
         /// <summary>
         ///   查找类似 &quot;dummy&quot;
+        ///&quot;Text_01&quot;,&quot;露娜，你怎么了？
+        ///看起来不舒服的样子？
+        ///&quot;
+        ///&quot;Text_02&quot;,&quot;说不清楚……。
+        ///总感觉听到了奇怪的声音……。
+        ///一直能听到……。&quot;
+        ///&quot;Text_03&quot;,&quot;啊……啊啊……。
+        ///
+        ///&quot;
+        ///&quot;Text_04&quot;,&quot;奇怪的声音？
+        ///爸爸什么也没有听见。
+        ///&quot;
+        ///&quot;Text_05&quot;,&quot;露娜，辛苦了很久呢。
+        ///已经有点累了吧。
+        ///去休息一会吧？&quot;
+        ///&quot;Text_06&quot;,&quot;恩……。
+        ///
+        ///&quot;
+        ///&quot;Text_07&quot;,&quot;啊……。啊啊……。
+        ///
+        ///&quot;
+        ///&quot;Text_08&quot;,&quot;好烦啊……别吵了……。
+        ///别来捣乱了……。
+        ///一听到声音……脑子就……。&quot;
+        ///&quot;Text_09&quot;,&quot;爸爸……妈妈……。
+        ///起来啊……快起来啊……？
+        ///&quot;
+        ///&quot;Text_10&quot;,&quot;啊……。
+        ///
+        ///&quot;
+        ///&quot;Text_11&quot;,&quot;快起来啊……。
+        ///呐……。
+        ///&quot;
+        ///&quot;Text_12&quot;,&quot;什么……？那是什么……？
+        ///从刚才到现在……脑子里……好奇怪……。
+        ///&quot;
+        ///&quot;Text_13&quot;,&quot;不管是外表还是内部装饰都是个豪华的房子呢……。
+        ///真棒啊，好羡慕啊。也给我分一点吧！
+        ///……敢动的话，想尝尝苦头吗？&quot;
+        ///&quot;Text_1 [字符串的其余部分被截断]&quot;; 的本地化字符串。
+        /// </summary>
+        internal static string scenario_text_5_12_1 {
+            get {
+                return ResourceManager.GetString("scenario_text_5_12_1", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   查找类似 &quot;dummy&quot;
+        ///&quot;Text_01&quot;,&quot;啊啊。
+        ///啊啊……！
+        ///&quot;
+        ///&quot;Text_02&quot;,&quot;为什么……！？
+        ///说了让你安静一会了……！
+        ///&quot;
+        ///&quot;Text_03&quot;,&quot;把爸爸妈妈还给我。
+        ///还给我啊。
+        ///&quot;
+        ///&quot;Text_04&quot;,&quot;啊啊啊！
+        ///
+        ///&quot;
+        ///&quot;Text_05&quot;,&quot;呃……！？
+        ///这是什么玩意……！？
+        ///这个小孩……是怪物吗……！？&quot;
+        ///&quot;Text_06&quot;,&quot;头，好疼……。
+        ///疼啊，疼啊，疼啊，好疼啊，好疼啊！！！！
+        ///&quot;
+        ///&quot;Text_07&quot;,&quot;啊啊啊！！！！
+        ///
+        ///&quot;
+        ///&quot;Text_08&quot;,&quot;什么……！？
+        ///怎忙回事……！？
+        ///&quot;
+        ///&quot;Text_09&quot;,&quot;啊啊啊！
+        ///
+        ///&quot;
+        ///&quot;Text_10&quot;,&quot;爸、爸爸！？
+        ///妈妈！？
+        ///&quot;
+        ///&quot;Text_11&quot;,&quot;露、娜……。
+        ///
+        ///&quot;
+        ///&quot;Text_12&quot;,&quot;露娜……。
+        ///
+        ///&quot;
+        ///&quot;Text_13&quot;,&quot;什么！？什么、什么、什么！？
+        ///别动我爸爸妈妈！
+        ///&quot;
+        ///&quot;Text_14&quot;,&quot;啊……。
+        ///啊啊……。
+        ///&quot;
+        ///&quot;Text_15&quot;,&quot;你……是你吗？
+        ///是你伤害爸爸妈妈的？
+        ///住手啊……停下来！&quot;
+        ///&quot;Text_16&quot;,&quot;……为什么，会这样。
+        ///这个孩子…… [字符串的其余部分被截断]&quot;; 的本地化字符串。
+        /// </summary>
+        internal static string scenario_text_5_12_2 {
+            get {
+                return ResourceManager.GetString("scenario_text_5_12_2", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   查找类似 &quot;dummy&quot;
+        ///&quot;Text_01&quot;,&quot;你在哪里！
+        ///你躲到哪去了！
+        ///出来让露娜杀掉啊！&quot;
+        ///&quot;Text_02&quot;,&quot;露娜要杀了伤害爸爸妈妈的人！
+        ///敢伤害爸爸妈妈……必须死！
+        ///出来！快点出来！&quot;
+        ///&quot;Text_03&quot;,&quot;……。
+        ///
+        ///&quot;
+        ///&quot;Text_04&quot;,&quot;疼……！
+        ///为什么要对露娜的爸爸妈妈下手！
+        ///为什么……为什么！&quot;
+        ///&quot;Text_05&quot;,&quot;……这是如你所愿。
+        ///你所期盼的情况。
+        ///你自己……也正享受在其中。&quot;
+        ///&quot;Text_06&quot;,&quot;但是……你却并不能因此得到安宁。
+        ///若要说此乃命运的话，确认过于残酷了。
+        ///没错，太残酷了……。&quot;
+        ///&quot;Text_07&quot;,&quot;你在说什么！？
+        ///露娜可要生气了！
+        ///&quot;
+        ///&quot;Text_08&quot;,&quot;呜呜呜！
+        ///
+        ///&quot;
+        ///&quot;Text_09&quot;,&quot;你听……又是那声音！
+        ///说了让你停下来！
+        ///&quot;
+        ///&quot;Text_10&quot;,&quot;……那声音并不是我的作为。
+        ///那是你双亲的声音。
+        ///&quot;
+        ///&quot;Text_11&quot;,&quot;露娜的双亲……
+        ///是在说爸爸妈妈吗……？
+        ///……！那不可能的！&quot;
+        ///&quot;Text_12&quot;,&quot;……我不想让人们的生活更加残酷。
+        ///所以我让人们活在安宁的环境中。
+        ///但是……。&quot;
+        ///&quot;Tex [字符串的其余部分被截断]&quot;; 的本地化字符串。
+        /// </summary>
+        internal static string scenario_text_5_13_1 {
+            get {
+                return ResourceManager.GetString("scenario_text_5_13_1", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   查找类似 &quot;dummy&quot;
+        ///&quot;Text_01&quot;,&quot;胆敢伤害爸爸妈妈的人！
+        ///露娜会杀了他！
+        ///露娜必须杀了他！&quot;
+        ///&quot;Text_02&quot;,&quot;……是的。这正是你期盼着的。你的愿望。
+        ///所以涅墨西斯大人将这个世界赐予了你。
+        ///让你可以无限次对杀了双亲的盗贼进行复仇的世界。&quot;
+        ///&quot;Text_03&quot;,&quot;……唉？
+        ///你在说什么……？
+        ///露娜听不懂啊……。&quot;
+        ///&quot;Text_04&quot;,&quot;原来如此。
+        ///你将自己的记忆封存了起来。
+        ///&quot;
+        ///&quot;Text_05&quot;,&quot;你出生在一个优越的家庭。
+        ///有着善良温柔的双亲，你的生活充满自由欢乐。
+        ///……直到盗贼闯进家门之前。&quot;
+        ///&quot;Text_06&quot;,&quot;你照着父母所言，
+        ///躲在了衣柜里。
+        ///抱着自己喜欢的人偶，控制不住害怕地发抖。&quot;
+        ///&quot;Text_07&quot;,&quot;辱骂。咆哮。悲鸣。
+        ///…你应该记得的。打开衣柜的门，
+        ///在你面前的……是浑身鲜血的父母。&quot;
+        ///&quot;Text_08&quot;,&quot;不能再和你在一起了，对不起……。
+        ///
+        ///&quot;
+        ///&quot;Text_09&quot;,&quot;露娜……你要活下去……。
+        ///幸福的……活下去啊……。
+        ///&quot;
+        ///&quot;Text_10&quot;,&quot;……不是吧。
+        ///这……绝不是真的。
+        ///&quot;
+        ///&quot;Text_11&quot;,&quot;双亲倒在了血泊之中，再 [字符串的其余部分被截断]&quot;; 的本地化字符串。
+        /// </summary>
+        internal static string scenario_text_5_13_2 {
+            get {
+                return ResourceManager.GetString("scenario_text_5_13_2", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   查找类似 &quot;dummy&quot;
+        ///&quot;Text_01&quot;,&quot;爸爸……。
+        ///妈妈……。
+        ///露娜，好孤单啊……。&quot;
+        ///&quot;Text_02&quot;,&quot;露娜，能和爸爸妈妈说话的吧……？
+        ///可以的吧……？
+        ///&quot;
+        ///&quot;Text_03&quot;,&quot;啊……。
+        ///啊啊……。
+        ///&quot;
+        ///&quot;Text_04&quot;,&quot;……那是在做梦吗？
+        ///还是说是骗人的……？
+        ///&quot;
+        ///&quot;Text_05&quot;,&quot;……那就看你的想法了。
+        ///不过对于你来说，
+        ///那只是些无关紧要的小事。……。&quot;
+        ///&quot;Text_06&quot;,&quot;……听不懂了。
+        ///什么，都不懂了。
+        ///露娜该怎么办？&quot;
+        ///&quot;Text_07&quot;,&quot;不用多久救赎就将到来。
+        ///在那之前……只需静静等待就好。
+        ///&quot;
+        ///&quot;Text_08&quot;,&quot;……只要露娜等着，
+        ///就能和爸爸妈妈说话了吗？
+        ///这不太可能吧。&quot;
+        ///&quot;Text_09&quot;,&quot;……。
+        ///
+        ///&quot;
+        ///&quot;Text_10&quot;,&quot;露娜已经决定了。
+        ///……露娜想和爸爸妈妈说话。
+        ///像以前一样。像刚才一样……。&quot;
+        ///&quot;Text_11&quot;,&quot;所以才给了你这个梦境。
+        ///能和双亲一起生活，让你实现愿望的梦境。
+        ///&quot;
+        ///&quot;Text_12&quot;,&quot;露娜……。
+        ///
+        ///&quot;
+        ///&quot;Text_13&quot;,&quot;……只要在梦境中，
+        ///他们就会一直出现的。        /// [字符串的其余部分被截断]&quot;; 的本地化字符串。
+        /// </summary>
+        internal static string scenario_text_5_14_1 {
+            get {
+                return ResourceManager.GetString("scenario_text_5_14_1", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   查找类似 &quot;dummy&quot;
+        ///&quot;Text_01&quot;,&quot;……我已经感受到你的决心了。
+        ///请吧……朝着这边前进吧。
+        ///&quot;
+        ///&quot;Text_02&quot;,&quot;恩。
+        ///
+        ///&quot;
+        ///&quot;Text_03&quot;,&quot;对不起。
+        ///我不能治愈你的伤痕……
+        ///我，什么也做不到……。&quot;
+        ///&quot;Text_04&quot;,&quot;为什么要道歉呢？
+        ///是露娜的错。
+        ///露娜是个坏孩子。&quot;
+        ///&quot;Text_05&quot;,&quot;啊啊啊啊…。
+        ///
+        ///&quot;
+        ///&quot;Text_06&quot;,&quot;让爸爸和妈妈受苦，都是露娜的错。
+        ///露娜说过，让把爸爸妈妈还回来……
+        ///才变成现在的情况的。&quot;
+        ///&quot;Text_07&quot;,&quot;那个，露娜我……想起来了。
+        ///……死亡就是永远的别离。
+        ///&quot;
+        ///&quot;Text_08&quot;,&quot;……。
+        ///
+        ///&quot;
+        ///&quot;Text_09&quot;,&quot;已经不能再和爸爸妈妈说话了呢。
+        ///因为露娜的爸爸妈妈已经死了。
+        ///&quot;
+        ///&quot;Text_10&quot;,&quot;……大姐姐。
+        ///露娜想要帮爸爸妈妈的话，该怎么办呢？
+        ///露娜死了就可以吗？&quot;
+        ///&quot;Text_11&quot;,&quot;……不好意思。
+        ///我不清楚……。
+        ///&quot;
+        ///&quot;Text_12&quot;,&quot;……好吧。
+        ///那么再见了，大姐姐。
+        ///拜拜。&quot;
+        ///&quot;Text_13&quot;,&quot;……露娜好想一直在这里。
+        ///能和爸爸妈妈一起玩……
+        ///能吃到 [字符串的其余部分被截断]&quot;; 的本地化字符串。
+        /// </summary>
+        internal static string scenario_text_5_14_2 {
+            get {
+                return ResourceManager.GetString("scenario_text_5_14_2", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   查找类似 &quot;dummy&quot;
         ///&quot;Text_01&quot;,&quot;（啊啦，露娜。似乎有谁在哦。）&quot;
         ///&quot;Text_02&quot;,&quot;嗯？
         ///有人吗？&quot;
@@ -2820,8 +3541,7 @@ namespace Galstars.Extensions {
         ///现在这世上，巴尔萨泽还在吗？&quot;
         ///&quot;Text_16&quot;,&quot;不知道。
         ///那是谁？&quot;
-        ///&quot;Text_17&quot;,&quot;比起那个人，你还是快死吧！
-        ///然后一起散步吧 [字符串的其余部分被截断]&quot;; 的本地化字符串。
+        ///&quot;T [字符串的其余部分被截断]&quot;; 的本地化字符串。
         /// </summary>
         internal static string scenario_text_5_2_1 {
             get {
@@ -2893,9 +3613,7 @@ namespace Galstars.Extensions {
         ///散步就是要人多才热闹嘛。
         ///这样大家就可以一起玩了。&quot;
         ///&quot;Text_16&quot;,&quot;露、露娜酱，难道说……
-        ///你在和死者说话吗？&quot;
-        ///&quot;Text_17&quot;,&quot;那么求求你了！
-        ///告诉我 [字符串的其余部分被截断]&quot;; 的本地化字符串。
+        ///你在和死者 [字符串的其余部分被截断]&quot;; 的本地化字符串。
         /// </summary>
         internal static string scenario_text_5_3_1 {
             get {
@@ -2931,9 +3649,7 @@ namespace Galstars.Extensions {
         ///带上了也不会有趣的。）&quot;
         ///&quot;Text_14&quot;,&quot;（但是，露娜你就这样放弃了？
         ///不孤单了吗？）&quot;
-        ///&quot;Text_15&quot;,&quot;恩！
-        ///有爸爸和妈妈在，露娜不孤单！&quot;
-        ///&quot;Text_ [字符串的其余部分被截断]&quot;; 的本地化字符串。
+        ///&quot;Text_15&quot; [字符串的其余部分被截断]&quot;; 的本地化字符串。
         /// </summary>
         internal static string scenario_text_5_3_2 {
             get {
@@ -3020,8 +3736,7 @@ namespace Galstars.Extensions {
         ///&quot;Text_14&quot;,&quot;如果露娜出了事，姐姐你会伤心吗？&quot;
         ///&quot;Text_15&quot;,&quot;当然啦。
         ///所以早点回家怎么样？&quot;
-        ///&quot;Text_16&quot;,&quot;那就是说……姐姐你喜欢露娜吗？&quot;
-        ///&quot;Text_17&quot;,&quot;能成为露娜的朋友吗？&quot; [字符串的其余部分被截断]&quot;; 的本地化字符串。
+        ///&quot;Text_16&quot;,&quot;那就是说……姐姐你喜 [字符串的其余部分被截断]&quot;; 的本地化字符串。
         /// </summary>
         internal static string scenario_text_5_5_1 {
             get {
@@ -3054,9 +3769,7 @@ namespace Galstars.Extensions {
         ///&quot;Text_14&quot;,&quot;骗人，骗人！
         ///爸爸和妈妈现在一直和我在一起！！
         ///露娜不寂寞！露娜不是一个人！&quot;
-        ///&quot;Text_15&quot;,&quot;你就是这样在一直欺骗着自己吗。&quot;
-        ///&quot;Text_16&quot;,&quot;你骗人！！&quot;
-        ///&quot;Te [字符串的其余部分被截断]&quot;; 的本地化字符串。
+        ///&quot;Text_15&quot;,&quot;你就是这样在一直欺骗着自己吗 [字符串的其余部分被截断]&quot;; 的本地化字符串。
         /// </summary>
         internal static string scenario_text_5_5_2 {
             get {
@@ -3166,9 +3879,7 @@ namespace Galstars.Extensions {
         ///还有好多想说的……。&quot;
         ///&quot;Text_17&quot;,&quot;……这就是你的回答吗？
         ///自己制造的空想的幸福也可以接受？&quot;
-        ///&quot;Text_18&quot;,&quot;能和爸爸妈妈……在一起就好……。
-        ///永远在一起……。&quot;
-        ///&quot;Text_19&quot;,&quot;好吧… [字符串的其余部分被截断]&quot;; 的本地化字符串。
+        ///&quot;Text_18&quot;,&quot;能和爸爸妈妈……在一起就好……。 [字符串的其余部分被截断]&quot;; 的本地化字符串。
         /// </summary>
         internal static string scenario_text_5_7_2 {
             get {
@@ -3405,8 +4116,7 @@ namespace Galstars.Extensions {
         ///&quot;Text_14&quot;,&quot;比起那个人，你还是快死吧！
         ///然后一起散步吧！&quot;
         ///&quot;Text_15&quot;,&quot;（不知道吗。
-        ///对战斗倒似乎还有些期待。）&quot;
-        ///&quot;Text_16&quot;,&quot;怎么了叔叔， [字符串的其余部分被截断]&quot;; 的本地化字符串。
+        ///对战斗倒 [字符串的其余部分被截断]&quot;; 的本地化字符串。
         /// </summary>
         internal static string scenario_text_6_2_1 {
             get {
@@ -3476,8 +4186,7 @@ namespace Galstars.Extensions {
         ///你这是……&quot;
         ///&quot;Text_18&quot;,&quot;这些怪物不管打多少都没意思。
         ///和你在这里相遇，也是一种缘分。&quot;
-        ///&quot;Text_19&quot;,&quot;这回，你能让我感到愉悦吗？&quot;
-        /// 的本地化字符串。
+        ///&quot;Text_19&quot;,&quot;这回，你能让我 [字符串的其余部分被截断]&quot;; 的本地化字符串。
         /// </summary>
         internal static string scenario_text_6_3_1 {
             get {
@@ -3512,10 +4221,7 @@ namespace Galstars.Extensions {
         ///&quot;Text_15&quot;,&quot;巴尔萨泽，怎么样了？
         ///曾经，和最后的血族战斗过的那个男人。&quot;
         ///&quot;Text_16&quot;,&quot;…为什么突然问起数代之前的王的事情？&quot;
-        ///&quot;Text_17&quot;,&quot;数代之前……是这样啊……果然……。&quot;
-        ///&quot;Text_18&quot;,&quot;吓！
-        ///想起来了！
-        ///尤 [字符串的其余部分被截断]&quot;; 的本地化字符串。
+        ///&quot;Text_17&quot;,&quot;数代之前……是这样啊……果然 [字符串的其余部分被截断]&quot;; 的本地化字符串。
         /// </summary>
         internal static string scenario_text_6_3_2 {
             get {
@@ -3621,8 +4327,7 @@ namespace Galstars.Extensions {
         ///这就是现实。&quot;
         ///&quot;Text_17&quot;,&quot;没有那回事！
         ///我不会放弃的……！&quot;
-        ///&quot;Text_18&quot;,&quot;哼，对你没兴趣了。&quot;
-        ///&quot;Text_19&quot;,&quot;永别了，愚昧无 [字符串的其余部分被截断]&quot;; 的本地化字符串。
+        ///&quot;Text_18&quot;,&quot;哼，对 [字符串的其余部分被截断]&quot;; 的本地化字符串。
         /// </summary>
         internal static string scenario_text_6_5_2 {
             get {
@@ -3807,9 +4512,7 @@ namespace Galstars.Extensions {
         ///&quot;Text_16&quot;,&quot;（那个印记…，和灾厄之树很像…。）&quot;
         ///&quot;Text_17&quot;,&quot;呜…！&quot;
         ///&quot;Text_18&quot;,&quot;（好疼…，右眼…。）&quot;
-        ///&quot;Text_19&quot;,&quot;呜啊啊啊啊啊！！&quot;
-        ///&quot;Text_20&quot;,&quot;呜！
-        ///虽 [字符串的其余部分被截断]&quot;; 的本地化字符串。
+        ///&quot;Text_19&quot;,&quot;呜 [字符串的其余部分被截断]&quot;; 的本地化字符串。
         /// </summary>
         internal static string scenario_text_7_1_1 {
             get {
@@ -4035,8 +4738,7 @@ namespace Galstars.Extensions {
         ///&quot;Text_14&quot;,&quot;不要再说了！
         ///为什么要变成我的姿态做这些事！&quot;
         ///&quot;Text_15&quot;,&quot;你就是我。
-        ///用不了多久你就可以全部理解了吧。&quot;
-        ///&quot;Text_16&quot;,&quot;救济的时刻已经近在咫尺了 [字符串的其余部分被截断]&quot;; 的本地化字符串。
+        ///用不了多久你就可以全部理解了吧 [字符串的其余部分被截断]&quot;; 的本地化字符串。
         /// </summary>
         internal static string scenario_text_7_5_2 {
             get {
@@ -4136,8 +4838,7 @@ namespace Galstars.Extensions {
         ///我…。&quot;
         ///&quot;Text_16&quot;,&quot;抱歉。&quot;
         ///&quot;Text_17&quot;,&quot;……。&quot;
-        ///&quot;Text_18&quot;,&quot;我所不知道的我自己，认识那个孩子…。&quot;
-        ///&quot;Text_19&quot;,&quot;我所回忆不 [字符串的其余部分被截断]&quot;; 的本地化字符串。
+        ///&quot;Text_18&quot;,&quot;我所不知道的我自 [字符串的其余部分被截断]&quot;; 的本地化字符串。
         /// </summary>
         internal static string scenario_text_7_7_2 {
             get {
@@ -4220,7 +4921,7 @@ namespace Galstars.Extensions {
         ///&quot;Name_魔狼&quot;,&quot;魔狼&quot;
         ///&quot;Name_魔熊&quot;,&quot;魔熊&quot;
         ///&quot;Name_魔法使い&quot;,&quot;魔法使&quot;
-        ///&quot;Name_反逆者の男&quot;,&quot;叛逆的... 的本地化字符串。
+        ///&quot... 的本地化字符串。
         /// </summary>
         internal static string scenario_text_name {
             get {
@@ -4258,8 +4959,7 @@ namespace Galstars.Extensions {
         ///离开了森林。&quot;,&quot;离开了森林寻找萝沙丽亚的亚里莎，
         ///在路途中遭遇了虚之影。
         ///正在对峙中的亚里莎这边，
-        ///神秘少女出现帮助了她。&quot;,&quot;和名为艾莉卡的少女
-        ///一同打倒了 [字符串的其余部分被截断]&quot;; 的本地化字符串。
+        /// [字符串的其余部分被截断]&quot;; 的本地化字符串。
         /// </summary>
         internal static string scenario_text_summary {
             get {

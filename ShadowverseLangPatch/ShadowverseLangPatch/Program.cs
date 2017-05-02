@@ -16,7 +16,7 @@ namespace ShadowverseLangPatch
             try
             {
                 Console.ForegroundColor = ConsoleColor.Yellow;
-                Console.WriteLine("暗影之诗 Shadowverse PC+Mac简繁汉化补丁 v5.4");
+                Console.WriteLine("暗影之诗 Shadowverse PC+Mac简繁汉化补丁 v5.5");
                 Console.WriteLine("汉化：淺夏 <http://steam.pm/id/fylab>");
                 Console.WriteLine("      岚兮雨汐 <http://steam.pm/id/momohu>");
                 Console.WriteLine("      蔽月八云 <http://steam.pm/id/yakumo17s>");
