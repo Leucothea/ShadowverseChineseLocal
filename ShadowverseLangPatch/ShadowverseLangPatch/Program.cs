@@ -16,7 +16,7 @@ namespace ShadowverseLangPatch
             try
             {
                 Console.ForegroundColor = ConsoleColor.Yellow;
-                Console.WriteLine("暗影之诗 Shadowverse PC+Mac简繁汉化补丁 v5.5");
+                Console.WriteLine("暗影之诗 Shadowverse PC+Mac简繁汉化补丁 v5.6");
                 Console.WriteLine("汉化：淺夏 <http://steam.pm/id/fylab>");
                 Console.WriteLine("      岚兮雨汐 <http://steam.pm/id/momohu>");
                 Console.WriteLine("      蔽月八云 <http://steam.pm/id/yakumo17s>");
@@ -29,7 +29,7 @@ namespace ShadowverseLangPatch
                 }
                 else
                 {
-                    Console.WriteLine("请选择操作：1. 安装简体(系统默认字体) 2. 安装繁体(日语/英语原版字体) 3.卸载");
+                    Console.WriteLine("请选择操作：1. 安装简体 2. 安装繁体 3.卸载");
                     var key = Console.ReadKey(true);
                     if (key.KeyChar == '3')
                     {
