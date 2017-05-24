@@ -226,7 +226,7 @@ namespace Galstars.Extensions
 
         static void onRequestFinished(HTTPRequest request, HTTPResponse response)
         {
-            if (response != null && new Version("5.6") < new Version(response.DataAsText))
+            if (response != null && new Version("5.6.1") < new Version(response.DataAsText))
             {
                 DialogBase base2 = UIManager.GetInstance().CreateDialogClose();
                 base2.SetTitleLabel("汉化有更新啦！");

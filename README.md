@@ -1,4 +1,4 @@
-﻿暗影之诗 Shadowverse PC+Mac简繁汉化补丁 v5.6
+﻿暗影之诗 Shadowverse PC+Mac简繁汉化补丁 v5.6.1
 =====
 汉化：淺夏 <http://steam.pm/id/fylab><br>
 　　　岚兮雨汐 <http://steam.pm/id/momohu><br>
@@ -18,7 +18,7 @@
 -----
 ★前言：不建议在繁体台版的基础上打汉化补丁，会导致字体大小不一致，非常影响美观，请切换到日版或美版打补丁。<br>
 1、确保游戏当前没有打过任何补丁（打开游戏若是旧版汉化，先按3卸载一次）。<br>
-2、解压ShadowverseLangPatch_v5.6到游戏根目录执行即可，输入1是简体、2是繁体。<br>
+2、解压ShadowverseLangPatch_v5.6.1到游戏根目录执行即可，输入1是简体、2是繁体。<br>
 3、卸载方法：运行程序按3。<br>
 4、若游戏没有更新但汉化补丁有更新，需要先按3卸载后再装新补丁；<br>
  　若游戏自身有更新，更新后不需要卸载，直接按1或2给新版游戏打补丁。<br>
@@ -48,4 +48,4 @@ NGA：http://bbs.ngacn.cc/read.php?tid=10709138<br>
 
 
 
-2017/05/23 Updated<br>
+2017/05/24 Updated<br>
