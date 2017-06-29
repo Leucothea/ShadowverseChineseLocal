@@ -158,5 +158,14 @@
       "Dia_Share_002": "上傳失敗",
       "Dia_Share_003": "已取消",
       "Dia_Share_004": "牌組内的牌張數不正確。\n請修改至40張牌。",
-      "Dia_Share_005": "上傳結果"
+      "Dia_Share_005": "上傳結果",
+      "Dia_Language_001_Text_Title": "文字",
+      "Dia_Language_002_Voice_Title": "語音",
+      "Dia_Language_003_Title": "切換語言設定",
+      "Dia_Language_004_Body": "繁體中文僅對應日文語音。\n依照所選擇的文字，可切換該語言對應的語音。",
+      "Dia_Language_005_Body_Text": "文字",
+      "Dia_Language_006_Body_Spoken": "語音",
+      "Dia_Language_007_Btn_Change": "變更",
+      "Dia_FirstSetting_001_Body": "系統將自動調整為合適的設定。\n\n如需變更設定内容，\n請點撃「其他」按鈕或者「對戰選單」中的「設定」按鈕進行變更。"
+
 }

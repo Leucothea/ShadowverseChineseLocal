@@ -158,5 +158,13 @@
       "Dia_Share_002": "上传失败",
       "Dia_Share_003": "已取消",
       "Dia_Share_004": "牌组内的卡牌张数不正确。\n请修改至40张卡牌。",
-      "Dia_Share_005": "上传结果"
+      "Dia_Share_005": "上传结果",
+      "Dia_Language_001_Text_Title": "文本",
+      "Dia_Language_002_Voice_Title": "语音",
+      "Dia_Language_003_Title": "切换语言设置",
+      "Dia_Language_004_Body": "简体中文仅对应日文语音。\n依照所选择的文本，可切换该语言对应的语音。",
+      "Dia_Language_005_Body_Text": "文本",
+      "Dia_Language_006_Body_Spoken": "语音",
+      "Dia_Language_007_Btn_Change": "变更",
+      "Dia_FirstSetting_001_Body": "系统将自动调整为合适的设置。\n\n如需变更设置内容，\n请点击「其他」按钮或者「对战菜单」中的「设置」按钮进行变更。"
 }
