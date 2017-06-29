@@ -12,12 +12,6 @@
       "TN_指揮官": "Commander",
       "TN_土の印": "Earth Sigil"
     },
-    "Chs": {
-      "TN_ALL": "ALL",
-      "TN_兵士": "士兵",
-      "TN_指揮官": "指挥官",
-      "TN_土の印": "土之印"
-    },
     "Kor": {
       "TN_ALL": "ALL",
       "TN_兵士": "병사",
@@ -29,6 +23,24 @@
       "TN_兵士": "士兵",
       "TN_指揮官": "指揮官",
       "TN_土の印": "土之印"
+    },
+    "Fre": {
+      "TN_ALL": "ALL",
+      "TN_兵士": "Soldat",
+      "TN_指揮官": "Commandant",
+      "TN_土の印": "Symbole tellurique"
+    },
+    "Ita": {
+      "TN_ALL": "ALL",
+      "TN_兵士": "Soldato",
+      "TN_指揮官": "Comandante",
+      "TN_土の印": "Sigillo Terrestre"
+    },
+    "Ger": {
+      "TN_ALL": "ALL",
+      "TN_兵士": "Soldat",
+      "TN_指揮官": "Kommandant",
+      "TN_土の印": "Erdensiegel"
     }
   }
 }

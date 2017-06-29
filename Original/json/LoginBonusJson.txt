@@ -12,12 +12,6 @@
       "LoginBonus_0003": "Promotion: {0}",
       "LoginBonus_0004": "NEXT"
     },
-    "Chs": {
-      "LoginBonus_0001": "已获得",
-      "LoginBonus_0002": "下次登入可获得 {0}×{1}",
-      "LoginBonus_0003": "登入活动期间 : {0}",
-      "LoginBonus_0004": "下一个"
-    },
     "Kor": {
       "LoginBonus_0001": "획득 완료",
       "LoginBonus_0002": "다음 보상 : {0}×{1}",
@@ -29,6 +23,24 @@
       "LoginBonus_0002": "下次登入獎勵可獲得 {0}×{1} ",
       "LoginBonus_0003": "活動期間 : {0}",
       "LoginBonus_0004": "NEXT"
+    },
+    "Fre": {
+      "LoginBonus_0001": "Reçu",
+      "LoginBonus_0002": "Prochaine fois : {0} x {1}",
+      "LoginBonus_0003": "Durée de l'offre : {0}",
+      "LoginBonus_0004": "Suivant"
+    },
+    "Ita": {
+      "LoginBonus_0001": "Ottenuto",
+      "LoginBonus_0002": "Prossimo Accesso: {0} x{1}",
+      "LoginBonus_0003": "Validità Campagna:{0}",
+      "LoginBonus_0004": "Prossimo"
+    },
+    "Ger": {
+      "LoginBonus_0001": "Erhalten",
+      "LoginBonus_0002": "Nächstes Mal: {0} x{1}",
+      "LoginBonus_0003": "Aktionszeitraum: {0}",
+      "LoginBonus_0004": "ALS NÄCHSTES"
     }
   }
 }

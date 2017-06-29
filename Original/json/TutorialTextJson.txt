@@ -24,18 +24,6 @@
       "Tutorial_0009": "Skip this battle?",
       "Tutorial_0010": "First try playing the Main Story."
     },
-    "Chs": {
-      "Tutorial_0001": "萝沙丽亚真厉害！",
-      "Tutorial_0002": "快点开始吧！",
-      "Tutorial_0003": "教程信息3",
-      "Tutorial_0004": "场景{0}",
-      "Tutorial_0005": "亚里莎",
-      "Tutorial_0006": "场景{0}",
-      "Tutorial_0007": "教程",
-      "Tutorial_0008": "跳过教程",
-      "Tutorial_0009": "跳过本场战斗吗？",
-      "Tutorial_0010": "请先进行练习赛来练习吧。"
-    },
     "Kor": {
       "Tutorial_0001": "역시 로자리아야",
       "Tutorial_0002": "기대되는 걸",
@@ -59,6 +47,42 @@
       "Tutorial_0008": "略過新手教學",
       "Tutorial_0009": "是否要略過本次對戰？",
       "Tutorial_0010": "請先選擇單人遊戲。"
+    },
+    "Fre": {
+      "Tutorial_0001": "Je te reconnais bien là.",
+      "Tutorial_0002": "Ce sera amusant !",
+      "Tutorial_0003": "Message tutoriel 3",
+      "Tutorial_0004": "Chapitre {0}",
+      "Tutorial_0005": "Arisa",
+      "Tutorial_0006": "Chapitre {0}",
+      "Tutorial_0007": "Tutoriel",
+      "Tutorial_0008": "Passer le tutoriel",
+      "Tutorial_0009": "Voulez-vous passer cette bataille ?",
+      "Tutorial_0010": "Sélectionnez d'abord Jeu solo."
+    },
+    "Ita": {
+      "Tutorial_0001": "Vai Losaria!",
+      "Tutorial_0002": "Ci sarà da divertirsi!",
+      "Tutorial_0003": "Messaggio Tutorial 3",
+      "Tutorial_0004": "Capitolo {0}",
+      "Tutorial_0005": "Arisa",
+      "Tutorial_0006": "Capitolo {0}",
+      "Tutorial_0007": "Tutorial",
+      "Tutorial_0008": "Salta il Tutorial",
+      "Tutorial_0009": "Vuoi saltare questa battaglia?",
+      "Tutorial_0010": "Gioca prima alla Modalità Storia."
+    },
+    "Ger": {
+      "Tutorial_0001": "Losaria, Du bist der Wahnsinn!",
+      "Tutorial_0002": "Hach, wie ich mich schon freue!",
+      "Tutorial_0003": "Tutorialnachricht 3",
+      "Tutorial_0004": "Kapitel {0}",
+      "Tutorial_0005": "Arisa",
+      "Tutorial_0006": "Kapitel {0}",
+      "Tutorial_0007": "Tutorial",
+      "Tutorial_0008": "Tutorial überspringen",
+      "Tutorial_0009": "Dieses Duell überspringen?",
+      "Tutorial_0010": "Spiele zunächst den Storymodus."
     }
   }
 }

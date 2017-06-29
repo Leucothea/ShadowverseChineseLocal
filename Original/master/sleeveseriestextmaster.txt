@@ -9,7 +9,8 @@
       "SSI_セカンドシリーズ": "セカンドシリーズ紹介文",
       "SSI_サードシリーズ": "サードシリーズ紹介文",
       "SSI_グランブルーファンタジー": "空を旅する本格RPG！　バトルでは大ダメージを狙える「奥義」や、大いなる力を持つ「星晶獣」の召喚など、簡単な操作でド派手なバトル演出が楽しめる！\nカードスリーブはデッキ編成画面で変更できます。",
-      "SSI_アイドルマスターシンデレラガールズ": "アイドルマスター シンデレラガールズのスリーブです。\nカードスリーブはデッキ編成画面で変更できます。\n©BNEI"
+      "SSI_アイドルマスターシンデレラガールズ": "アイドルマスター シンデレラガールズのスリーブです。\nカードスリーブはデッキ編成画面で変更できます。\n©BNEI",
+      "SSI_累積BP報酬": "2016年10月～12月の累積BP報酬！\n所持していない場合はエンブレムも手に入ります。\nカードスリーブはデッキ編成画面で変更できます。"
     },
     "Eng": {
       "SSN_ファーストシリーズ": "Rage of Bahamut",
@@ -20,18 +21,8 @@
       "SSI_セカンドシリーズ": "SSI_セカンドシリーズ",
       "SSI_サードシリーズ": "SSI_サードシリーズ",
       "SSI_グランブルーファンタジー": "Venture through the skies in this full-fledged RPG!\n\nYou can change your sleeve on the Decks screen.",
-      "SSI_アイドルマスターシンデレラガールズ": "アイドルマスター シンデレラガールズ"
-    },
-    "Chs": {
-      "SSN_ファーストシリーズ": "第一弹",
-      "SSN_セカンドシリーズ": "第二弹",
-      "SSN_サードシリーズ": "第三弹",
-      "SSN_フォースシリーズ": "第四弹",
-      "SSI_神撃のバハムート": "收集卡牌组成牌组，在秘银大陆的世界进行冒险的\n集换式卡牌幻想类角色扮演游戏！\n在编辑牌组中可以变更卡背。\n",
-      "SSI_セカンドシリーズ": "SSI_セカンドシリーズ",
-      "SSI_サードシリーズ": "SSI_サードシリーズ",
-      "SSI_グランブルーファンタジー": "在蔚蓝的天空冒险的正统角色扮演游戏！\n战斗中可以使用能造成巨大伤害的“奥义”\n或强力的“星晶兽”，简单的操作就能\n体验华丽的战斗！\n在编辑牌组中可以变更卡背。",
-      "SSI_アイドルマスターシンデレラガールズ": "偶像大师 灰姑娘的卡背。\n在编辑牌组中可以变更卡背。\n©BNEI"
+      "SSI_アイドルマスターシンデレラガールズ": "アイドルマスター シンデレラガールズ",
+      "SSI_累積BP報酬": "Oct to Dec, 2016 Score Reward sleeves are out now! You'll also get matching emblems if you don't already have them.\n\nYou can change your sleeve on the Decks screen."
     },
     "Kor": {
       "SSN_ファーストシリーズ": "첫번째 시리즈",
@@ -42,7 +33,8 @@
       "SSI_セカンドシリーズ": "두번째 시리즈 소개문",
       "SSI_サードシリーズ": "세번째 시리즈 소개문",
       "SSI_グランブルーファンタジー": "하늘을 여행하는 정통 RPG! 전투에서는 높은 위력의 오의나\n위대한 힘을 가진 성정수의 소환 등 간단한 조작으로\n화려한 전투 연출을 즐길 수 있습니다!\n카드뒷면은 덱 편성 화면에서 변경할 수 있습니다.",
-      "SSI_アイドルマスターシンデレラガールズ": "아이돌 마스터 신데렐라 걸즈의 카드뒷면입니다.\n카드뒷면은 덱 편성 화면에서 변경할 수 있습니다.\n©BNEI"
+      "SSI_アイドルマスターシンデレラガールズ": "아이돌 마스터 신데렐라 걸즈의 카드뒷면입니다.\n카드뒷면은 덱 편성 화면에서 변경할 수 있습니다.\n©BNEI",
+      "SSI_累積BP報酬": "2016년 10월 ~ 12월 누적 BP 보상!\n보유하고 있지 않은 엠블럼을 획득할 수 있습니다.\n카드뒷면은 덱 편성 화면에서 변경할 수 있습니다."
     },
     "Cht": {
       "SSN_ファーストシリーズ": "第一季",
@@ -53,7 +45,44 @@
       "SSI_セカンドシリーズ": "第二季簡介",
       "SSI_サードシリーズ": "第三季簡介",
       "SSI_グランブルーファンタジー": "帶您暢遊天空的王道RPG！戰鬥中可用「奧義」一次給予敵人極大的傷害，或是召喚強力的「星晶獸」橫掃戰場。\n簡單操作，就能體驗超高水準的華麗戰鬥特效！\n卡背可在編輯牌組的頁面進行變更。",
-      "SSI_アイドルマスターシンデレラガールズ": "偶像大師 灰姑娘女孩的主題卡背。\n卡背可在編輯牌組的頁面進行變更。\n©BNEI"
+      "SSI_アイドルマスターシンデレラガールズ": "偶像大師 灰姑娘女孩的主題卡背。\n卡背可在編輯牌組的頁面進行變更。\n©BNEI",
+      "SSI_累積BP報酬": "2016年10月～12月的累積BP獎勵！\n除卡背之外還能同時獲得徽章。\n卡背可在編輯牌組的頁面進行變更。"
+    },
+    "Fre": {
+      "SSN_ファーストシリーズ": "Rage of Bahamut",
+      "SSN_セカンドシリーズ": "Granblue Fantasy",
+      "SSN_サードシリーズ": "SSN_サードシリーズ",
+      "SSN_フォースシリーズ": "SSN_フォースシリーズ",
+      "SSI_神撃のバハムート": "Collectionnez des cartes pour créer vos decks et explorez le fabuleux monde de Mystalsia dans ce trading card RPG visuellement éblouissant !\n\nVous pouvez changer de dos de carte à l'écran Édition decks.",
+      "SSI_セカンドシリーズ": "SSI_セカンドシリーズ",
+      "SSI_サードシリーズ": "SSI_サードシリーズ",
+      "SSI_グランブルーファンタジー": "Parcourez les cieux dans ce RPG hors-norme ! Engagez des combats épiques en lançant de puissantes attaques spéciales et en invoquant des bêtes astrales surpuissantes.\n\nVous pouvez changer de dos de carte à l'écran Édition decks.",
+      "SSI_アイドルマスターシンデレラガールズ": "Dos de carte à l'éffigie de \\\"The Idolmaster: Cinderella Girls\\\".\nVous pouvez changer de dos de carte à l'écran Édition decks.\n\n©BNEI",
+      "SSI_累積BP報酬": "Les Récompenses PBC pour la période courant d'octobre à décembre 2016.\nVous pouvez obtenir des icônes même si vous ne réussissez pas à obtenir vos Récompenses PBC.\nVous pouvez changer de dos de carte à l'écran Édition decks."
+    },
+    "Ita": {
+      "SSN_ファーストシリーズ": "Rage of Bahamut",
+      "SSN_セカンドシリーズ": "Granblue Fantasy",
+      "SSN_サードシリーズ": "SSN_サードシリーズ",
+      "SSN_フォースシリーズ": "SSN_フォースシリーズ",
+      "SSI_神撃のバハムート": "Colleziona le carte, costruisci il tuo deck e avventurati in questo visual fantasy RPG!\n\nPuoi cambiare il dorso delle carte nel menu del Deck.",
+      "SSI_セカンドシリーズ": "SSI_セカンドシリーズ",
+      "SSI_サードシリーズ": "SSI_サードシリーズ",
+      "SSI_グランブルーファンタジー": "Avventurati tra i cieli in questo splendido RPG! Evoca potenti mostri, padroneggia le più forti tecniche segrete in un gioco facilissimo da apprendere!\n\nPuoi cambiare il dorso delle carte nel menu del Deck.",
+      "SSI_アイドルマスターシンデレラガールズ": "Il dorso speciale di \\\"The Idolmaster: Cinderella Girls\\\".\nPuoi cambiare il dorso delle carte nel menu del Deck.\n\n©BNEI",
+      "SSI_累積BP報酬": "Ecco i Premi Punteggio resi disponibili tra ottobre e dicembre 2016!\nIn caso tu non sia riuscito ad ottenerli, ricevi anche gli emblemi.\nPuoi cambiare il dorso delle carte nel menu del Deck."
+    },
+    "Ger": {
+      "SSN_ファーストシリーズ": "Rage of Bahamut",
+      "SSN_セカンドシリーズ": "Granblue Fantasy",
+      "SSN_サードシリーズ": "SSN_サードシリーズ",
+      "SSN_フォースシリーズ": "SSN_フォースシリーズ",
+      "SSI_神撃のバハムート": "In diesem atemberaubenden Fantasy-Rollenspiel gilt es, Karten zu sammeln, ein eigenes Deck zu erstellen und Abenteuer in der fernen Welt von Mystalsia zu bestreiten!\n\nKartenrücken-Designs können auf dem Deckbildschirm geändert werden.",
+      "SSI_セカンドシリーズ": "SSI_セカンドシリーズ",
+      "SSI_サードシリーズ": "SSI_サードシリーズ",
+      "SSI_グランブルーファンタジー": "In diesem klassischen Rollenspiel geht es hoch hinauf und weit über die Grenzen des Wolkenmeers hinaus! Entfessle mächtige Spezialattacken und beschwöre alles verwüstende Astralbestien für wahrhaft packende Schlachten!\n\nKartenrücken-Designs können auf dem Deckbildschirm geändert werden.",
+      "SSI_アイドルマスターシンデレラガールズ": "Kartenrücken im Design von \\\"The Idolmaster: Cinderella Girls\\\".\nKartenrücken-Designs können auf dem Deckbildschirm geändert werden.\n\n©BNEI",
+      "SSI_累積BP報酬": "Ursprünglich als KP-Belohnungen im Zeitraum von Oktober bis Dezember 2016 erhältlich.\n\nDaneben können spezielle Embleme erhalten werden, sofern Du diese noch nicht besitzt.\n\nKartenrücken-Designs können auf dem Deckbildschirm geändert werden."
     }
   }
 }

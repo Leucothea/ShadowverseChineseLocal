@@ -10,11 +10,6 @@
       "Arena_Load_0002": "Choose a total of 15 pairs to build a 30-card Take Two deck. This deck can be used to fight up to five matches and win rewards.",
       "Arena_Load_0003": "Choose how to enter."
     },
-    "Chs": {
-      "Arena_Load_0001": "双选模式",
-      "Arena_Load_0002": "二张一组选择卡牌，做成30张牌的牌组，\n进行5次对战的特别对战模式。\n根据胜场可获得豪华报酬。",
-      "Arena_Load_0003": "需要以下入场费"
-    },
     "Kor": {
       "Arena_Load_0001": "2Pick",
       "Arena_Load_0002": "2장 세트의 카드를 계속 선택해 30장으로 구성된 덱을 만들고 그 덱으로 5번 대전하는 특별한 모드입니다.\n승수가 많을수록 더 좋은 보상을 받습니다.",
@@ -24,6 +19,21 @@
       "Arena_Load_0001": "2Pick",
       "Arena_Load_0002": "在本特別模式中，您必須在2張一組的隨機卡片中進行多次選擇，組成一套30張卡片的牌組。以此牌組參加5場對戰後，您將會依勝場數獲得各種豪華獎賞。",
       "Arena_Load_0003": "入場時須花費下列項目"
+    },
+    "Fre": {
+      "Arena_Load_0001": "Double Pioche",
+      "Arena_Load_0002": "5 batailles enchaînées. Choisissez une paire de cartes parmi les deux qui s'affichent aléatoirement à l'écran jusqu'à obtenir un deck complet de 30 cartes.",
+      "Arena_Load_0003": "Choisissez comment accéder à l'arène."
+    },
+    "Ita": {
+      "Arena_Load_0001": "Forza 2",
+      "Arena_Load_0002": "Scegli un totale di 15 paia di carte e costruisci un deck Forza 2 di 30 carte. Affronta 5 sfide e vinci premi in base a quante vittorie riesci a ottenere!",
+      "Arena_Load_0003": "Scegli come entrare."
+    },
+    "Ger": {
+      "Arena_Load_0001": "Nimm 2",
+      "Arena_Load_0002": "Stelle je 15 zufällig generierte Kartenpaare zu einem Deck zusammen und kämpfe in 5 Duellen für Belohnungen. (Mehr Siege = bessere Preise!)",
+      "Arena_Load_0003": "Zugangsmethode wählen"
     }
   }
 }

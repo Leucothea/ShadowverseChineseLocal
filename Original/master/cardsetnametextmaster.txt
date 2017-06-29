@@ -12,7 +12,9 @@
       "10003_long": "バハムート降臨",
       "10003_short": "ROB",
       "10004_long": "神々の騒嵐",
-      "10004_short": "TOG"
+      "10004_short": "TOG",
+      "10005_long": "ワンダーランド・ドリームズ",
+      "10005_short": "WLD"
     },
     "Eng": {
       "90000_long": "Token",
@@ -26,21 +28,9 @@
       "10003_long": "Rise of Bahamut Card Pack",
       "10003_short": "Bahamut",
       "10004_long": "Tempest of the Gods Card Pack",
-      "10004_short": "Tempest"
-    },
-    "Chs": {
-      "90000_long": "附属卡牌",
-      "90000_short": "附属卡牌",
-      "10000_long": "奖励卡牌",
-      "10000_short": "奖励卡牌",
-      "10001_long": "基本牌组卡包",
-      "10001_short": "基本牌组卡包",
-      "10002_long": "暗影进化",
-      "10002_short": "暗影进化",
-      "10003_long": "巴哈姆特降临",
-      "10003_short": "巴哈姆特降临",
-      "10004_long": "10004_long",
-      "10004_short": "10004_short"
+      "10004_short": "Tempest",
+      "10005_long": "Wonderland Dreams Card Pack",
+      "10005_short": "Wonderland"
     },
     "Kor": {
       "90000_long": "토큰 카드",
@@ -54,7 +44,9 @@
       "10003_long": "바하무트 강림",
       "10003_short": "ROB",
       "10004_long": "신들의 폭풍",
-      "10004_short": "TOG"
+      "10004_short": "TOG",
+      "10005_long": "동화 속 세상",
+      "10005_short": "WLD"
     },
     "Cht": {
       "90000_long": "特殊卡",
@@ -68,7 +60,57 @@
       "10003_long": "巴哈姆特降臨",
       "10003_short": "巴哈姆特",
       "10004_long": "諸神狂嵐",
-      "10004_short": "諸神狂嵐"
+      "10004_short": "諸神狂嵐",
+      "10005_long": "夢境奇想",
+      "10005_short": "夢境奇想"
+    },
+    "Fre": {
+      "90000_long": "Carte basique",
+      "90000_short": "Basique",
+      "10000_long": "Primaire",
+      "10000_short": "Primaire",
+      "10001_long": "Standard Card Pack",
+      "10001_short": "Standard  ",
+      "10002_long": "Darkness Evolved Card Pack",
+      "10002_short": "Darkness  ",
+      "10003_long": "Rise of Bahamut Card Pack",
+      "10003_short": "Bahamut",
+      "10004_long": "Tempest of the Gods Card Pack",
+      "10004_short": "Tempest",
+      "10005_long": "Wonderland Dreams Card Pack",
+      "10005_short": "Dreams"
+    },
+    "Ita": {
+      "90000_long": "Pedina",
+      "90000_short": "Pedina",
+      "10000_long": "Base",
+      "10000_short": "Base",
+      "10001_long": "Standard Card Pack",
+      "10001_short": "Standard",
+      "10002_long": "Darkness Evolved Card Pack",
+      "10002_short": "Darkness",
+      "10003_long": "Rise of Bahamut Card Pack",
+      "10003_short": "Bahamut",
+      "10004_long": "Tempest of the Gods Card Pack",
+      "10004_short": "Tempest",
+      "10005_long": "Wonderland Dreams Card Pack",
+      "10005_short": "Dreams"
+    },
+    "Ger": {
+      "90000_long": "Token",
+      "90000_short": "Token",
+      "10000_long": "Belohnungskarte",
+      "10000_short": "Belohnung",
+      "10001_long": "Standardkartenpack",
+      "10001_short": "Standard",
+      "10002_long": "Darkness Evolved-Kartenpack",
+      "10002_short": "Darkness",
+      "10003_long": "Rise of Bahamut-Kartenpack",
+      "10003_short": "Bahamut",
+      "10004_long": "Tempest of the Gods-Kartenpack",
+      "10004_short": "Tempest  ",
+      "10005_long": "Wonderland Dreams-Kartenpack",
+      "10005_short": "Wonderland"
     }
   }
 }

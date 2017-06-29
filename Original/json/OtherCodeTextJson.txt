@@ -24,18 +24,6 @@
       "OtherCode_0010": "Promo code successfully entered. Rewards can be collected from your crate.",
       "OtherCode_0011": "Promo Code Entered"
     },
-    "Chs": {
-      "OtherCode_0005": "输入兑换码",
-      "OtherCode_0007": "输入履历",
-      "OtherCode_0001": "输入兑换码可以领取特典。\n获得的特典会直接送到领取BOX。",
-      "OtherCode_0003": "※请不要输入“-”",
-      "OtherCode_0004": "1个兑换码只能使用1次。",
-      "OtherCode_0006": "TITLE",
-      "OtherCode_0008": "领取日期",
-      "OtherCode_0009": "",
-      "OtherCode_0010": "",
-      "OtherCode_0011": ""
-    },
     "Kor": {
       "OtherCode_0005": "쿠폰번호 입력",
       "OtherCode_0007": "입력이력",
@@ -59,6 +47,42 @@
       "OtherCode_0009": "請輸入活動代碼",
       "OtherCode_0010": "您已經輸入活動代碼了。\n請至禮物頁面領取活動獎勵。",
       "OtherCode_0011": "完成輸入代碼"
+    },
+    "Fre": {
+      "OtherCode_0005": "Entrer le code",
+      "OtherCode_0007": "Historique codes",
+      "OtherCode_0001": "Entrez le code pour récupérer des présents exclusifs.",
+      "OtherCode_0003": "Veuillez ne pas utiliser de trait d'union.",
+      "OtherCode_0004": "Chaque code n'est utilisable qu'une fois.",
+      "OtherCode_0006": "Titre",
+      "OtherCode_0008": "Date de réception",
+      "OtherCode_0009": "Entrez votre code promotionnel",
+      "OtherCode_0010": "Vous avez entré le code promotionnel.\nRécupérer les récompenses dans vos Présents.",
+      "OtherCode_0011": "Vous avez entré le code promotionnel"
+    },
+    "Ita": {
+      "OtherCode_0005": "Codice Promo",
+      "OtherCode_0007": "Storico Codici",
+      "OtherCode_0001": "Inserisci un codice promo per ricevere premi esclusivi.",
+      "OtherCode_0003": "Non inserire i trattini come parte del codice.",
+      "OtherCode_0004": "Ogni codice può essere utilizzato solo una volta.",
+      "OtherCode_0006": "Titolo",
+      "OtherCode_0008": "Ricevuto",
+      "OtherCode_0009": "Inserisci il codice promo.",
+      "OtherCode_0010": "Codice promo inserito con successo. Le ricompense possono essere ritirate dal Forziere.",
+      "OtherCode_0011": "Codice promozionale inserito"
+    },
+    "Ger": {
+      "OtherCode_0005": "Promo-Code eingeben",
+      "OtherCode_0007": "Eingabehistorie",
+      "OtherCode_0001": "Gib einen Promo-Code ein, um Belohnungen zu erhalten.",
+      "OtherCode_0003": "Gib den Promo-Code ohne Bindestriche ein.",
+      "OtherCode_0004": "Jeder Code kann nur einmal verwendet werden.",
+      "OtherCode_0006": "Titel",
+      "OtherCode_0008": "Erhalten",
+      "OtherCode_0009": "Gib Deinen Promo-Code ein und klicke OK.",
+      "OtherCode_0010": "Promo-Code erfolgreich eingegeben. Belohnungen können über \"Geschenke\" abgeholt werden.",
+      "OtherCode_0011": "Eingabe erfolgreich"
     }
   }
 }

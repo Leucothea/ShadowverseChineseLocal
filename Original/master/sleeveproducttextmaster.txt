@@ -10,7 +10,13 @@
       "sleeve_7": "グランブルーファンタジー 1～3",
       "sleeve_8": "グランブルーファンタジー 4～6",
       "sleeve_9": "アイドルマスター シンデレラガールズ 1～3",
-      "sleeve_10": "アイドルマスター シンデレラガールズ 4～6"
+      "sleeve_10": "アイドルマスター シンデレラガールズ 4～6",
+      "sleeve_11": "ベルエンジェル",
+      "sleeve_12": "ウルズ",
+      "sleeve_13": "スノーマン",
+      "sleeve_14": "乙姫お守り隊",
+      "sleeve_15": "エイラの祈祷",
+      "sleeve_16": "エルフの少女・リザ"
     },
     "Eng": {
       "sleeve_1": "Rage of Bahamut 1-2 Set",
@@ -22,19 +28,13 @@
       "sleeve_7": "Granblue Fantasy 1-3 Set",
       "sleeve_8": "Granblue Fantasy 4-6 Set",
       "sleeve_9": "sleeve_9",
-      "sleeve_10": "sleeve_10"
-    },
-    "Chs": {
-      "sleeve_1": "巴哈姆特之怒 1-2",
-      "sleeve_2": "巴哈姆特之怒 3-5",
-      "sleeve_3": "卡套3",
-      "sleeve_4": "卡套4",
-      "sleeve_5": "卡套5",
-      "sleeve_6": "卡套6",
-      "sleeve_7": "碧蓝幻想 1-3",
-      "sleeve_8": "碧蓝幻想 4-6",
-      "sleeve_9": "偶像大师 灰姑娘 1-3",
-      "sleeve_10": "偶像大师 灰姑娘 4-6"
+      "sleeve_10": "sleeve_10",
+      "sleeve_11": "Bellringer Angel",
+      "sleeve_12": "Urd",
+      "sleeve_13": "Snowman",
+      "sleeve_14": "Otohime's Bodyguard",
+      "sleeve_15": "Elana's Prayer",
+      "sleeve_16": "Elf Girl Liza"
     },
     "Kor": {
       "sleeve_1": "바하무트 : 배틀 오브 레전드 1~2",
@@ -46,7 +46,13 @@
       "sleeve_7": "그랑블루 판타지 1~3",
       "sleeve_8": "그랑블루 판타지 4~6",
       "sleeve_9": "아이돌 마스터 신데렐라 걸즈 1~3",
-      "sleeve_10": "아이돌 마스터 신데렐라 걸즈 4~6"
+      "sleeve_10": "아이돌 마스터 신데렐라 걸즈 4~6",
+      "sleeve_11": "종소리의 천사",
+      "sleeve_12": "우르드",
+      "sleeve_13": "눈사람",
+      "sleeve_14": "오토히메 호위대",
+      "sleeve_15": "에일라의 기도",
+      "sleeve_16": "엘프 소녀 리자"
     },
     "Cht": {
       "sleeve_1": "巴哈姆特之怒 1～2",
@@ -58,7 +64,67 @@
       "sleeve_7": "碧藍幻想 1～3",
       "sleeve_8": "碧藍幻想 4～6",
       "sleeve_9": "偶像大師 灰姑娘女孩 1～3",
-      "sleeve_10": "偶像大師 灰姑娘女孩 4～6"
+      "sleeve_10": "偶像大師 灰姑娘女孩 4～6",
+      "sleeve_11": "叮噹天使",
+      "sleeve_12": "烏爾德",
+      "sleeve_13": "雪人",
+      "sleeve_14": "乙姬近衛隊",
+      "sleeve_15": "耶菈的祈禱",
+      "sleeve_16": "精靈少女‧莉莎"
+    },
+    "Fre": {
+      "sleeve_1": "Rage of Bahamut 1-2",
+      "sleeve_2": "Rage of Bahamut  3-5",
+      "sleeve_3": "Dos de carte 3",
+      "sleeve_4": "Dos de carte 4",
+      "sleeve_5": "Dos de carte 5",
+      "sleeve_6": "Dos de carte 6",
+      "sleeve_7": "Granblue Fantasy 1-3",
+      "sleeve_8": "Granblue Fantasy 4-6",
+      "sleeve_9": "sleeve_9",
+      "sleeve_10": "sleeve_10",
+      "sleeve_11": "Ange clochette",
+      "sleeve_12": "Urd",
+      "sleeve_13": "Bonhomme de neige",
+      "sleeve_14": "Garde du corps d'Otohime",
+      "sleeve_15": "Prière d'Ayla",
+      "sleeve_16": "Jeune elfe Lisa"
+    },
+    "Ita": {
+      "sleeve_1": "Set 1-2 Rage of Bahamut",
+      "sleeve_2": "Set 3-5 Rage of Bahamut",
+      "sleeve_3": "Dorso delle Carte 3",
+      "sleeve_4": "Dorso delle Carte 4",
+      "sleeve_5": "Dorso delle Carte 5",
+      "sleeve_6": "Dorso delle Carte 6",
+      "sleeve_7": "Set 1-3 Granblue Fantasy",
+      "sleeve_8": "Set 4-6 Granblue Fantasy",
+      "sleeve_9": "sleeve_9",
+      "sleeve_10": "sleeve_10",
+      "sleeve_11": "Campana dell'Angelo",
+      "sleeve_12": "Urza",
+      "sleeve_13": "Pupazzo di Neve",
+      "sleeve_14": "Guardia di Otohime",
+      "sleeve_15": "Preghiera di Elana",
+      "sleeve_16": "Liza, Ragazza Elfo"
+    },
+    "Ger": {
+      "sleeve_1": "Rage of Bahamut (Set 1-2)",
+      "sleeve_2": "Rage of Bahamut (Set 3-5)",
+      "sleeve_3": "Kartenrücken 3",
+      "sleeve_4": "Kartenrücken 4",
+      "sleeve_5": "Kartenrücken 5",
+      "sleeve_6": "Kartenrücken 6",
+      "sleeve_7": "Granblue Fantasy (Set 1-3)",
+      "sleeve_8": "Granblue Fantasy (Set 4-6)",
+      "sleeve_9": "sleeve_9",
+      "sleeve_10": "sleeve_10",
+      "sleeve_11": "Glockenengel",
+      "sleeve_12": "Urd",
+      "sleeve_13": "Schneemann",
+      "sleeve_14": "Otohimes Leibgarde",
+      "sleeve_15": "Aylas Gebet",
+      "sleeve_16": "Elfenmädchen Lisa"
     }
   }
 }

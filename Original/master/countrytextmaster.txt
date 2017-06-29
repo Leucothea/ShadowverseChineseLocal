@@ -14,13 +14,6 @@
       "Country_Category_Oceania": "Oceania",
       "Country_Category_Africa": "Africa"
     },
-    "Chs": {
-      "Country_Category_Asia": "Country_Category_Asia",
-      "Country_Category_Europe": "Country_Category_Europe",
-      "Country_Category_Americas": "Country_Category_Americas",
-      "Country_Category_Oceania": "Country_Category_Oceania",
-      "Country_Category_Africa": "Country_Category_Africa"
-    },
     "Kor": {
       "Country_Category_Asia": "아시아",
       "Country_Category_Europe": "유럽",
@@ -34,6 +27,27 @@
       "Country_Category_Americas": "北美及中南美",
       "Country_Category_Oceania": "大洋洲",
       "Country_Category_Africa": "非洲"
+    },
+    "Fre": {
+      "Country_Category_Asia": "Asie",
+      "Country_Category_Europe": "Europe",
+      "Country_Category_Americas": "Amériques",
+      "Country_Category_Oceania": "Océanie",
+      "Country_Category_Africa": "Afrique"
+    },
+    "Ita": {
+      "Country_Category_Asia": "Asia",
+      "Country_Category_Europe": "Europa",
+      "Country_Category_Americas": "Americhe",
+      "Country_Category_Oceania": "Oceania",
+      "Country_Category_Africa": "Africa"
+    },
+    "Ger": {
+      "Country_Category_Asia": "Asien",
+      "Country_Category_Europe": "Europa",
+      "Country_Category_Americas": "Amerika",
+      "Country_Category_Oceania": "Ozeanien",
+      "Country_Category_Africa": "Afrika"
     }
   }
 }

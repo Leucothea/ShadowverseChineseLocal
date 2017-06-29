@@ -7,7 +7,14 @@
       "BDPN_構築済みデッキ1弾_ドラゴン": "暗黒竜騎(ドラゴン)",
       "BDPN_構築済みデッキ1弾_ネクロマンサー": "冥炎咆哮(ネクロマンサー)",
       "BDPN_構築済みデッキ1弾_ヴァンパイア": "女王の口付け(ヴァンパイア)",
-      "BDPN_構築済みデッキ1弾_ビショップ": "純白の戦場(ビショップ)"
+      "BDPN_構築済みデッキ1弾_ビショップ": "純白の戦場(ビショップ)",
+      "BDPN_構築済みデッキ2弾_エルフ": "異形の茨(エルフ)",
+      "BDPN_構築済みデッキ2弾_ロイヤル": "疾風迅雷(ロイヤル)",
+      "BDPN_構築済みデッキ2弾_ウィッチ": "魔導の暴威(ウィッチ)",
+      "BDPN_構築済みデッキ2弾_ドラゴン": "水竜の加護(ドラゴン)",
+      "BDPN_構築済みデッキ2弾_ネクロマンサー": "魂の支配者(ネクロマンサー)",
+      "BDPN_構築済みデッキ2弾_ヴァンパイア": "真紅の契約(ヴァンパイア)",
+      "BDPN_構築済みデッキ2弾_ビショップ": "純白の盾(ビショップ)"
     },
     "Eng": {
       "BDPN_構築済みデッキ1弾_エルフ": "Sterling Archer",
@@ -16,16 +23,14 @@
       "BDPN_構築済みデッキ1弾_ドラゴン": "Dark Wyrmdriver",
       "BDPN_構築済みデッキ1弾_ネクロマンサー": "Roar of the Netherflame",
       "BDPN_構築済みデッキ1弾_ヴァンパイア": "Kiss of the Queen",
-      "BDPN_構築済みデッキ1弾_ビショップ": "Ivory Battlefield"
-    },
-    "Chs": {
-      "BDPN_構築済みデッキ1弾_エルフ": "白银射手（精灵）",
-      "BDPN_構築済みデッキ1弾_ロイヤル": "盛宴开场（皇家护卫）",
-      "BDPN_構築済みデッキ1弾_ウィッチ": "法神降临（巫师）",
-      "BDPN_構築済みデッキ1弾_ドラゴン": "暗黑龙骑（龙族）",
-      "BDPN_構築済みデッキ1弾_ネクロマンサー": "冥炎咆哮（死灵法师）",
-      "BDPN_構築済みデッキ1弾_ヴァンパイア": "女王之吻（血族）",
-      "BDPN_構築済みデッキ1弾_ビショップ": "圣洁战场（主教）"
+      "BDPN_構築済みデッキ1弾_ビショップ": "Ivory Battlefield",
+      "BDPN_構築済みデッキ2弾_エルフ": "Thorned Anomaly",
+      "BDPN_構築済みデッキ2弾_ロイヤル": "Lightning Speed",
+      "BDPN_構築済みデッキ2弾_ウィッチ": "Hulking Rage",
+      "BDPN_構築済みデッキ2弾_ドラゴン": "Aura of the Waterwyrm ",
+      "BDPN_構築済みデッキ2弾_ネクロマンサー": "Death's Puppeteer",
+      "BDPN_構築済みデッキ2弾_ヴァンパイア": "Crimson Pact",
+      "BDPN_構築済みデッキ2弾_ビショップ": "Alabaster Shield"
     },
     "Kor": {
       "BDPN_構築済みデッキ1弾_エルフ": "백은의 사수(엘프)",
@@ -34,7 +39,14 @@
       "BDPN_構築済みデッキ1弾_ドラゴン": "암흑의 용기병(드래곤)",
       "BDPN_構築済みデッキ1弾_ネクロマンサー": "지옥의 겁화(네크로맨서)",
       "BDPN_構築済みデッキ1弾_ヴァンパイア": "여왕의 입맞춤(뱀파이어)",
-      "BDPN_構築済みデッキ1弾_ビショップ": "순백의 전장(비숍)"
+      "BDPN_構築済みデッキ1弾_ビショップ": "순백의 전장(비숍)",
+      "BDPN_構築済みデッキ2弾_エルフ": "변이의 숲(엘프)",
+      "BDPN_構築済みデッキ2弾_ロイヤル": "질풍 뇌신(로얄)",
+      "BDPN_構築済みデッキ2弾_ウィッチ": "마도의 맹위(위치)",
+      "BDPN_構築済みデッキ2弾_ドラゴン": "수룡의 가호(드래곤)",
+      "BDPN_構築済みデッキ2弾_ネクロマンサー": "영혼의 지배자(네크로맨서)",
+      "BDPN_構築済みデッキ2弾_ヴァンパイア": "진홍빛 계약(뱀파이어)",
+      "BDPN_構築済みデッキ2弾_ビショップ": "순백의 방패(비숍)"
     },
     "Cht": {
       "BDPN_構築済みデッキ1弾_エルフ": "白銀射手(精靈)",
@@ -43,7 +55,62 @@
       "BDPN_構築済みデッキ1弾_ドラゴン": "暗黑龍騎(龍族)",
       "BDPN_構築済みデッキ1弾_ネクロマンサー": "冥炎咆哮(死靈法師)",
       "BDPN_構築済みデッキ1弾_ヴァンパイア": "女王之吻(吸血鬼)",
-      "BDPN_構築済みデッキ1弾_ビショップ": "聖白戰場(主教)"
+      "BDPN_構築済みデッキ1弾_ビショップ": "聖白戰場(主教)",
+      "BDPN_構築済みデッキ2弾_エルフ": "異形之棘(精靈）",
+      "BDPN_構築済みデッキ2弾_ロイヤル": "疾風迅雷(皇家護衛)",
+      "BDPN_構築済みデッキ2弾_ウィッチ": "暴威魔能(巫師)",
+      "BDPN_構築済みデッキ2弾_ドラゴン": "水龍加護(龍族)",
+      "BDPN_構築済みデッキ2弾_ネクロマンサー": "靈魂主宰(死靈法師)",
+      "BDPN_構築済みデッキ2弾_ヴァンパイア": "血紅契約(吸血鬼)",
+      "BDPN_構築済みデッキ2弾_ビショップ": "純白天盾(主教)"
+    },
+    "Fre": {
+      "BDPN_構築済みデッキ1弾_エルフ": "Archer d'argent",
+      "BDPN_構築済みデッキ1弾_ロイヤル": "Banquet royal",
+      "BDPN_構築済みデッキ1弾_ウィッチ": "Quintessence magique",
+      "BDPN_構築済みデッキ1弾_ドラゴン": "Dracomorphe ténébreux",
+      "BDPN_構築済みデッキ1弾_ネクロマンサー": "Rugissement infernal",
+      "BDPN_構築済みデッキ1弾_ヴァンパイア": "Baiser de sang",
+      "BDPN_構築済みデッキ1弾_ビショップ": "Arène immaculée",
+      "BDPN_構築済みデッキ2弾_エルフ": "Ronces obscures",
+      "BDPN_構築済みデッキ2弾_ロイヤル": "Vitesse de l'éclair",
+      "BDPN_構築済みデッキ2弾_ウィッチ": "Tumulte magique",
+      "BDPN_構築済みデッキ2弾_ドラゴン": "Bénédiction vouivrique",
+      "BDPN_構築済みデッキ2弾_ネクロマンサー": "Maître des âmes",
+      "BDPN_構築済みデッキ2弾_ヴァンパイア": "Pacte de sang",
+      "BDPN_構築済みデッキ2弾_ビショップ": "Égide immaculée"
+    },
+    "Ita": {
+      "BDPN_構築済みデッキ1弾_エルフ": "Arciere d'Argento",
+      "BDPN_構築済みデッキ1弾_ロイヤル": "Inizio del Banchetto",
+      "BDPN_構築済みデッキ1弾_ウィッチ": "Quintessenza della Magia",
+      "BDPN_構築済みデッキ1弾_ドラゴン": "Cavaliere Oscuro del Drago",
+      "BDPN_構築済みデッキ1弾_ネクロマンサー": "Ruggito della Fiamma Infernale",
+      "BDPN_構築済みデッキ1弾_ヴァンパイア": "Bacio della Regina",
+      "BDPN_構築済みデッキ1弾_ビショップ": "Arena Immacolata",
+      "BDPN_構築済みデッキ2弾_エルフ": "Rovo dell'Anomalia",
+      "BDPN_構築済みデッキ2弾_ロイヤル": "Velocità del Lampo",
+      "BDPN_構築済みデッキ2弾_ウィッチ": "Tumulto Magico",
+      "BDPN_構築済みデッキ2弾_ドラゴン": "Benedizione del Drago",
+      "BDPN_構築済みデッキ2弾_ネクロマンサー": "Marionettista di Anime",
+      "BDPN_構築済みデッキ2弾_ヴァンパイア": "Patto Cremisi",
+      "BDPN_構築済みデッキ2弾_ビショップ": "Scudo di Alabastro"
+    },
+    "Ger": {
+      "BDPN_構築済みデッキ1弾_エルフ": "Silberne Bogenschützin",
+      "BDPN_構築済みデッキ1弾_ロイヤル": "Bankettbeginn",
+      "BDPN_構築済みデッキ1弾_ウィッチ": "Der Zauberkunst Kern",
+      "BDPN_構築済みデッキ1弾_ドラゴン": "Dunkle Drachenritterin",
+      "BDPN_構築済みデッキ1弾_ネクロマンサー": "Jaulen der Höllenflammen",
+      "BDPN_構築済みデッキ1弾_ヴァンパイア": "Kuss der Königin",
+      "BDPN_構築済みデッキ1弾_ビショップ": "Schneeweißes Schlachtfeld",
+      "BDPN_構築済みデッキ2弾_エルフ": "Dornenranken der Groteske",
+      "BDPN_構築済みデッキ2弾_ロイヤル": "Sturm und Donnerschlag",
+      "BDPN_構築済みデッキ2弾_ウィッチ": "Magische Tyrannei",
+      "BDPN_構築済みデッキ2弾_ドラゴン": "Segen des Wasserdrachen",
+      "BDPN_構築済みデッキ2弾_ネクロマンサー": "Dominator der Seelen",
+      "BDPN_構築済みデッキ2弾_ヴァンパイア": "Blutroter Pakt",
+      "BDPN_構築済みデッキ2弾_ビショップ": "Blütenreiner Schild"
     }
   }
 }

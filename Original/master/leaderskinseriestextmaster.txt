@@ -12,12 +12,6 @@
       "LSSI_SF5": "Street Fighter V Leaders\n\nYou can change leaders on the Profile screen.",
       "LSSSN_SF5": "Street Fighter V Leader Pack"
     },
-    "Chs": {
-      "LSSI_神撃のバハムート": "巴哈姆特之怒的角色皮肤。\n\n角色皮肤可以在个人信息中变更。",
-      "LSSSN_神撃のバハムート": "巴哈姆特之怒角色皮肤套装",
-      "LSSI_SF5": "LSSI_SF5",
-      "LSSSN_SF5": "LSSSN_SF5"
-    },
     "Kor": {
       "LSSI_神撃のバハムート": "바하무트 : 배틀 오브 레전드의 리더스킨입니다.\n\n리더스킨은 프로필 화면에서 변경할 수 있습니다.",
       "LSSSN_神撃のバハムート": "바하무트 : 배틀 오브 레전드 리더스킨 세트",
@@ -29,6 +23,24 @@
       "LSSSN_神撃のバハムート": "巴哈姆特之怒主戰者造型組",
       "LSSI_SF5": "快打旋風5遊戲中角色的主戰者造型。\n\n主戰者造型可以在個人資訊頁面中變更。",
       "LSSSN_SF5": "快打旋風5主戰者造型組"
+    },
+    "Fre": {
+      "LSSI_神撃のバハムート": "Skins meneurs Rage of Bahamut\n\nVous pouvez changer votre skin meneur depuis votre Profil.\n",
+      "LSSSN_神撃のバハムート": "Pack skins meneurs Rage of Bahamut",
+      "LSSI_SF5": "Skins meneurs Street Fighter V\n\nVous pouvez changer votre skin meneur depuis votre Profil.",
+      "LSSSN_SF5": "Pack skins meneurs Street Fighter V"
+    },
+    "Ita": {
+      "LSSI_神撃のバハムート": "Skin dei Leader di Rage of Bahamut.\n\nPuoi cambiare skin nel menu del Profilo.\n",
+      "LSSSN_神撃のバハムート": "Rage of Bahamut Leader Pack",
+      "LSSI_SF5": "Skin dei Leader di Street Fighter V.\n\nPuoi cambiare skin nel menu del Profilo.",
+      "LSSSN_SF5": "Street Fighter V Leader Pack"
+    },
+    "Ger": {
+      "LSSI_神撃のバハムート": "Rage of Bahamut-Anführerskins\n\nAnführerskins können auf dem Profilbildschirm geändert werden.",
+      "LSSSN_神撃のバハムート": "Pack: Rage of Bahamut-Anführerskins",
+      "LSSI_SF5": "Street Fighter V-Anführerskins\n\nAnführerskins können auf dem Profilbildschirm geändert werden.",
+      "LSSSN_SF5": "Pack: Street Fighter V-Anführerskins"
     }
   }
 }

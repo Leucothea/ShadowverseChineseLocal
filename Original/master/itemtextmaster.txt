@@ -7,7 +7,8 @@
       "IT_10002": "ダークネス・エボルヴカードパックチケット",
       "IT_10003": "バハムート降臨カードパックチケット",
       "IT_10004": "神々の騒嵐カードパックチケット",
-      "IT_10005": "新カードパックチケット"
+      "IT_10005": "ワンダーランド・ドリームズカードパックチケット",
+      "IT_10006": "新カードパックチケット"
     },
     "Eng": {
       "IT_1": "Take Two Ticket",
@@ -16,16 +17,8 @@
       "IT_10002": "Darkness Evolved Card Pack Ticket",
       "IT_10003": "Rise of Bahamut Card Pack Ticket",
       "IT_10004": "Tempest of the Gods Card Pack Ticket",
-      "IT_10005": "Upcoming Card Pack Ticket"
-    },
-    "Chs": {
-      "IT_1": "2Pick入场券",
-      "IT_1000": "IT_1000",
-      "IT_10001": "基础卡包兑换券",
-      "IT_10002": "暗影进化卡包兑换券",
-      "IT_10003": "巴哈姆特的觉醒卡包兑换券",
-      "IT_10004": "IT_10004",
-      "IT_10005": "IT_10005"
+      "IT_10005": "Wonderland Dreams Card Pack Ticket",
+      "IT_10006": "Upcoming Card Pack Ticket"
     },
     "Kor": {
       "IT_1": "2Pick티켓",
@@ -34,7 +27,8 @@
       "IT_10002": "진화하는 어둠 카드팩 티켓",
       "IT_10003": "바하무트 강림 카드팩 티켓",
       "IT_10004": "신들의 폭풍 카드팩 티켓",
-      "IT_10005": "신규 카드팩 티켓"
+      "IT_10005": "동화 속 세상 카드팩 티켓",
+      "IT_10006": "신규 카드팩 티켓"
     },
     "Cht": {
       "IT_1": "2Pick入場券",
@@ -43,7 +37,38 @@
       "IT_10002": "暗影進化卡包兌換券",
       "IT_10003": "巴哈姆特降臨卡包兌換券",
       "IT_10004": "諸神狂嵐卡包兌換券",
-      "IT_10005": "新卡包兌換券"
+      "IT_10005": "夢境奇想卡包兌換券",
+      "IT_10006": "新卡包兌換券"
+    },
+    "Fre": {
+      "IT_1": "Ticket Double Pioche",
+      "IT_1000": "Sphère",
+      "IT_10001": "Ticket Standard card pack",
+      "IT_10002": "Ticket Darkness Evolved card pack",
+      "IT_10003": "Ticket Rise of Bahamut card pack",
+      "IT_10004": "Ticket Tempest of the Gods Card Pack",
+      "IT_10005": "Ticket Wonderland Dreams",
+      "IT_10006": "Ticket prochain card pack"
+    },
+    "Ita": {
+      "IT_1": "Ticket Forza 2 ",
+      "IT_1000": "Sfera Animata",
+      "IT_10001": "Ticket Standard Card Pack",
+      "IT_10002": "Ticket Darkness Evolved",
+      "IT_10003": "Ticket Rise of Bahamut",
+      "IT_10004": "Tempest of the Gods Card Pack Ticket",
+      "IT_10005": "Ticket Wonderland Dreams",
+      "IT_10006": "Ticket Nuova Espansione"
+    },
+    "Ger": {
+      "IT_1": "Ticket: Nimm 2",
+      "IT_1000": "Premiumsphäre",
+      "IT_10001": "Ticket: Standardkartenpack",
+      "IT_10002": "Ticket: Darkness Evolved-Kartenpack",
+      "IT_10003": "Ticket: Rise of Bahamut-Kartenpack",
+      "IT_10004": "Ticket: Tempest of the Gods-Kartenpack",
+      "IT_10005": "Ticket: Wonderland Dreams",
+      "IT_10006": "Ticket: Neues Kartenpack"
     }
   }
 }

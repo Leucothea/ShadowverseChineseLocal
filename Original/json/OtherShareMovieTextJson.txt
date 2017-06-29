@@ -6,14 +6,20 @@
     "Eng": {
       "OtherShareMovie_0001": "Share Video"
     },
-    "Chs": {
-      "OtherShareMovie_0001": "分享游戏录像"
-    },
     "Kor": {
       "OtherShareMovie_0001": "플레이 영상 공유"
     },
     "Cht": {
       "OtherShareMovie_0001": "分享遊戲影片"
+    },
+    "Fre": {
+      "OtherShareMovie_0001": "Partager la vidéo du replay"
+    },
+    "Ita": {
+      "OtherShareMovie_0001": "Condividi Video"
+    },
+    "Ger": {
+      "OtherShareMovie_0001": "Video teilen"
     }
   }
 }
