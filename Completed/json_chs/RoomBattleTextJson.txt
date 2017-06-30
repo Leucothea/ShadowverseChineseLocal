@@ -83,7 +83,7 @@
       "RoomBattle_0082": "私人对战(三局两胜)",
       "RoomBattle_0083": "私人对战(五局三胜)",
       "RoomBattle_0084": "牌组{0}",
-      "RoomBattle_0085": "※此职业已被选取",
+      "RoomBattle_0085": "※此职业已被选用",
       "RoomBattle_0086": "因牌组数量不足无法创建房间",
       "RoomBattle_0087": "因牌组数量不足无法进入房间",
       "RoomBattle_0088": "选取完成",
@@ -93,5 +93,9 @@
       "RoomBattle_0092": "确定要删除对手正在使用的牌组，并重新构筑牌组吗？",
       "RoomBattle_0093": "双选通常模式",
       "RoomBattle_0094": "选定对战形式",
-      "RoomBattle_0095": "选定规则"
+      "RoomBattle_0095": "选定规则",
+      "RoomBattle_0096": "构筑牌组",
+      "RoomBattle_0097": "构筑",
+      "RoomBattle_0098": "对战玩家已离开，\n因此您已退出房间。",
+      "RoomBattle_0099": "  ※系统维护中"
 }
