@@ -77,5 +77,9 @@
       "DEG_RAGE_vol.4_3位": "RAGE vol.4 季军",
       "DEG_NGE_Grand_Champion": "NGE 总冠军",
       "DEG_NGE_Season_1_MVP": "NGE 第1赛季之星",
-      "DEG_NGE_Weekly_Champion": "NGE 周常冠军"
+      "DEG_NGE_Weekly_Champion": "NGE 周常冠军",
+      "DEG_JCG_3rd_season_優勝": "JCG OPEN 第3赛季冠军",
+      "DEG_全国高校生選手権2017_優勝": "2017全日本高中生锦标赛冠军",
+      "DEG_全国高校生選手権2017_準優勝": "2017全日本高中生锦标赛亚军",
+      "DEG_Grand Master WLD": "梦境奇想大师"
 }
