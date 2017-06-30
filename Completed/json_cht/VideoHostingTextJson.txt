@@ -37,7 +37,7 @@
       "VideoHosting_0036": "要使用NICO直播功能\n必須先同意NICO服務協定、NICO直播服務協定。\n請確認以下的條款内容",
       "VideoHosting_0037": "NICO直播",
       "VideoHosting_0038": "録影已結束。\n\n録製的視頻\n可從以下按鈕或「録影/直播/觀看」發布。\n只能發布最近一次録製的視頻。",
-      "VideoHosting_0039": "因NICO直播時間已超過30分鐘，\n直播已結束。",
+      "VideoHosting_0039": "因NICO直播時間已超過允許的最大時長，\n直播已自動結束。",
       "VideoHosting_0040": "NICO直播已結束。",
       "VideoHosting_0041": "Shadowverse",
       "VideoHosting_0042": "Cygames",
