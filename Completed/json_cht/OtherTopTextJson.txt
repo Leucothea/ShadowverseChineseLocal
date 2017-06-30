@@ -29,5 +29,6 @@
       "OtherTop_0030": "漢化模組官網",
       "OtherTop_0031": "遊戲日語官網",
       "OtherTop_0032": "選擇語言",
-      "OtherTop_0033": "回放"
+      "OtherTop_0033": "回放",
+      "OtherTop_0034": "戰鬥特效設定"
 }

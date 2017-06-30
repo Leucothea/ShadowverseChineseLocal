@@ -5,13 +5,15 @@
       "Ranking_0002_Header": "大師級積分排行榜",
       "Ranking_0003_Menu": "天梯勝場",
       "Ranking_0003_Header": "天梯勝場排行榜",
-      "Ranking_0004_Menu": "競技場勝場",
-      "Ranking_0004_Header": "競技場勝場排行榜",
+      "Ranking_0004_Menu": "競技場",
+      "Ranking_0004_Header_Old": "競技場勝場排行榜",
+      "Ranking_0004_Header_New": "競技場5戰全勝排行榜",
       "Ranking_0101": "勝",
       "Ranking_0102": "pt",
+      "Ranking_0103": "次",
       "Ranking_0201": "※戰績需要一定時間才能更新至排行榜。",
       "Ranking_0202": "排行榜統計中",
       "Ranking_0301": "上賽季",
       "Ranking_0302": "本賽季",
-      "Ranking_0303": "賽季"
+      "Ranking_0303": "選擇賽季"
 }

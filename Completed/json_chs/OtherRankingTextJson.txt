@@ -5,13 +5,15 @@
       "Ranking_0002_Header": "大师级积分排行榜",
       "Ranking_0003_Menu": "天梯胜场",
       "Ranking_0003_Header": "天梯胜场排行榜",
-      "Ranking_0004_Menu": "竞技场胜场",
-      "Ranking_0004_Header": "竞技场胜场排行榜",
+      "Ranking_0004_Menu": "竞技场",
+      "Ranking_0004_Header_Old": "竞技场胜场排行榜",
+      "Ranking_0004_Header_New": "竞技场5战全胜排行榜",
       "Ranking_0101": "胜",
       "Ranking_0102": "pt",
+      "Ranking_0103": "次",
       "Ranking_0201": "※战绩需要一定时间才能更新至排行榜。",
       "Ranking_0202": "排行榜统计中",
       "Ranking_0301": "上赛季",
       "Ranking_0302": "本赛季",
-      "Ranking_0303": "赛季"
+      "Ranking_0303": "选择赛季"
 }

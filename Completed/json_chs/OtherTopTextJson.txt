@@ -29,5 +29,6 @@
       "OtherTop_0030": "汉化补丁官网",
       "OtherTop_0031": "游戏日语官网",
       "OtherTop_0032": "选择语言",
-      "OtherTop_0033": "回放"
+      "OtherTop_0033": "回放",
+      "OtherTop_0034": "战斗特效设定"
 }
