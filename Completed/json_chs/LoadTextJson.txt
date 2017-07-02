@@ -104,7 +104,7 @@
       "LoadCard_0001": "妖精龙",
       "LoadCard_0002": "古代英雄",
       "LoadCard_0003": "复醒的禁忌",
-      "LoadCard_0004": "天穷龙神",
+      "LoadCard_0004": "天穹龙神",
       "LoadCard_0005": "灾厄尸魔王",
       "LoadCard_0006": "深渊来访者",
       "LoadCard_0007": "黄金死都巨狮",
