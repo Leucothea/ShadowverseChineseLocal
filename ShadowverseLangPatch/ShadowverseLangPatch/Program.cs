@@ -16,12 +16,10 @@ namespace ShadowverseLangPatch
             try
             {
                 Console.ForegroundColor = ConsoleColor.Yellow;
-                Console.WriteLine("暗影之诗 Shadowverse PC+Mac简繁汉化补丁 v5.6.1");
-                Console.WriteLine("汉化：淺夏 <http://steam.pm/id/fylab>");
-                Console.WriteLine("      岚兮雨汐 <http://steam.pm/id/momohu>");
-                Console.WriteLine("      蔽月八云 <http://steam.pm/id/yakumo17s>");
-                Console.WriteLine("      町城安里 <http://steam.pm/id/anrianri>");
-                Console.WriteLine("程序：永久告别 <https://www.perfare.net/>");
+                Console.WriteLine("暗影之诗 Shadowverse PC+Mac简繁汉化补丁 v6.0.0\n");
+                Console.WriteLine("汉化：岚兮雨汐 町城安里 蔽月八云 淺夏");
+                Console.WriteLine("程序：永久告别 船长唱搁浅");
+                Console.WriteLine("校对：没有呆毛的Saber\n");
                 Console.WriteLine("--------------------------------------------------------------------");
                 if (!File.Exists("Shadowverse.exe"))
                 {
@@ -68,12 +66,13 @@ namespace ShadowverseLangPatch
                         var hackassembly = ModuleDefinition.ReadModule(new MemoryStream(dll));
                         mycalss = hackassembly.Types.First(x => x.Name == "LanguageHelperChs");
                         if (!Check() &&
-                         HookJson("Wizard.Master", "LoadJsonAndParse", "Wizard_Master_LoadJsonAndParse", true) &&
-                         HookJson("Wizard.SystemText", "LoadAndParse", "Wizard_SystemText_LoadAndParse", false) &&
-                         ChangeFont(key.KeyChar == '1') &&
-                         HookLoadObject() &&
-                         HookMissionInfoDetail("MissionInfoDetail", "ReadMissionList", "ReadMissionList") &&
-                         HookMissionInfoDetail("MissionInfoDetail", "ReadAchievementList", "ReadAchievementList"))
+                         HookJsonByAppend("Wizard.Master", "LoadLocalizeJsonAndParse", "Wizard_Master_LoadJsonAndParse", true) &&
+                         HookJsonByAppend("Wizard.SystemText", "LoadAndParse", "Wizard_SystemText_LoadAndParse", false) &&
+                          ChangeFont(key.KeyChar == '1') &&
+                          HookLoadObject() &&
+                          HookMissionInfoDetail("MissionInfoDetail", "ReadMissionList", "ReadMissionList") &&
+                          HookMissionInfoDetail("MissionInfoDetail", "ReadAchievementList", "ReadAchievementList")
+                         )
                         {
                             Console.WriteLine("应用补丁成功，备份原文件...");
                             var fileinfo = new FileInfo("./Shadowverse_Data/Managed/Assembly-CSharp.dll");
@@ -130,10 +129,10 @@ namespace ShadowverseLangPatch
             var type = assembly.MainModule.Types.FirstOrDefault(x => x.FullName == "Wizard.Master");
             if (type != null)
             {
-                var method = type.Methods.FirstOrDefault(o => o.Name == "LoadJsonAndParse");
+                var method = type.Methods.FirstOrDefault(o => o.Name == "LoadLocalizeJsonAndParse");
                 if (method != null)
                 {
-                    if (method.Body.Instructions.Count < 20)
+                    if (method.Body.Instructions.Count > 8)
                     {
                         Console.ForegroundColor = ConsoleColor.Red;
                         Console.WriteLine("检测到你已经安装有汉化功能的补丁，请验证完整性后重新安装");
@@ -170,6 +169,30 @@ namespace ShadowverseLangPatch
             return false;
         }
 
+        static bool HookJsonByAppend(string typename, string methodname, string hook, bool b)
+        {
+            var type = assembly.MainModule.Types.FirstOrDefault(x => x.FullName == typename);
+            if (type != null)
+            {
+                var method = type.Methods.FirstOrDefault(o => o.Name == methodname);
+                if (method != null)
+                {
+                    var ilprocessor = method.Body.GetILProcessor();
+                    var mymethod = assembly.MainModule.Import(mycalss.Methods.First(x => x.Name == hook));
+                    var index = ilprocessor.Body.Instructions.Last();
+                    ilprocessor.InsertBefore(index, ilprocessor.Create(OpCodes.Ldarg_1));
+                    ilprocessor.InsertBefore(index, ilprocessor.Create(OpCodes.Ldarg_2));
+                    if(b)
+                    {
+                        ilprocessor.InsertBefore(index, ilprocessor.Create(OpCodes.Ldarg_3));
+                    }
+                    ilprocessor.InsertBefore(index, ilprocessor.Create(OpCodes.Call, mymethod));
+                    return true;
+                }
+            }
+            return false;
+        }
+
         static bool ChangeFont(bool flag)
         {
             if (!flag)
@@ -181,12 +204,12 @@ namespace ShadowverseLangPatch
                 var method = type.Methods.FirstOrDefault(o => o.Name == ".cctor");
                 if (method != null)
                 {
-                    if (method.Body.Instructions[217].OpCode == OpCodes.Ldstr && (string)method.Body.Instructions[217].Operand == "A-OTF-KaiminTuStd-Bold"
-                        && method.Body.Instructions[219].OpCode == OpCodes.Ldstr && (string)method.Body.Instructions[219].Operand == "A-OTF-KaiminTuStd-Bold"
+                    if (method.Body.Instructions[222].OpCode == OpCodes.Ldstr && (string)method.Body.Instructions[222].Operand == "A-OTF-KaiminTuStd-Bold"
+                        && method.Body.Instructions[224].OpCode == OpCodes.Ldstr && (string)method.Body.Instructions[224].Operand == "A-OTF-KaiminTuStd-Bold"
                         )
                     {
-                        method.Body.Instructions[217] = Instruction.Create(OpCodes.Ldstr, "TT0818M");
-                        method.Body.Instructions[219] = Instruction.Create(OpCodes.Ldstr, "TT0818M");
+                        method.Body.Instructions[222] = Instruction.Create(OpCodes.Ldstr, "TT0818M");
+                        method.Body.Instructions[224] = Instruction.Create(OpCodes.Ldstr, "TT0818M");
                         //2
                         type = assembly.MainModule.Types.FirstOrDefault(x => x.FullName == "UILabel");
                         if (type != null)
