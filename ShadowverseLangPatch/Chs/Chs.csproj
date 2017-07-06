@@ -881,15 +881,6 @@
     <None Include="Resources\scenario_text_4_8_2.txt" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\scenario_text_4_9_2.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_text_4_10_2.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_text_4_11_1.txt" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="Resources\scenario_text_5_1_1.txt" />
   </ItemGroup>
   <ItemGroup>
@@ -1022,24 +1013,6 @@
     <None Include="Resources\scenario_text_6_8_2.txt" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\scenario_text_6_9_1.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_text_6_9_2.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_text_6_10_1.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_text_6_10_2.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_text_6_11_1.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_text_6_11_2.txt" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="Resources\scenario_text_7_1_1.txt" />
   </ItemGroup>
   <ItemGroup>
@@ -1106,16 +1079,43 @@
     <None Include="Resources\scenario_text_3_9_1.txt" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Resources\scenario_text_3_10_1.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\scenario_text_3_9_2.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\scenario_text_4_9_2.txt" />
+  </ItemGroup>
+  <ItemGroup>
     <None Include="Resources\scenario_text_4_10_1.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\scenario_text_4_10_2.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\scenario_text_4_11_1.txt" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\scenario_text_4_11_2.txt" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\scenario_text_3_10_1.txt" />
+    <None Include="Resources\scenario_text_6_9_1.txt" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\scenario_text_3_9_2.txt" />
+    <None Include="Resources\scenario_text_6_9_2.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\scenario_text_6_10_1.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\scenario_text_6_10_2.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\scenario_text_6_11_1.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\scenario_text_6_11_2.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <PropertyGroup>

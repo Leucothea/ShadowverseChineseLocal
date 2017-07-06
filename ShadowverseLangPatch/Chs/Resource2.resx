@@ -355,6 +355,12 @@
   <data name="scenario_text_4_10_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>Resources\scenario_text_4_10_1.txt;System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
   </data>
+  <data name="scenario_text_4_10_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\scenario_text_4_10_2.txt;System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
+  </data>
+  <data name="scenario_text_4_11_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\scenario_text_4_11_1.txt;System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
+  </data>
   <data name="scenario_text_4_11_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>Resources\scenario_text_4_11_2.txt;System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
   </data>
@@ -408,6 +414,9 @@
   </data>
   <data name="scenario_text_4_9_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>Resources\scenario_text_4_9_1.txt;System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
+  </data>
+  <data name="scenario_text_4_9_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\scenario_text_4_9_2.txt;System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
   </data>
   <data name="scenario_text_5_10_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>Resources\scenario_text_5_10_1.txt;System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
@@ -493,6 +502,18 @@
   <data name="scenario_text_5_9_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>Resources\scenario_text_5_9_2.txt;System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
   </data>
+  <data name="scenario_text_6_10_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\scenario_text_6_10_1.txt;System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
+  </data>
+  <data name="scenario_text_6_10_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\scenario_text_6_10_2.txt;System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
+  </data>
+  <data name="scenario_text_6_11_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\scenario_text_6_11_1.txt;System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
+  </data>
+  <data name="scenario_text_6_11_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\scenario_text_6_11_2.txt;System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
+  </data>
   <data name="scenario_text_6_1_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>Resources\scenario_text_6_1_1.txt;System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
   </data>
@@ -540,6 +561,12 @@
   </data>
   <data name="scenario_text_6_8_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>Resources\scenario_text_6_8_2.txt;System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
+  </data>
+  <data name="scenario_text_6_9_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\scenario_text_6_9_1.txt;System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
+  </data>
+  <data name="scenario_text_6_9_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\scenario_text_6_9_2.txt;System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
   </data>
   <data name="scenario_text_7_1_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>Resources\scenario_text_7_1_1.txt;System.String, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089;utf-8</value>
