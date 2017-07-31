@@ -15,5 +15,6 @@
       "Ranking_0202": "排行榜统计中",
       "Ranking_0301": "上赛季",
       "Ranking_0302": "本赛季",
-      "Ranking_0303": "选择赛季"
+      "Ranking_0303": "选择赛季",
+      "Ranking_0304": "YOU"
 }

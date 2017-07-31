@@ -15,5 +15,6 @@
       "Ranking_0202": "排行榜統計中",
       "Ranking_0301": "上賽季",
       "Ranking_0302": "本賽季",
-      "Ranking_0303": "選擇賽季"
+      "Ranking_0303": "選擇賽季",
+      "Ranking_0304": "YOU"
 }

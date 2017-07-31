@@ -42,7 +42,7 @@
       "OtherFriend_0041": "正在申請好友",
       "OtherFriend_0042": "人",
       "OtherFriend_0043": "於{0}申請",
-      "OtherFriend_0044": "於{0}進行{1}對戰",
+      "OtherFriend_0044": "於{0}進行{1}",
       "OtherFriend_0045": "於{0}收到邀請",
       "OtherFriend_0046": "天梯匹配",
       "OtherFriend_0047": "已撤銷全部好友申請。",

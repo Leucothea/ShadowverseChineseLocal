@@ -42,7 +42,7 @@
       "OtherFriend_0041": "正在申请好友",
       "OtherFriend_0042": "人",
       "OtherFriend_0043": "于{0}申请",
-      "OtherFriend_0044": "于{0}进行{1}对战",
+      "OtherFriend_0044": "于{0}进行{1}",
       "OtherFriend_0045": "于{0}收到邀请",
       "OtherFriend_0046": "天梯匹配",
       "OtherFriend_0047": "已撤销全部好友申请。",
