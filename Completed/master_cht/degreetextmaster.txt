@@ -81,5 +81,12 @@
       "DEG_JCG_3rd_season_優勝": "JCG OPEN 第3賽季冠軍",
       "DEG_全国高校生選手権2017_優勝": "2017全日本高中生錦標賽冠軍",
       "DEG_全国高校生選手権2017_準優勝": "2017全日本高中生錦標賽亞軍",
-      "DEG_Grand Master WLD": "夢境奇想大師"
+      "DEG_Grand Master WLD": "夢境奇想大師",
+      "DEG_RAGE_vol.5_優勝": "RAGE vol.5 冠軍",
+      "DEG_RAGE_vol.5_準優勝": "RAGE vol.5 亞軍",
+      "DEG_RAGE_vol.5_3位": "RAGE vol.5 季軍",
+      "DEG_NGE_Season_2_NA_Grand_Champion": "第2屆NGE大賽北美區冠軍",
+      "DEG_NGE_Season_2_NA_TOP12": "第2屆NGE大會北美區前12名",
+      "DEG_NGE_Season_2_EU_Grand_Champion": "第2屆NGE大賽歐洲區冠軍",
+      "DEG_NGE_Season_2_EU_TOP12": "第2屆NGE大會歐洲區前12名"
 }
