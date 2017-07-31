@@ -56,7 +56,7 @@
       "SSI_神撃のバハムート": "Collectionnez des cartes pour créer vos decks et explorez le fabuleux monde de Mystalsia dans ce trading card RPG visuellement éblouissant !\n\nVous pouvez changer de dos de carte à l'écran Édition decks.",
       "SSI_セカンドシリーズ": "SSI_セカンドシリーズ",
       "SSI_サードシリーズ": "SSI_サードシリーズ",
-      "SSI_グランブルーファンタジー": "Parcourez les cieux dans ce RPG hors-norme ! Engagez des combats épiques en lançant de puissantes attaques spéciales et en invoquant des bêtes astrales surpuissantes.\n\nVous pouvez changer de dos de carte à l'écran Édition decks.",
+      "SSI_グランブルーファンタジー": "Parcourez les cieux dans ce RPG hors-norme ! Engagez des combats épiques en lançant de puissantes attaques spéciales et en invoquant des bêtes astrales surpuissantes.\n\nVous pouvez changer de dos de carte à l'écran Édition decks.",
       "SSI_アイドルマスターシンデレラガールズ": "Dos de carte à l'éffigie de \\\"The Idolmaster: Cinderella Girls\\\".\nVous pouvez changer de dos de carte à l'écran Édition decks.\n\n©BNEI",
       "SSI_累積BP報酬": "Les Récompenses PBC pour la période courant d'octobre à décembre 2016.\nVous pouvez obtenir des icônes même si vous ne réussissez pas à obtenir vos Récompenses PBC.\nVous pouvez changer de dos de carte à l'écran Édition decks."
     },

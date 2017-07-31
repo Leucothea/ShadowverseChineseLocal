@@ -1,0 +1,22 @@
+{
+  "RarityTextJson": {
+    "Jpn": {
+      "rarity_1": "ブロンズレア",
+      "rarity_2": "シルバーレア",
+      "rarity_3": "ゴールドレア",
+      "rarity_4": "レジェンド"
+    },
+    "Eng": {
+      "rarity_1": "Bronze",
+      "rarity_2": "Silver",
+      "rarity_3": "Gold",
+      "rarity_4": "Legendary"
+    },
+    "Chs": {
+      "rarity_1": "Ca_0063",
+      "rarity_2": "Ca_0062",
+      "rarity_3": "Ca_0061",
+      "rarity_4": "Ca_0060"
+    }
+  }
+}

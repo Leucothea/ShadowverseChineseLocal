@@ -189,7 +189,9 @@
       "EM_狼少年": "狼少年",
       "EM_風の軍神・グリームニル": "風の軍神・グリームニル",
       "EM_三月ウサギのお茶会": "三月ウサギのお茶会",
-      "EM_ダークコンジュラー": "ダークコンジュラー"
+      "EM_ダークコンジュラー": "ダークコンジュラー",
+      "EM_RAGE_vol.5": "RAGE vol.5",
+      "EM_NGE_season_2": "NGE 第2回大会"
     },
     "Eng": {
       "EM_シャドウバース": "Shadowverse",
@@ -380,7 +382,9 @@
       "EM_狼少年": "Boy Who Cried Wolf",
       "EM_風の軍神・グリームニル": "Grimnir, War Cyclone",
       "EM_三月ウサギのお茶会": "March Hare's Teatime",
-      "EM_ダークコンジュラー": "Dark Conjurer"
+      "EM_ダークコンジュラー": "Dark Conjurer",
+      "EM_RAGE_vol.5": "RAGE (September 2017)",
+      "EM_NGE_season_2": "NGE Season 2"
     },
     "Kor": {
       "EM_シャドウバース": "섀도우버스",
@@ -421,7 +425,7 @@
       "EM_骸の王": "해골 군주",
       "EM_深淵への誘い": "심연으로의 유혹",
       "EM_スケルトン": "스켈레톤",
-      "EM_ソウルディーラー": "영혼 중개인",
+      "EM_ソウルディーラー": "영혼의 중개인",
       "EM_メドゥーサ": "메두사",
       "EM_アルカード": "알카드",
       "EM_ナイトメア": "나이트메어",
@@ -571,7 +575,9 @@
       "EM_狼少年": "늑대소년",
       "EM_風の軍神・グリームニル": "바람의 군신 그림니르",
       "EM_三月ウサギのお茶会": "3월토끼의 티파티",
-      "EM_ダークコンジュラー": "악령술사"
+      "EM_ダークコンジュラー": "악령술사",
+      "EM_RAGE_vol.5": "RAGE vol.5",
+      "EM_NGE_season_2": "NGE season 2"
     },
     "Cht": {
       "EM_シャドウバース": "Shadowverse",
@@ -762,7 +768,9 @@
       "EM_狼少年": "狼少年",
       "EM_風の軍神・グリームニル": "風之軍神‧格里姆尼爾",
       "EM_三月ウサギのお茶会": "三月兔的茶會",
-      "EM_ダークコンジュラー": "暗黑奇術師"
+      "EM_ダークコンジュラー": "暗黑奇術師",
+      "EM_RAGE_vol.5": "RAGE vol.5",
+      "EM_NGE_season_2": "NGE Season 2"
     },
     "Fre": {
       "EM_シャドウバース": "Shadowverse",
@@ -891,7 +899,7 @@
       "EM_水竜神の巫女": "Prêtresse vouivrique",
       "EM_ウロボロス": "Ouroboros",
       "EM_魂の番人・ミント": "Minthe, portière du Vide",
-      "EM_魔将軍・ヘクター": "Hector, cavalier du mal",
+      "EM_魔将軍・ヘクター": "Haktor, cavalier du mal",
       "EM_ベルフェゴール": "Belphégor",
       "EM_メイルストロームサーペント": "Onzième plaie",
       "EM_ダークジャンヌ": "Jeanne damnée",
@@ -912,7 +920,7 @@
       "EM_フェアリードラゴン": "Dracofée",
       "EM_シンデレラ": "Cendrillon",
       "EM_古の英雄": "Guerrier antique",
-      "EM_オズの大魔女": "Sorcière de l'Ouest ",
+      "EM_オズの大魔女": "Magicienne d'Oz",
       "EM_呼び覚まされし禁忌": "Sigil Abominia",
       "EM_天窮の竜神": "Déesse vouivre",
       "EM_ジャバウォック": "Jabberwock",
@@ -932,7 +940,7 @@
       "EM_ベルフェゴール_構築2弾": "Belphégor",
       "EM_ヘヴンリーイージス_構築2弾": "Barrière providentielle",
       "EM_フォートレスキャンサー": "Crabe-Fort",
-      "EM_大魔法の妖精・リラ": "Lila la fée",
+      "EM_大魔法の妖精・リラ": "Fée des Lilas",
       "EM_緋色の剣士": "Sabreuse écarlate",
       "EM_刃ネズミ": "Épérisson",
       "EM_ジェド・マロース": "Ded Moroz",
@@ -940,7 +948,7 @@
       "EM_JCG_3rd_season": "JCG 3rd Season",
       "EM_全国高校生選手権2017": "Tournoi interlycées 2017 (Japan)",
       "EM_ヘクトル": "Hector ",
-      "EM_卵の大爆発": "Dégâts des oeufs ",
+      "EM_卵の大爆発": "Dégâts des œufs ",
       "EM_アックスガール・アビー": "Abbie la petite bûcheronne",
       "EM_銀嶺の秘剣士": "Épéiste de Blanche-Cîme",
       "EM_フロッグクレリック": "Grenouille ecclésiastique",
@@ -953,7 +961,9 @@
       "EM_狼少年": "Le berger mauvais plaisant ",
       "EM_風の軍神・グリームニル": "Grímnir, Cyclone divin",
       "EM_三月ウサギのお茶会": "Thé avec le Lièvre de mars",
-      "EM_ダークコンジュラー": "Sombre invocatrice"
+      "EM_ダークコンジュラー": "Sombre invocatrice",
+      "EM_RAGE_vol.5": "RAGE (Septembre 2017)",
+      "EM_NGE_season_2": "NGE Season 2"
     },
     "Ita": {
       "EM_シャドウバース": "Shadowverse",
@@ -1130,7 +1140,7 @@
       "EM_白猫の賢者・スノウ": "Snow, Micetta Erudita",
       "EM_JCG_3rd_season": "JCG 3rd Season",
       "EM_全国高校生選手権2017": "Torneo Studentesco 2017 (Giappone)",
-      "EM_ヘクトル": "Hector",
+      "EM_ヘクトル": "Ettore",
       "EM_卵の大爆発": "Eggsplosione",
       "EM_アックスガール・アビー": "Abby, Ragazza Ascia",
       "EM_銀嶺の秘剣士": "Spada dei Crinali Nevosi",
@@ -1144,7 +1154,9 @@
       "EM_狼少年": "Pastore Bugiardo",
       "EM_風の軍神・グリームニル": "Grimnir, Ciclone di Guerra",
       "EM_三月ウサギのお茶会": "Tè con la Lepre Marzolina",
-      "EM_ダークコンジュラー": "Evocatore Oscuro"
+      "EM_ダークコンジュラー": "Evocatore Oscuro",
+      "EM_RAGE_vol.5": "RAGE (Settembre 2017)",
+      "EM_NGE_season_2": "NGE Season 2"
     },
     "Ger": {
       "EM_シャドウバース": "Shadowverse",
@@ -1335,7 +1347,9 @@
       "EM_狼少年": "Hirtenjunge und Wolf",
       "EM_風の軍神・グリームニル": "Grimnir, Sturm des Krieges",
       "EM_三月ウサギのお茶会": "Märzhases Teeparty",
-      "EM_ダークコンジュラー": "Dunkler Geisterbeschwörer"
+      "EM_ダークコンジュラー": "Dunkler Geisterbeschwörer",
+      "EM_RAGE_vol.5": "RAGE (September 2017)",
+      "EM_NGE_season_2": "NGE Season 2"
     }
   }
 }

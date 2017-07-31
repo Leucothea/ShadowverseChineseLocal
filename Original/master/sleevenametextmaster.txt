@@ -627,7 +627,7 @@
       "SN_ベルフェゴール_構築2弾": "Belphégor",
       "SN_ヘヴンリーイージス_構築2弾": "Barrière providentielle",
       "SN_フォートレスキャンサー": "Crabe-Fort",
-      "SN_大魔法の妖精・リラ": "Lila la fée",
+      "SN_大魔法の妖精・リラ": "Fée des Lilas",
       "SN_緋色の剣士": "Sabreuse écarlate",
       "SN_刃ネズミ": "Épérisson",
       "SN_ジェド・マロース": "Ded Moroz",

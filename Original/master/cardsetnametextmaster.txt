@@ -81,8 +81,8 @@
       "10005_short": "Dreams"
     },
     "Ita": {
-      "90000_long": "Pedina",
-      "90000_short": "Pedina",
+      "90000_long": "Carta Token",
+      "90000_short": "Carta Token",
       "10000_long": "Base",
       "10000_short": "Base",
       "10001_long": "Standard Card Pack",

@@ -83,7 +83,14 @@
       "DEG_JCG_3rd_season_優勝": "JCG OPEN 優勝 3rd season",
       "DEG_全国高校生選手権2017_優勝": "全国高校生選手権2017 優勝",
       "DEG_全国高校生選手権2017_準優勝": "全国高校生選手権2017 準優勝",
-      "DEG_Grand Master WLD": "Grand Master WLD"
+      "DEG_Grand Master WLD": "Grand Master WLD",
+      "DEG_RAGE_vol.5_優勝": "RAGE vol.5 優勝",
+      "DEG_RAGE_vol.5_準優勝": "RAGE vol.5 準優勝",
+      "DEG_RAGE_vol.5_3位": "RAGE vol.5 3位",
+      "DEG_NGE_Season_2_NA_Grand_Champion": "NGE 第2回大会 北米 優勝",
+      "DEG_NGE_Season_2_NA_TOP12": "NGE 第2回大会 北米 上位12位",
+      "DEG_NGE_Season_2_EU_Grand_Champion": "NGE 第2回大会 欧州 優勝",
+      "DEG_NGE_Season_2_EU_TOP12": "NGE 第2回大会 欧州 上位12位"
     },
     "Eng": {
       "DEG_私だって戦えるんだから！": "Proving Myself",
@@ -168,7 +175,14 @@
       "DEG_JCG_3rd_season_優勝": "JCG Open Champion 3rd season",
       "DEG_全国高校生選手権2017_優勝": "2017 National High School Champion ",
       "DEG_全国高校生選手権2017_準優勝": "2017 National High School 1st Runner-up",
-      "DEG_Grand Master WLD": "Grand Master (Wonderland)"
+      "DEG_Grand Master WLD": "Grand Master (Wonderland)",
+      "DEG_RAGE_vol.5_優勝": "RAGE Champion (September 2017)",
+      "DEG_RAGE_vol.5_準優勝": "RAGE 1st Runner-Up (September 2017)",
+      "DEG_RAGE_vol.5_3位": "RAGE 2nd Runner-Up (September 2017)",
+      "DEG_NGE_Season_2_NA_Grand_Champion": "NGE Season 2 NA Grand Champion",
+      "DEG_NGE_Season_2_NA_TOP12": "NGE Season 2 NA Top 12",
+      "DEG_NGE_Season_2_EU_Grand_Champion": "NGE Season 2 EU Grand Champion",
+      "DEG_NGE_Season_2_EU_TOP12": "NGE Season 2 EU Top 12"
     },
     "Kor": {
       "DEG_私だって戦えるんだから！": "나도 싸울 수 있다구!",
@@ -253,7 +267,14 @@
       "DEG_JCG_3rd_season_優勝": "JCG OPEN 우승 3rd season",
       "DEG_全国高校生選手権2017_優勝": "일본 고교생 선수권 2017 우승",
       "DEG_全国高校生選手権2017_準優勝": "일본 고교생 선수권 2017 준우승",
-      "DEG_Grand Master WLD": "Grand Master 동화 속 세상"
+      "DEG_Grand Master WLD": "Grand Master 동화 속 세상",
+      "DEG_RAGE_vol.5_優勝": "RAGE vol.5 우승",
+      "DEG_RAGE_vol.5_準優勝": "RAGE vol.5 준우승",
+      "DEG_RAGE_vol.5_3位": "RAGE vol.5 3위",
+      "DEG_NGE_Season_2_NA_Grand_Champion": "NGE Season 2 북미 대회 우승",
+      "DEG_NGE_Season_2_NA_TOP12": "NGE Season 2 북미 대회 TOP 12",
+      "DEG_NGE_Season_2_EU_Grand_Champion": "NGE Season 2 유럽 대회 우승",
+      "DEG_NGE_Season_2_EU_TOP12": "NGE Season 2 유럽 대회 TOP 12"
     },
     "Cht": {
       "DEG_私だって戦えるんだから！": "我也是能戰鬥的！",
@@ -265,7 +286,7 @@
       "DEG_Save the Queen ": "Save the Queen ",
       "DEG_Royal Master": "Royal Master",
       "DEG_手加減なしよ、本気で行くわ！": "我會使出全力，絕不手下留情！",
-      "DEG_天才錬金術師": "天才練金術師",
+      "DEG_天才錬金術師": "天才鍊金術師",
       "DEG_禁忌の探求者": "禁忌的探求者",
       "DEG_Witch Master": "Witch Master",
       "DEG_この俺が相手だ！": "我來做你的對手！",
@@ -338,7 +359,14 @@
       "DEG_JCG_3rd_season_優勝": "JCG OPEN 冠軍 3rd season",
       "DEG_全国高校生選手権2017_優勝": "全日本高中生選手權2017 冠軍",
       "DEG_全国高校生選手権2017_準優勝": "全日本高中生選手權2017 亞軍",
-      "DEG_Grand Master WLD": "Grand Master 夢境奇想"
+      "DEG_Grand Master WLD": "Grand Master 夢境奇想",
+      "DEG_RAGE_vol.5_優勝": "RAGE vol.5 冠軍",
+      "DEG_RAGE_vol.5_準優勝": "RAGE vol.5 亞軍",
+      "DEG_RAGE_vol.5_3位": "RAGE vol.5 季軍",
+      "DEG_NGE_Season_2_NA_Grand_Champion": "NGE Season 2 NA Grand Champion",
+      "DEG_NGE_Season_2_NA_TOP12": "NGE Season 2 NA Top 12",
+      "DEG_NGE_Season_2_EU_Grand_Champion": "NGE Season 2 EU Grand Champion",
+      "DEG_NGE_Season_2_EU_TOP12": "NGE Season 2 EU Top 12"
     },
     "Fre": {
       "DEG_私だって戦えるんだから！": "Je sais me battre !",
@@ -423,7 +451,14 @@
       "DEG_JCG_3rd_season_優勝": "JCG Open Champion 3rd season",
       "DEG_全国高校生選手権2017_優勝": "2017 National High School Champion ",
       "DEG_全国高校生選手権2017_準優勝": "2017 National High School 1st Runner-up",
-      "DEG_Grand Master WLD": "Grand Maître (Wonderland)"
+      "DEG_Grand Master WLD": "Grand Maître (Wonderland)",
+      "DEG_RAGE_vol.5_優勝": "RAGE Champion (Septembre 2017)",
+      "DEG_RAGE_vol.5_準優勝": "RAGE 1st Runner-Up (Septembre 2017)",
+      "DEG_RAGE_vol.5_3位": "RAGE 2nd Runner-Up (Septembre 2017)",
+      "DEG_NGE_Season_2_NA_Grand_Champion": "NGE Season 2 NA Grand Champion",
+      "DEG_NGE_Season_2_NA_TOP12": "NGE Season 2 NA Top 12",
+      "DEG_NGE_Season_2_EU_Grand_Champion": "NGE Season 2 EU Grand Champion",
+      "DEG_NGE_Season_2_EU_TOP12": "NGE Season 2 EU Top 12"
     },
     "Ita": {
       "DEG_私だって戦えるんだから！": "Ti proverò chi sono!",
@@ -508,7 +543,14 @@
       "DEG_JCG_3rd_season_優勝": "JCG Open Champion 3rd season",
       "DEG_全国高校生選手権2017_優勝": "2017 National High School Champion ",
       "DEG_全国高校生選手権2017_準優勝": "2017 National High School 1st Runner-up",
-      "DEG_Grand Master WLD": "Grand Master (Wonderland)"
+      "DEG_Grand Master WLD": "Grand Master (Wonderland)",
+      "DEG_RAGE_vol.5_優勝": "RAGE Champion (Settembre 2017)",
+      "DEG_RAGE_vol.5_準優勝": "RAGE 1st Runner-Up (Settembre 2017)",
+      "DEG_RAGE_vol.5_3位": "RAGE 2nd Runner-Up (Settembre 2017)",
+      "DEG_NGE_Season_2_NA_Grand_Champion": "NGE Season 2 NA Grand Champion",
+      "DEG_NGE_Season_2_NA_TOP12": "NGE Season 2 NA Top 12",
+      "DEG_NGE_Season_2_EU_Grand_Champion": "NGE Season 2 EU Grand Champion",
+      "DEG_NGE_Season_2_EU_TOP12": "NGE Season 2 EU Top 12"
     },
     "Ger": {
       "DEG_私だって戦えるんだから！": "Ich kann auch kämpfen!",
@@ -593,7 +635,14 @@
       "DEG_JCG_3rd_season_優勝": "JCG Open Champion 3rd season",
       "DEG_全国高校生選手権2017_優勝": "2017 National High School Champion ",
       "DEG_全国高校生選手権2017_準優勝": "2017 National High School 1st Runner-up",
-      "DEG_Grand Master WLD": "Großmeister (Wonderland)"
+      "DEG_Grand Master WLD": "Großmeister (Wonderland)",
+      "DEG_RAGE_vol.5_優勝": "RAGE Champion (September 2017)",
+      "DEG_RAGE_vol.5_準優勝": "RAGE 1st Runner-Up (September 2017)",
+      "DEG_RAGE_vol.5_3位": "RAGE 2nd Runner-Up (September 2017)",
+      "DEG_NGE_Season_2_NA_Grand_Champion": "NGE Season 2 NA Grand Champion",
+      "DEG_NGE_Season_2_NA_TOP12": "NGE Season 2 NA Top 12",
+      "DEG_NGE_Season_2_EU_Grand_Champion": "NGE Season 2 EU Grand Champion",
+      "DEG_NGE_Season_2_EU_TOP12": "NGE Season 2 EU Top 12"
     }
   }
 }

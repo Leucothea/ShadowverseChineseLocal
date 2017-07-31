@@ -1,0 +1,34 @@
+{
+  "ClassTextJson": {
+    "Jpn": {
+      "clan_0": "ノーマル",
+      "clan_1": "エルフ",
+      "clan_2": "ロイヤル",
+      "clan_3": "ウィッチ",
+      "clan_4": "ドラゴン",
+      "clan_5": "ネクロマンサー",
+      "clan_6": "ヴァンパイア",
+      "clan_7": "ビショップ"
+    },
+    "Eng": {
+      "clan_0": "Neutral",
+      "clan_1": "Forestcraft",
+      "clan_2": "Swordcraft",
+      "clan_3": "Runecraft",
+      "clan_4": "Dragoncraft",
+      "clan_5": "Shadowcraft",
+      "clan_6": "Bloodcraft",
+      "clan_7": "Havencraft"
+    },
+    "Chs": {
+      "clan_0": "中立",
+      "clan_1": "精灵",
+      "clan_2": "皇家护卫",
+      "clan_3": "女巫",
+      "clan_4": "龙",
+      "clan_5": "死灵法师",
+      "clan_6": "血族",
+      "clan_7": "主教"
+    }
+  }
+}

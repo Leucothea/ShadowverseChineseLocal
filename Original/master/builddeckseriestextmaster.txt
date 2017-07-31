@@ -2,45 +2,45 @@
   "builddeckseriestextmaster": {
     "Jpn": {
       "BDSSN_構築済みデッキ1弾": "BDSSN_構築済みデッキ1弾",
-      "BDSI_構築済みデッキ1弾": "構築済みデッキには限定イラストプレミアムレジェンドが1枚封入されています。各セット3回まで購入可能で、購入回数に応じて価格が異なります。\n初回購入･･･クリスタル500個、2回目以降･･･クリスタル750個",
+      "BDSI_構築済みデッキ1弾": "各デッキに限定イラストプレミアムレジェンド(分解不可)が1枚封入。\n初回購入…クリスタル500個、2～3回目購入…クリスタル750個\n[ffcd45]※限定イラストプレミアムレジェンドの能力変更に伴う補てん対応は行いません。[-]",
       "BDSSN_構築済みデッキ2弾": "BDSSN_構築済みデッキ2弾",
-      "BDSI_構築済みデッキ2弾": "構築済みデッキには限定イラストプレミアムレジェンドが1枚封入されています。各セット3回まで購入可能で、購入回数に応じて価格が異なります。\n初回購入･･･クリスタル500個、2回目以降･･･クリスタル750個"
+      "BDSI_構築済みデッキ2弾": "各デッキに限定イラストプレミアムレジェンド(分解不可)が1枚封入。\n初回購入…クリスタル500個、2～3回目購入…クリスタル750個\n[ffcd45]※限定イラストプレミアムレジェンドの能力変更に伴う補てん対応は行いません。[-]"
     },
     "Eng": {
       "BDSSN_構築済みデッキ1弾": "BDSSN_構築済みデッキ1弾",
-      "BDSI_構築済みデッキ1弾": "Prebuilt decks contain an animated Legendary with special art! Priced at 500 crystals the first time and 750 afterwards. Each deck can be purchased up to three times.",
+      "BDSI_構築済みデッキ1弾": "Prebuilt decks contain an animated legendary with special art! Special legendaries can't be liquefied nor can extra vials be gained if card cost or abilities are adjusted.",
       "BDSSN_構築済みデッキ2弾": "BDSSN_構築済みデッキ2弾",
-      "BDSI_構築済みデッキ2弾": "Prebuilt decks contain an animated Legendary with special art! Priced at 500 crystals the first time and 750 afterwards. Each deck can be purchased up to three times."
+      "BDSI_構築済みデッキ2弾": "Prebuilt decks contain an animated legendary with special art! Special legendaries can't be liquefied nor can extra vials be gained if card cost or abilities are adjusted."
     },
     "Kor": {
       "BDSSN_構築済みデッキ1弾": "BDSSN_構築済みデッキ1弾",
-      "BDSI_構築済みデッキ1弾": "특별 일러스트의 프리미엄 레전드 카드가 1장 포함된 테마팩 판매!\n각 테마팩은 3번까지 구매 가능합니다.\n(첫구매 시 크리스탈 500개, 이후 크리스탈 750개)",
+      "BDSI_構築済みデッキ1弾": "특별 일러스트의 프리미엄 레전드 카드가 1장 포함된 테마팩 판매!\n첫구매 시 크리스탈 500개, 이후 3회까지 구매 시 크리스탈 750개\n[ffcd45]※특별 일러스트의 프리미엄 레전드 카드는 분해할 수 없으며,\n능력 변경 시 보상 대상에 포함되지 않습니다.[-]",
       "BDSSN_構築済みデッキ2弾": "BDSSN_構築済みデッキ2弾",
-      "BDSI_構築済みデッキ2弾": "특별 일러스트의 프리미엄 레전드 카드가 1장 포함된 테마팩 판매!\n각 테마팩은 3번까지 구매 가능합니다.\n(첫구매 시 크리스탈 500개, 이후 크리스탈 750개)"
+      "BDSI_構築済みデッキ2弾": "특별 일러스트의 프리미엄 레전드 카드가 1장 포함된 테마팩 판매!\n첫구매 시 크리스탈 500개, 이후 3회까지 구매 시 크리스탈 750개\n[ffcd45]※특별 일러스트의 프리미엄 레전드 카드는 분해할 수 없으며,\n능력 변경 시 보상 대상에 포함되지 않습니다.[-]"
     },
     "Cht": {
       "BDSSN_構築済みデッキ1弾": "BDSSN_主題牌組第1彈",
-      "BDSI_構築済みデッキ1弾": "主題牌組內容包含１張限定插畫的珍藏版傳說卡。每套限購買3次，首次購買享有優惠價格。\n首次購買：500水晶，第2次以後：750水晶",
+      "BDSI_構築済みデッキ1弾": "主題牌組內容包含１張限定插畫的珍藏版傳說卡（無法分解）。\n首次購買：500水晶，第2～3次購買：750水晶\n[ffcd45]※限定插畫的珍藏版傳說卡若進行卡片能力變更時將無法獲得補償。[-]",
       "BDSSN_構築済みデッキ2弾": "BDSSN_構築済みデッキ2弾",
-      "BDSI_構築済みデッキ2弾": "主題牌組內容包含１張限定插畫的珍藏版傳說卡。每套限購買3次，首次購買享有優惠價格。\n首次購買：500水晶，第2次以後：750水晶"
+      "BDSI_構築済みデッキ2弾": "主題牌組內容包含１張限定插畫的珍藏版傳說卡（無法分解）。\n首次購買：500水晶，第2～3次購買：750水晶\n[ffcd45]※限定插畫的珍藏版傳說卡若進行卡片能力變更時將無法獲得補償。[-]"
     },
     "Fre": {
       "BDSSN_構築済みデッキ1弾": "BDSSN_構築済みデッキ1弾",
-      "BDSI_構築済みデッキ1弾": "Chacun de ces decks inclut 1 carte animée Légendaire exclusive. Vous pouvez acheter chaque deck jusqu'à 3 fois. Un premier deck coûte 500 cristaux ; les suivants en demandent 750.",
+      "BDSI_構築済みデッキ1弾": "Ces decks incluent 1 carte animée Légendaire exclusive et chaque deck peut être acheté 3 fois. 500 cristaux pour le 1er deck, 750 à partir du second. (Pas de compensation prévue dans le cas de changements dans les habiletés et effets de ces cartes.)",
       "BDSSN_構築済みデッキ2弾": "BDSSN_構築済みデッキ2弾",
-      "BDSI_構築済みデッキ2弾": "Chacun de ces decks inclut 1 carte animée Légendaire exclusive. Vous pouvez acheter chaque deck jusqu'à 3 fois. Un premier deck coûte 500 cristaux ; les suivants en demandent 750."
+      "BDSI_構築済みデッキ2弾": "Ces decks incluent 1 carte animée Légendaire exclusive et chaque deck peut être acheté 3 fois. 500 cristaux pour le 1er deck, 750 à partir du second. (Pas de compensation prévue dans le cas de changements dans les habiletés et effets de ces cartes.)"
     },
     "Ita": {
       "BDSSN_構築済みデッキ1弾": "BDSSN_構築済みデッキ1弾",
-      "BDSI_構築済みデッキ1弾": "In ogni deck sono incluse delle carte animate esclusive Leggendarie! Ogni deck pre-costruito può essere acquistato fino a 3 volte. Il primo costo è di 500 cristalli, dopodiché 750.",
+      "BDSI_構築済みデッキ1弾": "In ogni deck è inclusa una carta animata esclusiva Leggendaria! Ogni deck pre-costruito può essere acquistato fino a 3 volte. (Non è previsto alcun rimborso nel caso in cui l'effetto della carta esclusiva dovesse cambiare.)",
       "BDSSN_構築済みデッキ2弾": "BDSSN_構築済みデッキ2弾",
-      "BDSI_構築済みデッキ2弾": "In ogni deck sono incluse delle carte animate esclusive Leggendarie! Ogni deck pre-costruito può essere acquistato fino a 3 volte. Il primo costo è di 500 cristalli, dopodiché 750."
+      "BDSI_構築済みデッキ2弾": "In ogni deck è inclusa una carta animata esclusiva Leggendaria! Ogni deck pre-costruito può essere acquistato fino a 3 volte. (Non è previsto alcun rimborso nel caso in cui l'effetto della carta esclusiva dovesse cambiare.)"
     },
     "Ger": {
       "BDSSN_構築済みデッキ1弾": "BDSSN_構築済みデッキ1弾",
-      "BDSI_構築済みデッキ1弾": "In jedem Deck findet sich eine legendäre Premiumkarte mit brandneuem, animiertem Kartenmotiv. Jedes Set kann bis zu 3-mal gekauft werden. Das erste Set kostet 500 Kristalle, jedes weitere 750 Kristalle.",
+      "BDSI_構築済みデッキ1弾": "In jedem Deck findet sich eine legendäre Premiumkarte mit brandneuem, animiertem Kartenmotiv.\nJedes Set kann bis zu 3-mal gekauft werden.\n(Hinweis: Umtausch und Rückerstattung aufgrund Kartenfähigkeiten betreffender Änderungen sind ausgeschlossen.)",
       "BDSSN_構築済みデッキ2弾": "BDSSN_構築済みデッキ2弾",
-      "BDSI_構築済みデッキ2弾": "In jedem Deck findet sich eine legendäre Premiumkarte mit brandneuem, animiertem Kartenmotiv. Jedes Set kann bis zu 3-mal gekauft werden. Das erste Set kostet 500 Kristalle, jedes weitere 750 Kristalle."
+      "BDSI_構築済みデッキ2弾": "In jedem Deck findet sich eine legendäre Premiumkarte mit brandneuem, animiertem Kartenmotiv.\nJedes Set kann bis zu 3-mal gekauft werden.\n(Hinweis: Umtausch und Rückerstattung aufgrund Kartenfähigkeiten betreffender Änderungen sind ausgeschlossen.)"
     }
   }
 }

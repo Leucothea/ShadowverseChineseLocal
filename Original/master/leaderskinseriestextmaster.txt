@@ -25,7 +25,7 @@
       "LSSSN_SF5": "快打旋風5主戰者造型組"
     },
     "Fre": {
-      "LSSI_神撃のバハムート": "Skins meneurs Rage of Bahamut\n\nVous pouvez changer votre skin meneur depuis votre Profil.\n",
+      "LSSI_神撃のバハムート": "Skins meneurs Rage of Bahamut\n\nVous pouvez changer votre skin meneur depuis votre Profil.",
       "LSSSN_神撃のバハムート": "Pack skins meneurs Rage of Bahamut",
       "LSSI_SF5": "Skins meneurs Street Fighter V\n\nVous pouvez changer votre skin meneur depuis votre Profil.",
       "LSSSN_SF5": "Pack skins meneurs Street Fighter V"
