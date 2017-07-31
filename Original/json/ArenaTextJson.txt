@@ -345,7 +345,7 @@
       "Arena_0055": "Enregistrement réussi.",
       "Arena_0056": "Le deck {0} a été enregistré.",
       "Arena_0057": "L'utilisation simultanée de plusieurs decks de la même appartenance est interdite.\nVeuillez sélectionner des decks d'appartenances différentes.",
-      "Arena_0058": "Decks de tournois.",
+      "Arena_0058": "Decks de tournoi",
       "Arena_0059": "Fin des phases de préparation dans {0}.  ",
       "Arena_0060": "Le tournoi prend fin dans {0}.",
       "Arena_0061": "ID tournoi",
@@ -396,7 +396,7 @@
       "Arena_0034": "Entra",
       "Arena_0035": "Scegli come entrare in Forza 2.",
       "Arena_0036": "Usa le Rupie",
-      "Arena_0037": "Ticket che possiedi",
+      "Arena_0037": "Ticket posseduti",
       "Arena_0038": "Ticket Necessari",
       "Arena_0039": "{0}",
       "Arena_0040": "{0}",
@@ -428,7 +428,7 @@
       "Arena_0066": "Arena_0066",
       "Arena_0067": "Puoi inserire solamente codici del deck di classi che non hai ancora utilizzato in questo torneo.",
       "Arena_0068": "Hai già utilizzato questa classe.",
-      "Arena_0069": "Classi\nUtilizzate",
+      "Arena_0069": "Classe già\nutilizzata",
       "Arena_0070": "Tempo limite registrazione deck: {0}",
       "Arena_0071": "Possono partecipare a un torneo solo gli utenti che hanno effettuato la registrazione entro il tempo limite stabilito."
     },
@@ -501,7 +501,7 @@
       "Arena_0067": "Es sind ausschließlich Codes für Decks zulässig, deren Zugehörigkeit Du noch nicht im Turnier verwendet hast.",
       "Arena_0068": "Zugehörigkeit(en) wurde(n) bereits verwendet.",
       "Arena_0069": "Zugehörigkeit\nbereits verwendet",
-      "Arena_0070": "Anmeldefrist bis:",
+      "Arena_0070": "Anmeldefrist bis: {0}",
       "Arena_0071": "Eine Turnierteilnahme ist bei Überschreiten der Anmeldefrist nicht möglich."
     }
   }

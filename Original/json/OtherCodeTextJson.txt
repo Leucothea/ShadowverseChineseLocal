@@ -56,9 +56,9 @@
       "OtherCode_0004": "Chaque code n'est utilisable qu'une fois.",
       "OtherCode_0006": "Titre",
       "OtherCode_0008": "Date de réception",
-      "OtherCode_0009": "Entrez votre code promotionnel",
+      "OtherCode_0009": "Code promotionnel entré.",
       "OtherCode_0010": "Vous avez entré le code promotionnel.\nRécupérer les récompenses dans vos Présents.",
-      "OtherCode_0011": "Vous avez entré le code promotionnel"
+      "OtherCode_0011": "Code promotionnel entré."
     },
     "Ita": {
       "OtherCode_0005": "Codice Promo",

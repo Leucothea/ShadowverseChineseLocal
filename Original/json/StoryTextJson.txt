@@ -332,7 +332,7 @@
       "Class_Selection_0006": "Cette appartenance propose de manipuler des cartes abaissant la vie du meneur en échange de pouvoirs accrus. Ainsi, l'habileté Vengeance permet d'activer les habiletés de certaines cartes en main et se manifeste lorsque la vie du meneur atteint 10.",
       "Class_Selection_0007": "Lorsqu'une amulette possédant Compte à rebours est jouée, une valeur donnée décroît d'1 point à chaque tour jusqu'à atteindre 0. L'amulette est alors détruite et peut soit être remplacée par un puissant combattant, soit activer certaines habiletés.",
       "Story_0050": "Chapitre {0}",
-      "Story_0051": "Connaître son adversaire est la clé de la victoire ! Découvrez l'histoire des autres héros de Shadowverse et maîtrisez leur deck.",
+      "Story_0051": "Bien connaître son adversaire est la clé de la victoire ! Découvrez l'histoire des autres héros de Shadowverse et maîtrisez leur deck.",
       "Story_0052": "Histoire"
     },
     "Ita": {
@@ -428,7 +428,7 @@
       "Story_0021": "Und plötzlich ward das Himmelszelt von einer\nunheilvollen Erscheinung gezeichnet.\n\nDie Menschen nannten sie:\n[b]Die Leidesche[/b]\n\nFür manche ein Sinnbild der Errettung,\nfür andere ein Leuchtfeuer des Todes,\nund wieder andere sehen sie als Tor zu neuen Welten.\n\nEs ist der Schatten des Baumes, der die Herzen der\nMenschen mit Finsternis durchtränkt.\n\nUnd als Dunkelheit auch den letzten Winkel der\nWelt erfüllte, wurden die Pforten ins Nichts aufgestoßen ...",
       "Story_0022": "Schwierigkeitsgrad wählen",
       "Story_0023": "Wähle den Schwierigkeitsgrad des Gegners.",
-      "Story_0029": "Belohnung:",
+      "Story_0029": "Belohnung(en)",
       "Story_0030": "Deine Belohnungen wurden automatisch abgeholt.",
       "Story_0031": "Schwierigkeitsgrad(e) in Wartung",
       "Story_0032": "Neue Kapitel folgen demnächst. Vielen Dank fürs Spielen!",

@@ -242,7 +242,7 @@
       "OtherFriend_0041": "好友申請中",
       "OtherFriend_0042": "人",
       "OtherFriend_0043": "於{0}申請",
-      "OtherFriend_0044": "於{0}進行{1}對戰",
+      "OtherFriend_0044": "於{0}進行{1}",
       "OtherFriend_0045": "於{0}收到邀請",
       "OtherFriend_0046": "階級對戰",
       "OtherFriend_0047": "已拒絕所有的好友申請。",
@@ -267,7 +267,7 @@
     "Fre": {
       "OtherFriend_0001": "Amis",
       "OtherFriend_0002": "Voir les amis",
-      "OtherFriend_0003": "Demande envoyée",
+      "OtherFriend_0003": "Demandes envoyées",
       "OtherFriend_0004": "En attente d'acceptation",
       "OtherFriend_0005": "Demande d'ami",
       "OtherFriend_0006": "Recherche d'utilisateur",

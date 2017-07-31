@@ -98,8 +98,8 @@
       "Mail_0034": "Buy Sleeves",
       "Mail_0035": "Profile",
       "Mail_0036": "Emblem",
-      "Mail_0037": "Take Two Ticket",
-      "Mail_0038": "Standard Card Pack Ticket",
+      "Mail_0037": "Take Two Tickets",
+      "Mail_0038": "Standard Card Pack Tickets",
       "Mail_0039": "Flair",
       "Mail_0040": "{0} x{1}",
       "Mail_0041": "{0} x{1}",
@@ -120,7 +120,7 @@
       "Mail_0056": "(Flair)",
       "Mail_0057": "(Emblem)",
       "Mail_0058": "(Leader)",
-      "Mail_0059": "Seer's Globes"
+      "Mail_0059": "Seer's Globe"
     },
     "Kor": {
       "Mail_0001": "메일",
@@ -274,7 +274,7 @@
       "Mail_0027": "Les présents dont la date limite de réception a expiré sont automatiquement supprimés. Jusqu'à 100 présents peuvent être récupérés en une fois.",
       "Mail_0028": "L'historique de réception affiche jusqu'à 500 présents récupérés durant une semaine.",
       "Mail_0029": "Il n'y a plus de présent à récupérer.",
-      "Mail_0030": "Jamais",
+      "Mail_0030": "Aucune",
       "Mail_0031": "Date limite de réception : ",
       "Mail_0032": "Decks",
       "Mail_0033": "Cartes  ",
@@ -289,7 +289,7 @@
       "Mail_0042": "{0} x{1}",
       "Mail_0043": "Obtenu(s) à : {0}",
       "Mail_0044": "Récupéré(s) à : {0}",
-      "Mail_0045": "Jamais",
+      "Mail_0045": "Aucune",
       "Mail_0046": "{0} heure(s) restante(s)",
       "Mail_0047": "{0} jour(s) restant(s)",
       "Mail_0048": "{0} minute(s) restante(s)",

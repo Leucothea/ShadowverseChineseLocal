@@ -17,7 +17,8 @@
       "Ranking_0202": "ランキングは集計中です",
       "Ranking_0301": "前シーズン",
       "Ranking_0302": "今シーズン",
-      "Ranking_0303": "シーズン選択"
+      "Ranking_0303": "シーズン選択",
+      "Ranking_0304": "YOU"
     },
     "Eng": {
       "Ranking_0001_Menu": "Score",
@@ -36,7 +37,8 @@
       "Ranking_0202": "Rankings are currently being updated.",
       "Ranking_0301": "Last Season",
       "Ranking_0302": "This Season",
-      "Ranking_0303": "Seasons"
+      "Ranking_0303": "Seasons",
+      "Ranking_0304": "YOU"
     },
     "Kor": {
       "Ranking_0001_Menu": "Battle Point",
@@ -55,7 +57,8 @@
       "Ranking_0202": "랭킹 집계중",
       "Ranking_0301": "전 시즌",
       "Ranking_0302": "현 시즌",
-      "Ranking_0303": "시즌 선택"
+      "Ranking_0303": "시즌 선택",
+      "Ranking_0304": "YOU"
     },
     "Cht": {
       "Ranking_0001_Menu": "Battle Point",
@@ -74,7 +77,8 @@
       "Ranking_0202": "正在計算排名",
       "Ranking_0301": "上一季",
       "Ranking_0302": "本季",
-      "Ranking_0303": "選擇賽季"
+      "Ranking_0303": "選擇賽季",
+      "Ranking_0304": "YOU"
     },
     "Fre": {
       "Ranking_0001_Menu": "Pts de bataille",
@@ -93,7 +97,8 @@
       "Ranking_0202": "Les classements sont en cours de mise à jour.",
       "Ranking_0301": "Saison précédente",
       "Ranking_0302": "Saison en cours",
-      "Ranking_0303": "Saisons"
+      "Ranking_0303": "Saisons",
+      "Ranking_0304": "VOUS"
     },
     "Ita": {
       "Ranking_0001_Menu": "Punteggio",
@@ -112,7 +117,8 @@
       "Ranking_0202": "Le classiche sono in fase di aggiornamento.",
       "Ranking_0301": "Stagione Precedente",
       "Ranking_0302": "Stagione Attuale",
-      "Ranking_0303": "Stagioni"
+      "Ranking_0303": "Stagioni",
+      "Ranking_0304": "YOU"
     },
     "Ger": {
       "Ranking_0001_Menu": "Kampfpunkte",
@@ -131,7 +137,8 @@
       "Ranking_0202": "Die Ranglisten werden aktualisiert.",
       "Ranking_0301": "Letzte Saison",
       "Ranking_0302": "Aktuelle Saison",
-      "Ranking_0303": "Saisons"
+      "Ranking_0303": "Saisons",
+      "Ranking_0304": "DU"
     }
   }
 }

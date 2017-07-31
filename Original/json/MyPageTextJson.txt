@@ -63,7 +63,7 @@
       "MyPage_0014": "Decks",
       "MyPage_0015": "Cards",
       "MyPage_0016": "Buy Cards",
-      "MyPage_0017": "Customize",
+      "MyPage_0017": "Buy Supplies",
       "MyPage_0018": "Buy Crystals",
       "MyPage_0019": "Play against\na computer opponent",
       "MyPage_0020": "Play unranked matches",

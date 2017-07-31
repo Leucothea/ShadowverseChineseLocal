@@ -173,7 +173,7 @@
       "FirstTips_0020": "FirstTips_0020",
       "FirstTips_0021": "La registrazione può essere messa in pausa o interrotta dal Menu Registrazione. Inoltre, il video dalla fotocamera del dispositivo non compare sullo schermo durante la registrazione.",
       "FirstTips_0022": "FirstTips_0022",
-      "FirstTips_0023": "Mentre stai registrando, il tuo tuo ID Utente verrà sostituito da degli asterischi. Tuttavia, potrà essere copiato normalmente. ",
+      "FirstTips_0023": "Mentre stai registrando, il tuo ID Utente verrà sostituito da degli asterischi. Tuttavia, potrà essere copiato normalmente. ",
       "FirstTips_0024": "Il pulsante Registra appare quando la registrazione video è abilitata. Ogni video può durare al massimo 25 minuti.",
       "FirstTips_0025": "I tuoi video possono essere condivisi dal menu Registra/Guarda. Inoltre, puoi modificarlo nella schermata che precede la condivisione.",
       "FirstTips_0026": "La registrazione può essere messa in pausa o interrotta dal Menu Registrazione.",

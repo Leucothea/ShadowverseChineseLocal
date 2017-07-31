@@ -59,7 +59,8 @@
       "OtherConfig_0056": "バトル中のキーボード操作",
       "OtherConfig_0057": "フォロワーのショートカット進化（E）",
       "OtherConfig_0058": "決定・ターン終了のショートカット操作（スペース）",
-      "OtherConfig_0059": "エンハンスを持つカードの補足情報を表示する"
+      "OtherConfig_0059": "エンハンスを持つカードの補足情報を表示する",
+      "OtherConfig_0060": "通信を暗号化する"
     },
     "Eng": {
       "OtherConfig_0001": "Music",
@@ -120,7 +121,8 @@
       "OtherConfig_0056": "Use keyboard controls in battle",
       "OtherConfig_0057": "Evolve follower shortcut (E)",
       "OtherConfig_0058": "Confirm/end turn shortcut (Space)",
-      "OtherConfig_0059": "Display cost of Enhance ability"
+      "OtherConfig_0059": "Display cost of Enhance ability",
+      "OtherConfig_0060": "Encrypt Network"
     },
     "Kor": {
       "OtherConfig_0001": "BGM",
@@ -162,7 +164,7 @@
       "OtherConfig_0037": "친구의 친선전 초대를 받음",
       "OtherConfig_0038": "다른 유저와 대전 중 초대 수락",
       "OtherConfig_0039": "오프라인 중 초대 수락",
-      "OtherConfig_0040": "대전 중 사용자설정 마우스 조작",
+      "OtherConfig_0040": "대전 중 사용자 설정 마우스 조작",
       "OtherConfig_0041": "대전 중 단축키 조작",
       "OtherConfig_0042": "OFF",
       "OtherConfig_0043": "우클릭",
@@ -181,7 +183,8 @@
       "OtherConfig_0056": "대전 중 키보드 조작",
       "OtherConfig_0057": "추종자 단축키 진화(E)",
       "OtherConfig_0058": "결정/턴 종료 단축기 조작(스페이스)",
-      "OtherConfig_0059": "강화를 지닌 카드의 추가 정보를 표시"
+      "OtherConfig_0059": "강화를 지닌 카드의 추가 정보를 표시",
+      "OtherConfig_0060": "네트워크 암호화"
     },
     "Cht": {
       "OtherConfig_0001": "BGM",
@@ -242,11 +245,12 @@
       "OtherConfig_0056": "對戰中以鍵盤操作",
       "OtherConfig_0057": "從者進化時的單鍵操作（E）",
       "OtherConfig_0058": "確定及回合結束時的單鍵操作（空白鍵）",
-      "OtherConfig_0059": "顯示持有爆能強化能力卡片的補充資訊"
+      "OtherConfig_0059": "顯示持有爆能強化能力卡片的補充資訊",
+      "OtherConfig_0060": "啟用加密連線"
     },
     "Fre": {
       "OtherConfig_0001": "Musiques",
-      "OtherConfig_0002": "Effets sonores",
+      "OtherConfig_0002": "Effets",
       "OtherConfig_0003": "Voix",
       "OtherConfig_0004": "Confirmer la fin du tour",
       "OtherConfig_0005": "Afficher les émoticônes de l'adversaire",
@@ -275,16 +279,16 @@
       "OtherConfig_0028": "Afficher l'estimation des dégâts",
       "OtherConfig_0029": "OtherConfig_0008",
       "OtherConfig_0030": "OtherConfig_0009",
-      "OtherConfig_0031": "Activer les animation des meneurs",
+      "OtherConfig_0031": "Activer les animations des meneurs",
       "OtherConfig_0032": "OtherConfig_0032",
       "OtherConfig_0033": "OtherConfig_0033",
       "OtherConfig_0034": "Résolution",
       "OtherConfig_0035": "Plein écran",
       "OtherConfig_0036": "Jouer le son en tâche de fond",
       "OtherConfig_0037": "Accepter les invitations d'amis aux salons",
-      "OtherConfig_0038": "Accepter les invitations d'amis même pendant les batailles avec d'autre joueurs",
+      "OtherConfig_0038": "Accepter les invitations d'amis même pendant les batailles avec d'autres joueurs",
       "OtherConfig_0039": "Accepter les invitations d'amis même hors ligne",
-      "OtherConfig_0040": "Sélection personnalisée de la cible (PC)",
+      "OtherConfig_0040": "Contrôles personnalisés de la souris (PC)",
       "OtherConfig_0041": "Mode de sélection de la cible",
       "OtherConfig_0042": "Curseur lent",
       "OtherConfig_0043": "Clic droit",
@@ -303,7 +307,8 @@
       "OtherConfig_0056": "Utiliser le clavier durant les batailles",
       "OtherConfig_0057": "Raccourci Évolution combattants (E)",
       "OtherConfig_0058": "Raccourci Confirmer/Finir le tour (espace)",
-      "OtherConfig_0059": "Afficher tous les détails des cartes possédant l'habileté Augmentation."
+      "OtherConfig_0059": "Afficher tous les détails des cartes possédant l'habileté Augmentation.",
+      "OtherConfig_0060": "Crypter la connexion"
     },
     "Ita": {
       "OtherConfig_0001": "Musica",
@@ -364,7 +369,8 @@
       "OtherConfig_0056": "Utilizza la tastiera durante le battaglie",
       "OtherConfig_0057": "Tasto rapido evoluzione (E)",
       "OtherConfig_0058": "Tasto rapido (Spazio) per conferma/fine turno",
-      "OtherConfig_0059": "Visualizza informazioni aggiuntive per le carte con l'abilità Sviluppo."
+      "OtherConfig_0059": "Visualizza informazioni aggiuntive per le carte con l'abilità Sviluppo.",
+      "OtherConfig_0060": "Cripta la connessione"
     },
     "Ger": {
       "OtherConfig_0001": "Musik",
@@ -420,12 +426,13 @@
       "OtherConfig_0051": "Karteninformationen anzeigen",
       "OtherConfig_0052": "Mittelklick (Mausrad)",
       "OtherConfig_0053": "Linker Mausklick (halten)",
-      "OtherConfig_0054": "Scrollen über Karte",
+      "OtherConfig_0054": "Über Karte scrollen",
       "OtherConfig_0055": "Karteninformationen an Fenstergröße anpassen",
       "OtherConfig_0056": "Tastaturbefehle während Duell nutzen",
       "OtherConfig_0057": "Entwicklungsanimation beschleunigen (E)",
       "OtherConfig_0058": "Bestätigen/Zug beenden (Leertaste)",
-      "OtherConfig_0059": "Zusatzinformationen für Karten mit Entfesselungs-Effekten anzeigen."
+      "OtherConfig_0059": "Zusatzinformationen für Karten mit Entfesselungs-Effekten anzeigen.",
+      "OtherConfig_0060": "Verbindung verschlüsseln"
     }
   }
 }

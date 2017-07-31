@@ -143,7 +143,7 @@
       "Title_0008": "Vous vous apprêtez à vider le cache de l'application. Cela peut aider à résoudre des problèmes de ralentissement et n'affectera pas votre progression dans le jeu. Certaines données seront à nouveau téléchargées après la procédure.\nVoulez-vous vider le cache ? Vider le cache au cours d'une bataille vous la fera perdre.",
       "Title_0009": "Le cache a été vidé.",
       "Title_0010": "Téléchargement données",
-      "Title_0011": "Des nouvelles données sont disponibles.",
+      "Title_0011": "De nouvelles données sont disponibles.",
       "Title_0012": "Télécharger données",
       "Title_0013": "Les nouvelles données ont été téléchargées.",
       "Title_0014": "Vous devez entrer au moins un caractère.",

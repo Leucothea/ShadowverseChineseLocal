@@ -80,7 +80,7 @@
       "Mission_0028": "Score: ",
       "Mission_0029": "Replace",
       "Mission_0030": "Replace mission {0}? One mission can be replaced every 21 hours.",
-      "Mission_0031": "One mission can be replaced every 21 hours.\n{0}:{1} until the next mission can be replaced.",
+      "Mission_0031": "One mission can be replaced every 21 hours. {0}:{1} until the next mission can be replaced.",
       "Mission_0032": "",
       "Mission_0033": "Replace Mission",
       "Mission_0034": "Replace mission {0}? One mission can be replaced every 21 hours.",
@@ -243,7 +243,7 @@
       "Mission_0044": "Les récompenses Points de batailles cumulés (PBC) ne sont pas disponibles.",
       "Mission_0045": "Ce nouveau card pack sera disponible à partir de la prochaine extension.",
       "Mission_0046": "Missions Jeu solo",
-      "Mission_0047": "Accomplissez d'abord une mission de la liste pour pouvoir afficher les Missions Jeu solo."
+      "Mission_0047": "Cochez la case à droite pour avoir accès aux Missions Jeu solo après avoir complété ou changé une mission."
     },
     "Ita": {
       "Mission_0001": "Missioni",
