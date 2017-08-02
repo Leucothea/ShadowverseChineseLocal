@@ -81,7 +81,7 @@
       "DEG_JCG_3rd_season_優勝": "JCG OPEN 第3赛季冠军",
       "DEG_全国高校生選手権2017_優勝": "2017全日本高中生锦标赛冠军",
       "DEG_全国高校生選手権2017_準優勝": "2017全日本高中生锦标赛亚军",
-      "DEG_Grand Master WLD": "梦境奇想大师",
+      "DEG_Grand Master WLD": "梦境綺想大师",
       "DEG_RAGE_vol.5_優勝": "RAGE vol.5 冠军",
       "DEG_RAGE_vol.5_準優勝": "RAGE vol.5 亚军",
       "DEG_RAGE_vol.5_3位": "RAGE vol.5 季军",
