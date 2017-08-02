@@ -16,7 +16,7 @@ namespace ShadowverseLangPatch
             try
             {
                 Console.ForegroundColor = ConsoleColor.Yellow;
-                Console.WriteLine("暗影之诗 Shadowverse PC+Mac简繁汉化补丁 v6.0.0\n");
+                Console.WriteLine("暗影之诗 Shadowverse PC+Mac简繁汉化补丁 v6.1.0\n");
                 Console.WriteLine("汉化：岚兮雨汐 町城安里 蔽月八云 淺夏");
                 Console.WriteLine("程序：永久告别 船长唱搁浅");
                 Console.WriteLine("校对：没有呆毛的Saber\n");
@@ -69,7 +69,8 @@ namespace ShadowverseLangPatch
                          HookJsonByAppend("Wizard.Master", "LoadLocalizeJsonAndParse", "Wizard_Master_LoadJsonAndParse", true) &&
                          HookJsonByAppend("Wizard.SystemText", "LoadAndParse", "Wizard_SystemText_LoadAndParse", false) &&
                           ChangeFont(key.KeyChar == '1') &&
-                          HookLoadObject() &&
+                           HookLoadObject() && //HookFunc("UILabel", "SetActiveFont", "OnSetActiveFont", false, 1) &&
+//                           HookFunc("UILabel", "OnFontChanged", "OnFontChanged", false, 1) &&
                           HookMissionInfoDetail("MissionInfoDetail", "ReadMissionList", "ReadMissionList") &&
                           HookMissionInfoDetail("MissionInfoDetail", "ReadAchievementList", "ReadAchievementList")
                          )
@@ -144,9 +145,9 @@ namespace ShadowverseLangPatch
             return false;
         }
 
-        static bool HookJson(string typename, string methodname, string hook, bool b)
+        static bool HookJson(string type_name, string methodname, string hook, bool b)
         {
-            var type = assembly.MainModule.Types.FirstOrDefault(x => x.FullName == typename);
+            var type = assembly.MainModule.Types.FirstOrDefault(x => x.FullName == type_name);
             if (type != null)
             {
                 var method = type.Methods.FirstOrDefault(o => o.Name == methodname);
@@ -169,9 +170,9 @@ namespace ShadowverseLangPatch
             return false;
         }
 
-        static bool HookJsonByAppend(string typename, string methodname, string hook, bool b)
+        static bool HookJsonByAppend(string type_name, string methodname, string hook, bool b)
         {
-            var type = assembly.MainModule.Types.FirstOrDefault(x => x.FullName == typename);
+            var type = assembly.MainModule.Types.FirstOrDefault(x => x.FullName == type_name);
             if (type != null)
             {
                 var method = type.Methods.FirstOrDefault(o => o.Name == methodname);
@@ -183,6 +184,40 @@ namespace ShadowverseLangPatch
                     ilprocessor.InsertBefore(index, ilprocessor.Create(OpCodes.Ldarg_1));
                     ilprocessor.InsertBefore(index, ilprocessor.Create(OpCodes.Ldarg_2));
                     if(b)
+                    {
+                        ilprocessor.InsertBefore(index, ilprocessor.Create(OpCodes.Ldarg_3));
+                    }
+                    ilprocessor.InsertBefore(index, ilprocessor.Create(OpCodes.Call, mymethod));
+                    return true;
+                }
+            }
+            return false;
+        }
+
+        static bool HookFunc(string type_name, string src_method_name, string hook_func_name, bool append_or_insert, int arg_num)
+        {
+            var type = assembly.MainModule.Types.FirstOrDefault(x => x.FullName == type_name);
+            if (type != null)
+            {
+                var method = type.Methods.FirstOrDefault(o => o.Name == src_method_name);
+                if (method != null)
+                {
+                    var ilprocessor = method.Body.GetILProcessor();
+                    var mymethod = assembly.MainModule.Import(mycalss.Methods.First(x => x.Name == hook_func_name));
+                    var index = ilprocessor.Body.Instructions.Last();
+                    if(!append_or_insert)
+                    {
+                        index = ilprocessor.Body.Instructions[0];
+                    }
+                    if(arg_num > 0)
+                    {
+                        ilprocessor.InsertBefore(index, ilprocessor.Create(OpCodes.Ldarg_1));
+                    }
+                    if (arg_num > 1)
+                    {
+                        ilprocessor.InsertBefore(index, ilprocessor.Create(OpCodes.Ldarg_2));
+                    }
+                    if (arg_num > 2)
                     {
                         ilprocessor.InsertBefore(index, ilprocessor.Create(OpCodes.Ldarg_3));
                     }
@@ -258,9 +293,9 @@ namespace ShadowverseLangPatch
             return false;
         }
 
-        static bool HookMissionInfoDetail(string typename, string methodname, string hook)
+        static bool HookMissionInfoDetail(string type_name, string methodname, string hook)
         {
-            var type = assembly.MainModule.Types.FirstOrDefault(x => x.FullName == typename);
+            var type = assembly.MainModule.Types.FirstOrDefault(x => x.FullName == type_name);
             if (type != null)
             {
                 var method = type.Methods.FirstOrDefault(o => o.Name == methodname);

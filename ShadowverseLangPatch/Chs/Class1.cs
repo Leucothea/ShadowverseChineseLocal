@@ -281,7 +281,7 @@ namespace Galstars.Extensions
 
         static void onRequestFinished(HTTPRequest request, HTTPResponse response)
         {
-            if (response != null && new Version("6.0.0") < new Version(response.DataAsText))
+            if (response != null && new Version("6.1.0") < new Version(response.DataAsText))
             {
                 DialogBase base2 = UIManager.GetInstance().CreateDialogClose();
                 base2.SetTitleLabel("汉化有更新啦！");
@@ -292,6 +292,28 @@ namespace Galstars.Extensions
                 base2.onPushButton1 = () => { Application.OpenURL("http://sennatsu.com/"); };
             }
         }
+
+//         public static void OnSetActiveFont(Font fnt)
+//         {
+//             if(fnt != null)
+//             {
+//                 System.Diagnostics.Debug.WriteLine("font : " + fnt.name);
+//                 fnt = Resources.Load<Font>("Fonts/Jpn/A-OTF-KaiminTuStd-Bold");
+//             }
+//             else
+//             {
+//                 System.Diagnostics.Debug.WriteLine("font is null");
+//             }
+//         }
+// 
+//         public static void OnFontChanged(Font fnt)
+//         {
+//             //fnt = Resources.Load<Font>("Fonts/Jpn/A-OTF-KaiminTuStd-Bold");
+//             if (fnt != null)
+//             {
+//                 System.Diagnostics.Debug.WriteLine("font change : " + fnt.name);
+//             }
+//         }
     }
 
     public class MyTextAss : TextAsset

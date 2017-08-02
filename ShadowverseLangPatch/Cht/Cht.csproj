@@ -68,1000 +68,254 @@
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\MissionTextJson.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\MyPageTextJson.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\OtherCodeTextJson.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\OtherConfigTextJson.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\OtherFriendTextJson.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\OtherPasswordTextJson.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\OtherProfileTextJson.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\OtherRankingTextJson.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\OtherShareMovieTextJson.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\OtherTopTextJson.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\raritynametextmaster.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\RarityTextJson.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\RoomBattleTextJson.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\ShopTextJson.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\skilldesctextmaster.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\StoryTextJson.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\SystemTextJson.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\TitleTextJson.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\TutorialTextJson.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\tutorialtextmaster.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\URLTextJson.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\AccountTextJson.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\ArenaTextJson.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\arenatextmaster.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\battlekeywordmaster.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\BattleTextJson.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\bufftextmaster.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\cardnametextmaster.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\cardsetnametextmaster.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\CardTextJson.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\classcharanametextmaster.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\CommonTextJson.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\DialogTextJson.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\emblemtextmaster.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\emotetextmaster.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\ErrorHeaderTextJson.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\ErrorTextJson.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\itemtextmaster.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\LoadTextJson.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\MailTextJson.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_0_0_1.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_0_0_2.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_0_0_3.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_1_1_1.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_1_1_2.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_1_2_1.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_1_2_2.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_1_3_1.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_1_3_2.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_1_4_1.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_1_4_2.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_1_5_1.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_1_5_2.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_1_6_1.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_1_6_2.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_1_7_1.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_1_7_2.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_1_8_1.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_1_8_2.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_2_1_1.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_2_1_2.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_2_2_1.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_2_2_2.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_2_3_1.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_2_3_2.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_2_4_1.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_2_4_2.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_2_5_1.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_2_5_2.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_2_6_1.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_2_6_2.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_2_7_1.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_2_7_2.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_2_8_1.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_2_8_2.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_3_1_1.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_3_1_2.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_3_2_1.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_3_2_2.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_3_3_1.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_3_3_2.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_3_4_1.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_3_4_2.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_3_5_1.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_3_5_2.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_3_6_1.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_3_6_2.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_3_7_1.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_3_7_2.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_3_8_1.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_3_8_2.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_4_1_1.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_4_1_2.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_4_2_1.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_4_2_2.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_4_3_1.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_4_3_2.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_4_4_1.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_4_4_2.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_4_5_1.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_4_5_2.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_4_6_1.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_4_6_2.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_4_7_1.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_4_7_2.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_4_8_1.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_4_8_2.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_5_1_1.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_5_1_2.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_5_2_1.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_5_2_2.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_5_3_1.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_5_3_2.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_5_4_1.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_5_4_2.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_5_5_1.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_5_5_2.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_5_6_1.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_5_6_2.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_5_7_1.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_5_7_2.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_5_8_1.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_5_8_2.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_6_1_1.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_6_1_2.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_6_2_1.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_6_2_2.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_6_3_1.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_6_3_2.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_6_4_1.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_6_4_2.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_6_5_1.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_6_5_2.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_6_6_1.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_6_6_2.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_6_7_1.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_6_7_2.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_6_8_1.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_6_8_2.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_7_1_1.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_7_1_2.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_7_2_1.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_7_2_2.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_7_3_1.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_7_3_2.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_7_4_1.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_7_4_2.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_7_5_1.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_7_5_2.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_7_6_1.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_7_6_2.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_7_7_1.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_7_7_2.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_7_8_1.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_7_8_2.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_check.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_check_ending.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_check_movie.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_summary.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\builddeckproducttextmaster.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\builddeckseriestextmaster.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\classnametextmaster.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\degreetextmaster.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\FirstTipsJson.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\flavourtextmaster.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\leaderskinproducttextmaster.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\leaderskinseriestextmaster.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\LoginBonusJson.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\sleevenametextmaster.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\sleeveproducttextmaster.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\sleeveseriesnametextmaster.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\sleeveseriestextmaster.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\storytextmaster.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\tribenametextmaster.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_text_0_0_1.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_text_0_0_2.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_text_0_0_3.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_text_1_1_1.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_text_1_1_2.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_text_1_2_1.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_text_1_2_2.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_text_1_3_1.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_text_1_3_2.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_text_1_4_1.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_text_1_4_2.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_text_1_5_1.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_text_1_5_2.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_text_1_6_1.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_text_1_6_2.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_text_1_7_1.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_text_1_7_2.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_text_1_8_1.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_text_1_8_2.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_text_2_1_1.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_text_2_1_2.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_text_2_2_1.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_text_2_2_2.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_text_2_3_1.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_text_2_3_2.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_text_2_4_1.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_text_2_4_2.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_text_2_5_1.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_text_2_5_2.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_text_2_6_1.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_text_2_6_2.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_text_2_7_1.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_text_2_7_2.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_text_2_8_1.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_text_2_8_2.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_text_3_1_1.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_text_3_1_2.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_text_3_2_1.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_text_3_2_2.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_text_3_3_1.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_text_3_3_2.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_text_3_4_1.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_text_3_4_2.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_text_3_5_1.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_text_3_5_2.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_text_3_6_1.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_text_3_6_2.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_text_3_7_1.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_text_3_7_2.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_text_3_8_1.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_text_3_8_2.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_text_4_1_1.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_text_4_1_2.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_text_4_2_1.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_text_4_2_2.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_text_4_3_1.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_text_4_3_2.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_text_4_4_1.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_text_4_4_2.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_text_4_5_1.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_text_4_5_2.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_text_4_6_1.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_text_4_6_2.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_text_4_7_1.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_text_4_7_2.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_text_4_8_1.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_text_4_8_2.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_text_5_1_1.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_text_5_1_2.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_text_5_2_1.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_text_5_2_2.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_text_5_3_1.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_text_5_3_2.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_text_5_4_1.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_text_5_4_2.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_text_5_5_1.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_text_5_5_2.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_text_5_6_1.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_text_5_6_2.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_text_5_7_1.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_text_5_7_2.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_text_5_8_1.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_text_5_8_2.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_text_6_1_1.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_text_6_1_2.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_text_6_2_1.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_text_6_2_2.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_text_6_3_1.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_text_6_3_2.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_text_6_4_1.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_text_6_4_2.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_text_6_5_1.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_text_6_5_2.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_text_6_6_1.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_text_6_6_2.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_text_6_7_1.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_text_6_7_2.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_text_6_8_1.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_text_6_8_2.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_text_7_1_1.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_text_7_1_2.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_text_7_2_1.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_text_7_2_2.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_text_7_3_1.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_text_7_3_2.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_text_7_4_1.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_text_7_4_2.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_text_7_5_1.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_text_7_5_2.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_text_7_6_1.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_text_7_6_2.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_text_7_7_1.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_text_7_7_2.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_text_7_8_1.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_text_7_8_2.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_text_name.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\practicetextmaster.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_text_1_9_1.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_text_1_9_2.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_text_1_10_1.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_text_1_10_2.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_text_1_11_1.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_text_1_11_2.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_text_2_9_1.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_text_2_9_2.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_text_2_10_1.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_text_2_10_2.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_text_2_11_1.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_text_2_11_2.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_text_5_9_1.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_text_5_9_2.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_text_5_10_1.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_text_5_10_2.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_text_5_11_1.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_text_5_11_2.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_text_8_00_1.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_text_8_00_2.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\countrytextmaster.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\VideoHostingTextJson.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_text_3_9_1.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_text_3_9_2.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_text_3_10_1.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_text_3_10_2.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_text_3_11_1.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_text_3_11_2.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_text_6_9_1.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_text_6_9_2.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_text_6_10_1.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_text_6_10_2.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_text_6_11_1.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_text_6_11_2.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_text_summary.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_text_4_9_1.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_text_4_9_2.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_text_4_10_1.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_text_4_10_2.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_text_4_11_1.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="Resources\scenario_text_4_11_2.txt" />
+    <Content Include="Resources\AccountTextJson.txt" />
+    <Content Include="Resources\ArenaTextJson.txt" />
+    <Content Include="Resources\arenatextmaster.txt" />
+    <Content Include="Resources\battlekeywordmaster.txt" />
+    <Content Include="Resources\BattleTextJson.txt" />
+    <Content Include="Resources\bufftextmaster.txt" />
+    <Content Include="Resources\builddeckproducttextmaster.txt" />
+    <Content Include="Resources\builddeckseriestextmaster.txt" />
+    <Content Include="Resources\cardnametextmaster.txt" />
+    <Content Include="Resources\cardsetnametextmaster.txt" />
+    <Content Include="Resources\CardTextJson.txt" />
+    <Content Include="Resources\classcharanametextmaster.txt" />
+    <Content Include="Resources\classnametextmaster.txt" />
+    <Content Include="Resources\classtextjson.txt" />
+    <Content Include="Resources\CommonTextJson.txt" />
+    <Content Include="Resources\countrytextmaster.txt" />
+    <Content Include="Resources\degreetextmaster.txt" />
+    <Content Include="Resources\DialogTextJson.txt" />
+    <Content Include="Resources\emblemtextmaster.txt" />
+    <Content Include="Resources\emotetextmaster.txt" />
+    <Content Include="Resources\ErrorHeaderTextJson.txt" />
+    <Content Include="Resources\ErrorTextJson.txt" />
+    <Content Include="Resources\FirstTipsJson.txt" />
+    <Content Include="Resources\flavourtextmaster.txt" />
+    <Content Include="Resources\itemtextmaster.txt" />
+    <Content Include="Resources\leaderskinproducttextmaster.txt" />
+    <Content Include="Resources\leaderskinseriestextmaster.txt" />
+    <Content Include="Resources\LoadTextJson.txt" />
+    <Content Include="Resources\LoginBonusJson.txt" />
+    <Content Include="Resources\MailTextJson.txt" />
+    <Content Include="Resources\MissionTextJson.txt" />
+    <Content Include="Resources\MyPageTextJson.txt" />
+    <Content Include="Resources\OtherCodeTextJson.txt" />
+    <Content Include="Resources\OtherConfigTextJson.txt" />
+    <Content Include="Resources\OtherFriendTextJson.txt" />
+    <Content Include="Resources\OtherPasswordTextJson.txt" />
+    <Content Include="Resources\OtherProfileTextJson.txt" />
+    <Content Include="Resources\OtherRankingTextJson.txt" />
+    <Content Include="Resources\OtherShareMovieTextJson.txt" />
+    <Content Include="Resources\OtherTopTextJson.txt" />
+    <Content Include="Resources\practicetextmaster.txt" />
+    <Content Include="Resources\raritynametextmaster.txt" />
+    <Content Include="Resources\raritytextjson.txt" />
+    <Content Include="Resources\RoomBattleTextJson.txt" />
+    <Content Include="Resources\scenario_text_0_0_1.txt" />
+    <Content Include="Resources\scenario_text_0_0_2.txt" />
+    <Content Include="Resources\scenario_text_0_0_3.txt" />
+    <Content Include="Resources\scenario_text_1_10_1.txt" />
+    <Content Include="Resources\scenario_text_1_10_2.txt" />
+    <Content Include="Resources\scenario_text_1_11_1.txt" />
+    <Content Include="Resources\scenario_text_1_11_2.txt" />
+    <Content Include="Resources\scenario_text_1_12_1.txt" />
+    <Content Include="Resources\scenario_text_1_12_2.txt" />
+    <Content Include="Resources\scenario_text_1_13_1.txt" />
+    <Content Include="Resources\scenario_text_1_13_2.txt" />
+    <Content Include="Resources\scenario_text_1_14_1.txt" />
+    <Content Include="Resources\scenario_text_1_14_2.txt" />
+    <Content Include="Resources\scenario_text_1_1_1.txt" />
+    <Content Include="Resources\scenario_text_1_1_2.txt" />
+    <Content Include="Resources\scenario_text_1_2_1.txt" />
+    <Content Include="Resources\scenario_text_1_2_2.txt" />
+    <Content Include="Resources\scenario_text_1_3_1.txt" />
+    <Content Include="Resources\scenario_text_1_3_2.txt" />
+    <Content Include="Resources\scenario_text_1_4_1.txt" />
+    <Content Include="Resources\scenario_text_1_4_2.txt" />
+    <Content Include="Resources\scenario_text_1_5_1.txt" />
+    <Content Include="Resources\scenario_text_1_5_2.txt" />
+    <Content Include="Resources\scenario_text_1_6_1.txt" />
+    <Content Include="Resources\scenario_text_1_6_2.txt" />
+    <Content Include="Resources\scenario_text_1_7_1.txt" />
+    <Content Include="Resources\scenario_text_1_7_2.txt" />
+    <Content Include="Resources\scenario_text_1_8_1.txt" />
+    <Content Include="Resources\scenario_text_1_8_2.txt" />
+    <Content Include="Resources\scenario_text_1_9_1.txt" />
+    <Content Include="Resources\scenario_text_1_9_2.txt" />
+    <Content Include="Resources\scenario_text_2_10_1.txt" />
+    <Content Include="Resources\scenario_text_2_10_2.txt" />
+    <Content Include="Resources\scenario_text_2_11_1.txt" />
+    <Content Include="Resources\scenario_text_2_11_2.txt" />
+    <Content Include="Resources\scenario_text_2_12_1.txt" />
+    <Content Include="Resources\scenario_text_2_12_2.txt" />
+    <Content Include="Resources\scenario_text_2_13_1.txt" />
+    <Content Include="Resources\scenario_text_2_13_2.txt" />
+    <Content Include="Resources\scenario_text_2_14_1.txt" />
+    <Content Include="Resources\scenario_text_2_14_2.txt" />
+    <Content Include="Resources\scenario_text_2_1_1.txt" />
+    <Content Include="Resources\scenario_text_2_1_2.txt" />
+    <Content Include="Resources\scenario_text_2_2_1.txt" />
+    <Content Include="Resources\scenario_text_2_2_2.txt" />
+    <Content Include="Resources\scenario_text_2_3_1.txt" />
+    <Content Include="Resources\scenario_text_2_3_2.txt" />
+    <Content Include="Resources\scenario_text_2_4_1.txt" />
+    <Content Include="Resources\scenario_text_2_4_2.txt" />
+    <Content Include="Resources\scenario_text_2_5_1.txt" />
+    <Content Include="Resources\scenario_text_2_5_2.txt" />
+    <Content Include="Resources\scenario_text_2_6_1.txt" />
+    <Content Include="Resources\scenario_text_2_6_2.txt" />
+    <Content Include="Resources\scenario_text_2_7_1.txt" />
+    <Content Include="Resources\scenario_text_2_7_2.txt" />
+    <Content Include="Resources\scenario_text_2_8_1.txt" />
+    <Content Include="Resources\scenario_text_2_8_2.txt" />
+    <Content Include="Resources\scenario_text_2_9_1.txt" />
+    <Content Include="Resources\scenario_text_2_9_2.txt" />
+    <Content Include="Resources\scenario_text_3_10_1.txt" />
+    <Content Include="Resources\scenario_text_3_10_2.txt" />
+    <Content Include="Resources\scenario_text_3_11_1.txt" />
+    <Content Include="Resources\scenario_text_3_11_2.txt" />
+    <Content Include="Resources\scenario_text_3_12_1.txt" />
+    <Content Include="Resources\scenario_text_3_12_2.txt" />
+    <Content Include="Resources\scenario_text_3_13_1.txt" />
+    <Content Include="Resources\scenario_text_3_13_2.txt" />
+    <Content Include="Resources\scenario_text_3_14_1.txt" />
+    <Content Include="Resources\scenario_text_3_14_2.txt" />
+    <Content Include="Resources\scenario_text_3_1_1.txt" />
+    <Content Include="Resources\scenario_text_3_1_2.txt" />
+    <Content Include="Resources\scenario_text_3_2_1.txt" />
+    <Content Include="Resources\scenario_text_3_2_2.txt" />
+    <Content Include="Resources\scenario_text_3_3_1.txt" />
+    <Content Include="Resources\scenario_text_3_3_2.txt" />
+    <Content Include="Resources\scenario_text_3_4_1.txt" />
+    <Content Include="Resources\scenario_text_3_4_2.txt" />
+    <Content Include="Resources\scenario_text_3_5_1.txt" />
+    <Content Include="Resources\scenario_text_3_5_2.txt" />
+    <Content Include="Resources\scenario_text_3_6_1.txt" />
+    <Content Include="Resources\scenario_text_3_6_2.txt" />
+    <Content Include="Resources\scenario_text_3_7_1.txt" />
+    <Content Include="Resources\scenario_text_3_7_2.txt" />
+    <Content Include="Resources\scenario_text_3_8_1.txt" />
+    <Content Include="Resources\scenario_text_3_8_2.txt" />
+    <Content Include="Resources\scenario_text_3_9_1.txt" />
+    <Content Include="Resources\scenario_text_3_9_2.txt" />
+    <Content Include="Resources\scenario_text_4_10_1.txt" />
+    <Content Include="Resources\scenario_text_4_10_2.txt" />
+    <Content Include="Resources\scenario_text_4_11_1.txt" />
+    <Content Include="Resources\scenario_text_4_11_2.txt" />
+    <Content Include="Resources\scenario_text_4_12_1.txt" />
+    <Content Include="Resources\scenario_text_4_12_2.txt" />
+    <Content Include="Resources\scenario_text_4_13_1.txt" />
+    <Content Include="Resources\scenario_text_4_13_2.txt" />
+    <Content Include="Resources\scenario_text_4_14_1.txt" />
+    <Content Include="Resources\scenario_text_4_14_2.txt" />
+    <Content Include="Resources\scenario_text_4_1_1.txt" />
+    <Content Include="Resources\scenario_text_4_1_2.txt" />
+    <Content Include="Resources\scenario_text_4_2_1.txt" />
+    <Content Include="Resources\scenario_text_4_2_2.txt" />
+    <Content Include="Resources\scenario_text_4_3_1.txt" />
+    <Content Include="Resources\scenario_text_4_3_2.txt" />
+    <Content Include="Resources\scenario_text_4_4_1.txt" />
+    <Content Include="Resources\scenario_text_4_4_2.txt" />
+    <Content Include="Resources\scenario_text_4_5_1.txt" />
+    <Content Include="Resources\scenario_text_4_5_2.txt" />
+    <Content Include="Resources\scenario_text_4_6_1.txt" />
+    <Content Include="Resources\scenario_text_4_6_2.txt" />
+    <Content Include="Resources\scenario_text_4_7_1.txt" />
+    <Content Include="Resources\scenario_text_4_7_2.txt" />
+    <Content Include="Resources\scenario_text_4_8_1.txt" />
+    <Content Include="Resources\scenario_text_4_8_2.txt" />
+    <Content Include="Resources\scenario_text_4_9_1.txt" />
+    <Content Include="Resources\scenario_text_4_9_2.txt" />
+    <Content Include="Resources\scenario_text_5_10_1.txt" />
+    <Content Include="Resources\scenario_text_5_10_2.txt" />
+    <Content Include="Resources\scenario_text_5_11_1.txt" />
+    <Content Include="Resources\scenario_text_5_11_2.txt" />
+    <Content Include="Resources\scenario_text_5_12_1.txt" />
+    <Content Include="Resources\scenario_text_5_12_2.txt" />
+    <Content Include="Resources\scenario_text_5_13_1.txt" />
+    <Content Include="Resources\scenario_text_5_13_2.txt" />
+    <Content Include="Resources\scenario_text_5_14_1.txt" />
+    <Content Include="Resources\scenario_text_5_14_2.txt" />
+    <Content Include="Resources\scenario_text_5_1_1.txt" />
+    <Content Include="Resources\scenario_text_5_1_2.txt" />
+    <Content Include="Resources\scenario_text_5_2_1.txt" />
+    <Content Include="Resources\scenario_text_5_2_2.txt" />
+    <Content Include="Resources\scenario_text_5_3_1.txt" />
+    <Content Include="Resources\scenario_text_5_3_2.txt" />
+    <Content Include="Resources\scenario_text_5_4_1.txt" />
+    <Content Include="Resources\scenario_text_5_4_2.txt" />
+    <Content Include="Resources\scenario_text_5_5_1.txt" />
+    <Content Include="Resources\scenario_text_5_5_2.txt" />
+    <Content Include="Resources\scenario_text_5_6_1.txt" />
+    <Content Include="Resources\scenario_text_5_6_2.txt" />
+    <Content Include="Resources\scenario_text_5_7_1.txt" />
+    <Content Include="Resources\scenario_text_5_7_2.txt" />
+    <Content Include="Resources\scenario_text_5_8_1.txt" />
+    <Content Include="Resources\scenario_text_5_8_2.txt" />
+    <Content Include="Resources\scenario_text_5_9_1.txt" />
+    <Content Include="Resources\scenario_text_5_9_2.txt" />
+    <Content Include="Resources\scenario_text_6_10_1.txt" />
+    <Content Include="Resources\scenario_text_6_10_2.txt" />
+    <Content Include="Resources\scenario_text_6_11_1.txt" />
+    <Content Include="Resources\scenario_text_6_11_2.txt" />
+    <Content Include="Resources\scenario_text_6_12_1.txt" />
+    <Content Include="Resources\scenario_text_6_12_2.txt" />
+    <Content Include="Resources\scenario_text_6_13_1.txt" />
+    <Content Include="Resources\scenario_text_6_13_2.txt" />
+    <Content Include="Resources\scenario_text_6_14_1.txt" />
+    <Content Include="Resources\scenario_text_6_14_2.txt" />
+    <Content Include="Resources\scenario_text_6_1_1.txt" />
+    <Content Include="Resources\scenario_text_6_1_2.txt" />
+    <Content Include="Resources\scenario_text_6_2_1.txt" />
+    <Content Include="Resources\scenario_text_6_2_2.txt" />
+    <Content Include="Resources\scenario_text_6_3_1.txt" />
+    <Content Include="Resources\scenario_text_6_3_2.txt" />
+    <Content Include="Resources\scenario_text_6_4_1.txt" />
+    <Content Include="Resources\scenario_text_6_4_2.txt" />
+    <Content Include="Resources\scenario_text_6_5_1.txt" />
+    <Content Include="Resources\scenario_text_6_5_2.txt" />
+    <Content Include="Resources\scenario_text_6_6_1.txt" />
+    <Content Include="Resources\scenario_text_6_6_2.txt" />
+    <Content Include="Resources\scenario_text_6_7_1.txt" />
+    <Content Include="Resources\scenario_text_6_7_2.txt" />
+    <Content Include="Resources\scenario_text_6_8_1.txt" />
+    <Content Include="Resources\scenario_text_6_8_2.txt" />
+    <Content Include="Resources\scenario_text_6_9_1.txt" />
+    <Content Include="Resources\scenario_text_6_9_2.txt" />
+    <Content Include="Resources\scenario_text_7_1_1.txt" />
+    <Content Include="Resources\scenario_text_7_1_2.txt" />
+    <Content Include="Resources\scenario_text_7_2_1.txt" />
+    <Content Include="Resources\scenario_text_7_2_2.txt" />
+    <Content Include="Resources\scenario_text_7_3_1.txt" />
+    <Content Include="Resources\scenario_text_7_3_2.txt" />
+    <Content Include="Resources\scenario_text_7_4_1.txt" />
+    <Content Include="Resources\scenario_text_7_4_2.txt" />
+    <Content Include="Resources\scenario_text_7_5_1.txt" />
+    <Content Include="Resources\scenario_text_7_5_2.txt" />
+    <Content Include="Resources\scenario_text_7_6_1.txt" />
+    <Content Include="Resources\scenario_text_7_6_2.txt" />
+    <Content Include="Resources\scenario_text_7_7_1.txt" />
+    <Content Include="Resources\scenario_text_7_7_2.txt" />
+    <Content Include="Resources\scenario_text_7_8_1.txt" />
+    <Content Include="Resources\scenario_text_7_8_2.txt" />
+    <Content Include="Resources\scenario_text_name.txt" />
+    <Content Include="Resources\scenario_text_summary.txt" />
+    <Content Include="Resources\ShopTextJson.txt" />
+    <Content Include="Resources\skilldesctextmaster.txt" />
+    <Content Include="Resources\sleevenametextmaster.txt" />
+    <Content Include="Resources\sleeveproducttextmaster.txt" />
+    <Content Include="Resources\sleeveseriesnametextmaster.txt" />
+    <Content Include="Resources\sleeveseriestextmaster.txt" />
+    <Content Include="Resources\StoryTextJson.txt" />
+    <Content Include="Resources\storytextmaster.txt" />
+    <Content Include="Resources\SystemTextJson.txt" />
+    <Content Include="Resources\TitleTextJson.txt" />
+    <Content Include="Resources\tribenametextmaster.txt" />
+    <Content Include="Resources\TutorialTextJson.txt" />
+    <Content Include="Resources\tutorialtextmaster.txt" />
+    <Content Include="Resources\URLTextJson.txt" />
+    <Content Include="Resources\VideoHostingTextJson.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <PropertyGroup>

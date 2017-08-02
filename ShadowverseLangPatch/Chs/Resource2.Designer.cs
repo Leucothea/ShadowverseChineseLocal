@@ -1733,11 +1733,11 @@ namespace Galstars.Extensions {
         /// <summary>
         ///   Looks up a localized string similar to &quot;dummy&quot;
         ///&quot;Text_01&quot;,&quot;公主殿下…！&quot;
-        ///&quot;Text_02&quot;,&quot;有什么需要我帮忙的吗？&quot;
+        ///&quot;Text_02&quot;,&quot;有什么事？&quot;
         ///&quot;Text_03&quot;,&quot;抱歉，我现在急着赶路…。&quot;
         ///&quot;Text_04&quot;,&quot;你是想打倒尤利亚斯･费尔蒙德吧。&quot;
         ///&quot;Text_05&quot;,&quot;…！
-        ///她是谁？&quot;
+        ///你想说什么？&quot;
         ///&quot;Text_06&quot;,&quot;不需要刻意地隐藏，
         ///因为我已知晓一切。&quot;
         ///&quot;Text_07&quot;,&quot;你是什么人？&quot;
@@ -1757,7 +1757,7 @@ namespace Galstars.Extensions {
         ///&quot;Text_15&quot;,&quot;如果要封印在这个时代再度觉醒的尤利亚斯･费尔蒙德，
         ///必须要用现在公主的生命。&quot;
         ///&quot;Text_16&quot;,&quot;够了。
-        /// [rest of string was truncated]&quot;;.
+        ///我已经认 [rest of string was truncated]&quot;;.
         /// </summary>
         internal static string scenario_text_2_5_1 {
             get {
@@ -2101,6 +2101,398 @@ namespace Galstars.Extensions {
         internal static string scenario_text_3_10_1 {
             get {
                 return ResourceManager.GetString("scenario_text_3_10_1", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to &quot;dummy&quot;
+        ///&quot;Text_01&quot;,&quot;呜……
+        ///你们这些，叛乱者……。&quot;
+        ///&quot;Text_02&quot;,&quot;好了，这边也搞定了……
+        ///伊莎贝尔，没受伤吧？&quot;
+        ///&quot;Text_03&quot;,&quot;嗯，没问题。
+        ///凯伊鲁，你……。&quot;
+        ///&quot;Text_04&quot;,&quot;喂！伊莎贝尔！
+        ///脸上流血了啊！？&quot;
+        ///&quot;Text_05&quot;,&quot;嗯……这个？
+        ///没事的。
+        ///稍微被擦伤了罢了……。&quot;
+        ///&quot;Text_06&quot;,&quot;说什么呢！
+        ///过来！我帮你处理！&quot;
+        ///&quot;Text_07&quot;,&quot;……真是的。
+        ///又不是什么大事。&quot;
+        ///&quot;Text_08&quot;,&quot;怎么不是大事了？
+        ///……这么漂亮的脸庞，
+        ///受伤了不是太可惜了吗。&quot;
+        ///&quot;Text_09&quot;,&quot;漂、漂亮什么的……&quot;
+        ///&quot;Text_10&quot;,&quot;（凯伊鲁的脸好近……
+        ///怎么办啊……）&quot;
+        ///&quot;Text_11&quot;,&quot;……对不起，伊莎贝尔。
+        ///都怪我。&quot;
+        ///&quot;Text_12&quot;,&quot;啊，才不是凯伊鲁的错！
+        ///我自己不小心……&quot;
+        ///&quot;Text_13&quot;,&quot;不，就是我的错。
+        ///我本应保护你的……。&quot;
+        ///&quot;Text_14&quot;,&quot;……果然不行吗。
+        ///这么逃下去的话……
+        ///会让你受到伤害的。&quot;
+        ///&quot;Text_15&quot;,&quot;怎么会……
+        ///没关系的，凯伊鲁。
+        /// [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string scenario_text_3_10_2 {
+            get {
+                return ResourceManager.GetString("scenario_text_3_10_2", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to &quot;dummy&quot;
+        ///&quot;Text_01&quot;,&quot;……呼。
+        ///伊莎贝尔。有你在真好。&quot;
+        ///&quot;Text_02&quot;,&quot;怎么了？
+        ///突然，这么说……。&quot;
+        ///&quot;Text_03&quot;,&quot;如果只有我一个人的话，估计只会想着逃跑。
+        ///能够朝前看，都是你的功劳。&quot;
+        ///&quot;Text_04&quot;,&quot;……我也是这样。
+        ///有你在，才会变得坚强。
+        ///是你令我变得如此。&quot;
+        ///&quot;Text_05&quot;,&quot;……哈哈。
+        ///我，果然很喜欢你。
+        ///不会再考虑你以外的人啦。&quot;
+        ///&quot;Text_06&quot;,&quot;……真是的。
+        ///别说这么羞人的话了……。&quot;
+        ///&quot;Text_07&quot;,&quot;这是真话，没办法啦！
+        ///……！
+        ///伊莎贝尔。当心了，这声音是…&quot;
+        ///&quot;Text_08&quot;,&quot;找到了！
+        ///叛乱者们……老实一点！&quot;
+        ///&quot;Text_09&quot;,&quot;……我们不想和你交手。
+        ///请带我们去见你的指挥官。
+        ///我们想和他对话。&quot;
+        ///&quot;Text_10&quot;,&quot;对话！？
+        ///别傻了……你们怎么可能有这种权利！&quot;
+        ///&quot;Text_11&quot;,&quot;你们是罪犯！
+        ///必须以命来偿还这个罪业！&quot;
+        ///&quot;Text_12&quot;,&quot;可恶……完全不听吗。
+        ///看起来……只有一个办法了！&quot;
+        ///&quot;Text_13&quot;,&quot;就算用硬的也要让你说出地点……！
+        ///我的魔法可是 [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string scenario_text_3_11_1 {
+            get {
+                return ResourceManager.GetString("scenario_text_3_11_1", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to &quot;dummy&quot;
+        ///&quot;Text_01&quot;,&quot;嘎啊……！&quot;
+        ///&quot;Text_02&quot;,&quot;好了，说出指挥官所在吧。
+        ///……不然的话，还要更加受罪。&quot;
+        ///&quot;Text_03&quot;,&quot;呜……
+        ///谁会，告诉叛乱者……！&quot;
+        ///&quot;Text_04&quot;,&quot;快点老实交待！
+        ///否则……！&quot;
+        ///&quot;Text_05&quot;,&quot;我，我知道了……！
+        ///指挥官殿下……在那个方向……！&quot;
+        ///&quot;Text_06&quot;,&quot;……这样吗。
+        ///谢谢了。
+        ///小睡一下吧。&quot;
+        ///&quot;Text_07&quot;,&quot;伊莎贝尔，走吧。&quot;
+        ///&quot;Text_08&quot;,&quot;嗯。
+        ///……没关系吗？
+        ///他会听凯伊鲁的话吗。&quot;
+        ///&quot;Text_09&quot;,&quot;嗯，一定会的。
+        ///如果说了的话一定会明白的。
+        ///我只是，回到心爱之人的身边罢了。&quot;
+        ///&quot;Text_10&quot;,&quot;凯伊鲁……。&quot;
+        ///&quot;Text_11&quot;,&quot;……我不是叛乱者。
+        ///不是这样吗？
+        ///伊莎贝尔……。&quot;
+        ///&quot;Text_12&quot;,&quot;……嗯。
+        ///你不是叛乱者。&quot;
+        ///&quot;Text_13&quot;,&quot;（为什么……胸口好痛。
+        ///现在的话……好像，勾起了什么回忆。
+        ///简直就像凯伊鲁，不是凯伊鲁一样……）&quot;
+        ///&quot;Text_14&quot;,&quot;伊莎贝尔？
+        ///突然发呆了，是怎么了？
+        ///……累了吗？&quot;
+        ///&quot;Text_ [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string scenario_text_3_11_2 {
+            get {
+                return ResourceManager.GetString("scenario_text_3_11_2", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to &quot;dummy&quot;
+        ///&quot;Text_01&quot;,&quot;我说，伊莎贝尔。
+        ///虽然不太是时候……
+        ///&quot;
+        ///&quot;Text_02&quot;,&quot;呵呵，怎么啦凯伊鲁。
+        ///这么一本正经。
+        ///&quot;
+        ///&quot;Text_03&quot;,&quot;等全部……全部，都解决了后。
+        ///我们，就办婚礼吧？
+        ///&quot;
+        ///&quot;Text_04&quot;,&quot;退伍以后，我找一份你不会担心的工作吧。
+        ///这样……不好吗？
+        ///&quot;
+        ///&quot;Text_05&quot;,&quot;……退伍？
+        ///
+        ///&quot;
+        ///&quot;Text_06&quot;,&quot;嗯。
+        ///这样的话你就安心了吧。
+        ///&quot;
+        ///&quot;Text_07&quot;,&quot;……虽说，确实如此。可是对你来说，
+        ///和伙伴的友情不是比什么都重要吗。
+        ///即便如此……也要和我在一起…这样好吗……？&quot;
+        ///&quot;Text_08&quot;,&quot;当然了。
+        ///对我来说你就是全部了。
+        ///&quot;
+        ///&quot;Text_09&quot;,&quot;嗯。
+        ///……谢谢你。
+        ///&quot;
+        ///&quot;Text_10&quot;,&quot;（好高兴，本应这样……为什么？
+        ///为什么……为什么有这种感觉……？
+        ///悲伤……空虚……这样的感觉……）&quot;
+        ///&quot;Text_11&quot;,&quot;……！？
+        ///伊莎贝尔，他来了！
+        ///那人就是指挥官！&quot;
+        ///&quot;Text_12&quot;,&quot;唔！？
+        ///你们，就是那些叛乱者吗！
+        ///&quot;
+        ///&quot;Text_13&quot;,&quot;不！不是那样！
+        ///我没有想要 [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string scenario_text_3_12_1 {
+            get {
+                return ResourceManager.GetString("scenario_text_3_12_1", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to &quot;dummy&quot;
+        ///&quot;Text_01&quot;,&quot;呜呜呜……！
+        ///叛乱者，还挺狂啊……！
+        ///&quot;
+        ///&quot;Text_02&quot;,&quot;我并不是要反叛我的祖国啊！
+        ///只是……只是！
+        ///我有比国家看得更重要的东西！仅此而已罢了……！&quot;
+        ///&quot;Text_03&quot;,&quot;（果然……
+        ///果然，是这样吧？）
+        ///&quot;
+        ///&quot;Text_04&quot;,&quot;对我来说，她就是全部了。
+        ///比起伙伴，比起国家……
+        ///她最重要啊！&quot;
+        ///&quot;Text_05&quot;,&quot;（不。……不是这样的。
+        ///凯伊鲁……不会，说这种话……
+        ///因为，凯伊鲁他……）&quot;
+        ///&quot;Text_06&quot;,&quot;……凯伊鲁。
+        ///怎么，又要走啊？
+        ///很危险的啊。说不定还会丧命……。&quot;
+        ///&quot;Text_07&quot;,&quot;伊莎贝尔，抱歉。
+        ///但是，那些家伙在战斗啊。
+        ///我也想要和他们一起……。&quot;
+        ///&quot;Text_08&quot;,&quot;（没错……没错呢……
+        ///凯伊鲁比起自己的性命……比起我的祈盼……
+        ///把伙伴看得更重要啊……）&quot;
+        ///&quot;Text_09&quot;,&quot;（你抛下我上战场之时，
+        ///我是多么悲伤，多么寂寞，多么辛酸啊。
+        ///但是……）&quot;
+        ///&quot;Text_10&quot;,&quot;（但是，我正是喜欢为了别人而奋斗的你。
+        ///正是为这样的你自豪……。啊，就是这样……
+        ///凯伊鲁……现在的你…… [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string scenario_text_3_12_2 {
+            get {
+                return ResourceManager.GetString("scenario_text_3_12_2", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to &quot;dummy&quot;
+        ///&quot;Text_01&quot;,&quot;呼……到了。
+        ///怎么，感觉好久没回来了一样。
+        ///&quot;
+        ///&quot;Text_02&quot;,&quot;嗯，是这样呢……今天可太忙了。
+        ///不过……接下来，就没事了吧？
+        ///在家里，和你永远一起……。&quot;
+        ///&quot;Text_03&quot;,&quot;……这里，就是她的梦吗。
+        ///她……在哪……。
+        ///&quot;
+        ///&quot;Text_04&quot;,&quot;……罗文！？
+        ///是你吗……！？为什么，你会出现在这里？
+        ///还有，刚才的光芒是……！？&quot;
+        ///&quot;Text_05&quot;,&quot;……伊莎贝尔。
+        ///
+        ///&quot;
+        ///&quot;Text_06&quot;,&quot;队长……
+        ///难道说，是来追捕我的？
+        ///&quot;
+        ///&quot;Text_07&quot;,&quot;……。
+        ///你是……凯伊鲁，吗。
+        ///&quot;
+        ///&quot;Text_08&quot;,&quot;（这个眼神是怎么回事……？
+        ///罗文……难道说，你发现什么了？
+        ///可是……就算如此……）&quot;
+        ///&quot;Text_09&quot;,&quot;罗文……
+        ///能让我们独处吗？
+        ///……我们，现在可幸福了呢。&quot;
+        ///&quot;Text_10&quot;,&quot;嗯。
+        ///拜托了，队长……。
+        ///&quot;
+        ///&quot;Text_11&quot;,&quot;……。
+        ///
+        ///&quot;
+        ///&quot;Text_12&quot;,&quot;……罗文？
+        ///喂，你说话呀。
+        ///&quot;
+        ///&quot;Text_13&quot;,&quot;伊莎贝尔。
+        ///……你现在，很幸福吗。
+        ///&quot;
+        ///&quot;Text_14 [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string scenario_text_3_13_1 {
+            get {
+                return ResourceManager.GetString("scenario_text_3_13_1", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to &quot;dummy&quot;
+        ///&quot;Text_01&quot;,&quot;呜……！？
+        ///
+        ///&quot;
+        ///&quot;Text_02&quot;,&quot;很痛吧？很难受吧？是吧……是这样吧！
+        ///凯伊鲁也曾经痛过，难受过啊！
+        ///&quot;
+        ///&quot;Text_03&quot;,&quot;（想起来了……想起来了……
+        ///什么都，想起来了……！
+        ///这里是哪里，我又是为什么会到这里……！）&quot;
+        ///&quot;Text_04&quot;,&quot;嗯……！是我令凯伊鲁痛苦，令他难受。
+        ///……是我，杀了凯伊鲁！
+        ///那个仰慕我，与我共同战斗的他！&quot;
+        ///&quot;Text_05&quot;,&quot;凯伊鲁不会回来了！
+        ///不会！
+        ///伊莎贝尔……正视现实吧！&quot;
+        ///&quot;Text_06&quot;,&quot;（这种事，我明白的啊……！
+        ///不管我怎么做，他都不会回来了……！
+        ///所以……所以，就算幻象也好啊……！）&quot;
+        ///&quot;Text_07&quot;,&quot;我知道的！知道的啊！
+        ///就算你不说我也是知道的啊！
+        ///因为我知道……所以我恨你啊！&quot;
+        ///&quot;Text_08&quot;,&quot;这样的话，释放你的恨意，朝前进吧！
+        ///……你和这样的表情并不相配。
+        ///凯伊鲁，也一定会这么说的！&quot;
+        ///&quot;Text_09&quot;,&quot;不许你说凯伊鲁！
+        ///如果没有你的话……如今的我该是多么幸福啊！
+        ///偿还一切吧罗文！用你的命！&quot;
+        ///&quot;Text_10&quot;,&quot;……！
+        ///
+        ///&quot;
+        /// [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string scenario_text_3_13_2 {
+            get {
+                return ResourceManager.GetString("scenario_text_3_13_2", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to &quot;dummy&quot;
+        ///&quot;Text_01&quot;,&quot;……为什么？
+        ///为什么，你要杀凯伊鲁？
+        ///&quot;
+        ///&quot;Text_02&quot;,&quot;……我和凯伊鲁，受命去讨伐国境附近
+        ///突然出现的『黑龙』。
+        ///&quot;
+        ///&quot;Text_03&quot;,&quot;在大量的牺牲后，我们终于击败了黑龙。
+        ///但是……。&quot;
+        ///&quot;Text_04&quot;,&quot;诅咒……？
+        ///
+        ///&quot;
+        ///&quot;Text_05&quot;,&quot;（罗文会变成黑龙……
+        ///难道说……）
+        ///&quot;
+        ///&quot;Text_06&quot;,&quot;因为这个诅咒……
+        ///只要我想保护什么，保护谁……
+        ///身体……立刻会化为黑龙。&quot;
+        ///&quot;Text_07&quot;,&quot;不由自主地直到，破坏了什么，杀了谁为止……
+        ///已经，谁都无法阻止了。
+        ///就算我自己也是这样。&quot;
+        ///&quot;Text_08&quot;,&quot;（……罗文。
+        ///是这样啊。是这样没错……）
+        ///&quot;
+        ///&quot;Text_09&quot;,&quot;……是因为诅咒的力量，所以杀了凯伊鲁？
+        ///不是你的错，而是诅咒的……
+        ///你想这么开脱吗？&quot;
+        ///&quot;Text_10&quot;,&quot;……我不想找借口。
+        ///只是……。
+        ///&quot;
+        ///&quot;Text_11&quot;,&quot;只是……凯伊鲁，既是我的部下又是我的好友。
+        ///仰慕着我，与我共同作战。
+        ///我从没想过……要夺走他的性命。&quot;
+        ///&quot;Text_12&quot;,&quot;（……嗯，是这样的。        /// [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string scenario_text_3_14_1 {
+            get {
+                return ResourceManager.GetString("scenario_text_3_14_1", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to &quot;dummy&quot;
+        ///&quot;Text_01&quot;,&quot;……呜。
+        ///
+        ///&quot;
+        ///&quot;Text_02&quot;,&quot;这……。
+        ///
+        ///&quot;
+        ///&quot;Text_03&quot;,&quot;……朝着它前进吧。
+        ///它的尽头，就是你们的所求。
+        ///残酷的世界……正等你们。&quot;
+        ///&quot;Text_04&quot;,&quot;……这样啊。
+        ///
+        ///&quot;
+        ///&quot;Text_05&quot;,&quot;（残酷……
+        ///没错。没有凯伊鲁的世界，太残酷了。
+        ///可是……可是啊……）&quot;
+        ///&quot;Text_06&quot;,&quot;残酷，吗。
+        ///即便如此也要去。&quot;
+        ///&quot;Text_07&quot;,&quot;……好吧。
+        ///
+        ///&quot;
+        ///&quot;Text_08&quot;,&quot;……罗文，你先走吧。
+        ///让我……稍微，再逗留一下。
+        ///&quot;
+        ///&quot;Text_09&quot;,&quot;……嗯。
+        ///我知道了。
+        ///&quot;
+        ///&quot;Text_10&quot;,&quot;……。
+        ///
+        ///&quot;
+        ///&quot;Text_11&quot;,&quot;（仔细看的话……
+        ///这里，根本就不是我的研究室。
+        ///我，连这种事都没注意到……）&quot;
+        ///&quot;Text_12&quot;,&quot;我说，凯伊鲁。
+        ///……你在的吧？
+        ///&quot;
+        ///&quot;Text_13&quot;,&quot;我在的。
+        ///我说了吧？永远不会离开你。
+        ///&quot;
+        ///&quot;Text_14&quot;,&quot;……嗯。
+        ///
+        ///&quot;
+        ///&quot;Text_15&quot;,&quot;呐，凯伊鲁。
+        ///我啊，对这个世界消灭不消灭的都无所谓。
+        ///没有你的世界，对我 [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string scenario_text_3_14_2 {
+            get {
+                return ResourceManager.GetString("scenario_text_3_14_2", resourceCulture);
             }
         }
         
@@ -2889,6 +3281,286 @@ namespace Galstars.Extensions {
         internal static string scenario_text_4_11_2 {
             get {
                 return ResourceManager.GetString("scenario_text_4_11_2", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to &quot;dummy&quot;
+        ///&quot;Text_01&quot;,&quot;蕾切尔，娜塔莉！
+        ///我回来啦！
+        ///&quot;
+        ///&quot;Text_02&quot;,&quot;啊，爸爸！
+        ///妈妈！爸爸回来啦！
+        ///&quot;
+        ///&quot;Text_03&quot;,&quot;欢迎回来。
+        ///……会在家里待一段时间吧？
+        ///&quot;
+        ///&quot;Text_04&quot;,&quot;嗯，我想是这样。
+        ///……你们俩，担心了吧。
+        ///我不在的时候，一切都好？&quot;
+        ///&quot;Text_05&quot;,&quot;嗯，都还好。
+        ///不过娜塔莉可是成天在想你哦。
+        ///&quot;
+        ///&quot;Text_06&quot;,&quot;才、才没有想爸爸咧！
+        ///娜塔莉就算爸爸不在也不要紧的嘛！
+        ///&quot;
+        ///&quot;Text_07&quot;,&quot;哈哈。
+        ///娜塔莉已经长大了啊。
+        ///&quot;
+        ///&quot;Text_08&quot;,&quot;没错哦，娜塔莉已经是大人了！
+        ///
+        ///&quot;
+        ///&quot;Text_09&quot;,&quot;这样啊……
+        ///大人的话就该一个人睡了吧？
+        ///虽然妈妈还是会和爸爸睡在一起……。&quot;
+        ///&quot;Text_10&quot;,&quot;妈、妈妈好狡猾！
+        ///娜塔莉也要和爸爸睡在一起！
+        ///……有好多，想要说的事情呀！&quot;
+        ///&quot;Text_11&quot;,&quot;呵呵……。
+        ///这么口是心非的不知是像谁。
+        ///&quot;
+        ///&quot;Text_12&quot;,&quot;（……啊，回来了啊。
+        ///我的家……和家人一起……）
+        ///&quot;
+        ///&quot;Text_13&quot;,&quot;（以后我也要，守护家人……
+        ///守 [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string scenario_text_4_12_1 {
+            get {
+                return ResourceManager.GetString("scenario_text_4_12_1", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to &quot;dummy&quot;
+        ///&quot;Text_01&quot;,&quot;哈、哈、哈……。
+        ///我……究竟……
+        ///究竟是怎么了……。&quot;
+        ///&quot;Text_02&quot;,&quot;……你受到了诅咒。
+        ///被『暴咒之黑龙』……。
+        ///你应该还记得那时候的事吧。清清楚楚地。&quot;
+        ///&quot;Text_03&quot;,&quot;怎么会，不，难到说……。
+        ///那个幻觉……是这样啊。
+        ///&quot;
+        ///&quot;Text_04&quot;,&quot;……那是现实。
+        ///要说幻觉的话，这个世界才是幻觉……。
+        ///……看看你的周围吧。&quot;
+        ///&quot;Text_05&quot;,&quot;……哎？
+        ///啊……。
+        ///啊、啊啊、啊啊啊啊啊……？&quot;
+        ///&quot;Text_06&quot;,&quot;我……是我？是刚才的我……干的吗？
+        ///不，这样的，不可能。
+        ///不可能，不可能，不可能……！不可……。&quot;
+        ///&quot;Text_07&quot;,&quot;怎么了？亲爱的。
+        ///
+        ///&quot;
+        ///&quot;Text_08&quot;,&quot;爸爸，看到什么吓人的东西了吗？
+        ///
+        ///&quot;
+        ///&quot;Text_09&quot;,&quot;蕾切尔！娜塔莉！你们没事吗……！？
+        ///……不，不对。
+        ///她们俩刚才，应该……！&quot;
+        ///&quot;Text_10&quot;,&quot;没错。她们是你家人的幻象。
+        ///只要你有这个意愿，她们就会不断地重现。
+        ///不管被你撕裂多少次。&quot;
+        ///&quot;Text_11&quot;,&quot;娜塔莉会永远和爸爸在一起哦。
+        ///就算，爸爸变成黑 [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string scenario_text_4_12_2 {
+            get {
+                return ResourceManager.GetString("scenario_text_4_12_2", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to &quot;dummy&quot;
+        ///&quot;Text_01&quot;,&quot;……这里，就是她的梦吗。
+        ///她……在哪……。
+        ///&quot;
+        ///&quot;Text_02&quot;,&quot;……罗文！？
+        ///是你吗……！？为什么，你会出现在这里？
+        ///还有，刚才的光芒是……！？&quot;
+        ///&quot;Text_03&quot;,&quot;……伊莎贝尔。
+        ///
+        ///&quot;
+        ///&quot;Text_04&quot;,&quot;队长……
+        ///难道说，是来追捕我的？
+        ///&quot;
+        ///&quot;Text_05&quot;,&quot;……。
+        ///你是……凯伊鲁，吗。
+        ///&quot;
+        ///&quot;Text_06&quot;,&quot;（那个牧师如果说的是实话……
+        ///这里，是伊莎贝尔的梦中。
+        ///作为外来者的我，是看不到梦境内容的吗……）&quot;
+        ///&quot;Text_07&quot;,&quot;罗文……
+        ///能让我们独处吗？
+        ///……我们，现在可幸福了呢。&quot;
+        ///&quot;Text_08&quot;,&quot;嗯。
+        ///拜托了，队长……。
+        ///&quot;
+        ///&quot;Text_09&quot;,&quot;（……伊莎贝尔。
+        ///这就是你的愿望吗。
+        ///与幻觉终日嬉戏，就是你的……）&quot;
+        ///&quot;Text_10&quot;,&quot;……切，今天就是你的死期。
+        ///队长，如果我发生了什么的话……
+        ///要帮我，报仇哦？&quot;
+        ///&quot;Text_11&quot;,&quot;（……啊。
+        ///迟了那么久真是抱歉。你的仇啊，现在就报。
+        ///把这条命，交给她吧……就这么决定了）&quot;
+        ///&quot;Text_12&quot;,&quot;……罗文？
+        /// [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string scenario_text_4_13_1 {
+            get {
+                return ResourceManager.GetString("scenario_text_4_13_1", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to &quot;dummy&quot;
+        ///&quot;Text_01&quot;,&quot;呜……！？
+        ///
+        ///&quot;
+        ///&quot;Text_02&quot;,&quot;很痛吧？很难受吧？是吧……是这样吧！
+        ///凯伊鲁也曾经痛过，难受过啊！
+        ///&quot;
+        ///&quot;Text_03&quot;,&quot;嗯……！是我令凯伊鲁痛苦，令他难受。
+        ///……是我，杀了凯伊鲁！
+        ///那个仰慕我，与我共同战斗的他！&quot;
+        ///&quot;Text_04&quot;,&quot;凯伊鲁不会回来了！
+        ///不会！
+        ///伊莎贝尔……正视现实吧！&quot;
+        ///&quot;Text_05&quot;,&quot;我知道的！知道的啊！
+        ///就算你不说我也是知道的啊！
+        ///因为我知道……所以我恨你啊！&quot;
+        ///&quot;Text_06&quot;,&quot;这样的话，释放你的恨意，朝前进吧！
+        ///……你和这样的表情并不相配。
+        ///凯伊鲁，也一定会这么说的！&quot;
+        ///&quot;Text_07&quot;,&quot;（蕾切尔。娜塔莉。……抱歉了。
+        ///我，没有办法守护你们了。
+        ///请原谅……就此告别的我吧）&quot;
+        ///&quot;Text_08&quot;,&quot;不许你说凯伊鲁！
+        ///如果没有你的话……如今的我该是多么幸福啊！
+        ///偿还一切吧罗文！用你的命！&quot;
+        ///&quot;Text_09&quot;,&quot;……！
+        ///
+        ///&quot;
+        ///&quot;Text_10&quot;,&quot;不可以……！
+        ///
+        ///&quot;
+        ///&quot;Text_11&quot;,&quot;凯伊鲁……！？
+        ///
+        ///&quot;
+        ///&quot;Text_12&quot;,&quot;……不可以。这样做… [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string scenario_text_4_13_2 {
+            get {
+                return ResourceManager.GetString("scenario_text_4_13_2", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to &quot;dummy&quot;
+        ///&quot;Text_01&quot;,&quot;……为什么？
+        ///为什么，你要杀凯伊鲁？
+        ///&quot;
+        ///&quot;Text_02&quot;,&quot;……我和凯伊鲁，受命去讨伐国境附近
+        ///突然出现的『黑龙』。
+        ///&quot;
+        ///&quot;Text_03&quot;,&quot;在大量的牺牲后，我们终于击败了黑龙。
+        ///但是……。
+        ///&quot;
+        ///&quot;Text_04&quot;,&quot;那么……喜极而泣吧！
+        ///诅咒……
+        ///汝，以及汝想守护的一切，全部被诅咒了！&quot;
+        ///&quot;Text_05&quot;,&quot;黑龙垂死之际……
+        ///对我，施加了诅咒。
+        ///&quot;
+        ///&quot;Text_06&quot;,&quot;诅咒……？
+        ///
+        ///&quot;
+        ///&quot;Text_07&quot;,&quot;因为这个诅咒……
+        ///只要我想保护什么，保护谁……
+        ///身体……立刻会化为黑龙。&quot;
+        ///&quot;Text_08&quot;,&quot;不由自主地直到，破坏了什么，杀了谁为止……
+        ///已经，谁都无法阻止了。
+        ///就算我自己也是这样。&quot;
+        ///&quot;Text_09&quot;,&quot;……是因为诅咒的力量，所以杀了凯伊鲁？
+        ///不是你的错，而是诅咒的……
+        ///你想这么开脱吗？&quot;
+        ///&quot;Text_10&quot;,&quot;……我不想找借口。
+        ///只是……。
+        ///&quot;
+        ///&quot;Text_11&quot;,&quot;只是……凯伊鲁，既是我的部下又是我的好友。
+        ///仰慕着我，与我共同作战。
+        ///我从没想过……要夺走他的性命。&quot;
+        ///&quot;Text [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string scenario_text_4_14_1 {
+            get {
+                return ResourceManager.GetString("scenario_text_4_14_1", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to &quot;dummy&quot;
+        ///&quot;Text_01&quot;,&quot;……呜。
+        ///
+        ///&quot;
+        ///&quot;Text_02&quot;,&quot;这……。
+        ///
+        ///&quot;
+        ///&quot;Text_03&quot;,&quot;……朝着它前进吧。
+        ///它的尽头，就是你们的所求。
+        ///残酷的世界……正等你们。&quot;
+        ///&quot;Text_04&quot;,&quot;……这样啊。
+        ///
+        ///&quot;
+        ///&quot;Text_05&quot;,&quot;残酷，吗。
+        ///即便如此也要去。
+        ///&quot;
+        ///&quot;Text_06&quot;,&quot;……好吧。
+        ///
+        ///&quot;
+        ///&quot;Text_07&quot;,&quot;……罗文，你先走吧。
+        ///让我……稍微，再逗留一下。
+        ///&quot;
+        ///&quot;Text_08&quot;,&quot;……嗯。
+        ///我知道了。
+        ///&quot;
+        ///&quot;Text_09&quot;,&quot;……我走了。
+        ///为了家人。
+        ///&quot;
+        ///&quot;Text_10&quot;,&quot;（蕾切尔。娜塔莉。
+        ///……这具受到诅咒的身体，
+        ///连再度出现在你们身边都做不到）&quot;
+        ///&quot;Text_11&quot;,&quot;（但是，即使分隔两地、
+        ///我的心也一直和你们在一起。
+        ///绝不会让你们被消灭的。绝对）&quot;
+        ///&quot;Text_12&quot;,&quot;
+        ///
+        ///&quot;
+        ///&quot;Text_13&quot;,&quot;
+        ///
+        ///&quot;
+        ///&quot;Text_14&quot;,&quot;
+        ///
+        ///&quot;
+        ///&quot;Text_15&quot;,&quot;
+        ///
+        ///&quot;
+        ///&quot;Text_16&quot;,&quot;
+        ///
+        ///&quot;
+        ///&quot;Text_17&quot;,&quot;
+        ///
+        ///&quot;
+        ///&quot;Text_18&quot;,&quot;
+        ///        /// [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string scenario_text_4_14_2 {
+            get {
+                return ResourceManager.GetString("scenario_text_4_14_2", resourceCulture);
             }
         }
         
@@ -4645,6 +5317,208 @@ namespace Galstars.Extensions {
         internal static string scenario_text_6_11_2 {
             get {
                 return ResourceManager.GetString("scenario_text_6_11_2", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to &quot;dummy&quot;
+        ///&quot;Text_01&quot;,&quot;哦呀哦呀……
+        ///终于没有幻象了吗……
+        ///真是太无趣了。&quot;
+        ///&quot;Text_02&quot;,&quot;这样的话，进入『灾厄之树』的意义就没有了。
+        ///……和那个小姑娘游戏，
+        ///都比现在有趣。&quot;
+        ///&quot;Text_03&quot;,&quot;……你又一次，拒绝了安宁是吗。&quot;
+        ///&quot;Text_04&quot;,&quot;……你是那个时候的女人啊。&quot;
+        ///&quot;Text_05&quot;,&quot;……你还保留着到这里以前的记忆。
+        ///是因为血族持有强大的能力呢……
+        ///还是说，这也是你的愿望的一部分呢……&quot;
+        ///&quot;Text_06&quot;,&quot;那么，怎么办呢。
+        ///记忆可不是那么容易弄丢的东西啊。&quot;
+        ///&quot;Text_07&quot;,&quot;……这个世界是，安宁的世界。
+        ///你的愿望将化为梦境，将你包裹在其中。
+        ///理应如此。可是……。&quot;
+        ///&quot;Text_08&quot;,&quot;安宁么……哼哼，还不算坏。
+        ///但是……
+        ///要说实现我愿望什么的，可有些夸张了啊。&quot;
+        ///&quot;Text_09&quot;,&quot;涅墨西斯大人是绝对的存在。她是救世之神。
+        ///不可能会错误理解你的愿望。&quot;
+        ///&quot;Text_10&quot;,&quot;哼……你还信神啊。&quot;
+        ///&quot;Text_11&quot;,&quot;……这个世界上没有神。
+        ///你是想这么主张吗？&quot;
+        ///&quot;Text_12&quot;,&quot;呵。
+        ///我可是一直 [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string scenario_text_6_12_1 {
+            get {
+                return ResourceManager.GetString("scenario_text_6_12_1", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to &quot;dummy&quot;
+        ///&quot;Text_01&quot;,&quot;……。
+        ///就算是我，也不能阻止你吗……。&quot;
+        ///&quot;Text_02&quot;,&quot;比幻象厉害一些但……还是太弱了。&quot;
+        ///&quot;Text_03&quot;,&quot;果然，是我错了吗……。
+        ///所有人被安宁所笼罩的话，
+        ///就可以静静地等待救赎的来临，本应如此……。&quot;
+        ///&quot;Text_04&quot;,&quot;……别无视我。
+        ///现在怎么样？&quot;
+        ///&quot;Text_05&quot;,&quot;……这个世界充满了残酷。
+        ///人们饱受无助、伤害和悲痛。
+        ///所以我想要拯救这个世界。&quot;
+        ///&quot;Text_06&quot;,&quot;从次元彼方来到这里的，救世之神。
+        ///涅墨西斯大人，如果能消灭这个世界的话……&quot;
+        ///&quot;Text_07&quot;,&quot;哼。
+        ///那家伙的目的是想要消灭这个世界啊……。
+        ///这么说的话，这个梦境……。&quot;
+        ///&quot;Text_08&quot;,&quot;到世界被消灭为止……
+        ///涅墨西斯大人用梦境笼罩了这个世界。
+        ///为了不让人们恐惧救赎，所以给予了安宁。&quot;
+        ///&quot;Text_09&quot;,&quot;……只要不拒绝这个梦境，
+        ///人们就会在安宁中，静静地等待到被救赎之时……
+        ///为什么，你们要……。&quot;
+        ///&quot;Text_10&quot;,&quot;什么为什么？
+        ///连这种事情都不懂么……
+        ///真可悲啊。&quot;
+        ///&quot;Text_11&quot;,&quot;……你想说你明白吗。&quot;        /// [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string scenario_text_6_12_2 {
+            get {
+                return ResourceManager.GetString("scenario_text_6_12_2", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to &quot;dummy&quot;
+        ///&quot;Text_01&quot;,&quot;哈！&quot;
+        ///&quot;Text_02&quot;,&quot;……呃。
+        ///原来如此……那女人，想要杀了我吗。&quot;
+        ///&quot;Text_03&quot;,&quot;去死吧！怪物！&quot;
+        ///&quot;Text_04&quot;,&quot;胡说些什么。
+        ///没有意志的剑，连木头都无法切碎……
+        ///居然还想用来杀我！&quot;
+        ///&quot;Text_05&quot;,&quot;……又想要逃跑吗？
+        ///这样作为管理者可一点都不称职哦？&quot;
+        ///&quot;Text_06&quot;,&quot;……。&quot;
+        ///&quot;Text_07&quot;,&quot;……真麻烦啊。&quot;
+        ///&quot;Text_08&quot;,&quot;尤利亚斯・费尔蒙德……。&quot;
+        ///&quot;Text_09&quot;,&quot;孤独可悲的怪物……。&quot;
+        ///&quot;Text_10&quot;,&quot;……。&quot;
+        ///&quot;Text_11&quot;,&quot;在此将你击溃！
+        ///哈！&quot;
+        ///&quot;Text_12&quot;,&quot;……别太过火了。&quot;
+        ///&quot;Text_13&quot;,&quot;这和巴尔萨泽的死活无关。
+        ///他可是让我觉得棘手的，唯一的人类。
+        ///反反复复地，这样地使用这个身形的话……。&quot;
+        ///&quot;Text_14&quot;,&quot;觉悟吧，尤利亚斯・费尔蒙德！&quot;
+        ///&quot;Text_15&quot;,&quot;够了。继续叫唤吧。
+        ///我已经不会比现在更生气了。&quot;
+        ///.
+        /// </summary>
+        internal static string scenario_text_6_13_1 {
+            get {
+                return ResourceManager.GetString("scenario_text_6_13_1", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to &quot;dummy&quot;
+        ///&quot;Text_01&quot;,&quot;……不愉快啊。&quot;
+        ///&quot;Text_02&quot;,&quot;拯救世界？
+        ///给予梦境？
+        ///……蠢货。&quot;
+        ///&quot;Text_03&quot;,&quot;幼稚。拙劣。
+        ///连让我尽兴都做不到，这算什么神啊。&quot;
+        ///&quot;Text_04&quot;,&quot;完全不是对手啊。
+        ///……下等梦境的终焉到了。&quot;
+        ///&quot;Text_05&quot;,&quot;外面的世界充满了残酷！&quot;
+        ///&quot;Text_06&quot;,&quot;即便如此，为何还要前去！&quot;
+        ///&quot;Text_07&quot;,&quot;我既不喜欢后退也不喜欢停滞。
+        ///仅此而已。
+        ///……消失吧。&quot;
+        ///.
+        /// </summary>
+        internal static string scenario_text_6_13_2 {
+            get {
+                return ResourceManager.GetString("scenario_text_6_13_2", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to &quot;dummy&quot;
+        ///&quot;Text_01&quot;,&quot;你那个神给我的安宁，
+        ///我已经受够了。
+        ///……给我现身！&quot;
+        ///&quot;Text_02&quot;,&quot;……。&quot;
+        ///&quot;Text_03&quot;,&quot;……呵。终于啊。
+        ///触手可及的你就这种程度话……
+        ///也不能对涅墨西斯有多少期待了。&quot;
+        ///&quot;Text_04&quot;,&quot;……最后的血族。
+        ///你为什么，追求战斗到如此地步呢。
+        ///简直就像被什么强迫一样……。&quot;
+        ///&quot;Text_05&quot;,&quot;哼哼哼……
+        ///你是不会懂的。
+        ///一生下来就如此脆弱的你啊。&quot;
+        ///&quot;Text_06&quot;,&quot;我从生下来开始就是强者。
+        ///什么都很容易，一切都轻而易举。
+        ///所以我才会有追求。&quot;
+        ///&quot;Text_07&quot;,&quot;活着的证明。生命的光辉。
+        ///……彷徨中的我，最终，看到了那样的存在。
+        ///它，就在斗争的正中心……。&quot;
+        ///&quot;Text_08&quot;,&quot;只有强者的斗争，才能让我有活着的实感。
+        ///对我来说，活着就是去战斗。&quot;
+        ///&quot;Text_09&quot;,&quot;……就因为这样的理由歼灭同族，
+        ///吞噬人类吗。
+        ///太傲慢了……。&quot;
+        ///&quot;Text_10&quot;,&quot;呵，我傲慢？
+        ///那你，还有你的神也一样。
+        ///因为啊，傲慢乃是强者的特权。&quot;
+        ///&quot;Text_11&quot;,&quot;……不是的。
+        ///应该不是。
+        ///涅墨西 [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string scenario_text_6_14_1 {
+            get {
+                return ResourceManager.GetString("scenario_text_6_14_1", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to &quot;dummy&quot;
+        ///&quot;Text_01&quot;,&quot;哈啊……！&quot;
+        ///&quot;Text_02&quot;,&quot;……怎么了。
+        ///你的意志也消逝了吗？
+        ///这不就和幻象一样了吗。&quot;
+        ///&quot;Text_03&quot;,&quot;……我已经变得不明就里了。
+        ///因为你们这些……。&quot;
+        ///&quot;Text_04&quot;,&quot;哼哼哼……
+        ///烦恼是弱者的特权。
+        ///好好体会这点吧。&quot;
+        ///&quot;Text_05&quot;,&quot;……但有一件事我明白了，
+        ///对你而言这个世界没有必要。&quot;
+        ///&quot;Text_06&quot;,&quot;哼……
+        ///所以说涅墨西斯就在前头了？&quot;
+        ///&quot;Text_07&quot;,&quot;……嗯。
+        ///涅墨西斯大人，
+        ///现在正在准备消灭这个世界。&quot;
+        ///&quot;Text_08&quot;,&quot;这样啊。
+        ///那么，我走了。
+        ///……再见了。弱者。&quot;
+        ///&quot;Text_09&quot;,&quot;……。&quot;
+        ///&quot;Text_10&quot;,&quot;……那么。
+        ///幻象们也拉下了帷幕吗。&quot;
+        ///&quot;Text_11&quot;,&quot;再见了，巴尔萨泽。&quot;
+        ///&quot;Text_12&quot;,&quot;接下来……
+        ///涅墨西斯能让我尽兴到什么程度呢？&quot;
+        ///&quot;Text_13&quot;,&quot;已经过了那么多无聊的时间了……
+        ///希望，不要再让我失望了。&quot;
+        ///.
+        /// </summary>
+        internal static string scenario_text_6_14_2 {
+            get {
+                return ResourceManager.GetString("scenario_text_6_14_2", resourceCulture);
             }
         }
         
