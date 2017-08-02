@@ -19,7 +19,8 @@ namespace ShadowverseLangPatch
                 Console.WriteLine("暗影之诗 Shadowverse PC+Mac简繁汉化补丁 v6.1.0\n");
                 Console.WriteLine("汉化：岚兮雨汐 町城安里 蔽月八云 淺夏");
                 Console.WriteLine("程序：永久告别 船长唱搁浅");
-                Console.WriteLine("校对：没有呆毛的Saber\n");
+                Console.WriteLine("PC测试：没有呆毛的Saber");
+                Console.WriteLine("Mac测试：L夕葉\n");
                 Console.WriteLine("--------------------------------------------------------------------");
                 if (!File.Exists("Shadowverse.exe"))
                 {
