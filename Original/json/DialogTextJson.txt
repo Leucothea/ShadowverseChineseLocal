@@ -168,7 +168,9 @@
       "Dia_Language_005_Body_Text": "",
       "Dia_Language_006_Body_Spoken": "",
       "Dia_Language_007_Btn_Change": "",
-      "Dia_FirstSetting_001_Body": "お客様の端末に最適な設定でプレイします。\n\nこの設定は「その他」の「設定」、「バトルメニュー」の「設定」にて\n後から変更することができます。"
+      "Dia_FirstSetting_001_Body": "お客様の端末に最適な設定でプレイします。\n\nこの設定は「その他」の「設定」、「バトルメニュー」の「設定」にて\n後から変更することができます。",
+      "Dia_Vote_001": "{0} に投票します\nよろしいですか？\n\n投票完了後、報酬がギフトに贈られます",
+      "Dia_Vote_002": "投票が完了しました"
     },
     "Eng": {
       "Dialog_Text_Alignment": "Left",
@@ -338,7 +340,9 @@
       "Dia_Language_005_Body_Text": "Text",
       "Dia_Language_006_Body_Spoken": "Voice",
       "Dia_Language_007_Btn_Change": "Change",
-      "Dia_FirstSetting_001_Body": "Game settings will be adjusted for optimal play \non your device.\n\nYou can change your configurations later from Settings in the More menu, or mid-battle from the Battle menu."
+      "Dia_FirstSetting_001_Body": "Game settings will be adjusted for optimal play \non your device.\n\nYou can change your configurations later from Settings in the More menu, or mid-battle from the Battle menu.",
+      "Dia_Vote_001": "Dia_Vote_001",
+      "Dia_Vote_002": "Dia_Vote_002"
     },
     "Kor": {
       "Dialog_Text_Alignment": "Center",
@@ -508,7 +512,9 @@
       "Dia_Language_005_Body_Text": "텍스트",
       "Dia_Language_006_Body_Spoken": "음성",
       "Dia_Language_007_Btn_Change": "변경",
-      "Dia_FirstSetting_001_Body": "고객님의 단말기에 최적화된 설정으로 플레이합니다.\n\n이 설정은 ｢메뉴｣와 ｢대전 메뉴｣의 ｢설정｣에서 변경할 수 있습니다."
+      "Dia_FirstSetting_001_Body": "고객님의 단말기에 최적화된 설정으로 플레이합니다.\n\n이 설정은 ｢메뉴｣와 ｢대전 메뉴｣의 ｢설정｣에서 변경할 수 있습니다.",
+      "Dia_Vote_001": "Dia_Vote_001",
+      "Dia_Vote_002": "Dia_Vote_002"
     },
     "Cht": {
       "Dialog_Text_Alignment": "Center",
@@ -678,7 +684,9 @@
       "Dia_Language_005_Body_Text": "文字",
       "Dia_Language_006_Body_Spoken": "語音",
       "Dia_Language_007_Btn_Change": "變更",
-      "Dia_FirstSetting_001_Body": "系統將自動調整為適合本裝置的設定。\n\n如需變更設定內容，\n請透過「其他」頁面或是「對戰選單」中的「設定」項目進行變更。"
+      "Dia_FirstSetting_001_Body": "系統將自動調整為適合本裝置的設定。\n\n如需變更設定內容，\n請透過「其他」頁面或是「對戰選單」中的「設定」項目進行變更。",
+      "Dia_Vote_001": "Dia_Vote_001",
+      "Dia_Vote_002": "Dia_Vote_002"
     },
     "Fre": {
       "Dialog_Text_Alignment": "Left",
@@ -848,7 +856,9 @@
       "Dia_Language_005_Body_Text": "Textes",
       "Dia_Language_006_Body_Spoken": "Voix",
       "Dia_Language_007_Btn_Change": "Modifier",
-      "Dia_FirstSetting_001_Body": "L'application utilise les réglages les mieux adaptés à votre appareil.\n\nCes réglages peuvent être modifiés dans le menu Autres et à partir du menu batailles.\n\n "
+      "Dia_FirstSetting_001_Body": "L'application utilise les réglages les mieux adaptés à votre appareil.\n\nCes réglages peuvent être modifiés dans le menu Autres et à partir du menu batailles.\n\n ",
+      "Dia_Vote_001": "Dia_Vote_001",
+      "Dia_Vote_002": "Dia_Vote_002"
     },
     "Ita": {
       "Dialog_Text_Alignment": "Left",
@@ -1018,7 +1028,9 @@
       "Dia_Language_005_Body_Text": "Testi",
       "Dia_Language_006_Body_Spoken": "Voci",
       "Dia_Language_007_Btn_Change": "Cambia",
-      "Dia_FirstSetting_001_Body": "L'applicazione si avvia utilizzando automaticamente le impostazioni migliori per questo dispositivo.\n\nPuoi cambiare le impostazioni in qualsiasi momento, accedendo al menu Altro."
+      "Dia_FirstSetting_001_Body": "L'applicazione si avvia utilizzando automaticamente le impostazioni migliori per questo dispositivo.\n\nPuoi cambiare le impostazioni in qualsiasi momento, accedendo al menu Altro.",
+      "Dia_Vote_001": "Dia_Vote_001",
+      "Dia_Vote_002": "Dia_Vote_002"
     },
     "Ger": {
       "Dialog_Text_Alignment": "Left",
@@ -1188,7 +1200,9 @@
       "Dia_Language_005_Body_Text": "Text",
       "Dia_Language_006_Body_Spoken": "Stimmen",
       "Dia_Language_007_Btn_Change": "Ändern",
-      "Dia_FirstSetting_001_Body": "Die Anwendung wird automatisch in den für Dein Gerät optimalen Auflösungseinstellungen gestartet.\n\nDiese können nachträglich über den Menüpunkt \"Andere\" sowie während Duellen über das Duellmenü geändert werden."
+      "Dia_FirstSetting_001_Body": "Die Anwendung wird automatisch in den für Dein Gerät optimalen Auflösungseinstellungen gestartet.\n\nDiese können nachträglich über den Menüpunkt \"Andere\" sowie während Duellen über das Duellmenü geändert werden.",
+      "Dia_Vote_001": "Dia_Vote_001",
+      "Dia_Vote_002": "Dia_Vote_002"
     }
   }
 }

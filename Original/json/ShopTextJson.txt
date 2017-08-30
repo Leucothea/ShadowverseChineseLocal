@@ -922,7 +922,7 @@
       "Shop_0113": "{0} Rupien",
       "Shop_0114": "Dieses Set beinhaltet:",
       "Shop_0115": "Shop_0115",
-      "Shop_0116": "Starterdecks",
+      "Shop_0116": "Starterdecks kaufen",
       "Shop_0117": "Deckcode: {0}",
       "Shop_0118": "Der Deckcode wurde kopiert.",
       "Shop_0119": "Enthält 30 Karten",
