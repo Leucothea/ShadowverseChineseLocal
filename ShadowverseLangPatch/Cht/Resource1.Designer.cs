@@ -1287,7 +1287,7 @@ namespace Galstars.Extensions {
         /// <summary>
         ///   Looks up a localized string similar to {
         ///      &quot;URL_0001&quot;: &quot;https://shadowverse.jp/faq/?fromapp&quot;,
-        ///      &quot;URL_0002&quot;: &quot;http://sennatsu.com/&quot;,
+        ///      &quot;URL_0002&quot;: &quot;https://sennatsu.com/&quot;,
         ///      &quot;URL_0003&quot;: &quot;https://shadowverse.jp/&quot;,
         ///      &quot;URL_0012&quot;: &quot;https://shadowverse.jp/gameguide/&quot;,
         ///      &quot;URL_0004_dmm&quot;: &quot;https://dmm.shadowverse.jp/news/&quot;,

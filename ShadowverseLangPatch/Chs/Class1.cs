@@ -281,7 +281,7 @@ namespace Galstars.Extensions
 
         static void onRequestFinished(HTTPRequest request, HTTPResponse response)
         {
-            if (response != null && new Version("6.1.1") < new Version(response.DataAsText))
+            if (response != null && new Version("6.1.2") < new Version(response.DataAsText))
             {
                 DialogBase base2 = UIManager.GetInstance().CreateDialogClose();
                 base2.SetTitleLabel("汉化有更新啦！");
@@ -289,7 +289,7 @@ namespace Galstars.Extensions
                 base2.SetButtonLayout(DialogBase.ButtonLayout.BlueBtn_CancelBtn);
                 base2.SetButtonText("确定");
                 base2.SetPanelDepth(0x7d0);
-                base2.onPushButton1 = () => { Application.OpenURL("http://sennatsu.com/"); };
+                base2.onPushButton1 = () => { Application.OpenURL("https://sennatsu.com/"); };
             }
         }
 
