@@ -191,7 +191,9 @@
       "EM_三月ウサギのお茶会": "三月ウサギのお茶会",
       "EM_ダークコンジュラー": "ダークコンジュラー",
       "EM_RAGE_vol.5": "RAGE vol.5",
-      "EM_NGE_season_2": "NGE 第2回大会"
+      "EM_NGE_season_2": "NGE 第2回大会",
+      "EM_ユヴェントスF.C.": "ユヴェントスF.C.",
+      "EM_羽宮亜梨沙": "羽宮亜梨沙"
     },
     "Eng": {
       "EM_シャドウバース": "Shadowverse",
@@ -384,7 +386,9 @@
       "EM_三月ウサギのお茶会": "March Hare's Teatime",
       "EM_ダークコンジュラー": "Dark Conjurer",
       "EM_RAGE_vol.5": "RAGE (September 2017)",
-      "EM_NGE_season_2": "NGE Season 2"
+      "EM_NGE_season_2": "NGE Season 2",
+      "EM_ユヴェントスF.C.": "Juventus F.C.",
+      "EM_羽宮亜梨沙": "Hanemiya Arisa"
     },
     "Kor": {
       "EM_シャドウバース": "섀도우버스",
@@ -577,7 +581,9 @@
       "EM_三月ウサギのお茶会": "3월토끼의 티파티",
       "EM_ダークコンジュラー": "악령술사",
       "EM_RAGE_vol.5": "RAGE vol.5",
-      "EM_NGE_season_2": "NGE season 2"
+      "EM_NGE_season_2": "NGE season 2",
+      "EM_ユヴェントスF.C.": "유벤투스 FC",
+      "EM_羽宮亜梨沙": "하네미야 아리사"
     },
     "Cht": {
       "EM_シャドウバース": "Shadowverse",
@@ -770,7 +776,9 @@
       "EM_三月ウサギのお茶会": "三月兔的茶會",
       "EM_ダークコンジュラー": "暗黑奇術師",
       "EM_RAGE_vol.5": "RAGE vol.5",
-      "EM_NGE_season_2": "NGE Season 2"
+      "EM_NGE_season_2": "NGE Season 2",
+      "EM_ユヴェントスF.C.": "尤文圖斯F.C.",
+      "EM_羽宮亜梨沙": "羽宮亞梨沙"
     },
     "Fre": {
       "EM_シャドウバース": "Shadowverse",
@@ -963,7 +971,9 @@
       "EM_三月ウサギのお茶会": "Thé avec le Lièvre de mars",
       "EM_ダークコンジュラー": "Sombre invocatrice",
       "EM_RAGE_vol.5": "RAGE (Septembre 2017)",
-      "EM_NGE_season_2": "NGE Season 2"
+      "EM_NGE_season_2": "NGE Season 2",
+      "EM_ユヴェントスF.C.": "Juventus FC",
+      "EM_羽宮亜梨沙": "Hanemiya Arisa"
     },
     "Ita": {
       "EM_シャドウバース": "Shadowverse",
@@ -1133,7 +1143,7 @@
       "EM_ベルフェゴール_構築2弾": "Belphegor",
       "EM_ヘヴンリーイージス_構築2弾": "Egida Celestiale",
       "EM_フォートレスキャンサー": "Granchio del Forte",
-      "EM_大魔法の妖精・リラ": "Rila, Folletto Magico",
+      "EM_大魔法の妖精・リラ": "Fata Lilla",
       "EM_緋色の剣士": "Spadaccina Scarlatta",
       "EM_刃ネズミ": "Porcospino Affilato",
       "EM_ジェド・マロース": "Ded Moroz",
@@ -1156,7 +1166,9 @@
       "EM_三月ウサギのお茶会": "Tè con la Lepre Marzolina",
       "EM_ダークコンジュラー": "Evocatore Oscuro",
       "EM_RAGE_vol.5": "RAGE (Settembre 2017)",
-      "EM_NGE_season_2": "NGE Season 2"
+      "EM_NGE_season_2": "NGE Season 2",
+      "EM_ユヴェントスF.C.": "Juventus",
+      "EM_羽宮亜梨沙": "Hanemiya Arisa"
     },
     "Ger": {
       "EM_シャドウバース": "Shadowverse",
@@ -1349,7 +1361,9 @@
       "EM_三月ウサギのお茶会": "Märzhases Teeparty",
       "EM_ダークコンジュラー": "Dunkler Geisterbeschwörer",
       "EM_RAGE_vol.5": "RAGE (September 2017)",
-      "EM_NGE_season_2": "NGE Season 2"
+      "EM_NGE_season_2": "NGE Season 2",
+      "EM_ユヴェントスF.C.": "Juventus F.C.",
+      "EM_羽宮亜梨沙": "Hanemiya Arisa"
     }
   }
 }

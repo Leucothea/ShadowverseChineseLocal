@@ -125,7 +125,9 @@
       "SN_ジェド・マロース": "ジェド・マロース",
       "SN_白猫の賢者・スノウ": "白猫の賢者・スノウ",
       "SN_シンデレラ": "シンデレラ",
-      "SN_Grand Master WLD": "Grand Master WLD"
+      "SN_Grand Master WLD": "Grand Master WLD",
+      "SN_ユヴェントスF.C.": "ユヴェントスF.C.",
+      "SN_SHADOWVERSE ありさデュエルバース": "SHADOWVERSE ありさデュエルバース"
     },
     "Eng": {
       "SN_スタンダード1": "Classic",
@@ -252,7 +254,9 @@
       "SN_ジェド・マロース": "Ded Moroz",
       "SN_白猫の賢者・スノウ": "Snow, Whitecat Sage",
       "SN_シンデレラ": "Cinderella",
-      "SN_Grand Master WLD": "Grand Master (Wonderland)"
+      "SN_Grand Master WLD": "Grand Master (Wonderland)",
+      "SN_ユヴェントスF.C.": "Juventus F.C.",
+      "SN_SHADOWVERSE ありさデュエルバース": "Shadowverse Arisa Duelverse"
     },
     "Kor": {
       "SN_スタンダード1": "스탠다드",
@@ -379,7 +383,9 @@
       "SN_ジェド・マロース": "제드마로스",
       "SN_白猫の賢者・スノウ": "흰고양이 현자 스노우",
       "SN_シンデレラ": "신데렐라",
-      "SN_Grand Master WLD": "Grand Master 동화 속 세상"
+      "SN_Grand Master WLD": "Grand Master 동화 속 세상",
+      "SN_ユヴェントスF.C.": "유벤투스 FC",
+      "SN_SHADOWVERSE ありさデュエルバース": "SHADOWVERSE 아리사 듀얼버스"
     },
     "Cht": {
       "SN_スタンダード1": "標準",
@@ -506,7 +512,9 @@
       "SN_ジェド・マロース": "捷特‧馬洛斯",
       "SN_白猫の賢者・スノウ": "白貓賢者‧絲諾",
       "SN_シンデレラ": "仙杜瑞拉",
-      "SN_Grand Master WLD": "Grand Master 夢境奇想"
+      "SN_Grand Master WLD": "Grand Master 夢境奇想",
+      "SN_ユヴェントスF.C.": "尤文圖斯F.C.",
+      "SN_SHADOWVERSE ありさデュエルバース": "SHADOWVERSE 亞梨沙決鬥詩章"
     },
     "Fre": {
       "SN_スタンダード1": "Standard",
@@ -633,7 +641,9 @@
       "SN_ジェド・マロース": "Ded Moroz",
       "SN_白猫の賢者・スノウ": "Blanc'sage Snoh",
       "SN_シンデレラ": "Cendrillon",
-      "SN_Grand Master WLD": "Grand Maître (Wonderland)"
+      "SN_Grand Master WLD": "Grand Maître (Wonderland)",
+      "SN_ユヴェントスF.C.": "Juventus FC",
+      "SN_SHADOWVERSE ありさデュエルバース": "Shadowverse - Arisa Duelverse"
     },
     "Ita": {
       "SN_スタンダード1": "Standard",
@@ -695,8 +705,8 @@
       "SN_バハムート降臨": "Rise of Bahamut",
       "SN_神々の騒嵐": "Tempest of the Gods",
       "SN_ワンダーランド・ドリームズ": "Wonderland Dreams",
-      "SN_ベルエンジェル": "Campana dell'Angelo",
-      "SN_ウルズ": "Urza",
+      "SN_ベルエンジェル": "Angelo della Campana",
+      "SN_ウルズ": "Urd",
       "SN_スノーマン": "Pupazzo di Neve",
       "SN_乙姫お守り隊": "Guardia di Otohime",
       "SN_エイラの祈祷": "Preghiera di Elana",
@@ -754,13 +764,15 @@
       "SN_ベルフェゴール_構築2弾": "Belphegor",
       "SN_ヘヴンリーイージス_構築2弾": "Egida Celestiale",
       "SN_フォートレスキャンサー": "Granchio del Forte",
-      "SN_大魔法の妖精・リラ": "Rila, Folletto Magico",
+      "SN_大魔法の妖精・リラ": "Fata Lilla",
       "SN_緋色の剣士": "Spadaccina Scarlatta",
       "SN_刃ネズミ": "Porcospino Affilato",
       "SN_ジェド・マロース": "Ded Moroz",
       "SN_白猫の賢者・スノウ": "Snow, Micetta Erudita",
       "SN_シンデレラ": "Cenerentola",
-      "SN_Grand Master WLD": "Grand Master (Wonderland)"
+      "SN_Grand Master WLD": "Grand Master (Wonderland)",
+      "SN_ユヴェントスF.C.": "Juventus",
+      "SN_SHADOWVERSE ありさデュエルバース": "Shadowverse - Arisa Duelverse"
     },
     "Ger": {
       "SN_スタンダード1": "Klassisch",
@@ -887,7 +899,9 @@
       "SN_ジェド・マロース": "Väterchen Frost",
       "SN_白猫の賢者・スノウ": "Snow, die weiße Katzenweise",
       "SN_シンデレラ": "Aschenputtel",
-      "SN_Grand Master WLD": "Großmeister (Wonderland)"
+      "SN_Grand Master WLD": "Großmeister (Wonderland)",
+      "SN_ユヴェントスF.C.": "Juventus F.C.",
+      "SN_SHADOWVERSE ありさデュエルバース": "Shadowverse - Arisa Duelverse"
     }
   }
 }
