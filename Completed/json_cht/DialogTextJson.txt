@@ -166,6 +166,7 @@
       "Dia_Language_005_Body_Text": "文字",
       "Dia_Language_006_Body_Spoken": "語音",
       "Dia_Language_007_Btn_Change": "變更",
-      "Dia_FirstSetting_001_Body": "系統將自動調整為合適的設定。\n\n如需變更設定内容，\n請點撃「其他」按鈕或者「對戰選單」中的「設定」按鈕進行變更。"
-
+      "Dia_FirstSetting_001_Body": "系統將自動調整為合適的設定。\n\n如需變更設定内容，\n請點撃「其他」按鈕或者「對戰選單」中的「設定」按鈕進行變更。",
+      "Dia_Vote_001": "為 {0} 投票\n確定嘛？\n\n投票完畢之後，將會得到報酬。",
+      "Dia_Vote_002": "投票完畢"
 }

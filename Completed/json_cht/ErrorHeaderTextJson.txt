@@ -145,6 +145,8 @@
       "ErrorHeader_1601": "好友出錯",
       "ErrorHeader_1602": "好友出錯",
       "ErrorHeader_1603": "禮物出錯",
+      "ErrorHeader_1626": "投票出錯",
+      "ErrorHeader_1627": "投票出錯",
       "ErrorHeader_1651": "報酬出錯",
       "ErrorHeader_1652": "報酬出錯",
       "ErrorHeader_1653": "報酬出錯",
