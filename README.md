@@ -1,4 +1,4 @@
-﻿暗影之诗 Shadowverse PC+Mac简繁汉化补丁 v6.1.1
+﻿暗影之诗 Shadowverse PC+Mac简繁汉化补丁 v6.1.2
 =====
 汉化：岚兮雨汐 町城安里 蔽月八云 淺夏<br>
 程序：永久告别 船长唱搁浅<br>
@@ -9,7 +9,7 @@ Mac测试：L夕葉<br><br><br><br>
 
 【下载地址】
 -----
-个人博客：http://sennatsu.com/<br><br><br><br>
+个人博客：https://sennatsu.com/<br><br><br><br>
 
 
 
@@ -17,7 +17,7 @@ Mac测试：L夕葉<br><br><br><br>
 -----
 ★前言：不建议在繁体台版的基础上打汉化补丁，会导致字体大小不一致，非常影响美观，请切换到日版或美版打补丁。<br>
 1、确保游戏当前没有打过任何补丁（打开游戏若是旧版汉化，先按3卸载一次）。<br>
-2、解压ShadowverseLangPatch_v6.1.1到游戏根目录执行即可，输入1是简体、2是繁体。<br>
+2、解压ShadowverseLangPatch_v6.1.2到游戏根目录执行即可，输入1是简体、2是繁体。<br>
 3、卸载方法：运行程序按3。<br>
 4、若游戏没有更新但汉化补丁有更新，需要先按3卸载后再装新补丁；<br>
  　若游戏自身有更新，更新后不需要卸载，直接按1或2给新版游戏打补丁。<br>
@@ -37,7 +37,7 @@ Mac测试：L夕葉<br><br><br><br>
 【意见反馈】
 -----
 QQ群：550817506<br>
-个人博客：http://sennatsu.com/<br>
+个人博客：https://sennatsu.com/<br>
 Steam指南：http://steamcommunity.com/sharedfiles/filedetails/?id=796814505<br>
 GitHub：您现在所在的位置_(:з」∠)_<br>
 NGA：http://bbs.ngacn.cc/read.php?tid=10709138<br>
@@ -46,4 +46,4 @@ NGA：http://bbs.ngacn.cc/read.php?tid=10709138<br>
 
 
 
-2017/08/03 Updated<br>
+2017/08/31 Updated<br>
