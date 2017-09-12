@@ -4377,7 +4377,7 @@ namespace Galstars.Extensions {
         ///
         ///&quot;
         ///&quot;Text_08&quot;,&quot;什么……！？
-        ///怎忙回事……！？
+        ///怎么回事……！？
         ///&quot;
         ///&quot;Text_09&quot;,&quot;啊啊啊！
         ///
