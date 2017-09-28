@@ -14,6 +14,13 @@
       "Country_Category_Oceania": "Oceania",
       "Country_Category_Africa": "Africa"
     },
+    "Chs": {
+      "Country_Category_Asia": "亚洲",
+      "Country_Category_Europe": "欧洲",
+      "Country_Category_Americas": "美洲",
+      "Country_Category_Oceania": "大洋洲",
+      "Country_Category_Africa": "非洲"
+    },
     "Kor": {
       "Country_Category_Asia": "아시아",
       "Country_Category_Europe": "유럽",
@@ -48,6 +55,13 @@
       "Country_Category_Americas": "Amerika",
       "Country_Category_Oceania": "Ozeanien",
       "Country_Category_Africa": "Afrika"
+    },
+    "Spa": {
+      "Country_Category_Asia": "Country_Category_Asia",
+      "Country_Category_Europe": "Country_Category_Europe",
+      "Country_Category_Americas": "Country_Category_Americas",
+      "Country_Category_Oceania": "Country_Category_Oceania",
+      "Country_Category_Africa": "Country_Category_Africa"
     }
   }
 }

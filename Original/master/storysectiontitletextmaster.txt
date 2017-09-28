@@ -1,0 +1,13 @@
+{
+  "storysectiontitletextmaster": {
+    "Jpn": {},
+    "Eng": {},
+    "Chs": {},
+    "Kor": {},
+    "Cht": {},
+    "Fre": {},
+    "Ita": {},
+    "Ger": {},
+    "Spa": {}
+  }
+}

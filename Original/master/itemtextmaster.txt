@@ -8,7 +8,8 @@
       "IT_10003": "バハムート降臨カードパックチケット",
       "IT_10004": "神々の騒嵐カードパックチケット",
       "IT_10005": "ワンダーランド・ドリームズカードパックチケット",
-      "IT_10006": "新カードパックチケット"
+      "IT_10006": "星神の伝説カードパックチケット",
+      "IT_10007": "新カードパックチケット"
     },
     "Eng": {
       "IT_1": "Take Two Ticket",
@@ -18,7 +19,19 @@
       "IT_10003": "Rise of Bahamut Card Pack Ticket",
       "IT_10004": "Tempest of the Gods Card Pack Ticket",
       "IT_10005": "Wonderland Dreams Card Pack Ticket",
-      "IT_10006": "Upcoming Card Pack Ticket"
+      "IT_10006": "Starforged Legends Card Pack Ticket",
+      "IT_10007": "Upcoming Card Pack Ticket"
+    },
+    "Chs": {
+      "IT_1": "双选模式入场券",
+      "IT_1000": "次元宝玉",
+      "IT_10001": "基础卡包兑换券",
+      "IT_10002": "暗影进化卡包兑换券",
+      "IT_10003": "巴哈姆特的觉醒卡包兑换券",
+      "IT_10004": "诸神狂岚卡包兑换券",
+      "IT_10005": "梦游仙境卡包兑换券",
+      "IT_10006": "星神传说卡包兑换券",
+      "IT_10007": "新卡包兑换券"
     },
     "Kor": {
       "IT_1": "2Pick티켓",
@@ -28,7 +41,8 @@
       "IT_10003": "바하무트 강림 카드팩 티켓",
       "IT_10004": "신들의 폭풍 카드팩 티켓",
       "IT_10005": "동화 속 세상 카드팩 티켓",
-      "IT_10006": "신규 카드팩 티켓"
+      "IT_10006": "별들의 신화 카드팩 티켓",
+      "IT_10007": "신규 카드팩 티켓"
     },
     "Cht": {
       "IT_1": "2Pick入場券",
@@ -38,7 +52,8 @@
       "IT_10003": "巴哈姆特降臨卡包兌換券",
       "IT_10004": "諸神狂嵐卡包兌換券",
       "IT_10005": "夢境奇想卡包兌換券",
-      "IT_10006": "新卡包兌換券"
+      "IT_10006": "星神傳說卡包兌換券",
+      "IT_10007": "新卡包兌換券"
     },
     "Fre": {
       "IT_1": "Ticket Double Pioche",
@@ -46,29 +61,43 @@
       "IT_10001": "Ticket Standard card pack",
       "IT_10002": "Ticket Darkness Evolved card pack",
       "IT_10003": "Ticket Rise of Bahamut card pack",
-      "IT_10004": "Ticket Tempest of the Gods Card Pack",
-      "IT_10005": "Ticket Wonderland Dreams",
-      "IT_10006": "Ticket prochain card pack"
+      "IT_10004": "Ticket Tempest of the Gods card pack",
+      "IT_10005": "Ticket Wonderland Dreams card pack",
+      "IT_10006": "Ticket Starforged Legends card pack",
+      "IT_10007": "Ticket prochain card pack"
     },
     "Ita": {
       "IT_1": "Ticket Forza 2 ",
       "IT_1000": "Sfera Animata",
       "IT_10001": "Ticket Standard Card Pack",
-      "IT_10002": "Ticket Darkness Evolved",
-      "IT_10003": "Ticket Rise of Bahamut",
-      "IT_10004": "Tempest of the Gods Card Pack Ticket",
-      "IT_10005": "Ticket Wonderland Dreams",
-      "IT_10006": "Ticket Nuova Espansione"
+      "IT_10002": "Ticket Darkness Evolved Card Pack",
+      "IT_10003": "Ticket Rise of Bahamut Card Pack",
+      "IT_10004": "Ticket Tempest of the Gods Card Pack",
+      "IT_10005": "Ticket Wonderland Dreams Card Pack",
+      "IT_10006": "Ticket Starforged Legends Card Pack",
+      "IT_10007": "Ticket Nuova Espansione"
     },
     "Ger": {
       "IT_1": "Ticket: Nimm 2",
       "IT_1000": "Premiumsphäre",
-      "IT_10001": "Ticket: Standardkartenpack",
+      "IT_10001": "Ticket: Standard-Kartenpack",
       "IT_10002": "Ticket: Darkness Evolved-Kartenpack",
       "IT_10003": "Ticket: Rise of Bahamut-Kartenpack",
       "IT_10004": "Ticket: Tempest of the Gods-Kartenpack",
-      "IT_10005": "Ticket: Wonderland Dreams",
-      "IT_10006": "Ticket: Neues Kartenpack"
+      "IT_10005": "Ticket: Wonderland Dreams-Kartenpack",
+      "IT_10006": "Ticket: Starforged Legends-Kartenpack",
+      "IT_10007": "Ticket: Neues Kartenpack"
+    },
+    "Spa": {
+      "IT_1": "IT_1",
+      "IT_1000": "IT_1000",
+      "IT_10001": "IT_10001",
+      "IT_10002": "IT_10002",
+      "IT_10003": "IT_10003",
+      "IT_10004": "IT_10004",
+      "IT_10005": "IT_10005",
+      "IT_10006": "IT_10006",
+      "IT_10007": "IT_10006"
     }
   }
 }

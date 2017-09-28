@@ -12,11 +12,17 @@
       "BDSSN_構築済みデッキ2弾": "BDSSN_構築済みデッキ2弾",
       "BDSI_構築済みデッキ2弾": "Prebuilt decks contain an animated legendary with special art! Special legendaries can't be liquefied nor can extra vials be gained if card cost or abilities are adjusted."
     },
+    "Chs": {
+      "BDSSN_構築済みデッキ1弾": "BDSSN_構築済みデッキ1弾",
+      "BDSI_構築済みデッキ1弾": "各套拥有1张限定版插画的豪华传说级卡牌。\n每套可购买3次，根据购买次数价格会产生变化。\n初次……水晶500个，之后……水晶750个",
+      "BDSSN_構築済みデッキ2弾": "BDSSN_構築済みデッキ2弾",
+      "BDSI_構築済みデッキ2弾": "各套拥有1张限定版插画的豪华传说级卡牌。\n每套可购买3次，根据购买次数价格会产生变化。\n初次……水晶500个，之后……水晶750个"
+    },
     "Kor": {
       "BDSSN_構築済みデッキ1弾": "BDSSN_構築済みデッキ1弾",
-      "BDSI_構築済みデッキ1弾": "특별 일러스트의 프리미엄 레전드 카드가 1장 포함된 테마팩 판매!\n첫구매 시 크리스탈 500개, 이후 3회까지 구매 시 크리스탈 750개\n[ffcd45]※특별 일러스트의 프리미엄 레전드 카드는 분해할 수 없으며,\n능력 변경 시 보상 대상에 포함되지 않습니다.[-]",
+      "BDSI_構築済みデッキ1弾": "특별 일러스트의 프리미엄 레전드 카드가 1장 포함된 테마팩 판매!\n첫 구매 시 크리스탈 500개, 이후 3회까지 구매 시 크리스탈 750개\n[ffcd45]※특별 일러스트의 프리미엄 레전드 카드는 분해할 수 없으며,\n능력 변경 시 보상 대상에 포함되지 않습니다.[-]",
       "BDSSN_構築済みデッキ2弾": "BDSSN_構築済みデッキ2弾",
-      "BDSI_構築済みデッキ2弾": "특별 일러스트의 프리미엄 레전드 카드가 1장 포함된 테마팩 판매!\n첫구매 시 크리스탈 500개, 이후 3회까지 구매 시 크리스탈 750개\n[ffcd45]※특별 일러스트의 프리미엄 레전드 카드는 분해할 수 없으며,\n능력 변경 시 보상 대상에 포함되지 않습니다.[-]"
+      "BDSI_構築済みデッキ2弾": "특별 일러스트의 프리미엄 레전드 카드가 1장 포함된 테마팩 판매!\n첫 구매 시 크리스탈 500개, 이후 3회까지 구매 시 크리스탈 750개\n[ffcd45]※특별 일러스트의 프리미엄 레전드 카드는 분해할 수 없으며,\n능력 변경 시 보상 대상에 포함되지 않습니다.[-]"
     },
     "Cht": {
       "BDSSN_構築済みデッキ1弾": "BDSSN_主題牌組第1彈",
@@ -41,6 +47,12 @@
       "BDSI_構築済みデッキ1弾": "In jedem Deck findet sich eine legendäre Premiumkarte mit brandneuem, animiertem Kartenmotiv.\nJedes Set kann bis zu 3-mal gekauft werden.\n(Hinweis: Umtausch und Rückerstattung aufgrund Kartenfähigkeiten betreffender Änderungen sind ausgeschlossen.)",
       "BDSSN_構築済みデッキ2弾": "BDSSN_構築済みデッキ2弾",
       "BDSI_構築済みデッキ2弾": "In jedem Deck findet sich eine legendäre Premiumkarte mit brandneuem, animiertem Kartenmotiv.\nJedes Set kann bis zu 3-mal gekauft werden.\n(Hinweis: Umtausch und Rückerstattung aufgrund Kartenfähigkeiten betreffender Änderungen sind ausgeschlossen.)"
+    },
+    "Spa": {
+      "BDSSN_構築済みデッキ1弾": "BDSSN_構築済みデッキ1弾",
+      "BDSI_構築済みデッキ1弾": "BDSI_構築済みデッキ1弾",
+      "BDSSN_構築済みデッキ2弾": "BDSSN_構築済みデッキ2弾",
+      "BDSI_構築済みデッキ2弾": "BDSI_構築済みデッキ2弾"
     }
   }
 }
