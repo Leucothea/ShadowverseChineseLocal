@@ -28,7 +28,8 @@
       "FirstTips_0025": "録画が終了したら動画を投稿してみましょう。\n投稿は【録画/視聴】から行うことができます。\n投稿画面では動画の確認、編集も行えます。",
       "FirstTips_0026": "録画中は【録画メニュー】から\n録画の中断、終了などの操作ができます。",
       "FirstTips_0027": "カードパックを購入できます。\nチケット、ルピ、クリスタルで購入が可能です。\nカードパックは画面左のロゴをタップすると切り替えられます。",
-      "FirstTips_0028": "複数のカードを選択して一括で分解できます。\n画面下にある所持カード一覧から、\n分解したいカードを上にスライドしてセットしてください。\n外す場合はセットしたカードを下にスライドしてください。"
+      "FirstTips_0028": "複数のカードを選択して一括で分解できます。\n画面下にある所持カード一覧から、\n分解したいカードを上にスライドしてセットしてください。\n外す場合はセットしたカードを下にスライドしてください。",
+      "FirstTips_0029": "大会モード初回TIPS(仮)"
     },
     "Eng": {
       "FirstTips_0001": "Slide cards from your collection in and out of the deck to make changes. A complete deck must hold 40 cards.",
@@ -58,7 +59,39 @@
       "FirstTips_0025": "Your videos can be shared from the Record/Watch menu. It's possible to replay or edit on the Post Video screen.",
       "FirstTips_0026": "Recordings can be paused and stopped on the Record Controls menu.",
       "FirstTips_0027": "Card packs can be purchased with tickets, rupies, or crystals. Select the name of a card pack on the left side of the screen to switch to that pack.",
-      "FirstTips_0028": "You can select and liquefy multiple cards at once. Cards in your possession are displayed on the lower half of the screen. Drag cards you want to liquefy to the upper half. If you’d like to remove any cards you’ve selected, simply drag them back down."
+      "FirstTips_0028": "You can select and liquefy multiple cards at once. Cards in your possession are displayed on the lower half of the screen. Drag cards you want to liquefy to the upper half. If you’d like to remove any cards you’ve selected, simply drag them back down.",
+      "FirstTips_0029": "FirstTips_0029"
+    },
+    "Chs": {
+      "FirstTips_0001": "一套牌组由40张卡牌构成。\n请从画面下方的所持卡牌中\n把想要使用的卡牌向上滑动。\n如果要解除选择，请向下滑动。",
+      "FirstTips_0002": "制作卡牌时需要红色以太。\n红色以太可以通过游戏中的奖励\n或分解卡牌来获得。",
+      "FirstTips_0003": "如果要制作1张本未拥有的卡牌，\n可以点击“制作”来消耗红色以太来获得。\n(也有无法制作或分解的卡牌。)",
+      "FirstTips_0004": "双选模式是指反复从随机出现的备选卡牌中，\n选取卡牌组成随机的牌组来进行对战的模式。\n胜场越多，奖励越丰厚。",
+      "FirstTips_0005": "欢迎来到影之诗的世界。\n教程中获得的奖励可以随时在【礼物】中领取。",
+      "FirstTips_0006": "可以首先选择【单人】进行游戏。\n在单人模式中，与AI的对战获胜后，\n作为奖励，可获得各种各样的卡牌。",
+      "FirstTips_0007": "通过对战胜利，可以获得只能在剧情里获得的强力卡牌。",
+      "FirstTips_0008": "欢迎来到暗影次元的世界。\n非常感谢您能参加内测。\n在内测时，您可以体验到【练习赛】，【自由匹配】，【编辑牌组】，\n【卡牌一览/制作】，【购买卡牌】。",
+      "FirstTips_0009": "当前的内测期间，除了默认牌组以外，\n还准备了根据各职业的特性组好的牌组。\n先在练习赛中练习下吧。",
+      "FirstTips_0010": "在练习赛中，可以和CPU对战。\n在这里，可以尝试各种战法。\n不知道游戏的规则的时候，\n可以在【其它】中的游戏指南中确认。",
+      "FirstTips_0011": "对战是通过网络和别的玩家进行对战。\n在网络环境不好的地方，可能无法正常进行对战。\n请在网络环境顺畅的地方进行游戏。",
+      "FirstTips_0012": "可以进行【组编牌组】和【卡牌一览/制作】。\n【组编牌组】中，可以编辑自己的牌组。\n【卡牌一览/制作】中，可以确认拥有的卡牌和制作卡牌。",
+      "FirstTips_0013": "【天梯匹配】\n和别的玩家对战，根据胜负，排位等级会产生变化。",
+      "FirstTips_0014": "【私人对战】\n创建房间，和特定的玩家对战。",
+      "FirstTips_0015": "FirstTips_0015",
+      "FirstTips_0016": "FirstTips_0016",
+      "FirstTips_0017": "想要更改视频头大小或位置时，\n可点击视频来进行变更。",
+      "FirstTips_0018": "FirstTips_0018",
+      "FirstTips_0019": "为了保护个人隐私，打开直播模式后，\n玩家的ID会被遮盖。\n（可正常复制玩家ID）",
+      "FirstTips_0020": "FirstTips_0020",
+      "FirstTips_0021": "录制中可从“录制菜单”中进行暂停或结束等操作。\n另外，把摄像头设为有效时，\n也会一同录制摄像头拍摄到的画面，但是不会在游戏画面上显示。",
+      "FirstTips_0022": "录制结束后上传视频吧。\n上传可以在“录制/上传/收看”中进行。\n超过30分钟的视频无法直接上传，\n请编辑至30分钟以内。",
+      "FirstTips_0023": "为了保护个人隐私，打开直播模式后，\n玩家的ID会被遮盖。\n（可正常复制玩家ID）",
+      "FirstTips_0024": "录制模式设定为ON后，画面中会显示“开始录制”。\n想要录制游戏视频时，请点击“开始录制”。\n最长录制时间为25分钟。",
+      "FirstTips_0025": "录制结束后上传视频吧。\n上传可以在“录制/收看”中进行。\n也可进行确认和编辑。",
+      "FirstTips_0026": "录制时可从“录制菜单”中\n进行暂停，结束等操作。",
+      "FirstTips_0027": "可购买卡包。\n可使用兑换券，金币，水晶购买。\n点击画面左边的logo可选择卡包系列。",
+      "FirstTips_0028": "可以选择复数张卡牌一起分解。\n请从画面下方的所持卡牌中\n把想要分解的卡牌向上滑动。\n如果要解除选择，请向下滑动。",
+      "FirstTips_0029": "FirstTips_0029"
     },
     "Kor": {
       "FirstTips_0001": "덱은 40장의 카드로 구성됩니다.\n화면 아래에 표시된 보유 카드 중에서 사용하고 싶은 카드를 위로 끌어올려 세트해 주시기 바랍니다.\n또한, 덱에서 카드를 뺄 경우에는 세트 중인 카드를 밑으로 끌어내려 주시기 바랍니다.",
@@ -88,7 +121,8 @@
       "FirstTips_0025": "녹화가 종료되면 동영상을 업로드해 보십시오. 업로드는 ｢녹화/시청｣에서 할 수 있습니다. 업로드 화면에서 동영상의 확인, 편집도 가능합니다.",
       "FirstTips_0026": "녹화중에는 ｢녹화메뉴｣에서 녹화의 중단, 종료 등의 조작을 할 수 있습니다.",
       "FirstTips_0027": "카드팩을 구매할 수 있습니다. 티켓, 루피, 크리스탈로 구매가능합니다. 카드팩은 화면 왼쪽의 로고를 선택하면 전환할 수 있습니다.",
-      "FirstTips_0028": "여러 카드를 선택하여 일괄적으로 분해할 수 있습니다.\n화면 아래에 표시된 보유 카드 중에서 분해하고 싶은 카드를 위로 끌어올려 선택하여 주시기 바랍니다.\n또한, 분해할 카드에서 제외하고 싶다면 선택 중인 카드를 밑으로 끌어내려 주시기 바랍니다."
+      "FirstTips_0028": "여러 카드를 선택하여 일괄적으로 분해할 수 있습니다.\n화면 아래에 표시된 보유 카드 중에서 분해하고 싶은 카드를 위로 끌어올려 선택하여 주시기 바랍니다.\n또한, 분해할 카드에서 제외하고 싶다면 선택 중인 카드를 밑으로 끌어내려 주시기 바랍니다.",
+      "FirstTips_0029": "FirstTips_0029"
     },
     "Cht": {
       "FirstTips_0001": "牌組是以40張卡片所構成。\n編輯牌組介面中，可從畫面下排的所持卡片一覽，\n將想使用的卡片移動至上排加入牌組中。\n如果想移除則將想取出的卡片往下排移動即可。",
@@ -118,7 +152,8 @@
       "FirstTips_0025": "錄影結束後，試著將影片投稿至網路看看吧。\n可從【錄影/收看】上傳影片。\n在投稿畫面可確認或編輯影片。",
       "FirstTips_0026": "錄影中時可從【錄影選單】\n選擇錄影中斷、結束等的操作。",
       "FirstTips_0027": "可購買卡包。\n購買方式可選擇使用兌換券、金幣、或水晶進行購買。\n卡包可透過畫面左方LOGO進行切換。",
-      "FirstTips_0028": "您可以一次選擇多張卡片統一分解。\n請由畫面下方的所持卡片一覽中，\n將想分解的卡片滑動至上方。\n將上方的卡片滑動回下方即可取消。"
+      "FirstTips_0028": "您可以一次選擇多張卡片統一分解。\n請由畫面下方的所持卡片一覽中，\n將想分解的卡片滑動至上方。\n將上方的卡片滑動回下方即可取消。",
+      "FirstTips_0029": "FirstTips_0029"
     },
     "Fre": {
       "FirstTips_0001": "Un deck se compose de 40 cartes. Sélectionnez les cartes désirées en bas de l'écran et faites-les glisser vers le haut pour les inclure à votre deck. La manipulation inverse permet d'enlever les cartes non désirées.",
@@ -148,7 +183,8 @@
       "FirstTips_0025": "Vous pouvez partager les enregistrements des replays avec Enregistrements/Voir. Vous pouvez également voir et éditer vos enregistrements à partir de cet écran.",
       "FirstTips_0026": "Vous pouvez mettre en pause les enregistrements des replays avec le menu Replays.",
       "FirstTips_0027": "Les card packs peuvent être achetés avec des tickets, des rupis ou des cristaux. Sélectionnez le nom d'un card pack en haut à gauche de l'écran pour accéder à ce pack.",
-      "FirstTips_0028": "Vous pouvez sélectionner plusieurs cartes à la fois pour les dissoudre. Les cartes possédées apparaissent dans la partie basse de l'écran. Faites glisser vers le haut les cartes à dissoudre. Pour annuler la sélection de cartes non désirées, faites-les simplement revenir vers le bas."
+      "FirstTips_0028": "Vous pouvez sélectionner plusieurs cartes à la fois pour les dissoudre. Les cartes possédées apparaissent dans la partie basse de l'écran. Faites glisser vers le haut les cartes à dissoudre. Pour annuler la sélection de cartes non désirées, faites-les simplement revenir vers le bas.",
+      "FirstTips_0029": "FirstTips_0029"
     },
     "Ita": {
       "FirstTips_0001": "Trascina in alto le carte presenti nella tua collezione per aggiungerle o toglierle dal tuo deck. Un deck deve contenere esattamente 40 carte.",
@@ -178,7 +214,8 @@
       "FirstTips_0025": "I tuoi video possono essere condivisi dal menu Registra/Guarda. Inoltre, puoi modificarlo nella schermata che precede la condivisione.",
       "FirstTips_0026": "La registrazione può essere messa in pausa o interrotta dal Menu Registrazione.",
       "FirstTips_0027": "I pacchetti possono essere acquistati con i ticket, le rupie o i cristalli. Per acquistare i pacchetti di un'altra serie, seleziona a sinistra dello schermo il nome di quella serie.",
-      "FirstTips_0028": "Puoi selezionare e fondere più di una carta alla volta. Le carte appartenenti alla tua collezione appaiono nella parte inferiore dello schermo: seleziona quelle che vuoi fondere trascinandole nella parte alta. Se vuoi rimuovere una carta da quelle selezionate, trascinala nuovamente nella parte inferiore."
+      "FirstTips_0028": "Puoi selezionare e fondere più di una carta alla volta. Le carte appartenenti alla tua collezione appaiono nella parte inferiore dello schermo: seleziona quelle che vuoi fondere trascinandole nella parte alta. Se vuoi rimuovere una carta da quelle selezionate, trascinala nuovamente nella parte inferiore.",
+      "FirstTips_0029": "FirstTips_0029"
     },
     "Ger": {
       "FirstTips_0001": "Karten können aus Deiner Sammlung in Dein Deck gezogen bzw. in umgekehrter Weise aus Deinem Deck entfernt werden. Ein vollständiges Deck besteht aus insgesamt 40 Karten.",
@@ -208,7 +245,39 @@
       "FirstTips_0025": "Deine Videos können über das \"Aufzeichnen/Anschauen\"-Menü geteilt werden.\nVideos können via \"Video posten\" überprüft, abgespielt und editiert werden.",
       "FirstTips_0026": "Aufzeichnungen können über das zugehörige Kontrollmenü pausiert und gestoppt werden.",
       "FirstTips_0027": "Kartenpacks können mit Tickets, Rupien oder Kristallen gekauft werden. Die Serie eines Packs kann über die Liste auf der linken Seite ausgewählt werden.",
-      "FirstTips_0028": "Es ist möglich, mehrere Karten auf einmal zu zersetzen. Ziehe dazu einfach Karten aus Deiner Sammlung von der unteren Hälfte des Bildschirms in den Rahmen auf der oberen Bildschirmhälfte. Solltest Du eine Auswahl aufheben wollen, ziehe die entsprechende(n) Karte(n) einfach wieder nach unten zurück."
+      "FirstTips_0028": "Es ist möglich, mehrere Karten auf einmal zu zersetzen. Ziehe dazu einfach Karten aus Deiner Sammlung von der unteren Hälfte des Bildschirms in den Rahmen auf der oberen Bildschirmhälfte. Solltest Du eine Auswahl aufheben wollen, ziehe die entsprechende(n) Karte(n) einfach wieder nach unten zurück.",
+      "FirstTips_0029": "FirstTips_0029"
+    },
+    "Spa": {
+      "FirstTips_0001": "Un mazo completo contiene 40 cartas. Para agregar una carta a tu mazo, arrástrala desde tu colección hacia arriba. Para remover cartas, arrástralas hacia abajo.",
+      "FirstTips_0002": "Los viales son necesarios para crear cartas. Puedes conseguir viales al ganar partidas o disolviendo cartas sobrantes.",
+      "FirstTips_0003": "En el menú de Cartas puedes crear cartas que aún no posees, o disolver otras para obtener viales (algunas cartas no pueden ser creadas o disueltas).",
+      "FirstTips_0004": "En Toma Dos, dos pares de cartas se muestran en pantalla. Elige un par, descarta el otro, y repite el proceso hasta formar un mazo.Después de completar el mazo, te enfrentarás a otros 5 jugadores de Toma Dos. Tus recompensas aumentan con cada victoria.",
+      "FirstTips_0005": "Bienvenido a Shadowverse. Las recompensas que has ganado pueden ser cobradas desde tu Baúl.",
+      "FirstTips_0006": "Para comenzar, selecciona el modo 1 Jugador y gana partidas para conseguir nuevas cartas.",
+      "FirstTips_0007": "Derrota diferentes enemigos y gana cartas exclusivas en Modo Historia.",
+      "FirstTips_0008": "FirstTips_0008",
+      "FirstTips_0009": "FirstTips_0009",
+      "FirstTips_0010": "FirstTips_0010",
+      "FirstTips_0011": "El modo Multi te permite enfrentarte a otros usuarios en línea. Asegúrate de utilizar una conexión estable para que estas partidas funcionen correctamente.",
+      "FirstTips_0012": "Crea mazos personalizados en el menú Mazos. En el menú Cartas puedes ver las cartas que ya posees, crear nuevas o disolver las sobrantes.",
+      "FirstTips_0013": "Al jugar una Batalla Clasificada, tu rango es modificado dependiendo de los resultados de la partida.",
+      "FirstTips_0014": "Crea una sala de Batalla Privada para enfrentarte a un oponente específico.",
+      "FirstTips_0015": "FirstTips_0015",
+      "FirstTips_0016": "FirstTips_0016",
+      "FirstTips_0017": "FirstTips_0017",
+      "FirstTips_0018": "FirstTips_0018",
+      "FirstTips_0019": "FirstTips_0019",
+      "FirstTips_0020": "FirstTips_0020",
+      "FirstTips_0021": "Las grabaciones pueden ser pausadas y detenidas desde el menú de Repeticiones. La cámara de tu dispositivo puede grabar simultáneamente, pero estas imágenes no se mostrarán en la pantalla de juego.",
+      "FirstTips_0022": "FirstTips_0022",
+      "FirstTips_0023": "Tu ID de usuario es ocultado con asteriscos si una grabación está en curso, pero puede ser copiado normalmente.",
+      "FirstTips_0024": "El botón Grabar aparece cuando se activa la grabación de video. La duración máxima de cada video es 25 minutos.",
+      "FirstTips_0025": "Tus videos pueden ser compartidos desde el menú Grabar/Ver. También pueden ser editados desde el menú \"Publicar\". ",
+      "FirstTips_0026": "Las grabaciones pueden ser pausadas y detenidas desde el menú \"Controles de Grabación\".",
+      "FirstTips_0027": "Los packs de cartas pueden ser comprados con tickets, rupias o cristales. Puedes seleccionar packs de otros títulos desde la lista a la izquierda. ",
+      "FirstTips_0028": "Múltiples cartas pueden ser seleccionadas y disueltas al mismo tiempo. Las cartas de tu colección se muestran en la parte inferior. Arrastra hacia arriba las cartas que deseas disolver. Para anular una selección, arrastra la carta hacia abajo.",
+      "FirstTips_0029": "FirstTips_0029"
     }
   }
 }
