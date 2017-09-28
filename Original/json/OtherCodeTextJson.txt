@@ -24,6 +24,18 @@
       "OtherCode_0010": "Promo code successfully entered. Rewards can be collected from your crate.",
       "OtherCode_0011": "Promo Code Entered"
     },
+    "Chs": {
+      "OtherCode_0005": "输入兑换码",
+      "OtherCode_0007": "输入履历",
+      "OtherCode_0001": "输入兑换码可以领取特典。\n获得的特典会直接送到领取BOX。",
+      "OtherCode_0003": "※请不要输入“-”",
+      "OtherCode_0004": "1个兑换码只能使用1次。",
+      "OtherCode_0006": "标题",
+      "OtherCode_0008": "领取日期",
+      "OtherCode_0009": "请输入活动兑换码",
+      "OtherCode_0010": "已输入兑换码。\n请在礼物箱领取特典。",
+      "OtherCode_0011": "已输入兑换码"
+    },
     "Kor": {
       "OtherCode_0005": "쿠폰번호 입력",
       "OtherCode_0007": "입력이력",
@@ -56,7 +68,7 @@
       "OtherCode_0004": "Chaque code n'est utilisable qu'une fois.",
       "OtherCode_0006": "Titre",
       "OtherCode_0008": "Date de réception",
-      "OtherCode_0009": "Code promotionnel entré.",
+      "OtherCode_0009": "Entrez le code promotionnel.",
       "OtherCode_0010": "Vous avez entré le code promotionnel.\nRécupérer les récompenses dans vos Présents.",
       "OtherCode_0011": "Code promotionnel entré."
     },
@@ -83,6 +95,18 @@
       "OtherCode_0009": "Gib Deinen Promo-Code ein und klicke OK.",
       "OtherCode_0010": "Promo-Code erfolgreich eingegeben. Belohnungen können über \"Geschenke\" abgeholt werden.",
       "OtherCode_0011": "Eingabe erfolgreich"
+    },
+    "Spa": {
+      "OtherCode_0005": "Ingresar Código",
+      "OtherCode_0007": "Historial de códigos",
+      "OtherCode_0001": "Ingresa un código de promoción para obtener premios",
+      "OtherCode_0003": "Ingresa el código sin incluir guiones",
+      "OtherCode_0004": "Cada código puede ser utilizado solo una vez",
+      "OtherCode_0006": "Título",
+      "OtherCode_0008": "Recibido",
+      "OtherCode_0009": "Ingresa el código de promoción debajo y presiona OK",
+      "OtherCode_0010": "El código ha sido ingresado exitosamente. Los premios pueden ser cobrados desde tu Baúl.",
+      "OtherCode_0011": "Código Promocional Ingresado"
     }
   }
 }

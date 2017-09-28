@@ -17,8 +17,7 @@
       "Ranking_0202": "ランキングは集計中です",
       "Ranking_0301": "前シーズン",
       "Ranking_0302": "今シーズン",
-      "Ranking_0303": "シーズン選択",
-      "Ranking_0304": "YOU"
+      "Ranking_0303": "シーズン選択"
     },
     "Eng": {
       "Ranking_0001_Menu": "Score",
@@ -37,8 +36,26 @@
       "Ranking_0202": "Rankings are currently being updated.",
       "Ranking_0301": "Last Season",
       "Ranking_0302": "This Season",
-      "Ranking_0303": "Seasons",
-      "Ranking_0304": "YOU"
+      "Ranking_0303": "Seasons"
+    },
+    "Chs": {
+      "Ranking_0001_Menu": "对战积分",
+      "Ranking_0001_Header": "对战积分排行榜",
+      "Ranking_0002_Menu": "大师级积分",
+      "Ranking_0002_Header": "大师级积分排行榜",
+      "Ranking_0003_Menu": "各职业获胜数",
+      "Ranking_0003_Header": "各职业天梯匹配获胜数排行榜",
+      "Ranking_0004_Menu": "双选模式",
+      "Ranking_0004_Header_Old": "双选模式获胜数排行榜",
+      "Ranking_0004_Header_New": "双选模式 5胜排行榜",
+      "Ranking_0101": "胜",
+      "Ranking_0102": "点",
+      "Ranking_0103": "次",
+      "Ranking_0201": "※战绩需要一定时间才能反馈至排行榜。",
+      "Ranking_0202": "排行榜统计中",
+      "Ranking_0301": "上赛季",
+      "Ranking_0302": "本赛季",
+      "Ranking_0303": "赛季"
     },
     "Kor": {
       "Ranking_0001_Menu": "Battle Point",
@@ -57,8 +74,7 @@
       "Ranking_0202": "랭킹 집계중",
       "Ranking_0301": "전 시즌",
       "Ranking_0302": "현 시즌",
-      "Ranking_0303": "시즌 선택",
-      "Ranking_0304": "YOU"
+      "Ranking_0303": "시즌 선택"
     },
     "Cht": {
       "Ranking_0001_Menu": "Battle Point",
@@ -77,8 +93,7 @@
       "Ranking_0202": "正在計算排名",
       "Ranking_0301": "上一季",
       "Ranking_0302": "本季",
-      "Ranking_0303": "選擇賽季",
-      "Ranking_0304": "YOU"
+      "Ranking_0303": "選擇賽季"
     },
     "Fre": {
       "Ranking_0001_Menu": "Pts de bataille",
@@ -97,8 +112,7 @@
       "Ranking_0202": "Les classements sont en cours de mise à jour.",
       "Ranking_0301": "Saison précédente",
       "Ranking_0302": "Saison en cours",
-      "Ranking_0303": "Saisons",
-      "Ranking_0304": "VOUS"
+      "Ranking_0303": "Saisons"
     },
     "Ita": {
       "Ranking_0001_Menu": "Punteggio",
@@ -117,8 +131,7 @@
       "Ranking_0202": "Le classiche sono in fase di aggiornamento.",
       "Ranking_0301": "Stagione Precedente",
       "Ranking_0302": "Stagione Attuale",
-      "Ranking_0303": "Stagioni",
-      "Ranking_0304": "YOU"
+      "Ranking_0303": "Stagioni"
     },
     "Ger": {
       "Ranking_0001_Menu": "Kampfpunkte",
@@ -137,8 +150,26 @@
       "Ranking_0202": "Die Ranglisten werden aktualisiert.",
       "Ranking_0301": "Letzte Saison",
       "Ranking_0302": "Aktuelle Saison",
-      "Ranking_0303": "Saisons",
-      "Ranking_0304": "DU"
+      "Ranking_0303": "Saisons"
+    },
+    "Spa": {
+      "Ranking_0001_Menu": "Puntos de batalla",
+      "Ranking_0001_Header": "Ranking por puntaje",
+      "Ranking_0002_Menu": "Puntaje Master",
+      "Ranking_0002_Header": "Ranking por puntaje Master",
+      "Ranking_0003_Menu": "Victorias por Clase",
+      "Ranking_0003_Header": "Ranking de Victorias por Clase",
+      "Ranking_0004_Menu": "Toma Dos",
+      "Ranking_0004_Header_Old": "Ranking de Victorias en Toma Dos",
+      "Ranking_0004_Header_New": "5 Victorias en Toma Dos",
+      "Ranking_0101": "",
+      "Ranking_0102": "",
+      "Ranking_0103": "",
+      "Ranking_0201": "Los rankings no son actualizados en tiempo real.",
+      "Ranking_0202": "Los rankings están siendo actualizados",
+      "Ranking_0301": "Temporada Previa",
+      "Ranking_0302": "Temporada Actual",
+      "Ranking_0303": "Temporadas"
     }
   }
 }

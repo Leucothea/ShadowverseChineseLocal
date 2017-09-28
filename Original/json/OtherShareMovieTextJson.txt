@@ -6,6 +6,9 @@
     "Eng": {
       "OtherShareMovie_0001": "Share Video"
     },
+    "Chs": {
+      "OtherShareMovie_0001": "分享游戏录像"
+    },
     "Kor": {
       "OtherShareMovie_0001": "플레이 영상 공유"
     },
@@ -20,6 +23,9 @@
     },
     "Ger": {
       "OtherShareMovie_0001": "Video teilen"
+    },
+    "Spa": {
+      "OtherShareMovie_0001": "Compartir Video"
     }
   }
 }

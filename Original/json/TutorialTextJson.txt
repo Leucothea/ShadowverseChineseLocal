@@ -7,7 +7,7 @@
       "Tutorial_0004": "ステージ{0}",
       "Tutorial_0005": "アリサ",
       "Tutorial_0006": "ステージ{0}",
-      "Tutorial_0007": "チュートリアル",
+      "Tutorial_0007": "プロローグ",
       "Tutorial_0008": "チュートリアルスキップ",
       "Tutorial_0009": "このバトルをスキップしますか？",
       "Tutorial_0010": "まずはソロプレイを選んでください"
@@ -19,10 +19,22 @@
       "Tutorial_0004": "Stage {0}",
       "Tutorial_0005": "Arisa",
       "Tutorial_0006": "Stage {0}",
-      "Tutorial_0007": "Tutorial",
+      "Tutorial_0007": "Prologue",
       "Tutorial_0008": "Skip Tutorial",
       "Tutorial_0009": "Skip this battle?",
       "Tutorial_0010": "First try playing the Main Story."
+    },
+    "Chs": {
+      "Tutorial_0001": "萝沙丽亚真厉害！",
+      "Tutorial_0002": "快点开始吧！",
+      "Tutorial_0003": "教程信息3",
+      "Tutorial_0004": "场景{0}",
+      "Tutorial_0005": "亚里莎",
+      "Tutorial_0006": "场景{0}",
+      "Tutorial_0007": "教程",
+      "Tutorial_0008": "跳过教程",
+      "Tutorial_0009": "跳过本场战斗吗？",
+      "Tutorial_0010": "请先选择单人来练习吧。"
     },
     "Kor": {
       "Tutorial_0001": "역시 로자리아야",
@@ -31,7 +43,7 @@
       "Tutorial_0004": "스테이지 {0}",
       "Tutorial_0005": "아리사",
       "Tutorial_0006": "스테이지 {0}",
-      "Tutorial_0007": "튜토리얼",
+      "Tutorial_0007": "프롤로그",
       "Tutorial_0008": "튜토리얼 스킵",
       "Tutorial_0009": "이 대전을 스킵하시겠습니까?",
       "Tutorial_0010": "먼저 모험을 선택해 주시기 바랍니다."
@@ -43,7 +55,7 @@
       "Tutorial_0004": "Stage{0}",
       "Tutorial_0005": "亞里莎",
       "Tutorial_0006": "Stage{0}",
-      "Tutorial_0007": "新手教學",
+      "Tutorial_0007": "序章",
       "Tutorial_0008": "略過新手教學",
       "Tutorial_0009": "是否要略過本次對戰？",
       "Tutorial_0010": "請先選擇單人遊戲。"
@@ -55,7 +67,7 @@
       "Tutorial_0004": "Chapitre {0}",
       "Tutorial_0005": "Arisa",
       "Tutorial_0006": "Chapitre {0}",
-      "Tutorial_0007": "Tutoriel",
+      "Tutorial_0007": "Prologue",
       "Tutorial_0008": "Passer le tutoriel",
       "Tutorial_0009": "Voulez-vous passer cette bataille ?",
       "Tutorial_0010": "Sélectionnez d'abord Jeu solo."
@@ -67,7 +79,7 @@
       "Tutorial_0004": "Capitolo {0}",
       "Tutorial_0005": "Arisa",
       "Tutorial_0006": "Capitolo {0}",
-      "Tutorial_0007": "Tutorial",
+      "Tutorial_0007": "Prologo",
       "Tutorial_0008": "Salta il Tutorial",
       "Tutorial_0009": "Vuoi saltare questa battaglia?",
       "Tutorial_0010": "Gioca prima alla Modalità Storia."
@@ -79,10 +91,22 @@
       "Tutorial_0004": "Kapitel {0}",
       "Tutorial_0005": "Arisa",
       "Tutorial_0006": "Kapitel {0}",
-      "Tutorial_0007": "Tutorial",
+      "Tutorial_0007": "Prolog",
       "Tutorial_0008": "Tutorial überspringen",
       "Tutorial_0009": "Dieses Duell überspringen?",
       "Tutorial_0010": "Spiele zunächst den Storymodus."
+    },
+    "Spa": {
+      "Tutorial_0001": "¡Eres increíble, Losaria!",
+      "Tutorial_0002": "¡Esto será divertido!",
+      "Tutorial_0003": "Mensaje Tutorial 3",
+      "Tutorial_0004": "Capítulo {0}",
+      "Tutorial_0005": "Arisa",
+      "Tutorial_0006": "Capítulo {0}",
+      "Tutorial_0007": "Tutorial",
+      "Tutorial_0008": "Saltar Tutorial",
+      "Tutorial_0009": "¿Deseas saltar esta batalla?",
+      "Tutorial_0010": "Primero intenta jugar en Modo Historia."
     }
   }
 }
