@@ -1,6 +1,6 @@
 {
       "LoginBonus_0001": "已獲得",
-      "LoginBonus_0002": "下回獲得 : {0}×{1}",
+      "LoginBonus_0002": "下次登録可獲得 : {0}×{1}",
       "LoginBonus_0003": "活動期間 : {0}",
       "LoginBonus_0004": "NEXT"
 }
