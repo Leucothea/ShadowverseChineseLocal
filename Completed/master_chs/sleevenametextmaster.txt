@@ -123,7 +123,7 @@
       "SN_ジェド・マロース": "雪绅士・杰德马洛斯",
       "SN_白猫の賢者・スノウ": "白猫贤者・丝诺",
       "SN_シンデレラ": "灰姑娘・仙杜瑞拉",
-      "SN_Grand Master WLD": "梦境绮想大师",
+      "SN_Grand Master WLD": "梦境绮想宗师",
       "SN_ユヴェントスF.C.": "尤文图斯F.C.",
       "SN_SHADOWVERSE ありさデュエルバース": "SHADOWVERSE 亚梨沙决斗篇章"
 }
