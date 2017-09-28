@@ -5,7 +5,7 @@
       "Tutorial_0004": "章節{0}",
       "Tutorial_0005": "亞里莎",
       "Tutorial_0006": "章節{0}",
-      "Tutorial_0007": "教程",
+      "Tutorial_0007": "序章",
       "Tutorial_0008": "跳過教程",
       "Tutorial_0009": "跳過本場戰鬥嘛？",
       "Tutorial_0010": "請先選擇單人遊戲"

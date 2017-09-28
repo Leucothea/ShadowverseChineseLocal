@@ -69,5 +69,8 @@
       "System_Ita_Eng": "Inglese",
       "System_Ita_Jpn": "Giapponese",
       "System_Ger_Eng": "Englisch",
-      "System_Ger_Jpn": "Japanisch"
+      "System_Ger_Jpn": "Japanisch",
+      "System_Chs_Jpn": "日文",
+      "System_Spa_Eng": "Inglés",
+      "System_Spa_Jpn": "japonés"
 }

@@ -97,5 +97,7 @@
       "RoomBattle_0096": "構築牌組",
       "RoomBattle_0097": "構築",
       "RoomBattle_0098": "對戰玩家已離開，\n因此祢已退出房間。",
-      "RoomBattle_0099": "  ※系統維護中"
+      "RoomBattle_0099": "  ※系統維護中",
+      "RoomBattle_0100": "比賽結束",
+      "RoomBattle_0101": "對戰玩家的網路不穩定\n若在{0}秒内無法重連成功\n祢將獲得勝利。"
 }
