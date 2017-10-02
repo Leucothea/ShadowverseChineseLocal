@@ -101,5 +101,5 @@
       "DEG_RAGE_vol.6_準優勝": "RAGE vol.6 亞軍",
       "DEG_RAGE_vol.6_3位": "RAGE vol.6 季軍",
       "DEG_自遊空間最強タッグ決定戦Vol.1_優勝": "自遊空間最強戰隊決定戰 Vol.1 冠軍",
-      "DEG_Grand Master SFL": "星神傳說宗師"
+      "DEG_Grand Master SFL": "星神傳説宗師"
 }
