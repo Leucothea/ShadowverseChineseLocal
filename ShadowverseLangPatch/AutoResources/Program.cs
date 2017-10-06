@@ -10,10 +10,10 @@ namespace AutoResources
     {
         static void Main(string[] args)
         {
-            var write = new ResourceWriter($@"{args[0]}Resource1.resources");
-            var jsonfolder = new DirectoryInfo($@"{args[0]}..\..\Completed\json_{args[1]}\");
-            var masterfolder = new DirectoryInfo($@"{args[0]}..\..\Completed\master_{args[1]}\");
-            var scenariofolder = new DirectoryInfo($@"{args[0]}..\..\Completed\scenario_{args[1]}\");
+            var write = new ResourceWriter("Resource1.resources");
+            var jsonfolder = new DirectoryInfo($@"..\..\Completed\json_{args[0]}\");
+            var masterfolder = new DirectoryInfo($@"..\..\Completed\master_{args[0]}\");
+            var scenariofolder = new DirectoryInfo($@"..\..\Completed\scenario_{args[0]}\");
             foreach (var file in jsonfolder.GetFiles())
             {
                 write.AddResource(Path.GetFileNameWithoutExtension(file.FullName), File.ReadAllText(file.FullName));
@@ -24,14 +24,13 @@ namespace AutoResources
             }
             write.Generate();
             write.Close();
-            var write2 = new ResourceWriter($@"{args[0]}Resource2.resources");
+            var write2 = new ResourceWriter("Resource2.resources");
             foreach (var file in scenariofolder.GetFiles())
             {
                 write2.AddResource(Path.GetFileNameWithoutExtension(file.FullName), File.ReadAllText(file.FullName));
             }
             write2.Generate();
             write2.Close();
-            Console.WriteLine("AutoResources Done.");
         }
     }
 }

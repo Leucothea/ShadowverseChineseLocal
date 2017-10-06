@@ -10,8 +10,14 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShadowverseLangPatch", "Sha
 	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chs", "Chs\Chs.csproj", "{8EA1A257-9ED5-4135-9D1D-E32D1C0765E4}"
+	ProjectSection(ProjectDependencies) = postProject
+		{23950B23-CE77-4A34-84C8-3C50EC093C2B} = {23950B23-CE77-4A34-84C8-3C50EC093C2B}
+	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cht", "Cht\Cht.csproj", "{A59573B0-F016-414F-A760-E34B09FE08CC}"
+	ProjectSection(ProjectDependencies) = postProject
+		{23950B23-CE77-4A34-84C8-3C50EC093C2B} = {23950B23-CE77-4A34-84C8-3C50EC093C2B}
+	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoResources", "AutoResources\AutoResources.csproj", "{23950B23-CE77-4A34-84C8-3C50EC093C2B}"
 EndProject
