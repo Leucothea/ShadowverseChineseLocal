@@ -47,11 +47,11 @@
       "LSPCN_神撃のバハムート_4": "CV：三澤紗千香",
       "LSPCN_神撃のバハムート_5": "CV：保村真",
       "LSPCN_神撃のバハムート_6": "CV：釘宮理恵",
-      "LSPCN_神撃のバハムート_7": "CV：速水奨",
-      "LSPCN_SF5_1": "CV：沢城みゆき",
+      "LSPCN_神撃のバハムート_7": "CV：速水獎",
+      "LSPCN_SF5_1": "CV：澤城美雪",
       "LSPCN_SF5_2": "CV：折笠富美子",
       "LSPCN_SF5_3": "CV：喜多村英梨",
-      "LSPCN_SF5_4": "CV：高橋広樹",
+      "LSPCN_SF5_4": "CV：高橋廣樹",
       "LSPCN_SF5_5": "CV：若本規夫",
       "LSPCN_SF5_6": "CV：諏訪部順一",
       "LSPCN_SF5_7": "CV：遠藤綾",
@@ -60,6 +60,6 @@
       "LSPCN_Fate_3": "CV：植田佳奈",
       "LSPCN_Fate_4": "CV：川澄綾子",
       "LSPCN_Fate_5": "CV：川澄綾子",
-      "LSPCN_Fate_6": "CV：浅川悠",
+      "LSPCN_Fate_6": "CV：淺川悠",
       "LSPCN_Fate_7": "CV：門脇舞以"
 }
