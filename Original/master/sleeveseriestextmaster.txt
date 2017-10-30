@@ -137,21 +137,21 @@
       "SSN_リーダースキン付きカード": "Anführerskin-Edition"
     },
     "Spa": {
-      "SSN_ファーストシリーズ": "SSN_ファーストシリーズ",
-      "SSN_セカンドシリーズ": "SSN_セカンドシリーズ",
+      "SSN_ファーストシリーズ": "Rage of Bahamut",
+      "SSN_セカンドシリーズ": "Granblue Fantasy",
       "SSN_サードシリーズ": "SSN_サードシリーズ",
       "SSN_フォースシリーズ": "SSN_フォースシリーズ",
-      "SSI_神撃のバハムート": "SSI_神撃のバハムート",
+      "SSI_神撃のバハムート": "¡Colecciona cartas para construir tus propios mazos en este RPG visualmente impresionante!\n\nPuedes cambiar el dorso de las cartas en el menú Mazos.",
       "SSI_セカンドシリーズ": "SSI_セカンドシリーズ",
       "SSI_サードシリーズ": "SSI_サードシリーズ",
-      "SSI_グランブルーファンタジー": "SSI_グランブルーファンタジー",
-      "SSI_アイドルマスターシンデレラガールズ": "SSI_アイドルマスターシンデレラガールズ",
-      "SSI_累積BP報酬": "SSI_累積BP報酬",
-      "SSN_累積BP報酬": "SSN_累積BP報酬",
-      "SSN_構築済みデッキ": "SSN_構築済みデッキ",
-      "SSN_コラボレーション": "SSN_コラボレーション",
-      "SSN_その他": "SSN_その他",
-      "SSN_リーダースキン付きカード": "リーダースキン付きカード"
+      "SSI_グランブルーファンタジー": "¡Únete a la aventura a través del cielo en este auténtico RPG! ¡Invoca poderosas bestias y activa ataques especiales para crear batallas épicas!\n\nPuedes cambiar el dorso de las cartas en el menú Mazos.",
+      "SSI_アイドルマスターシンデレラガールズ": "Dorso especial de \\\"The Idolmaster: Cinderella Girls\\\".\n\nPuedes cambiar el dorso de las cartas en el menú Mazos.",
+      "SSI_累積BP報酬": "¡Las recompensas de puntaje de Octubre-Diciembre 2016 ya están aquí! También recibirás emblemas si aún no los has obtenido. \n\nPuedes cambiar el dorso de las cartas en el menú Mazos.\n",
+      "SSN_累積BP報酬": "Recompensa por Puntaje",
+      "SSN_構築済みデッキ": "Mazos Preconstruidos",
+      "SSN_コラボレーション": "Colaboraciones",
+      "SSN_その他": "Otros",
+      "SSN_リーダースキン付きカード": "Cartas con skin incluído"
     }
   }
 }

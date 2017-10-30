@@ -1,13 +1,40 @@
 {
   "storysectiontitletextmaster": {
-    "Jpn": {},
-    "Eng": {},
-    "Chs": {},
-    "Kor": {},
-    "Cht": {},
-    "Fre": {},
-    "Ita": {},
-    "Ger": {},
-    "Spa": {}
+    "Jpn": {
+      "story_section_01": "災いの樹編",
+      "story_section_02": "災いの樹編-最終章-"
+    },
+    "Eng": {
+      "story_section_01": "The Morning Star",
+      "story_section_02": "The Morning Star: Conclusion"
+    },
+    "Chs": {
+      "story_section_01": "天启之树篇",
+      "story_section_02": "天启之树篇 -最终章-"
+    },
+    "Kor": {
+      "story_section_01": "재앙의 나무 편",
+      "story_section_02": "재앙의 나무 편 -마지막 장-"
+    },
+    "Cht": {
+      "story_section_01": "天啟之樹篇",
+      "story_section_02": "天啟之樹篇─最終章─"
+    },
+    "Fre": {
+      "story_section_01": "L'Arbre du Chaos",
+      "story_section_02": "L'Arbre du Chaos : Conclusion"
+    },
+    "Ita": {
+      "story_section_01": "Albero della Vita",
+      "story_section_02": "Albero della Vita: Conclusione"
+    },
+    "Ger": {
+      "story_section_01": "Die Leidesche",
+      "story_section_02": "Die Leidesche: Finale"
+    },
+    "Spa": {
+      "story_section_01": "El Árbol del Caos",
+      "story_section_02": "El Árbol del Caos: Final"
+    }
   }
 }

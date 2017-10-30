@@ -109,8 +109,8 @@
       "10006_short": "Starforged"
     },
     "Ita": {
-      "90000_long": "Pedina",
-      "90000_short": "Pedina",
+      "90000_long": "Carta Token",
+      "90000_short": "Carta Token",
       "10000_long": "Base",
       "10000_short": "Base",
       "10001_long": "Standard Card Pack",
@@ -145,22 +145,22 @@
       "10006_short": "Starforged"
     },
     "Spa": {
-      "90000_long": "90000_long",
-      "90000_short": "90000_short",
-      "10000_long": "10000_long",
-      "10000_short": "10000_short",
-      "10001_long": "10001_long",
-      "10001_short": "10001_short",
-      "10002_long": "10002_long",
-      "10002_short": "10002_short",
-      "10003_long": "10003_long",
-      "10003_short": "10003_short",
-      "10004_long": "10004_long",
-      "10004_short": "10004_short",
-      "10005_long": "10005_long",
-      "10005_short": "10005_short",
-      "10006_long": "星神の伝説",
-      "10006_short": "SFL"
+      "90000_long": "Cartas Token",
+      "90000_short": "Token",
+      "10000_long": "Cartas Básicas",
+      "10000_short": "Basica",
+      "10001_long": "Pack de Cartas Standard",
+      "10001_short": "Standard",
+      "10002_long": "Pack de Cartas Darkness Evolved",
+      "10002_short": "Darkness",
+      "10003_long": "Pack de Cartas Rise of Bahamut",
+      "10003_short": "Bahamut",
+      "10004_long": "Pack de Cartas Tempest of the Gods",
+      "10004_short": "Tempest  ",
+      "10005_long": "Pack de Cartas Standard",
+      "10005_short": "Wonderland",
+      "10006_long": "Pack de Cartas Starforged Legends",
+      "10006_short": "Starforged"
     }
   }
 }

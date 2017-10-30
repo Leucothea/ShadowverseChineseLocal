@@ -25,7 +25,7 @@
     "Chs": {
       "IT_1": "双选模式入场券",
       "IT_1000": "次元宝玉",
-      "IT_10001": "基础卡包兑换券",
+      "IT_10001": "基本牌组卡包兑换券",
       "IT_10002": "暗影进化卡包兑换券",
       "IT_10003": "巴哈姆特的觉醒卡包兑换券",
       "IT_10004": "诸神狂岚卡包兑换券",
@@ -89,15 +89,15 @@
       "IT_10007": "Ticket: Neues Kartenpack"
     },
     "Spa": {
-      "IT_1": "IT_1",
-      "IT_1000": "IT_1000",
-      "IT_10001": "IT_10001",
-      "IT_10002": "IT_10002",
-      "IT_10003": "IT_10003",
-      "IT_10004": "IT_10004",
-      "IT_10005": "IT_10005",
-      "IT_10006": "IT_10006",
-      "IT_10007": "IT_10006"
+      "IT_1": "Ticket: Toma Dos",
+      "IT_1000": "Esfera",
+      "IT_10001": "Ticket: pack de cartas Standard ",
+      "IT_10002": "Ticket: pack de cartas Darkness Evolved",
+      "IT_10003": "Ticket: pack de cartas Rise of Bahamut ",
+      "IT_10004": "Ticket: pack de cartas Tempest of the Gods ",
+      "IT_10005": "Ticket: pack de cartas Wonderland Dreams",
+      "IT_10006": "Ticket: pack de cartas Starforged Legends",
+      "IT_10007": "Ticket: nueva expansión"
     }
   }
 }

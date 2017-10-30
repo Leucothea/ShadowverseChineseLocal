@@ -101,7 +101,10 @@
       "RoomBattle_0098": "対戦者がバトルから離脱したため、\nルームから退出しました。",
       "RoomBattle_0099": "  ※メンテナンス中",
       "RoomBattle_0100": "試合終了",
-      "RoomBattle_0101": "対戦相手の通信状況が不安定です\nあと{0}秒で復帰しない場合、あなたの\n勝利となります。"
+      "RoomBattle_0101": "対戦相手の通信状況が不安定です\nあと{0}秒で復帰しない場合、あなたの\n勝利となります。",
+      "RoomBattle_0102": "ランダム",
+      "RoomBattle_0103": "先攻でお願いします",
+      "RoomBattle_0104": "後攻でお願いします"
     },
     "Eng": {
       "RoomBattle_0001": "Private Match",
@@ -204,7 +207,10 @@
       "RoomBattle_0098": "One of the players has left the battle.",
       "RoomBattle_0099": " - Under Maintenance",
       "RoomBattle_0100": "RoomBattle_0100",
-      "RoomBattle_0101": "RoomBattle_0101"
+      "RoomBattle_0101": "RoomBattle_0101",
+      "RoomBattle_0102": "Random",
+      "RoomBattle_0103": "I'll go first.",
+      "RoomBattle_0104": "I'll go second."
     },
     "Chs": {
       "RoomBattle_0001": "私人对战",
@@ -219,7 +225,7 @@
       "RoomBattle_0010": "聊天",
       "RoomBattle_0011": "选择牌组",
       "RoomBattle_0012": "未选择牌组\n\n请选择\n使用的牌组",
-      "RoomBattle_0013": "到关闭房间为止",
+      "RoomBattle_0013": "到房间解散为止",
       "RoomBattle_0014": "15秒内最多发送3条信息",
       "RoomBattle_0015": "确认牌组",
       "RoomBattle_0016": "消息",
@@ -240,11 +246,11 @@
       "RoomBattle_0031": "房主",
       "RoomBattle_0032": "客人",
       "RoomBattle_0033": "取消\n准备",
-      "RoomBattle_0034": "确认关闭房间吗？",
+      "RoomBattle_0034": "确认解散房间吗？",
       "RoomBattle_0035": "退出房间",
       "RoomBattle_0036": "确认退出房间吗？",
       "RoomBattle_0037": "退出",
-      "RoomBattle_0038": "关闭",
+      "RoomBattle_0038": "解散",
       "RoomBattle_0039": "选择牌组中",
       "RoomBattle_0040": "没有对战对手",
       "RoomBattle_0041": "请把房间ID\n告诉希望对战的对手。",
@@ -307,7 +313,10 @@
       "RoomBattle_0098": "对战者退出了对战，\n退出房间。",
       "RoomBattle_0099": " ※维护中",
       "RoomBattle_0100": "RoomBattle_0100",
-      "RoomBattle_0101": "RoomBattle_0101"
+      "RoomBattle_0101": "RoomBattle_0101",
+      "RoomBattle_0102": "随机",
+      "RoomBattle_0103": "我要先手。",
+      "RoomBattle_0104": "我要后手。"
     },
     "Kor": {
       "RoomBattle_0001": "친선전",
@@ -410,7 +419,10 @@
       "RoomBattle_0098": "대전 유저의 접속이 끊겨,\n방에서 나왔습니다.",
       "RoomBattle_0099": "  ※점검 중",
       "RoomBattle_0100": "RoomBattle_0100",
-      "RoomBattle_0101": "RoomBattle_0101"
+      "RoomBattle_0101": "RoomBattle_0101",
+      "RoomBattle_0102": "랜덤",
+      "RoomBattle_0103": "선공하겠습니다.",
+      "RoomBattle_0104": "후공하겠습니다."
     },
     "Cht": {
       "RoomBattle_0001": "私人對戰",
@@ -513,7 +525,10 @@
       "RoomBattle_0098": "對戰玩家已離開，\n因此您已退出對戰室。",
       "RoomBattle_0099": "  ※系統維護中",
       "RoomBattle_0100": "RoomBattle_0100",
-      "RoomBattle_0101": "RoomBattle_0101"
+      "RoomBattle_0101": "RoomBattle_0101",
+      "RoomBattle_0102": "隨機",
+      "RoomBattle_0103": "選擇先攻。",
+      "RoomBattle_0104": "選擇後攻。"
     },
     "Fre": {
       "RoomBattle_0001": "Salon",
@@ -616,7 +631,10 @@
       "RoomBattle_0098": "L'autre joueur a abandonné la bataille. Le salon est dissout.",
       "RoomBattle_0099": " (en cours de maintenance)",
       "RoomBattle_0100": "RoomBattle_0100",
-      "RoomBattle_0101": "RoomBattle_0101"
+      "RoomBattle_0101": "RoomBattle_0101",
+      "RoomBattle_0102": "Au hasard",
+      "RoomBattle_0103": "J'aimerais être le premier joueur.",
+      "RoomBattle_0104": "J'aimerais être le second joueur."
     },
     "Ita": {
       "RoomBattle_0001": "Match Privato",
@@ -719,7 +737,10 @@
       "RoomBattle_0098": "Il tuo avversario ha abbandonato la partita. La stanza è stata chiusa.",
       "RoomBattle_0099": " (in manutenzione)",
       "RoomBattle_0100": "RoomBattle_0100",
-      "RoomBattle_0101": "RoomBattle_0101"
+      "RoomBattle_0101": "RoomBattle_0101",
+      "RoomBattle_0102": "Casuale",
+      "RoomBattle_0103": "Vorrei giocare per primo.",
+      "RoomBattle_0104": "Vorrei giocare per secondo."
     },
     "Ger": {
       "RoomBattle_0001": "Raumkampf",
@@ -748,10 +769,10 @@
       "RoomBattle_0024": "Siege: {0}",
       "RoomBattle_0025": "Raum auflösen",
       "RoomBattle_0026": "Raum wurde aufgelöst.",
-      "RoomBattle_0027": "Auf ein gutes Spiel!",
+      "RoomBattle_0027": "Auf ein gutes Duell!",
       "RoomBattle_0028": "Noch einmal!",
-      "RoomBattle_0029": "Wollen wir Freunde sein?",
-      "RoomBattle_0030": "Vielen Dank!",
+      "RoomBattle_0029": "Freundschaftsanfrage verschickt.",
+      "RoomBattle_0030": "Vielen Dank fürs Duell!",
       "RoomBattle_0031": "Raumbesitzer",
       "RoomBattle_0032": "Gast",
       "RoomBattle_0033": "Abbrechen",
@@ -822,7 +843,10 @@
       "RoomBattle_0098": "Dein Gegner hat das Duell beendet. Du hast den Raum verlassen.",
       "RoomBattle_0099": " (In Wartung)",
       "RoomBattle_0100": "RoomBattle_0100",
-      "RoomBattle_0101": "RoomBattle_0101"
+      "RoomBattle_0101": "RoomBattle_0101",
+      "RoomBattle_0102": "Zufall",
+      "RoomBattle_0103": "Ich möchte das Duell eröffnen.",
+      "RoomBattle_0104": "Ich möchte als Zweites beginnen."
     },
     "Spa": {
       "RoomBattle_0001": "Batalla Privada",
@@ -925,7 +949,10 @@
       "RoomBattle_0098": "Uno de los jugadores ha abandonado la partida.",
       "RoomBattle_0099": " (En proceso de mantenimiento)",
       "RoomBattle_0100": "RoomBattle_0100",
-      "RoomBattle_0101": "RoomBattle_0101"
+      "RoomBattle_0101": "RoomBattle_0101",
+      "RoomBattle_0102": "Al azar",
+      "RoomBattle_0103": "Quiero ser el primero en jugar",
+      "RoomBattle_0104": "Quiero ser el segundo en jugar"
     }
   }
 }

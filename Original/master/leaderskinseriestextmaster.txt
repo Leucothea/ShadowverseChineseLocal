@@ -65,12 +65,12 @@
       "LSSSN_Fate": "Pack: Fate/stay night: Heaven's Feel-Anführerskins"
     },
     "Spa": {
-      "LSSI_神撃のバハムート": "LSSI_神撃のバハムート",
-      "LSSSN_神撃のバハムート": "LSSSN_神撃のバハムート",
-      "LSSI_SF5": "LSSI_SF5",
-      "LSSSN_SF5": "LSSSN_SF5",
-      "LSSI_Fate": "LSSI_Fate",
-      "LSSSN_Fate": "LSSSN_Fate"
+      "LSSI_神撃のバハムート": "Skins de Rage of Bahamut\n\nPuedes cambiar el skin de tu líder en el menú de Perfil",
+      "LSSSN_神撃のバハムート": "Pack: Skins de Rage of Bahamut",
+      "LSSI_SF5": "Skins para líderes de Street Fighter V\n\nPuedes cambiar el skin de tu líder en el menú de Perfil",
+      "LSSSN_SF5": "Pack: Skins de Street Fighter V",
+      "LSSI_Fate": "Skins de Fate/stay night Heaven's Feel.\n\nPuedes cambiar el skin de tu líder en el menú de Perfil.\n\nSkins disponibles hasta el 31 de Octubre a las 20:59 (GMT+1).",
+      "LSSSN_Fate": "Pack de skins Fate/stay night: Heaven's Feel"
     }
   }
 }
