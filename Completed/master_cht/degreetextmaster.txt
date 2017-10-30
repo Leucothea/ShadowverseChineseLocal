@@ -101,5 +101,9 @@
       "DEG_RAGE_vol.6_準優勝": "RAGE vol.6 亞軍",
       "DEG_RAGE_vol.6_3位": "RAGE vol.6 季軍",
       "DEG_自遊空間最強タッグ決定戦Vol.1_優勝": "自遊空間最強戰隊決定戰 Vol.1 冠軍",
-      "DEG_Grand Master SFL": "星神傳説宗師"
+      "DEG_Grand Master SFL": "星神傳説宗師",
+      "DEG_NGE_Season_3_NA_Grand_Champion": "第3屆NGE大賽北美區冠軍",
+      "DEG_NGE_Season_3_NA_TOP12": "第3屆NGE大會北美區12強",
+      "DEG_NGE_Season_3_EU_Grand_Champion": "第3屆NGE大賽歐洲區冠軍",
+      "DEG_NGE_Season_3_EU_TOP12": "第3屆NGE大會歐洲區12強"
 }
