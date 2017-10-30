@@ -17,7 +17,7 @@
       "Profile_0016": "Page",
       "Profile_0017": "不使用",
       "Profile_0018": "大師級選單",
-      "Profile_0019": "大師級等級",
+      "Profile_0019": "大師級排名",
       "Profile_0020": "大師級積分",
       "Profile_0021": "過去的等級",
       "Profile_0022": "等級",

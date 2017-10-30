@@ -17,7 +17,7 @@
       "Profile_0016": "Page",
       "Profile_0017": "不使用",
       "Profile_0018": "大师级菜单",
-      "Profile_0019": "大师级等级",
+      "Profile_0019": "大师级排名",
       "Profile_0020": "大师级积分",
       "Profile_0021": "过去的等级",
       "Profile_0022": "等级",
