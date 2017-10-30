@@ -280,7 +280,7 @@ namespace Galstars.Extensions
 
         static void onRequestFinished(HTTPRequest request, HTTPResponse response)
         {
-            if (response != null && new Version("7.0.2") < new Version(response.DataAsText))
+            if (response != null && new Version("7.0.3") < new Version(response.DataAsText))
             {
                 DialogBase base2 = UIManager.GetInstance().CreateDialogClose();
                 base2.SetTitleLabel("漢化有更新了！");
