@@ -72,5 +72,5 @@
       "System_Ger_Jpn": "Japanisch",
       "System_Chs_Jpn": "日文",
       "System_Spa_Eng": "Inglés",
-      "System_Spa_Jpn": "japonés"
+      "System_Spa_Jpn": "Japonés"
 }
