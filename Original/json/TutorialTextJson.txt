@@ -103,8 +103,8 @@
       "Tutorial_0004": "Capítulo {0}",
       "Tutorial_0005": "Arisa",
       "Tutorial_0006": "Capítulo {0}",
-      "Tutorial_0007": "Tutorial",
-      "Tutorial_0008": "Saltar Tutorial",
+      "Tutorial_0007": "Prólogo",
+      "Tutorial_0008": "Saltar Prólogo",
       "Tutorial_0009": "¿Deseas saltar esta batalla?",
       "Tutorial_0010": "Primero intenta jugar en Modo Historia."
     }

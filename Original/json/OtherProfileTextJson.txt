@@ -292,10 +292,10 @@
       "Profile_0001": "Registro",
       "Profile_0002": "Nombre",
       "Profile_0003": "Tag",
-      "Profile_0004": "Emblema",
-      "Profile_0005": "Bandera",
-      "Profile_0006": "Tag",
-      "Profile_0007": "Nombre",
+      "Profile_0004": "Cambiar Emblema",
+      "Profile_0005": "Cambiar Bandera",
+      "Profile_0006": "Cambiar Tag",
+      "Profile_0007": "Cambiar Nombre",
       "Profile_0008": "ID de usuario",
       "Profile_0009": "Copiar",
       "Profile_0010": "Puntos de Batalla",
@@ -308,7 +308,7 @@
       "Profile_0017": "No utilizar",
       "Profile_0018": "Menú Master",
       "Profile_0019": "Ranking de Master",
-      "Profile_0020": "Puntaje",
+      "Profile_0020": "Puntos Master",
       "Profile_0021": "Rankings previos",
       "Profile_0022": "Rankings",
       "Profile_0023": "Calculando...",
@@ -317,12 +317,12 @@
       "Profile_0026": "Partidas",
       "Profile_0027": "Victorias",
       "Profile_0028": "Cambiar",
-      "Profile_0029": "Líderes",
+      "Profile_0029": "Cambiar Skin",
       "Profile_0030": "？？？",
       "Profile_0031": "Grand Master",
-      "Profile_0032": "Puntaje Master {0}",
+      "Profile_0032": "Puntos Master {0}",
       "Profile_0033": "-",
-      "Profile_0034": "Rango Master en:"
+      "Profile_0034": "Grand Master en:"
     }
   }
 }

@@ -103,10 +103,10 @@
       "OtherCode_0003": "Ingresa el código sin incluir guiones",
       "OtherCode_0004": "Cada código puede ser utilizado solo una vez",
       "OtherCode_0006": "Título",
-      "OtherCode_0008": "Recibido",
-      "OtherCode_0009": "Ingresa el código de promoción debajo y presiona OK",
+      "OtherCode_0008": "Recibido en:",
+      "OtherCode_0009": "Ingresa el código de promoción",
       "OtherCode_0010": "El código ha sido ingresado exitosamente. Los premios pueden ser cobrados desde tu Baúl.",
-      "OtherCode_0011": "Código Promocional Ingresado"
+      "OtherCode_0011": "Código Ingresado"
     }
   }
 }

@@ -74,7 +74,7 @@
       "System_Ger_Jpn": "Japanisch",
       "System_Chs_Jpn": "日语",
       "System_Spa_Eng": "Inglés",
-      "System_Spa_Jpn": "japonés"
+      "System_Spa_Jpn": "Japonés"
     },
     "Eng": {
       "System_TimeDateLong": "h:mm tt, MMM dd, yyyy",
@@ -150,7 +150,7 @@
       "System_Ger_Jpn": "Japanisch",
       "System_Chs_Jpn": "日语",
       "System_Spa_Eng": "Inglés",
-      "System_Spa_Jpn": "japonés"
+      "System_Spa_Jpn": "Japonés"
     },
     "Chs": {
       "System_TimeDateLong": "yyyy/MM/dd HH:mm",
@@ -226,7 +226,7 @@
       "System_Ger_Jpn": "Japanisch",
       "System_Chs_Jpn": "日语",
       "System_Spa_Eng": "Inglés",
-      "System_Spa_Jpn": "japonés"
+      "System_Spa_Jpn": "Japonés"
     },
     "Kor": {
       "System_TimeDateLong": "yyyy/MM/dd HH:mm",
@@ -302,7 +302,7 @@
       "System_Ger_Jpn": "Japanisch",
       "System_Chs_Jpn": "日语",
       "System_Spa_Eng": "Inglés",
-      "System_Spa_Jpn": "japonés"
+      "System_Spa_Jpn": "Japonés"
     },
     "Cht": {
       "System_TimeDateLong": "yyyy/MM/dd HH:mm",
@@ -378,7 +378,7 @@
       "System_Ger_Jpn": "Japanisch",
       "System_Chs_Jpn": "日语",
       "System_Spa_Eng": "Inglés",
-      "System_Spa_Jpn": "japonés"
+      "System_Spa_Jpn": "Japonés"
     },
     "Fre": {
       "System_TimeDateLong": "HH:mm dd/MM/yyyy",
@@ -454,7 +454,7 @@
       "System_Ger_Jpn": "Japanisch",
       "System_Chs_Jpn": "日语",
       "System_Spa_Eng": "Inglés",
-      "System_Spa_Jpn": "japonés"
+      "System_Spa_Jpn": "Japonés"
     },
     "Ita": {
       "System_TimeDateLong": "HH:mm dd/MM/yyyy",
@@ -530,7 +530,7 @@
       "System_Ger_Jpn": "Japanisch",
       "System_Chs_Jpn": "日语",
       "System_Spa_Eng": "Inglés",
-      "System_Spa_Jpn": "japonés"
+      "System_Spa_Jpn": "Japonés"
     },
     "Ger": {
       "System_TimeDateLong": "dd.MM.yyyy, HH:mm U\hr",
@@ -606,7 +606,7 @@
       "System_Ger_Jpn": "Japanisch",
       "System_Chs_Jpn": "日语",
       "System_Spa_Eng": "Inglés",
-      "System_Spa_Jpn": "japonés"
+      "System_Spa_Jpn": "Japonés"
     },
     "Spa": {
       "System_TimeDateLong": "HH:mm dd/MM/yyyy",

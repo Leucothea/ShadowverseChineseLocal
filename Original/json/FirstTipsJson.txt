@@ -256,7 +256,7 @@
       "FirstTips_0005": "Bienvenido a Shadowverse. Las recompensas que has ganado pueden ser cobradas desde tu Baúl.",
       "FirstTips_0006": "Para comenzar, selecciona el modo 1 Jugador y gana partidas para conseguir nuevas cartas.",
       "FirstTips_0007": "Derrota diferentes enemigos y gana cartas exclusivas en Modo Historia.",
-      "FirstTips_0008": "FirstTips_0008",
+      "FirstTips_0008": "",
       "FirstTips_0009": "FirstTips_0009",
       "FirstTips_0010": "FirstTips_0010",
       "FirstTips_0011": "El modo Multi te permite enfrentarte a otros usuarios en línea. Asegúrate de utilizar una conexión estable para que estas partidas funcionen correctamente.",

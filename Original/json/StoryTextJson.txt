@@ -73,7 +73,8 @@
       "Story_0057": "今回使用した構築済みデッキはショップで購入することができます。購入しますか？\n",
       "Story_0058": "今回使用した構築済みデッキはショップで購入することができます。購入しますか？\n[ff0000]※既に1回以上購入済みです[-]\n",
       "Story_0059": "ストーリーセレクト",
-      "Story_0060": "デッキにメンテナンス中のカードが含まれているため、使用することができません。"
+      "Story_0060": "デッキにメンテナンス中のカードが含まれているため、使用することができません。",
+      "Story_0061": "※このシナリオでは以下のクラスのデッキが使用可能です"
     },
     "Eng": {
       "Story_0001": "Select Leader",
@@ -148,7 +149,8 @@
       "Story_0057": "You can purchase the prebuilt deck used for this chapter in the shop. Purchase this deck?",
       "Story_0058": "You can purchase the prebuilt deck used for this chapter in the shop. Purchase this deck?\n(Already purchased: 1)",
       "Story_0059": "Story Selection",
-      "Story_0060": "A card in this deck is currently under maintenance and can't be used."
+      "Story_0060": "A card in this deck is currently under maintenance and can't be used.",
+      "Story_0061": "The following classes can be selected in this chapter."
     },
     "Chs": {
       "Story_0001": "选择角色",
@@ -223,7 +225,8 @@
       "Story_0057": "本次使用的预组牌组可在商店中进行购买。\n购买本牌组吗？",
       "Story_0058": "本次使用的预组牌组可在商店中进行购买。\n购买本牌组吗？\n[ff0000]※已购买过本牌组[-]",
       "Story_0059": "选择剧情",
-      "Story_0060": "牌组中包含正在维护的卡牌，无法使用。"
+      "Story_0060": "牌组中包含正在维护的卡牌，无法使用。",
+      "Story_0061": "※可使用以下职业的牌组进行本剧情。"
     },
     "Kor": {
       "Story_0001": "리더 선택",
@@ -298,7 +301,8 @@
       "Story_0057": "방금 사용한 테마팩을 상점에서 구매할 수 있습니다.\n구매하시겠습니까?",
       "Story_0058": "방금 사용한 테마팩을 상점에서 구매할 수 있습니다.\n구매하시겠습니까?\n[ff0000]※이미 1회 이상 구매하였습니다[-]",
       "Story_0059": "스토리 선택",
-      "Story_0060": "덱에 점검 중인 카드가 포함되어 있어 사용할 수 없습니다."
+      "Story_0060": "덱에 점검 중인 카드가 포함되어 있어 사용할 수 없습니다.",
+      "Story_0061": "※이 시나리오는 아래와 같은 클래스의 덱을 사용할 수 있습니다."
     },
     "Cht": {
       "Story_0001": "選擇主戰者",
@@ -373,7 +377,8 @@
       "Story_0057": "您於本次對戰中使用的主題牌組可從商店進行購買。是否要購買該牌組？",
       "Story_0058": "您於本次對戰中使用的主題牌組可從商店進行購買。是否要購買該牌組？\n[ff0000]※您已經購買過該牌組[-]",
       "Story_0059": "選擇劇情",
-      "Story_0060": "牌組中包含正在維護中的卡片，因此無法使用。"
+      "Story_0060": "牌組中包含正在維護中的卡片，因此無法使用。",
+      "Story_0061": "※以下職業的牌組可進行此劇情"
     },
     "Fre": {
       "Story_0001": "Sélection du meneur",
@@ -448,7 +453,8 @@
       "Story_0057": "Le deck préarrangé que vous avez utilisé est disponible au Magasin. Voulez-vous l'acheter ?",
       "Story_0058": "Le deck préarrangé que vous avez utilisé est disponible au Magasin. Voulez-vous l'acheter ?\n(Notez que vous avez déjà acheté au moins une fois ce deck.)",
       "Story_0059": "Sélection Histoire",
-      "Story_0060": "Une ou plusieurs cartes de ce deck subissent actuellement une maintenance et ne peuvent pas être utilisées."
+      "Story_0060": "Une ou plusieurs cartes de ce deck subissent actuellement une maintenance et ne peuvent pas être utilisées.",
+      "Story_0061": "Appartenance(s) utilisable(s) dans ce chapitre :"
     },
     "Ita": {
       "Story_0001": "Scegli un Leader",
@@ -523,7 +529,8 @@
       "Story_0057": "Il deck pre-costruito che hai utilizzato è disponibile nel Negozio. Vuoi acquistarlo?\n",
       "Story_0058": "Il deck pre-costruito che hai utilizzato è disponibile nel Negozio. Vuoi acquistarlo?\n\n(È già stato acquistato almeno una volta.)\n",
       "Story_0059": "Seleziona Storia",
-      "Story_0060": "Poiché il deck include una o più carte in fase di manutenzione, non può essere utilizzato."
+      "Story_0060": "Poiché il deck include una o più carte in fase di manutenzione, non può essere utilizzato.",
+      "Story_0061": "In questo capitolo possono essere utilizzate le seguenti classi:"
     },
     "Ger": {
       "Story_0001": "Anführer wählen",
@@ -598,7 +605,8 @@
       "Story_0057": "Das von Dir im Duell genutzte Deck kann im Shop erworben werden. Jetzt kaufen?",
       "Story_0058": "Das von Dir im Duell genutzte Deck kann im Shop erworben werden. Jetzt kaufen?\n\n(Hinweis: Bereits min. 1-mal erworben.)",
       "Story_0059": "Storyauswahl",
-      "Story_0060": "Dieses Deck ist gegenwärtig nicht verfügbar, da es Karten enthält, die aktuell unter Wartung stehen."
+      "Story_0060": "Dieses Deck ist gegenwärtig nicht verfügbar, da es Karten enthält, die aktuell unter Wartung stehen.",
+      "Story_0061": "In diesem Kapitel stehen die nachfolgenden Decks zur Verfügung:"
     },
     "Spa": {
       "Story_0001": "Selecciona un Líder",
@@ -625,7 +633,7 @@
       "Story_0028": "Resumen",
       "Story_0021": "Una presencia inquietante ha cubierto el cielo.\nLos habitantes de este mundo lo conocen con un solo nombre:\n\n[b]El Árbol del Caos[/b]\n\nUn símbolo de libertad.\nUna ventana hacia otros mundos.\nUna luz que alcanza la eternidad.\nLa sombra de sus ramas oscurece el corazón de los mortales.\n\nCuando la oscuridad cubra el mundo,\nlas puertas de la aniquilación se abrirán...\n",
       "Story_0022": "Seleccionar Nivel de Dificultad",
-      "Story_0023": "Selecciona el nivel de tu oponente.",
+      "Story_0023": "Selecciona el nivel de dificultad de tu oponente.",
       "Story_0029": "Recompensas",
       "Story_0030": "Tus recompensas fueron cobradas automáticamente.",
       "Story_0031": "Uno o más niveles de dificultad se encuentran en proceso de mantenimiento.",
@@ -635,7 +643,7 @@
       "Scenario_0002": "Historial",
       "Scenario_0003": "Saltar",
       "Scenario_0004": "Siguiente",
-      "Scenario_0005": "Automático",
+      "Scenario_0005": "Mostrar mensajes automáticamente",
       "Scenario_0006": "Resumen",
       "Scenario_0007": "Mapa",
       "Scenario_0008": "Reanudar",
@@ -661,19 +669,20 @@
       "Class_Selection_0003": "Esta clase utiliza cartas con habilidad de \"Carga Mágica\", las cuales se fortalecen cada vez que juegas un hechizo. Comienza la partida lanzando varios hechizos para cargar las cartas en tu mano y superar a tu oponente más tarde.",
       "Class_Selection_0004": "Esta clase tiene cartas que aumentan tu capacidad máxima de PP, permitiéndote jugar cartas poderosas antes que tu oponente desde los primeros turnos. Es importante tener cartas \"PP +1\" al principio de la partida, así que asegúrate de volver a robar cartas si es necesario al sacar tu mano inicial.",
       "Class_Selection_0005": "La clase Nigromante utiliza sombras para activar los poderes de Nigromancia de tus cartas. Las sombras de tu cementerio aumentan cada vez que juegas un hechizo, o cuando uno de tus combatientes o amuletos es destruido. Administra correctamente el número de sombras que utilizas para poder ganar la partida.",
-      "Class_Selection_0006": "Las cartas de esta clase debilitan la defensa de tu líder. Cuando los puntos de defensa de tu líder se reducen a 10 o menos, la habilidad de Venganza se activa y fortalece varias cartas. Presta atención a los puntos de defensa de ambos líderes para ganar la partida.",
+      "Class_Selection_0006": "Las cartas de esta clase debilitan la defensa de tu líder. Cuando los puntos de defensa de tu líder se reducen a 10 o menos, la habilidad de Venganza se activa y fortalece varias cartas. Presta atención a los puntos de defensa de ambos líderes para dominar la clase Vampírico y ganar la partida.",
       "Class_Selection_0007": "Cuando la Cuenta Regresiva de un amuleto llega a 0, dicho amuleto es destruido y activa poderosos efectos tales como invocar combatientes, etc. Algunas cartas destruyen amuletos o aceleran su cuenta regresiva para activar sus efectos.",
       "Story_0050": "Capítulo {0}",
       "Story_0051": "¿Encontrando dificultades? Prueba el modo historia de otros líderes para aprender cómo funcionan sus mazos.",
       "Story_0052": "Modo Historia",
-      "Story_0053": "",
+      "Story_0053": "0",
       "Story_0054": "¿Deseas intentarlo otra vez usando un mazo prefabricado?\n(Los mazos prefabricados están disponibles en nuestra Tienda).",
       "Story_0055": "Usar",
       "Story_0056": "Mazo Prefabricado",
-      "Story_0057": "Puedes adquirir el mazo prefabricado utilizado en esta partida en nuestra Tiena. ¿Deseas comprarlo?",
-      "Story_0058": "Puedes adquirir el mazo prefabricado utilizado en esta partida en nuestra Tiena. ¿Deseas comprarlo?\n(Ya has adquirido este mazo.)",
+      "Story_0057": "Puedes adquirir el mazo prefabricado utilizado en esta partida en nuestra Tienda. ¿Deseas comprarlo?",
+      "Story_0058": "Puedes adquirir el mazo prefabricado utilizado en esta partida en nuestra Tienda. ¿Deseas comprarlo?\n(Ya has adquirido este mazo.)",
       "Story_0059": "Seleccionar Historia",
-      "Story_0060": "Una de las cartas en este mazo no puede ser utilizada ya que está en proceso de mantenimiento."
+      "Story_0060": "Una de las cartas en este mazo no puede ser utilizada ya que está en proceso de mantenimiento.",
+      "Story_0061": "Las siguientes clases pueden ser seleccionadas en este capítulo:"
     }
   }
 }

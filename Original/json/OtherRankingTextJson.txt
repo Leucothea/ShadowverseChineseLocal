@@ -154,9 +154,9 @@
     },
     "Spa": {
       "Ranking_0001_Menu": "Puntos de batalla",
-      "Ranking_0001_Header": "Ranking por puntaje",
-      "Ranking_0002_Menu": "Puntaje Master",
-      "Ranking_0002_Header": "Ranking por puntaje Master",
+      "Ranking_0001_Header": "Ranking Puntos de Batalla",
+      "Ranking_0002_Menu": "Puntos Master",
+      "Ranking_0002_Header": "Ranking Puntos Master",
       "Ranking_0003_Menu": "Victorias por Clase",
       "Ranking_0003_Header": "Ranking de Victorias por Clase",
       "Ranking_0004_Menu": "Toma Dos",
@@ -169,7 +169,7 @@
       "Ranking_0202": "Los rankings están siendo actualizados",
       "Ranking_0301": "Temporada Previa",
       "Ranking_0302": "Temporada Actual",
-      "Ranking_0303": "Temporadas"
+      "Ranking_0303": "Selección de Temporadas"
     }
   }
 }

@@ -385,7 +385,7 @@
       "MyPage_0014": "Mazos",
       "MyPage_0015": "Cartas",
       "MyPage_0016": "Comprar Cartas",
-      "MyPage_0017": "Personalizar",
+      "MyPage_0017": "Accesorios",
       "MyPage_0018": "Comprar Crystales",
       "MyPage_0019": "Partida contra CPU",
       "MyPage_0020": "Juega contra usuarios aleatorios sin afectar tu rango",
