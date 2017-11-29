@@ -129,20 +129,20 @@
       "BDPN_構築済みデッキ2弾_ビショップ": "Blütenreiner Schild"
     },
     "Spa": {
-      "BDPN_構築済みデッキ1弾_エルフ": "BDPN_構築済みデッキ1弾_エルフ",
-      "BDPN_構築済みデッキ1弾_ロイヤル": "BDPN_構築済みデッキ1弾_ロイヤル",
-      "BDPN_構築済みデッキ1弾_ウィッチ": "BDPN_構築済みデッキ1弾_ウィッチ",
-      "BDPN_構築済みデッキ1弾_ドラゴン": "BDPN_構築済みデッキ1弾_ドラゴン",
-      "BDPN_構築済みデッキ1弾_ネクロマンサー": "BDPN_構築済みデッキ1弾_ネクロマンサー",
-      "BDPN_構築済みデッキ1弾_ヴァンパイア": "BDPN_構築済みデッキ1弾_ヴァンパイア",
-      "BDPN_構築済みデッキ1弾_ビショップ": "BDPN_構築済みデッキ1弾_ビショップ",
-      "BDPN_構築済みデッキ2弾_エルフ": "BDPN_構築済みデッキ2弾_エルフ",
-      "BDPN_構築済みデッキ2弾_ロイヤル": "BDPN_構築済みデッキ2弾_ロイヤル",
-      "BDPN_構築済みデッキ2弾_ウィッチ": "BDPN_構築済みデッキ2弾_ウィッチ",
-      "BDPN_構築済みデッキ2弾_ドラゴン": "BDPN_構築済みデッキ2弾_ドラゴン",
-      "BDPN_構築済みデッキ2弾_ネクロマンサー": "BDPN_構築済みデッキ2弾_ネクロマンサー",
-      "BDPN_構築済みデッキ2弾_ヴァンパイア": "BDPN_構築済みデッキ2弾_ヴァンパイア",
-      "BDPN_構築済みデッキ2弾_ビショップ": "BDPN_構築済みデッキ2弾_ビショップ"
+      "BDPN_構築済みデッキ1弾_エルフ": "Arquero de Plata",
+      "BDPN_構築済みデッキ1弾_ロイヤル": "Hora del Banquete",
+      "BDPN_構築済みデッキ1弾_ウィッチ": "Quintaesencia de la Magia",
+      "BDPN_構築済みデッキ1弾_ドラゴン": "Jinete Dracónico Oscuro",
+      "BDPN_構築済みデッキ1弾_ネクロマンサー": "Rugido Infernal",
+      "BDPN_構築済みデッキ1弾_ヴァンパイア": "Beso de la Reina",
+      "BDPN_構築済みデッキ1弾_ビショップ": "Arena Inmaculada",
+      "BDPN_構築済みデッキ2弾_エルフ": "Anomalía de Espinas",
+      "BDPN_構築済みデッキ2弾_ロイヤル": "Velocidad del Relámpago",
+      "BDPN_構築済みデッキ2弾_ウィッチ": "Furia Mágica",
+      "BDPN_構築済みデッキ2弾_ドラゴン": "Bendición del Dragón",
+      "BDPN_構築済みデッキ2弾_ネクロマンサー": "Manipulador de Almas",
+      "BDPN_構築済みデッキ2弾_ヴァンパイア": "Pacto Escarlata",
+      "BDPN_構築済みデッキ2弾_ビショップ": "Escudo Blanco"
     }
   }
 }

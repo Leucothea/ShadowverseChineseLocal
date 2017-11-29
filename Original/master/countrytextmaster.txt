@@ -57,11 +57,11 @@
       "Country_Category_Africa": "Afrika"
     },
     "Spa": {
-      "Country_Category_Asia": "Country_Category_Asia",
-      "Country_Category_Europe": "Country_Category_Europe",
-      "Country_Category_Americas": "Country_Category_Americas",
-      "Country_Category_Oceania": "Country_Category_Oceania",
-      "Country_Category_Africa": "Country_Category_Africa"
+      "Country_Category_Asia": "Asia",
+      "Country_Category_Europe": "Europa",
+      "Country_Category_Americas": "América",
+      "Country_Category_Oceania": "Oceanía",
+      "Country_Category_Africa": "África"
     }
   }
 }

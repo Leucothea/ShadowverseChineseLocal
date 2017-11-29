@@ -905,7 +905,7 @@
       "DEG_蠢く影": "Espectro Merodeador",
       "DEG_虚ろの残滓": "Fragmento del Vacío",
       "DEG_闇の訪れ": "Oscuridad Creciente",
-      "DEG_安寧を捨てし者": "",
+      "DEG_安寧を捨てし者": "La Serenidad Puede Esperar",
       "DEG_脱初心者": "Neófito",
       "DEG_修行中": "En Entrenamiento",
       "DEG_挑戦者": "Retador",

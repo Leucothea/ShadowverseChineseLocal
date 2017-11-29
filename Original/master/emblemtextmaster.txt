@@ -223,13 +223,15 @@
       "EM_セイバー": "セイバー",
       "EM_セイバーオルタ": "セイバーオルタ",
       "EM_ライダー": "ライダー",
-      "EM_イリヤ": "イリヤ",
+      "EM_イリヤ": "イリヤスフィール",
       "EM_RAGE_vol.6": "RAGE vol.6",
       "EM_次元の魔女・ドロシー_スキン付": "ドロシー",
       "EM_インペリアルドラグーン_スキン付": "アルドス",
       "EM_頂天_タッグ決定戦Vol.1": "頂天 タッグ決定戦Vol.1",
       "EM_森の弓使い・アリサ": "森の弓使い・アリサ",
-      "EM_NGE_season_3": "NGE 第3回大会"
+      "EM_NGE_season_3": "NGE 第3回大会",
+      "EM_禁忌の魔術師・イザベル": "禁忌の魔術師・イザベル",
+      "EM_アルティメットキャロット": "アルティメットキャロット"
     },
     "Eng": {
       "EM_シャドウバース": "Shadowverse",
@@ -454,13 +456,15 @@
       "EM_セイバー": "Saber",
       "EM_セイバーオルタ": "Saber Alter",
       "EM_ライダー": "Rider",
-      "EM_イリヤ": "Illya",
+      "EM_イリヤ": "Illyasviel",
       "EM_RAGE_vol.6": "RAGE (December 2017)",
       "EM_次元の魔女・ドロシー_スキン付": "Daria",
       "EM_インペリアルドラグーン_スキン付": "Aldos",
       "EM_頂天_タッグ決定戦Vol.1": "1st Jiyu Kukan 2v2 Tournament Champion",
       "EM_森の弓使い・アリサ": "Arisa, Sylvan Archer",
-      "EM_NGE_season_3": "NGE Season 3"
+      "EM_NGE_season_3": "NGE Season 3",
+      "EM_禁忌の魔術師・イザベル": "Isabelle, Alchemist of the Taboo",
+      "EM_アルティメットキャロット": "Ultimate Carrot"
     },
     "Chs": {
       "EM_シャドウバース": "影之诗",
@@ -685,13 +689,15 @@
       "EM_セイバー": "Saber",
       "EM_セイバーオルタ": "Saber Alter",
       "EM_ライダー": "Rider",
-      "EM_イリヤ": "伊莉雅",
+      "EM_イリヤ": "伊莉雅斯菲尔",
       "EM_RAGE_vol.6": "RAGE vol.6",
       "EM_次元の魔女・ドロシー_スキン付": "多萝茜",
       "EM_インペリアルドラグーン_スキン付": "亚鲁多斯",
       "EM_頂天_タッグ決定戦Vol.1": "顶天 组队战Vol.1",
       "EM_森の弓使い・アリサ": "森林弓箭手·亚里莎",
-      "EM_NGE_season_3": "NGE Season 3"
+      "EM_NGE_season_3": "NGE Season 3",
+      "EM_禁忌の魔術師・イザベル": "禁忌的魔法师·伊莎贝尔",
+      "EM_アルティメットキャロット": "诡异胡萝卜"
     },
     "Kor": {
       "EM_シャドウバース": "섀도우버스",
@@ -916,13 +922,15 @@
       "EM_セイバー": "세이버",
       "EM_セイバーオルタ": "세이버 얼터",
       "EM_ライダー": "라이더",
-      "EM_イリヤ": "이리야",
+      "EM_イリヤ": "이리야스필",
       "EM_RAGE_vol.6": "RAGE vol.6",
       "EM_次元の魔女・ドロシー_スキン付": "도로시",
       "EM_インペリアルドラグーン_スキン付": "아르도스",
       "EM_頂天_タッグ決定戦Vol.1": "텟펜 태그결정전 Vol.1",
       "EM_森の弓使い・アリサ": "숲의 궁수 아리사",
-      "EM_NGE_season_3": "NGE season 3"
+      "EM_NGE_season_3": "NGE season 3",
+      "EM_禁忌の魔術師・イザベル": "금기의 마법사 이자벨",
+      "EM_アルティメットキャロット": "궁극의 당근"
     },
     "Cht": {
       "EM_シャドウバース": "Shadowverse",
@@ -1147,13 +1155,15 @@
       "EM_セイバー": "Saber",
       "EM_セイバーオルタ": "Saber Alter",
       "EM_ライダー": "Rider",
-      "EM_イリヤ": "伊莉亞",
+      "EM_イリヤ": "伊莉亞絲菲爾",
       "EM_RAGE_vol.6": "RAGE vol.6",
       "EM_次元の魔女・ドロシー_スキン付": "桃樂絲",
       "EM_インペリアルドラグーン_スキン付": "亞爾多斯",
       "EM_頂天_タッグ決定戦Vol.1": "頂天 組合決定戰Vol.1",
       "EM_森の弓使い・アリサ": "森林弓手‧亞里莎",
-      "EM_NGE_season_3": "NGE Season 3"
+      "EM_NGE_season_3": "NGE Season 3",
+      "EM_禁忌の魔術師・イザベル": "禁忌的魔法師‧伊莎貝爾",
+      "EM_アルティメットキャロット": "絕世大蘿蔔"
     },
     "Fre": {
       "EM_シャドウバース": "Shadowverse",
@@ -1378,13 +1388,15 @@
       "EM_セイバー": "Saber",
       "EM_セイバーオルタ": "Saber (Alter)",
       "EM_ライダー": "Rider",
-      "EM_イリヤ": "Illya",
+      "EM_イリヤ": "Illyasviel",
       "EM_RAGE_vol.6": "Rage (Décembre 2017)",
       "EM_次元の魔女・ドロシー_スキン付": "Daria",
       "EM_インペリアルドラグーン_スキン付": "Aldos",
       "EM_頂天_タッグ決定戦Vol.1": "Teppen: eSports Battle Vol. 1",
       "EM_森の弓使い・アリサ": "Arisa, archère sylvestre",
-      "EM_NGE_season_3": "NGE Season 3"
+      "EM_NGE_season_3": "NGE Season 3",
+      "EM_禁忌の魔術師・イザベル": "Isabelle, alchimiste de l'interdit",
+      "EM_アルティメットキャロット": "Carotte suprême"
     },
     "Ita": {
       "EM_シャドウバース": "Shadowverse",
@@ -1609,13 +1621,15 @@
       "EM_セイバー": "Saber",
       "EM_セイバーオルタ": "Saber (Alter)",
       "EM_ライダー": "Rider",
-      "EM_イリヤ": "Illya",
+      "EM_イリヤ": "Illyasviel",
       "EM_RAGE_vol.6": "RAGE (Dicembre 2017)",
       "EM_次元の魔女・ドロシー_スキン付": "Daria",
       "EM_インペリアルドラグーン_スキン付": "Aldos",
       "EM_頂天_タッグ決定戦Vol.1": "Teppen: eSports Battle Vol. 1",
       "EM_森の弓使い・アリサ": "Arisa, Arciere Silvestre",
-      "EM_NGE_season_3": "NGE Season 3"
+      "EM_NGE_season_3": "NGE Season 3",
+      "EM_禁忌の魔術師・イザベル": "Isabelle, Strega del Proibito",
+      "EM_アルティメットキャロット": "Ultimate Carrot"
     },
     "Ger": {
       "EM_シャドウバース": "Shadowverse",
@@ -1840,13 +1854,15 @@
       "EM_セイバー": "Saber",
       "EM_セイバーオルタ": "Saber (Alter)",
       "EM_ライダー": "Rider",
-      "EM_イリヤ": "Illya",
+      "EM_イリヤ": "Illyasviel",
       "EM_RAGE_vol.6": "RAGE (Dezember 2017)",
       "EM_次元の魔女・ドロシー_スキン付": "Dorothy",
       "EM_インペリアルドラグーン_スキン付": "Aldos",
       "EM_頂天_タッグ決定戦Vol.1": "Teppen: eSports Battle Vol. 1",
       "EM_森の弓使い・アリサ": "Arisa, Bogenschützin des Waldes",
-      "EM_NGE_season_3": "NGE Season 3"
+      "EM_NGE_season_3": "NGE Season 3",
+      "EM_禁忌の魔術師・イザベル": "Isabelle, Alchemistin des Profanen",
+      "EM_アルティメットキャロット": "Krasse Karotte"
     },
     "Spa": {
       "EM_シャドウバース": "Shadowverse",
@@ -1875,7 +1891,7 @@
       "EM_騎士王の威光": "Luz Arturiana",
       "EM_アドミラル": "Almirante",
       "EM_ジャイアントスレイヤー": "Asesino de Gigantes",
-      "EM_ミスリルゴーレム": "Mythril Golem",
+      "EM_ミスリルゴーレム": "Gólem de Mithril",
       "EM_ノノの秘密研究室": "Laboratorio Secreto de Juno",
       "EM_ウィッチクラフト・マギサ": "Witchcrafter Magisa",
       "EM_クレイゴーレム": "Gólem de Arcilla",
@@ -1973,7 +1989,7 @@
       "EM_言霊遣い・ジンジャー": "Ginger, Maga de las Palabras",
       "EM_魔導の巨兵": "Gólem Mágico",
       "EM_水竜神の巫女": "Sibila del Dragón de Agua",
-      "EM_ウロボロス": "Ouroboros",
+      "EM_ウロボロス": "Uróboros",
       "EM_魂の番人・ミント": "Minthe, Guardiana de Almas",
       "EM_魔将軍・ヘクター": "Eachtar, General Demonio",
       "EM_ベルフェゴール": "Belphegor",
@@ -2071,13 +2087,15 @@
       "EM_セイバー": "Saber",
       "EM_セイバーオルタ": "Saber (Alter)",
       "EM_ライダー": "Rider",
-      "EM_イリヤ": "Illya",
+      "EM_イリヤ": "Illyasviel",
       "EM_RAGE_vol.6": "RAGE (Diciembre 2017)",
       "EM_次元の魔女・ドロシー_スキン付": "Daria",
       "EM_インペリアルドラグーン_スキン付": "Aldos",
       "EM_頂天_タッグ決定戦Vol.1": "Teppen: eSports Battle Vol. 1",
       "EM_森の弓使い・アリサ": "Arisa, Arquera del Bosque",
-      "EM_NGE_season_3": "NGE Season 3"
+      "EM_NGE_season_3": "NGE Season 3",
+      "EM_禁忌の魔術師・イザベル": "Isabelle, Hechicera Profana",
+      "EM_アルティメットキャロット": "Zanahoria Suprema"
     }
   }
 }

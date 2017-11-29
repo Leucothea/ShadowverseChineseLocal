@@ -41,9 +41,9 @@
       "Arena_Load_0003": "Zugangsmethode wählen"
     },
     "Spa": {
-      "Arena_Load_0001": "Arena_Load_0001",
-      "Arena_Load_0002": "Arena_Load_0002",
-      "Arena_Load_0003": "Arena_Load_0003"
+      "Arena_Load_0001": "Toma Dos",
+      "Arena_Load_0002": "Elige 15 pares de cartas para construir un mazo Toma Dos de 30 cartas. Usa este mazo para jugar partidas y ganar recompensas. ",
+      "Arena_Load_0003": "Selecciona un método de entrada."
     }
   }
 }

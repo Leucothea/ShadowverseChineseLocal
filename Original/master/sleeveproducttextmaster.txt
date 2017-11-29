@@ -145,22 +145,22 @@
       "sleeve_16": "Elfenmädchen Lisa"
     },
     "Spa": {
-      "sleeve_1": "sleeve_1",
-      "sleeve_2": "sleeve_2",
-      "sleeve_3": "sleeve_3",
-      "sleeve_4": "sleeve_4",
-      "sleeve_5": "sleeve_5",
-      "sleeve_6": "sleeve_6",
-      "sleeve_7": "sleeve_7",
-      "sleeve_8": "sleeve_8",
+      "sleeve_1": "Rage of Bahamut (Set 1-2)",
+      "sleeve_2": "Rage of Bahamut (Set 3-5)",
+      "sleeve_3": "Dorso 3",
+      "sleeve_4": "Dorso 4",
+      "sleeve_5": "Dorso 5",
+      "sleeve_6": "Dorso 6",
+      "sleeve_7": "Granblue Fantasy (Set 1-3)",
+      "sleeve_8": "Granblue Fantasy (Set 4-6)",
       "sleeve_9": "sleeve_9",
       "sleeve_10": "sleeve_10",
-      "sleeve_11": "sleeve_11",
-      "sleeve_12": "sleeve_12",
-      "sleeve_13": "sleeve_13",
-      "sleeve_14": "sleeve_14",
-      "sleeve_15": "sleeve_15",
-      "sleeve_16": "sleeve_16"
+      "sleeve_11": "Ángel de las Campanas",
+      "sleeve_12": "Urd",
+      "sleeve_13": "Muñeco de Nieve",
+      "sleeve_14": "Guardia de Otohime",
+      "sleeve_15": "Plegaria de Elana",
+      "sleeve_16": "Liza, Joven Elfa"
     }
   }
 }

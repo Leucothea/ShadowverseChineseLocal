@@ -90,7 +90,7 @@
     },
     "Spa": {
       "IT_1": "Ticket: Toma Dos",
-      "IT_1000": "Esfera",
+      "IT_1000": "Esfera Animada",
       "IT_10001": "Ticket: pack de cartas Standard ",
       "IT_10002": "Ticket: pack de cartas Darkness Evolved",
       "IT_10003": "Ticket: pack de cartas Rise of Bahamut ",

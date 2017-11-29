@@ -148,7 +148,7 @@
       "90000_long": "Cartas Token",
       "90000_short": "Token",
       "10000_long": "Cartas Básicas",
-      "10000_short": "Basica",
+      "10000_short": "Básicas",
       "10001_long": "Pack de Cartas Standard",
       "10001_short": "Standard",
       "10002_long": "Pack de Cartas Darkness Evolved",
@@ -157,7 +157,7 @@
       "10003_short": "Bahamut",
       "10004_long": "Pack de Cartas Tempest of the Gods",
       "10004_short": "Tempest  ",
-      "10005_long": "Pack de Cartas Standard",
+      "10005_long": "Pack de Cartas Wonderland",
       "10005_short": "Wonderland",
       "10006_long": "Pack de Cartas Starforged Legends",
       "10006_short": "Starforged"
