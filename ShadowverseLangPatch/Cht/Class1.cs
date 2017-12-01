@@ -16,7 +16,17 @@ namespace Galstars.Extensions
 
         private static void smethod_1(IDictionary<string, string> target_dic, TextAsset orig_textasset, string textasset_name, bool isTrim, Dictionary<string, string> chs_dic)
         {
-            IDictionary orig_dic = JsonMapper.ToObject(orig_textasset.ToString())[textasset_name];
+            string jpn_json = "{\"" + textasset_name + "\": {";
+            string orig_text = orig_textasset.ToString();
+            orig_text = orig_text.Substring(orig_text.IndexOf("\"Jpn\""));
+            orig_text = orig_text.Substring(0, orig_text.IndexOf("}"));
+            jpn_json += orig_text + "}}}";
+            if (textasset_name == "skilldesctextmaster")
+            {
+                jpn_json = "{\"skilldesctextmaster\": {\"Jpn\":{}}}";
+            }
+            //IDictionary orig_dic = JsonMapper.ToObject(orig_textasset.ToString())[textasset_name];
+            IDictionary orig_dic = JsonMapper.ToObject(jpn_json)[textasset_name];
             IDictionary jp_dic = (IDictionary)orig_dic["Jpn"];
             IDictionary sub_dic = null;
             if (orig_dic.Contains(STRING_CHS))
