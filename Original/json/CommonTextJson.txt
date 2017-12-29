@@ -43,7 +43,7 @@
       "Common_0109": "ネクロマンサー",
       "Common_0110": "ヴァンパイア",
       "Common_0111": "ビショップ",
-      "Common_0112": "ゲート",
+      "Common_0112": "ネメシス",
       "Common_0113": "所持レッドエーテル",
       "Common_0114": "チケット",
       "Common_0115": "ルピ",
@@ -84,7 +84,11 @@
       "Common_0150": "BP",
       "Common_0151": "MP",
       "Common_0152": "",
-      "Common_0153": ""
+      "Common_0153": "",
+      "Common_0154": "ローテーション",
+      "Common_0155": "アンリミテッド",
+      "Common_0156": "フォーマット",
+      "Common_0157": "プライズ"
     },
     "Eng": {
       "Common_0001": "Yes",
@@ -136,7 +140,7 @@
       "Common_0116": "",
       "Common_0117": "",
       "Common_0118": "TBA",
-      "Common_0119": "Ability Details",
+      "Common_0119": "Effect Details",
       "Common_0120": "",
       "Common_0121": "HOME",
       "Common_0122": "SOLO",
@@ -170,7 +174,11 @@
       "Common_0150": "",
       "Common_0151": "",
       "Common_0152": "Drag!",
-      "Common_0153": "Drop!"
+      "Common_0153": "Drop!",
+      "Common_0154": "Rotation",
+      "Common_0155": "Unlimited",
+      "Common_0156": "Format",
+      "Common_0157": "Promo"
     },
     "Chs": {
       "Common_0001": "是",
@@ -190,7 +198,7 @@
       "Common_0045": "等级",
       "Common_0046": "对战等级",
       "Common_0047": "对战积分",
-      "Common_0048": "大师赛积分",
+      "Common_0048": "大师级积分",
       "Common_0051": "弃权",
       "Common_0052": "录像",
       "Common_0204": "卡牌",
@@ -215,7 +223,7 @@
       "Common_0109": "死灵法师",
       "Common_0110": "血族",
       "Common_0111": "主教",
-      "Common_0112": "次元行者",
+      "Common_0112": "复仇天神",
       "Common_0113": "所持红色以太",
       "Common_0114": "兑换券",
       "Common_0115": "金币",
@@ -256,7 +264,11 @@
       "Common_0150": "BP",
       "Common_0151": "MP",
       "Common_0152": "滑动！",
-      "Common_0153": "放开！"
+      "Common_0153": "放开！",
+      "Common_0154": "限制模式",
+      "Common_0155": "无限模式",
+      "Common_0156": "模式",
+      "Common_0157": "赠品"
     },
     "Kor": {
       "Common_0001": "네",
@@ -301,7 +313,7 @@
       "Common_0109": "네크로맨서",
       "Common_0110": "뱀파이어",
       "Common_0111": "비숍",
-      "Common_0112": "게이트",
+      "Common_0112": "네메시스",
       "Common_0113": "보유 레드 에테르",
       "Common_0114": "티켓",
       "Common_0115": "루피",
@@ -342,7 +354,11 @@
       "Common_0150": "BP",
       "Common_0151": "MP",
       "Common_0152": "Drag!",
-      "Common_0153": "Drop!"
+      "Common_0153": "Drop!",
+      "Common_0154": "로테이션",
+      "Common_0155": "언리미티드",
+      "Common_0156": "형식",
+      "Common_0157": "한정"
     },
     "Cht": {
       "Common_0001": "是",
@@ -387,7 +403,7 @@
       "Common_0109": "死靈法師",
       "Common_0110": "吸血鬼",
       "Common_0111": "主教",
-      "Common_0112": "次元門",
+      "Common_0112": "復仇者",
       "Common_0113": "持有紅色乙太",
       "Common_0114": "兌換券",
       "Common_0115": "金幣",
@@ -428,7 +444,11 @@
       "Common_0150": "BP",
       "Common_0151": "MP",
       "Common_0152": "滑動",
-      "Common_0153": "放開"
+      "Common_0153": "放開",
+      "Common_0154": "指定系列",
+      "Common_0155": "無限制",
+      "Common_0156": "形式",
+      "Common_0157": "永久卡"
     },
     "Fre": {
       "Common_0001": "Oui",
@@ -473,7 +493,7 @@
       "Common_0109": "Nécromanciers",
       "Common_0110": "Vampiriques",
       "Common_0111": "Ecclésiastiques",
-      "Common_0112": "À venir",
+      "Common_0112": "Dimensionnels",
       "Common_0113": "Fioles :",
       "Common_0114": "Tickets",
       "Common_0115": "Rupis",
@@ -514,7 +534,11 @@
       "Common_0150": "PB",
       "Common_0151": "MP",
       "Common_0152": "Glisser",
-      "Common_0153": "Déposer"
+      "Common_0153": "Déposer",
+      "Common_0154": "Alterné",
+      "Common_0155": "Illimité",
+      "Common_0156": "Format",
+      "Common_0157": "Spéciale"
     },
     "Ita": {
       "Common_0001": "Sì",
@@ -559,7 +583,7 @@
       "Common_0109": "Necromanti",
       "Common_0110": "Sanguinari",
       "Common_0111": "Chierici",
-      "Common_0112": "Creaportali",
+      "Common_0112": "Dimensionali",
       "Common_0113": "Fiale:",
       "Common_0114": "Ticket",
       "Common_0115": "Rupie",
@@ -600,7 +624,11 @@
       "Common_0150": "",
       "Common_0151": "",
       "Common_0152": "Trascina!",
-      "Common_0153": "Rilascia!"
+      "Common_0153": "Rilascia!",
+      "Common_0154": "Avanzato",
+      "Common_0155": "Illimitato",
+      "Common_0156": "Formato",
+      "Common_0157": "Premio"
     },
     "Ger": {
       "Common_0001": "Ja",
@@ -645,7 +673,7 @@
       "Common_0109": "Nekromanten",
       "Common_0110": "Sanguine",
       "Common_0111": "Klerisei",
-      "Common_0112": "TBA",
+      "Common_0112": "Machinae",
       "Common_0113": "Phiolen:",
       "Common_0114": "Tickets",
       "Common_0115": "Rupien",
@@ -686,7 +714,11 @@
       "Common_0150": "KP",
       "Common_0151": "MP",
       "Common_0152": "Ziehen!",
-      "Common_0153": "Loslassen!"
+      "Common_0153": "Loslassen!",
+      "Common_0154": "Quintupel",
+      "Common_0155": "Unbegrenzt",
+      "Common_0156": "Format",
+      "Common_0157": "Preis"
     },
     "Spa": {
       "Common_0001": "Sí",
@@ -700,7 +732,7 @@
       "Common_0021": "Confirmar",
       "Common_0022": "Detalles",
       "Common_0026": "Ingresar",
-      "Common_0036": "Información",
+      "Common_0036": "Info",
       "Common_0042": "Siguiente",
       "Common_0043": "Siguiente Rango",
       "Common_0045": "Rango",
@@ -765,14 +797,18 @@
       "Common_0143": "Líder",
       "Common_0144": "Tag",
       "Common_0145": "Emblema",
-      "Common_0146": "CLICK",
+      "Common_0146": "CLIC",
       "Common_0147": "Salir",
       "Common_0148": "¡Muy bien!",
       "Common_0149": "Salir",
       "Common_0150": "PB",
       "Common_0151": "PM",
       "Common_0152": "¡Arrastra!",
-      "Common_0153": "¡Suelta!"
+      "Common_0153": "¡Suelta!",
+      "Common_0154": "Rotación",
+      "Common_0155": "Ilimitado",
+      "Common_0156": "Formato",
+      "Common_0157": "Premio"
     }
   }
 }

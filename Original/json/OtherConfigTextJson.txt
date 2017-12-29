@@ -122,7 +122,7 @@
       "OtherConfig_0056": "Use keyboard controls in battle",
       "OtherConfig_0057": "Evolve follower shortcut (E)",
       "OtherConfig_0058": "Confirm/end turn shortcut (Space)",
-      "OtherConfig_0059": "Display cost of Enhance ability",
+      "OtherConfig_0059": "Display cost of Enhance effect",
       "OtherConfig_0060": "Encrypt Network",
       "OtherConfig_0061": "Display the number of cards in deck, cards in hand, and shadows"
     },
@@ -547,7 +547,7 @@
       "OtherConfig_0040": "Utilizar comandos de ratón personalizados",
       "OtherConfig_0041": "Selecciona un comando personalizado",
       "OtherConfig_0042": "Cursor pegajoso",
-      "OtherConfig_0043": "Click derecho",
+      "OtherConfig_0043": "Clic derecho",
       "OtherConfig_0044": "Doble clic",
       "OtherConfig_0045": "Cuadros por segundo",
       "OtherConfig_0046": "30 FPS",

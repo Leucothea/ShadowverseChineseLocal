@@ -29,7 +29,9 @@
       "URL_0014_steam": "https://steam.shadowverse.jp/",
       "URL_0015": "https://shadowverse.jp/",
       "URL_0015_dmm": "https://dmm.shadowverse.jp/",
-      "URL_0015_steam": "https://steam.shadowverse.jp/"
+      "URL_0015_steam": "https://steam.shadowverse.jp/",
+      "URL_0016_steam": "https://steam.shadowverse.jp/news?announce_id={0}",
+      "URL_0016_dmm": "https://dmm.shadowverse.jp/news?announce_id={0}"
     },
     "Eng": {
       "URL_0001": "https://shadowverse.com/faq/?fromapp",
@@ -60,7 +62,9 @@
       "URL_0014_steam": "https://shadowverse.com/",
       "URL_0015": "",
       "URL_0015_dmm": "",
-      "URL_0015_steam": ""
+      "URL_0015_steam": "",
+      "URL_0016_steam": "https://shadowverse.com/news/?announce_id={0}",
+      "URL_0016_dmm": ""
     },
     "Chs": {
       "URL_0001": "https://shadowverse.com/chs/faq/?fromapp",
@@ -91,7 +95,9 @@
       "URL_0014_steam": "https://shadowverse.com/",
       "URL_0015": "",
       "URL_0015_dmm": "",
-      "URL_0015_steam": ""
+      "URL_0015_steam": "",
+      "URL_0016_steam": "https://shadowverse.com/chs/news/detail.php?announce_id={0}",
+      "URL_0016_dmm": ""
     },
     "Kor": {
       "URL_0001": "https://shadowverse.com/ko/faq/?fromapp",
@@ -122,7 +128,9 @@
       "URL_0014_steam": "https://shadowverse.com/ko/",
       "URL_0015": "https://zGqDTagRas.shadowverse.jp/shadowverse/information/withdrawal?lang=kor",
       "URL_0015_dmm": "/URL_0015_dmm/",
-      "URL_0015_steam": "https://shadowverse.com/ko/withdrawal/"
+      "URL_0015_steam": "https://shadowverse.com/ko/withdrawal/",
+      "URL_0016_steam": "https://shadowverse.com/ko/news/detail.php?announce_id={0}",
+      "URL_0016_dmm": ""
     },
     "Cht": {
       "URL_0001": "https://shadowverse.com/cht/faq/?fromapp",
@@ -153,7 +161,9 @@
       "URL_0014_steam": "https://shadowverse.com/cht/",
       "URL_0015": "",
       "URL_0015_dmm": "",
-      "URL_0015_steam": ""
+      "URL_0015_steam": "",
+      "URL_0016_steam": "https://shadowverse.com/cht/news/detail.php?announce_id={0}",
+      "URL_0016_dmm": ""
     },
     "Fre": {
       "URL_0001": "https://shadowverse.com/fr/faq/?fromapp",
@@ -184,7 +194,9 @@
       "URL_0014_steam": "https://shadowverse.com/fr/",
       "URL_0015": "",
       "URL_0015_dmm": "",
-      "URL_0015_steam": "https://shadowverse.com/fr/withdrawal"
+      "URL_0015_steam": "https://shadowverse.com/fr/withdrawal",
+      "URL_0016_steam": "https://shadowverse.com/fr/news/detail.php?announce_id={0}",
+      "URL_0016_dmm": ""
     },
     "Ita": {
       "URL_0001": "https://shadowverse.com/it/faq/?fromapp",
@@ -215,7 +227,9 @@
       "URL_0014_steam": "https://shadowverse.com/it/",
       "URL_0015": "",
       "URL_0015_dmm": "",
-      "URL_0015_steam": "https://shadowverse.com/it/withdrawal"
+      "URL_0015_steam": "https://shadowverse.com/it/withdrawal",
+      "URL_0016_steam": "https://shadowverse.com/it/news/detail.php?announce_id={0}",
+      "URL_0016_dmm": ""
     },
     "Ger": {
       "URL_0001": "https://shadowverse.com/de/faq/?fromapp",
@@ -246,24 +260,26 @@
       "URL_0014_steam": "https://shadowverse.com/de/",
       "URL_0015": "",
       "URL_0015_dmm": "",
-      "URL_0015_steam": "https://shadowverse.com/de/withdrawal"
+      "URL_0015_steam": "https://shadowverse.com/de/withdrawal",
+      "URL_0016_steam": "https://shadowverse.com/de/news/detail.php?announce_id={0}",
+      "URL_0016_dmm": ""
     },
     "Spa": {
       "URL_0001": "https://shadowverse.com/es/faq/?fromapp",
       "URL_0002": "https://shadowverse-portal.com/",
       "URL_0003": "https://shadowverse.com/es/",
       "URL_0012": "https://shadowverse.com/es/gameguide",
-      "URL_0004_dmm": "URL_0004_dmm",
-      "URL_0005_dmm": "URL_0005_dmm",
-      "URL_0006_dmm": "URL_0006_dmm",
-      "URL_0007_dmm": "URL_0007_dmm",
-      "URL_0008_dmm": "URL_0008_dmm",
-      "URL_0009_dmm": "URL_0009_dmm",
-      "URL_0010_dmm": "URL_0010_dmm",
-      "URL_0011_dmm": "URL_0011_dmm",
-      "URL_0012_dmm": "URL_0012_dmm",
-      "URL_0013_dmm": "URL_0013_dmm",
-      "URL_0014_dmm": "URL_0014_dmm",
+      "URL_0004_dmm": "",
+      "URL_0005_dmm": "",
+      "URL_0006_dmm": "",
+      "URL_0007_dmm": "",
+      "URL_0008_dmm": "",
+      "URL_0009_dmm": "",
+      "URL_0010_dmm": "",
+      "URL_0011_dmm": "",
+      "URL_0012_dmm": "",
+      "URL_0013_dmm": "",
+      "URL_0014_dmm": "",
       "URL_0004_steam": "https://shadowverse.com/es/news/",
       "URL_0005_steam": "https://shadowverse.com/es/terms.php",
       "URL_0006_steam": "https://shadowverse.com/es/copyright/",
@@ -277,7 +293,9 @@
       "URL_0014_steam": "https://shadowverse.com/es/",
       "URL_0015": "",
       "URL_0015_dmm": "",
-      "URL_0015_steam": "https://shadowverse.com/es/withdrawal"
+      "URL_0015_steam": "https://shadowverse.com/es/withdrawal",
+      "URL_0016_steam": "https://shadowverse.com/es/news/detail.php?announce_id={0}",
+      "URL_0016_dmm": ""
     }
   }
 }

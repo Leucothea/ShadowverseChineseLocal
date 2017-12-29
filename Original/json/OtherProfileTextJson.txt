@@ -34,7 +34,9 @@
       "Profile_0031": "Grand Master",
       "Profile_0032": "Master Point {0}",
       "Profile_0033": "-",
-      "Profile_0034": "Grand Masterまで"
+      "Profile_0034": "Grand Masterまで",
+      "Profile_0035": "認証済みマークを表示する",
+      "Profile_0036": "認証済みマークの表示設定を変更しました"
     },
     "Eng": {
       "Profile_0001": "Record",
@@ -70,7 +72,9 @@
       "Profile_0031": "Grand Master",
       "Profile_0032": "Master Score {0}",
       "Profile_0033": "-",
-      "Profile_0034": "Grand Master in:"
+      "Profile_0034": "Grand Master in:",
+      "Profile_0035": "Display the verified account badge.",
+      "Profile_0036": "Your verified account badge display settings have been changed."
     },
     "Chs": {
       "Profile_0001": "战绩",
@@ -106,7 +110,9 @@
       "Profile_0031": "宗师级",
       "Profile_0032": "大师级积分 {0}",
       "Profile_0033": "-",
-      "Profile_0034": "离宗师级还有"
+      "Profile_0034": "离宗师级还有",
+      "Profile_0035": "显示“已完成认证标志”",
+      "Profile_0036": "“已完成认证标志”的显示设定已变更"
     },
     "Kor": {
       "Profile_0001": "전적",
@@ -142,7 +148,9 @@
       "Profile_0031": "Grand Master",
       "Profile_0032": "Master Point {0}",
       "Profile_0033": "-",
-      "Profile_0034": "Grand Master까지"
+      "Profile_0034": "Grand Master까지",
+      "Profile_0035": "계정 인증 마크를 표시",
+      "Profile_0036": "계정 인증 마크의 표시 설정을 변경하였습니다."
     },
     "Cht": {
       "Profile_0001": "戰績",
@@ -178,7 +186,9 @@
       "Profile_0031": "Grand Master",
       "Profile_0032": "Master Point {0}",
       "Profile_0033": "-",
-      "Profile_0034": "離Grand Master還需要"
+      "Profile_0034": "離Grand Master還需要",
+      "Profile_0035": "顯示帳號認證完成標誌",
+      "Profile_0036": "已變更帳號認證完成標誌的顯示設定"
     },
     "Fre": {
       "Profile_0001": "Statistiques batailles",
@@ -214,7 +224,9 @@
       "Profile_0031": "Grand Maître",
       "Profile_0032": "Points Maître : {0}",
       "Profile_0033": "-",
-      "Profile_0034": "Jusqu'au rang Grand Maître :"
+      "Profile_0034": "Jusqu'au rang Grand Maître :",
+      "Profile_0035": "Afficher le label \"compte authentifié\"",
+      "Profile_0036": "Les paramètres du label \"compte authentifié\" ont été modifiés."
     },
     "Ita": {
       "Profile_0001": "Record",
@@ -250,7 +262,9 @@
       "Profile_0031": "Grand Master",
       "Profile_0032": "Punteggio Master {0}",
       "Profile_0033": "-",
-      "Profile_0034": "Prima di Grand Master:"
+      "Profile_0034": "Prima di Grand Master:",
+      "Profile_0035": "Badge \"Account Verificato\".",
+      "Profile_0036": "Le impostazioni per la visualizzazione del badge sono state modificate."
     },
     "Ger": {
       "Profile_0001": "Übersicht",
@@ -286,7 +300,9 @@
       "Profile_0031": "Großmeister",
       "Profile_0032": "Meisterpunkte: {0}",
       "Profile_0033": "-",
-      "Profile_0034": "Bis Großmeister:"
+      "Profile_0034": "Bis Großmeister:",
+      "Profile_0035": "Verifizierungssymbol anzeigen",
+      "Profile_0036": "Anzeigeeinstellungen geändert."
     },
     "Spa": {
       "Profile_0001": "Registro",
@@ -322,7 +338,9 @@
       "Profile_0031": "Grand Master",
       "Profile_0032": "Puntos Master {0}",
       "Profile_0033": "-",
-      "Profile_0034": "Grand Master en:"
+      "Profile_0034": "Grand Master en:",
+      "Profile_0035": "Mostrar marca de verificación",
+      "Profile_0036": "Has cambiado tu configuración de marca de verificación."
     }
   }
 }

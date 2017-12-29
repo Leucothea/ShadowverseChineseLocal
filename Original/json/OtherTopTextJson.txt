@@ -32,7 +32,9 @@
       "OtherTop_0031": "公式サイト",
       "OtherTop_0032": "言語切り替え",
       "OtherTop_0033": "リプレイ",
-      "OtherTop_0034": "バトル中の演出設定"
+      "OtherTop_0034": "バトル中の演出設定",
+      "OtherTop_0035": "サインイン",
+      "OtherTop_0036": "サインアウト"
     },
     "Eng": {
       "OtherTop_0001": "Profile",
@@ -66,7 +68,9 @@
       "OtherTop_0031": "Official Website",
       "OtherTop_0032": "Language",
       "OtherTop_0033": "Replay",
-      "OtherTop_0034": "Battle Animation Settings"
+      "OtherTop_0034": "Battle Animation Settings",
+      "OtherTop_0035": "Sign In",
+      "OtherTop_0036": "Sign Out"
     },
     "Chs": {
       "OtherTop_0001": "个人信息",
@@ -76,12 +80,12 @@
       "OtherTop_0005": "好友",
       "OtherTop_0006": "帮助",
       "OtherTop_0007": "咨询",
-      "OtherTop_0009": "隐私保护",
-      "OtherTop_0009_Update": "隐私保护（更新）",
-      "OtherTop_0010": "使用条款",
-      "OtherTop_0010_Update": "使用条款（更新）",
+      "OtherTop_0009": "隐私政策",
+      "OtherTop_0009_Update": "隐私政策（更新）",
+      "OtherTop_0010": "服务条款",
+      "OtherTop_0010_Update": "服务条款（更新）",
       "OtherTop_0012": "发布动画设定",
-      "OtherTop_0014": "其它",
+      "OtherTop_0014": "各种条款",
       "OtherTop_0015": "相关链接",
       "OtherTop_0017": "下载数据",
       "OtherTop_0018": "下载游戏存档数据吗？\n※推荐在连接Wi-Fi后下载。",
@@ -100,7 +104,9 @@
       "OtherTop_0031": "官方网站",
       "OtherTop_0032": "选择语言",
       "OtherTop_0033": "回放",
-      "OtherTop_0034": "对战中动画设定"
+      "OtherTop_0034": "对战中动画设定",
+      "OtherTop_0035": "登入",
+      "OtherTop_0036": "登出"
     },
     "Kor": {
       "OtherTop_0001": "프로필",
@@ -134,7 +140,9 @@
       "OtherTop_0031": "공식 홈페이지",
       "OtherTop_0032": "언어 설정",
       "OtherTop_0033": "리플레이",
-      "OtherTop_0034": "대전 중 연출 설정"
+      "OtherTop_0034": "대전 중 연출 설정",
+      "OtherTop_0035": "로그인",
+      "OtherTop_0036": "로그아웃"
     },
     "Cht": {
       "OtherTop_0001": "個人資訊",
@@ -168,7 +176,9 @@
       "OtherTop_0031": "官方網站",
       "OtherTop_0032": "切換語言",
       "OtherTop_0033": "對戰記錄",
-      "OtherTop_0034": "戰鬥效果設定"
+      "OtherTop_0034": "戰鬥效果設定",
+      "OtherTop_0035": "登入",
+      "OtherTop_0036": "登出"
     },
     "Fre": {
       "OtherTop_0001": "Profil",
@@ -202,7 +212,9 @@
       "OtherTop_0031": "Site officiel",
       "OtherTop_0032": "Langue",
       "OtherTop_0033": "Replay",
-      "OtherTop_0034": "Réglage des animations"
+      "OtherTop_0034": "Réglage des animations",
+      "OtherTop_0035": "S'identifier",
+      "OtherTop_0036": "Se déconnecter"
     },
     "Ita": {
       "OtherTop_0001": "Profilo",
@@ -236,7 +248,9 @@
       "OtherTop_0031": "Sito Ufficiale",
       "OtherTop_0032": "Lingua",
       "OtherTop_0033": "Replay",
-      "OtherTop_0034": "Impostazione Animazioni"
+      "OtherTop_0034": "Impostazione Animazioni",
+      "OtherTop_0035": "Registrati",
+      "OtherTop_0036": "Esci"
     },
     "Ger": {
       "OtherTop_0001": "Profil",
@@ -270,7 +284,9 @@
       "OtherTop_0031": "Offizielle Homepage",
       "OtherTop_0032": "Spracheinstellungen",
       "OtherTop_0033": "Wiederholung",
-      "OtherTop_0034": "Auflösung"
+      "OtherTop_0034": "Auflösung",
+      "OtherTop_0035": "Anmelden",
+      "OtherTop_0036": "Abmelden"
     },
     "Spa": {
       "OtherTop_0001": "Perfil",
@@ -304,7 +320,9 @@
       "OtherTop_0031": "Sitio Oficial",
       "OtherTop_0032": "Idioma",
       "OtherTop_0033": "Repetición",
-      "OtherTop_0034": "Ajustes de Animaciones"
+      "OtherTop_0034": "Ajustes de Animaciones",
+      "OtherTop_0035": "Iniciar sesión",
+      "OtherTop_0036": "Cerrar sesión"
     }
   }
 }

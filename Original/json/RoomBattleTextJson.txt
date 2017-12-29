@@ -104,7 +104,9 @@
       "RoomBattle_0101": "対戦相手の通信状況が不安定です\nあと{0}秒で復帰しない場合、あなたの\n勝利となります。",
       "RoomBattle_0102": "ランダム",
       "RoomBattle_0103": "先攻でお願いします",
-      "RoomBattle_0104": "後攻でお願いします"
+      "RoomBattle_0104": "後攻でお願いします",
+      "RoomBattle_0106": "フォーマット",
+      "RoomBattle_0107": "フォーマット選択"
     },
     "Eng": {
       "RoomBattle_0001": "Private Match",
@@ -210,7 +212,9 @@
       "RoomBattle_0101": "RoomBattle_0101",
       "RoomBattle_0102": "Random",
       "RoomBattle_0103": "I'll go first.",
-      "RoomBattle_0104": "I'll go second."
+      "RoomBattle_0104": "I'll go second.",
+      "RoomBattle_0106": "Format",
+      "RoomBattle_0107": "Select Format"
     },
     "Chs": {
       "RoomBattle_0001": "私人对战",
@@ -316,7 +320,9 @@
       "RoomBattle_0101": "RoomBattle_0101",
       "RoomBattle_0102": "随机",
       "RoomBattle_0103": "我要先手。",
-      "RoomBattle_0104": "我要后手。"
+      "RoomBattle_0104": "我要后手。",
+      "RoomBattle_0106": "模式",
+      "RoomBattle_0107": "选择模式"
     },
     "Kor": {
       "RoomBattle_0001": "친선전",
@@ -422,7 +428,9 @@
       "RoomBattle_0101": "RoomBattle_0101",
       "RoomBattle_0102": "랜덤",
       "RoomBattle_0103": "선공하겠습니다.",
-      "RoomBattle_0104": "후공하겠습니다."
+      "RoomBattle_0104": "후공하겠습니다.",
+      "RoomBattle_0106": "형식",
+      "RoomBattle_0107": "형식 선택"
     },
     "Cht": {
       "RoomBattle_0001": "私人對戰",
@@ -446,7 +454,7 @@
       "RoomBattle_0019": "進入對戰室時,房主不在所出現的錯誤訊息\n（暫定）",
       "RoomBattle_0020": "要進入已經進入的對戰室時所出現的錯誤訊息\n（暫定）",
       "RoomBattle_0021": "進入對戰室失敗",
-      "RoomBattle_0022": "準備完成",
+      "RoomBattle_0022": "準備\n完成",
       "RoomBattle_0023": "準備中",
       "RoomBattle_0024": "勝利數 : {0}",
       "RoomBattle_0025": "解散對戰室",
@@ -512,7 +520,7 @@
       "RoomBattle_0085": "※已選用這個職業",
       "RoomBattle_0086": "因牌組數量不足無法建立對戰室",
       "RoomBattle_0087": "因牌組數量不足無法進入對戰室",
-      "RoomBattle_0088": "選擇完成",
+      "RoomBattle_0088": "選擇\n完成",
       "RoomBattle_0089": "再戰",
       "RoomBattle_0090": "選擇規則（2Pick）",
       "RoomBattle_0091": "確定要使用所選的牌組嗎？",
@@ -528,7 +536,9 @@
       "RoomBattle_0101": "RoomBattle_0101",
       "RoomBattle_0102": "隨機",
       "RoomBattle_0103": "選擇先攻。",
-      "RoomBattle_0104": "選擇後攻。"
+      "RoomBattle_0104": "選擇後攻。",
+      "RoomBattle_0106": "形式",
+      "RoomBattle_0107": "選擇形式"
     },
     "Fre": {
       "RoomBattle_0001": "Salon",
@@ -634,7 +644,9 @@
       "RoomBattle_0101": "RoomBattle_0101",
       "RoomBattle_0102": "Au hasard",
       "RoomBattle_0103": "J'aimerais être le premier joueur.",
-      "RoomBattle_0104": "J'aimerais être le second joueur."
+      "RoomBattle_0104": "J'aimerais être le second joueur.",
+      "RoomBattle_0106": "Format",
+      "RoomBattle_0107": "Choix du format"
     },
     "Ita": {
       "RoomBattle_0001": "Match Privato",
@@ -740,7 +752,9 @@
       "RoomBattle_0101": "RoomBattle_0101",
       "RoomBattle_0102": "Casuale",
       "RoomBattle_0103": "Vorrei giocare per primo.",
-      "RoomBattle_0104": "Vorrei giocare per secondo."
+      "RoomBattle_0104": "Vorrei giocare per secondo.",
+      "RoomBattle_0106": "Formato:",
+      "RoomBattle_0107": "Scegli Formato"
     },
     "Ger": {
       "RoomBattle_0001": "Raumkampf",
@@ -846,7 +860,9 @@
       "RoomBattle_0101": "RoomBattle_0101",
       "RoomBattle_0102": "Zufall",
       "RoomBattle_0103": "Ich möchte das Duell eröffnen.",
-      "RoomBattle_0104": "Ich möchte als Zweites beginnen."
+      "RoomBattle_0104": "Ich möchte als Zweites beginnen.",
+      "RoomBattle_0106": "Format:",
+      "RoomBattle_0107": "Formatauswahl"
     },
     "Spa": {
       "RoomBattle_0001": "Batalla Privada",
@@ -883,7 +899,7 @@
       "RoomBattle_0032": "Invitado",
       "RoomBattle_0033": "Cancelar",
       "RoomBattle_0034": "¿Deseas cerrar esta batalla privada?",
-      "RoomBattle_0035": "Abandonar Sala",
+      "RoomBattle_0035": "Abandonar Partida",
       "RoomBattle_0036": "¿Deseas abandonar esta batalla privada?",
       "RoomBattle_0037": "Abandonar",
       "RoomBattle_0038": "Terminar",
@@ -892,7 +908,7 @@
       "RoomBattle_0041": "No hay ningún oponente. Comparte el ID de sala con el jugador al que deseas desafiar.",
       "RoomBattle_0042": "Expulsar",
       "RoomBattle_0043": "Expulsar",
-      "RoomBattle_0044": "¿Deseas explulsar a este jugador de la partida?",
+      "RoomBattle_0044": "¿Deseas expulsar a este jugador de la partida?",
       "RoomBattle_0045": "Has expulsado al jugador de la partida.",
       "RoomBattle_0046": "Has sido expulsado de la partida.",
       "RoomBattle_0047": "La conexión del oponente es inestable.",
@@ -914,7 +930,7 @@
       "RoomBattle_0063": "Cancelar Invitación",
       "RoomBattle_0064": "Ingresa ID de Sala",
       "RoomBattle_0065": "Aceptar Invitación",
-      "RoomBattle_0066": "Comenzar",
+      "RoomBattle_0066": "Batalla",
       "RoomBattle_0067": "No hay invitaciones de batallas privadas",
       "RoomBattle_0068": "Error de partida privada",
       "RoomBattle_0069": "Invitaciones",
@@ -922,7 +938,7 @@
       "RoomBattle_0071": "Modo de Batalla",
       "RoomBattle_0072": "Cambiar",
       "RoomBattle_0073": "Cambiar",
-      "RoomBattle_0074": "Create Sala",
+      "RoomBattle_0074": "Crear Sala",
       "RoomBattle_0075": "Modo:",
       "RoomBattle_0076": "Modo:",
       "RoomBattle_0077": "Mejor de 3",
@@ -952,7 +968,9 @@
       "RoomBattle_0101": "RoomBattle_0101",
       "RoomBattle_0102": "Al azar",
       "RoomBattle_0103": "Quiero jugar primero",
-      "RoomBattle_0104": "Quiero jugar segundo"
+      "RoomBattle_0104": "Quiero jugar segundo",
+      "RoomBattle_0106": "Formato:",
+      "RoomBattle_0107": "Elegir Formato"
     }
   }
 }

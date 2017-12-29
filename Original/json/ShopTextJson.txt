@@ -133,7 +133,9 @@
       "Shop_0134": "レッドエーテル[ffcd45]{0}[-]個使用して",
       "Shop_0135": "アイテム購入確認",
       "Shop_0136": "獲得済み",
-      "Shop_0137": "現在、購入可能な商品はありません"
+      "Shop_0137": "現在、購入可能な商品はありません",
+      "Shop_0138": "作成するデッキの\nフォーマットを選んでください。",
+      "Shop_0139": "[ffcd45]ローテーションでは使用できないカードが含まれています[-]"
     },
     "Eng": {
       "Shop_0001": "Buy Packs",
@@ -268,7 +270,9 @@
       "Shop_0134": "Use {0@vial@vials} to",
       "Shop_0135": "Confirm Purchase",
       "Shop_0136": "Received",
-      "Shop_0137": "There are no items that can be purchased at this time."
+      "Shop_0137": "There are no items that can be purchased at this time.",
+      "Shop_0138": "Please select a deck format.",
+      "Shop_0139": "Cards that can't be used in Rotation are included in this deck."
     },
     "Chs": {
       "Shop_0001": "购买卡包",
@@ -390,7 +394,7 @@
       "Shop_0121": "{0}×{1}",
       "Shop_0122": "初次购买价格",
       "Shop_0123": "还能购买{0}次",
-      "Shop_0124": "已购买\n{0}。\n\n做成牌组吗？",
+      "Shop_0124": "已购买\n{0}。\n\n生成牌组吗？",
       "Shop_0125": "",
       "Shop_0126": "",
       "Shop_0127": "",
@@ -403,7 +407,9 @@
       "Shop_0134": "使用[ffcd45]{0}[-]个红色以太",
       "Shop_0135": "确认购买道具",
       "Shop_0136": "已获得",
-      "Shop_0137": "现在没有可以购买的商品"
+      "Shop_0137": "现在没有可以购买的商品",
+      "Shop_0138": "请选择牌组的模式。",
+      "Shop_0139": "[ffcd45]包含限制模式无法使用的卡牌[-]"
     },
     "Kor": {
       "Shop_0001": "카드팩 구매",
@@ -538,7 +544,9 @@
       "Shop_0134": "레드 에테르 [ffcd45]{0}[-]개를 사용하여",
       "Shop_0135": "아이템 구매 확인",
       "Shop_0136": "획득 완료",
-      "Shop_0137": "현재 구매할 수 있는 아이템이 없습니다."
+      "Shop_0137": "현재 구매할 수 있는 아이템이 없습니다.",
+      "Shop_0138": "편성한 덱을 사용할 형식을 선택해 주십시오.",
+      "Shop_0139": "[ffcd45]로테이션에서는 사용할 수 없는 카드가 포함되어 있습니다.[-]"
     },
     "Cht": {
       "Shop_0001": "購買卡包",
@@ -673,7 +681,9 @@
       "Shop_0134": "使用[ffcd45]{0}[-]個紅色乙太",
       "Shop_0135": "確認購買道具",
       "Shop_0136": "已獲得",
-      "Shop_0137": "沒有可購買的商品"
+      "Shop_0137": "沒有可購買的商品",
+      "Shop_0138": "請選擇牌組形式。",
+      "Shop_0139": "[ffcd45]包含指定系列中無法使用的卡片[-]"
     },
     "Fre": {
       "Shop_0001": "Achat card packs",
@@ -808,7 +818,9 @@
       "Shop_0134": "Utiliser {0@Fiole@Fioles} pour",
       "Shop_0135": "Confirmer l'achat",
       "Shop_0136": "Reçu",
-      "Shop_0137": "L'objet n'est pas disponible."
+      "Shop_0137": "L'objet n'est pas disponible.",
+      "Shop_0138": "Sélectionnez le format du deck à créer.",
+      "Shop_0139": "Ce deck contient des cartes inutilisables dans le format Alterné."
     },
     "Ita": {
       "Shop_0001": "Acquista Pacchetti",
@@ -943,7 +955,9 @@
       "Shop_0134": "Utilizza {0@Fiala@Fiale} per",
       "Shop_0135": "Acquista",
       "Shop_0136": "Ottenuto",
-      "Shop_0137": "L'articolo non è disponibile."
+      "Shop_0137": "L'articolo non è disponibile.",
+      "Shop_0138": "Seleziona il formato del deck che vuoi costruire.",
+      "Shop_0139": "Sono incluse delle carte non utilizzabili nel formato Avanzato."
     },
     "Ger": {
       "Shop_0001": "Kartenpacks kaufen",
@@ -1078,7 +1092,9 @@
       "Shop_0134": "Mit {0@Phiole@Phiolen}",
       "Shop_0135": "Itemkauf bestätigen",
       "Shop_0136": "Erhalten",
-      "Shop_0137": "Item nicht vorrätig."
+      "Shop_0137": "Item nicht vorrätig.",
+      "Shop_0138": "Wähle das Format, für welches Du ein Deck erstellen willst.",
+      "Shop_0139": "Hinweis: Beinhaltet Karten, die in Quintupel nicht zur Verfügung stehen!"
     },
     "Spa": {
       "Shop_0001": "Comprar Packs",
@@ -1110,7 +1126,7 @@
       "Shop_0023": "Seleccionado",
       "Shop_0024": "Revelación Automática",
       "Shop_0029": "Ingresa tu fecha de nacimiento",
-      "Shop_0030": "El número de cristales que puedes comprar depende de tu edad. Tu\naño y mes de nacimiento no pueden ser cambiados después, así que asegúrate de introducirlos correctamente.\nSe añadirá 1 año el primero de mes siguiente a tu fecha de nacimiento.\n",
+      "Shop_0030": "El número de cristales que puedes comprar depende de tu edad. Tu año y mes de nacimiento no pueden ser cambiados después, así que asegúrate de introducirlos correctamente.\nSe añadirá 1 año el primero de mes siguiente a tu fecha de nacimiento.\n",
       "Shop_0031": "Los menores de edad necesitan la autorización de un padre o tutor para comprar cristales.\n",
       "Shop_0032": "A",
       "Shop_0033": "M",
@@ -1132,7 +1148,7 @@
       "Shop_0048": "Selecciona el número de packs que deseas comprar.",
       "Shop_0049": "Oferta Diaria",
       "Shop_0050": "Comprar Uno",
-      "Shop_0051": "Compra Conjunta",
+      "Shop_0051": "Comprar Conjunta",
       "Shop_0052": "¿Deseas volver a la pantalla de Comprar Cristales?",
       "Shop_0054": "{0}",
       "Shop_0055": "{0}",
@@ -1149,13 +1165,13 @@
       "Shop_0068": "Ingresa la fecha en formato AAAAMM.",
       "Shop_0069": "Has ingresado tu año y mes de nacimiento.",
       "Shop_0070": "Año y Mes de Nacimiento",
-      "Shop_0071": "Tu año y mes de nacimiento son {0}. ¿Confirmar?\nEsta fecha no puede ser cambiada después, así que asegúrate de introducirla correctamente.",
+      "Shop_0071": "Tu año y mes de nacimiento son {0}. ¿Confirmar?\nEsta fecha no pueden ser cambiada después, así que asegúrate de introducirlos correctamente.",
       "Shop_0072": "La compra no pudo ser completada.",
       "Shop_0073": "La compra ha sido cancelada.",
       "Shop_0074": "Esta compra no pudo ser completada. Si tu sesión sigue abierta y aún puedes ver este mensaje, comprueba tu conexión y vuelve a intentarlo. Si esto no funciona, reinicia la aplicación o tu dispositivo y vuelve a intentarlo.",
-      "Shop_0075": "0",
-      "Shop_0076": "0",
-      "Shop_0077": "0",
+      "Shop_0075": "",
+      "Shop_0076": "",
+      "Shop_0077": "",
       "Shop_0078": "Aviso a menores de edad",
       "Shop_0079": "Recuerda obtener siempre la autorización de un padre o tutor antes de realizar una compra.",
       "Shop_0080": "Aviso a menores de edad",
@@ -1213,7 +1229,9 @@
       "Shop_0134": "Usar {0@vial@viales} para",
       "Shop_0135": "Confirmar Compra",
       "Shop_0136": "Recibido",
-      "Shop_0137": "No hay artículos disponibles a la venta."
+      "Shop_0137": "No hay artículos disponibles a la venta.",
+      "Shop_0138": "Selecciona el formato del mazo a crear.",
+      "Shop_0139": "Este mazo incluye cartas no utilizables en el modo Rotación."
     }
   }
 }

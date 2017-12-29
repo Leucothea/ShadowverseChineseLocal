@@ -82,7 +82,7 @@
       "OtherCode_0008": "Ricevuto",
       "OtherCode_0009": "Inserisci il codice promo.",
       "OtherCode_0010": "Codice promo inserito con successo. Le ricompense possono essere ritirate dal Forziere.",
-      "OtherCode_0011": "Codice promozionale inserito"
+      "OtherCode_0011": "Codice Promozionale Inserito"
     },
     "Ger": {
       "OtherCode_0005": "Promo-Code eingeben",
@@ -105,7 +105,7 @@
       "OtherCode_0006": "Título",
       "OtherCode_0008": "Recibido en:",
       "OtherCode_0009": "Ingresa el código de promoción",
-      "OtherCode_0010": "El código ha sido ingresado exitosamente. Los premios pueden ser cobrados desde tu Baúl.",
+      "OtherCode_0010": "El código ha sido ingresado correctamente. Los premios pueden ser cobrados desde tu Baúl.",
       "OtherCode_0011": "Código Ingresado"
     }
   }

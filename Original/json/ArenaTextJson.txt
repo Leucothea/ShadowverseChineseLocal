@@ -123,7 +123,11 @@
       "Arena_0122": "大会を終了しますか？",
       "Arena_0123": "終了する",
       "Arena_0124": "大会を中止しますか？",
-      "Arena_0125": "中止する"
+      "Arena_0125": "中止する",
+      "Colosseum_0001": "コロシアム",
+      "Colosseum_0002": "Colosseum_0002",
+      "Colosseum_0003": "コロシアム入場",
+      "Colosseum_0004": "コロシアムへの入場方法を選択してください。"
     },
     "Eng": {
       "Arena_0001": "Arena",
@@ -248,7 +252,11 @@
       "Arena_0122": "Arena_0122",
       "Arena_0123": "Arena_0123",
       "Arena_0124": "Arena_0124",
-      "Arena_0125": "Arena_0125"
+      "Arena_0125": "Arena_0125",
+      "Colosseum_0001": "Colosseum_0001",
+      "Colosseum_0002": "Colosseum_0002",
+      "Colosseum_0003": "Colosseum_0003",
+      "Colosseum_0004": "Colosseum_0004"
     },
     "Chs": {
       "Arena_0001": "竞技场",
@@ -373,7 +381,11 @@
       "Arena_0122": "Arena_0122",
       "Arena_0123": "Arena_0123",
       "Arena_0124": "Arena_0124",
-      "Arena_0125": "Arena_0125"
+      "Arena_0125": "Arena_0125",
+      "Colosseum_0001": "Colosseum_0001",
+      "Colosseum_0002": "Colosseum_0002",
+      "Colosseum_0003": "Colosseum_0003",
+      "Colosseum_0004": "Colosseum_0004"
     },
     "Kor": {
       "Arena_0001": "아레나",
@@ -498,7 +510,11 @@
       "Arena_0122": "Arena_0122",
       "Arena_0123": "Arena_0123",
       "Arena_0124": "Arena_0124",
-      "Arena_0125": "Arena_0125"
+      "Arena_0125": "Arena_0125",
+      "Colosseum_0001": "Colosseum_0001",
+      "Colosseum_0002": "Colosseum_0002",
+      "Colosseum_0003": "Colosseum_0003",
+      "Colosseum_0004": "Colosseum_0004"
     },
     "Cht": {
       "Arena_0001": "競技場",
@@ -550,7 +566,7 @@
       "Arena_0048": "WIN",
       "Arena_0049": "LOSE",
       "Arena_0050": "請選擇其中一邊的卡片",
-      "Arena_0051": "前往第{0}戰",
+      "Arena_0051": "前往\n第{0}戰",
       "Arena_0052": "請選擇登錄牌組{0}的方式。",
       "Arena_0053": "登錄牌組",
       "Arena_0054": "請輸入牌組{0}的牌組代碼。",
@@ -623,7 +639,11 @@
       "Arena_0122": "Arena_0122",
       "Arena_0123": "Arena_0123",
       "Arena_0124": "Arena_0124",
-      "Arena_0125": "Arena_0125"
+      "Arena_0125": "Arena_0125",
+      "Colosseum_0001": "Colosseum_0001",
+      "Colosseum_0002": "Colosseum_0002",
+      "Colosseum_0003": "Colosseum_0003",
+      "Colosseum_0004": "Colosseum_0004"
     },
     "Fre": {
       "Arena_0001": "Arène",
@@ -748,7 +768,11 @@
       "Arena_0122": "Arena_0122",
       "Arena_0123": "Arena_0123",
       "Arena_0124": "Arena_0124",
-      "Arena_0125": "Arena_0125"
+      "Arena_0125": "Arena_0125",
+      "Colosseum_0001": "Colosseum_0001",
+      "Colosseum_0002": "Colosseum_0002",
+      "Colosseum_0003": "Colosseum_0003",
+      "Colosseum_0004": "Colosseum_0004"
     },
     "Ita": {
       "Arena_0001": "Arena",
@@ -873,7 +897,11 @@
       "Arena_0122": "Arena_0122",
       "Arena_0123": "Arena_0123",
       "Arena_0124": "Arena_0124",
-      "Arena_0125": "Arena_0125"
+      "Arena_0125": "Arena_0125",
+      "Colosseum_0001": "Colosseum_0001",
+      "Colosseum_0002": "Colosseum_0002",
+      "Colosseum_0003": "Colosseum_0003",
+      "Colosseum_0004": "Colosseum_0004"
     },
     "Ger": {
       "Arena_0001": "Arena",
@@ -998,7 +1026,11 @@
       "Arena_0122": "Arena_0122",
       "Arena_0123": "Arena_0123",
       "Arena_0124": "Arena_0124",
-      "Arena_0125": "Arena_0125"
+      "Arena_0125": "Arena_0125",
+      "Colosseum_0001": "Colosseum_0001",
+      "Colosseum_0002": "Colosseum_0002",
+      "Colosseum_0003": "Colosseum_0003",
+      "Colosseum_0004": "Colosseum_0004"
     },
     "Spa": {
       "Arena_0001": "Arena",
@@ -1025,7 +1057,7 @@
       "Arena_0023": "Utilizar Cristales",
       "Arena_0024": "Reanudar",
       "Arena_0025": "¿Reanudar {0}?",
-      "Arena_0026": "¿Deseas abandonar Toma Dos y cobrar tu recompensa actual?",
+      "Arena_0026": "¿Deseas abandonar Toma Dos y combrar tu recompensa actual?",
       "Arena_0027": "Cobrar Recompensas",
       "Arena_0028": "Recompensas Cobradas",
       "Arena_0029": "Seleccionar",
@@ -1035,13 +1067,13 @@
       "Arena_0033": "Recompensas",
       "Arena_0034": "Ingresar",
       "Arena_0035": "Elige cómo entrar a Toma Dos.",
-      "Arena_0036": "Utilizar Rupias",
+      "Arena_0036": "Usar Rupias",
       "Arena_0037": "Tickets Disponibles",
       "Arena_0038": "Tickets Necesarios",
       "Arena_0039": "{0}",
       "Arena_0040": "{0}",
       "Arena_0041": "{0}",
-      "Arena_0042": "entrar a Toma Dos?",
+      "Arena_0042": "¿Deseas entrar a  Toma Dos?",
       "Arena_0043": "{0@victoria@wins}",
       "Arena_0044": "x{0}",
       "Arena_0045": "{0} Ticket por entrada",
@@ -1123,7 +1155,11 @@
       "Arena_0122": "Arena_0122",
       "Arena_0123": "Arena_0123",
       "Arena_0124": "Arena_0124",
-      "Arena_0125": "Arena_0125"
+      "Arena_0125": "Arena_0125",
+      "Colosseum_0001": "Colosseum_0001",
+      "Colosseum_0002": "Colosseum_0002",
+      "Colosseum_0003": "Colosseum_0003",
+      "Colosseum_0004": "Colosseum_0004"
     }
   }
 }
