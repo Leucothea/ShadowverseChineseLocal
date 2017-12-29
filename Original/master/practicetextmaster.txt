@@ -43,7 +43,11 @@
       "Practice_7003": "イリス - 上級",
       "Practice_7004": "イリス - 上級2",
       "Practice_7005": "イリス - 超級",
-      "Practice_7006": "イリス - 超級2"
+      "Practice_7006": "イリス - 超級2",
+      "Practice_8001": "ユアン - 初級",
+      "Practice_8002": "ユアン - 中級",
+      "Practice_8003": "ユアン - 上級",
+      "Practice_8005": "ユアン - 超級"
     },
     "Eng": {
       "Practice_Maintenance": "Practice_Maintenance",
@@ -88,7 +92,11 @@
       "Practice_7003": "Eris: Expert",
       "Practice_7004": "Eris: Expert 2",
       "Practice_7005": "Eris: Elite",
-      "Practice_7006": "Eris: Elite 2"
+      "Practice_7006": "Eris: Elite 2",
+      "Practice_8001": "Yuwan: Beginner",
+      "Practice_8002": "Yuwan: Experienced",
+      "Practice_8003": "Yuwan: Expert",
+      "Practice_8005": "Yuwan: Elite"
     },
     "Chs": {
       "Practice_Maintenance": "※维护中",
@@ -133,7 +141,11 @@
       "Practice_7003": "伊莉丝 - 高级",
       "Practice_7004": "伊莉丝 - 高级2",
       "Practice_7005": "伊莉丝 - 超级",
-      "Practice_7006": "伊莉丝 - 超级2"
+      "Practice_7006": "伊莉丝 - 超级2",
+      "Practice_8001": "伊安 - 初级",
+      "Practice_8002": "伊安 - 中级",
+      "Practice_8003": "伊安 - 高级",
+      "Practice_8005": "伊安 - 超级"
     },
     "Kor": {
       "Practice_Maintenance": "※점검 중",
@@ -178,7 +190,11 @@
       "Practice_7003": "이리스 - 상급",
       "Practice_7004": "이리스 - 상급2",
       "Practice_7005": "이리스 - 최상급",
-      "Practice_7006": "이리스 - 최상급2"
+      "Practice_7006": "이리스 - 최상급2",
+      "Practice_8001": "유안 - 초급",
+      "Practice_8002": "유안 - 중급",
+      "Practice_8003": "유안 - 상급",
+      "Practice_8005": "유안 - 최상급"
     },
     "Cht": {
       "Practice_Maintenance": "※系統維護中",
@@ -223,7 +239,11 @@
       "Practice_7003": "伊莉絲 - 高級",
       "Practice_7004": "伊莉絲 - 高級2",
       "Practice_7005": "伊莉絲 - 超級",
-      "Practice_7006": "伊莉絲 - 超級2"
+      "Practice_7006": "伊莉絲 - 超級2",
+      "Practice_8001": "伊昂 - 初級",
+      "Practice_8002": "伊昂 - 中級",
+      "Practice_8003": "伊昂 - 高級",
+      "Practice_8005": "伊昂 - 超級"
     },
     "Fre": {
       "Practice_Maintenance": "Entraînement : Maintenance",
@@ -268,7 +288,11 @@
       "Practice_7003": "Eris : Expert",
       "Practice_7004": "Eris : Expert 2",
       "Practice_7005": "Eris : Élite ",
-      "Practice_7006": "Eris : Élite 2"
+      "Practice_7006": "Eris : Élite 2",
+      "Practice_8001": "Yuwan : Débutant",
+      "Practice_8002": "Yuwan : Avancé",
+      "Practice_8003": "Yuwan : Expert",
+      "Practice_8005": "Yuwan : Élite"
     },
     "Ita": {
       "Practice_Maintenance": "In Manutenzione",
@@ -313,7 +337,11 @@
       "Practice_7003": "Eris: Esperto",
       "Practice_7004": "Eris: Esperto 2",
       "Practice_7005": "Eris: Elite",
-      "Practice_7006": "Eris: Elite 2"
+      "Practice_7006": "Eris: Elite 2",
+      "Practice_8001": "Yuwan: Principiante",
+      "Practice_8002": "Yuwan: Intermedio",
+      "Practice_8003": "Yuwan: Esperto",
+      "Practice_8005": "Yuwan: Elite"
     },
     "Ger": {
       "Practice_Maintenance": "In Wartung",
@@ -358,7 +386,11 @@
       "Practice_7003": "Eris: Experte",
       "Practice_7004": "Eris: Experte 2",
       "Practice_7005": "Eris: Elite",
-      "Practice_7006": "Eris: Elite 2"
+      "Practice_7006": "Eris: Elite 2",
+      "Practice_8001": "Yuwan: Anfänger",
+      "Practice_8002": "Yuwan: Fortgeschritten",
+      "Practice_8003": "Yuwan: Experte",
+      "Practice_8005": "Yuwan: Elite"
     },
     "Spa": {
       "Practice_Maintenance": "En proceso de mantenimiento",
@@ -403,7 +435,11 @@
       "Practice_7003": "Eris: Experto",
       "Practice_7004": "Eris: Experto 2",
       "Practice_7005": "Eris: Élite",
-      "Practice_7006": "Eris: Élite 2"
+      "Practice_7006": "Eris: Élite 2",
+      "Practice_8001": "Yuwan: Principiante",
+      "Practice_8002": "Yuwan: Intermedio",
+      "Practice_8003": "Yuwan: Experto",
+      "Practice_8005": "Yuwan: Élite"
     }
   }
 }

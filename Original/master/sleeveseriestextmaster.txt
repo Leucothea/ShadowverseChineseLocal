@@ -12,10 +12,11 @@
       "SSI_アイドルマスターシンデレラガールズ": "アイドルマスター シンデレラガールズのスリーブです。\nカードスリーブはデッキ編成画面で変更できます。\n©BNEI",
       "SSI_累積BP報酬": "2016年10月～12月の累積BP報酬！\n所持していない場合はエンブレムも手に入ります。\nカードスリーブはデッキ編成画面で変更できます。",
       "SSN_累積BP報酬": "累積BP報酬",
-      "SSN_構築済みデッキ": "構築済みデッキ",
       "SSN_コラボレーション": "コラボレーション",
-      "SSN_その他": "その他",
-      "SSN_リーダースキン付きカード": "リーダースキン付きカード"
+      "SSN_ストーリー": "ストーリー",
+      "SSN_ショップ": "ショップ",
+      "SSN_キャンペーン": "キャンペーン",
+      "SSN_ゲーム外キャンペーン": "ゲーム外キャンペーン "
     },
     "Eng": {
       "SSN_ファーストシリーズ": "Rage of Bahamut",
@@ -29,10 +30,11 @@
       "SSI_アイドルマスターシンデレラガールズ": "アイドルマスター シンデレラガールズ",
       "SSI_累積BP報酬": "Oct to Dec, 2016 Score Reward sleeves are out now! You'll also get matching emblems if you don't already have them.\n\nYou can change your sleeve on the Decks screen.",
       "SSN_累積BP報酬": "Score Rewards",
-      "SSN_構築済みデッキ": "Prebuilt Decks",
       "SSN_コラボレーション": "Tie-Ins",
-      "SSN_その他": "Others",
-      "SSN_リーダースキン付きカード": "Leader Cards"
+      "SSN_ストーリー": "Main Story",
+      "SSN_ショップ": "Shop",
+      "SSN_キャンペーン": "In-Game Events",
+      "SSN_ゲーム外キャンペーン": "Other Events"
     },
     "Chs": {
       "SSN_ファーストシリーズ": "第一弹",
@@ -44,12 +46,13 @@
       "SSI_サードシリーズ": "SSI_サードシリーズ",
       "SSI_グランブルーファンタジー": "在蔚蓝的天空冒险的正统角色扮演游戏！\n战斗中可以使用能造成巨大伤害的“奥义”\n或强力的“星晶兽”，简单的操作就能\n体验华丽的战斗！\n在编辑牌组中可以变更卡套。",
       "SSI_アイドルマスターシンデレラガールズ": "偶像大师 灰姑娘的卡背。\n在编辑牌组中可以变更卡背。\n©BNEI",
-      "SSI_累積BP報酬": "2016年10月-12月的累积BP报酬！\n未拥有时，可获得徽章。\n在编辑牌组中可以变更卡套。",
-      "SSN_累積BP報酬": "累积BP报酬",
-      "SSN_構築済みデッキ": "预组牌组",
+      "SSI_累積BP報酬": "2016年10月-12月的累计BP报酬！\n未拥有时，可获得徽章。\n在编辑牌组中可以变更卡套。",
+      "SSN_累積BP報酬": "累计BP报酬",
       "SSN_コラボレーション": "联动",
-      "SSN_その他": "其它",
-      "SSN_リーダースキン付きカード": "附带角色皮肤的卡牌"
+      "SSN_ストーリー": "剧情",
+      "SSN_ショップ": "商店",
+      "SSN_キャンペーン": "活动",
+      "SSN_ゲーム外キャンペーン": "线下活动"
     },
     "Kor": {
       "SSN_ファーストシリーズ": "첫번째 시리즈",
@@ -63,10 +66,11 @@
       "SSI_アイドルマスターシンデレラガールズ": "아이돌 마스터 신데렐라 걸즈의 카드뒷면입니다.\n카드뒷면은 덱 편성 화면에서 변경할 수 있습니다.\n©BNEI",
       "SSI_累積BP報酬": "2016년 10월 ~ 12월 누적 BP 보상!\n보유하고 있지 않은 엠블럼을 획득할 수 있습니다.\n카드뒷면은 덱 편성 화면에서 변경할 수 있습니다.",
       "SSN_累積BP報酬": "누적 BP 보상",
-      "SSN_構築済みデッキ": "테마팩",
       "SSN_コラボレーション": "콜라보레이션",
-      "SSN_その他": "기타",
-      "SSN_リーダースキン付きカード": "리더스킨 카드"
+      "SSN_ストーリー": "스토리",
+      "SSN_ショップ": "상점",
+      "SSN_キャンペーン": "이벤트",
+      "SSN_ゲーム外キャンペーン": "게임 외 이벤트"
     },
     "Cht": {
       "SSN_ファーストシリーズ": "第一季",
@@ -80,10 +84,11 @@
       "SSI_アイドルマスターシンデレラガールズ": "偶像大師 灰姑娘女孩的主題卡背。\n卡背可在編輯牌組的頁面進行變更。\n©BNEI",
       "SSI_累積BP報酬": "2016年10月～12月的累積BP獎勵！\n除卡背之外還能同時獲得徽章。\n卡背可在編輯牌組的頁面進行變更。",
       "SSN_累積BP報酬": "累積BP獎勵",
-      "SSN_構築済みデッキ": "主題牌組",
       "SSN_コラボレーション": "合作活動",
-      "SSN_その他": "其他",
-      "SSN_リーダースキン付きカード": "主戰者造型套裝卡片"
+      "SSN_ストーリー": "主線劇情",
+      "SSN_ショップ": "商店",
+      "SSN_キャンペーン": "活動",
+      "SSN_ゲーム外キャンペーン": "線下活動"
     },
     "Fre": {
       "SSN_ファーストシリーズ": "Rage of Bahamut",
@@ -97,10 +102,11 @@
       "SSI_アイドルマスターシンデレラガールズ": "Dos de carte à l'éffigie de \\\"The Idolmaster: Cinderella Girls\\\".\nVous pouvez changer de dos de carte à l'écran Édition decks.\n\n©BNEI",
       "SSI_累積BP報酬": "Les Récompenses PBC pour la période courant d'octobre à décembre 2016.\nVous pouvez obtenir des icônes même si vous ne réussissez pas à obtenir vos Récompenses PBC.\nVous pouvez changer de dos de carte à l'écran Édition decks.",
       "SSN_累積BP報酬": "Récompenses PBC",
-      "SSN_構築済みデッキ": "Deck préarrangé",
-      "SSN_コラボレーション": "Collaboration",
-      "SSN_その他": "Autres",
-      "SSN_リーダースキン付きカード": "Version skin meneur"
+      "SSN_コラボレーション": "Featuring",
+      "SSN_ストーリー": "Histoire",
+      "SSN_ショップ": "Magasin",
+      "SSN_キャンペーン": "Offre spéciale",
+      "SSN_ゲーム外キャンペーン": "Événement"
     },
     "Ita": {
       "SSN_ファーストシリーズ": "Rage of Bahamut",
@@ -114,10 +120,11 @@
       "SSI_アイドルマスターシンデレラガールズ": "Il dorso speciale di \\\"The Idolmaster: Cinderella Girls\\\".\nPuoi cambiare il dorso delle carte nel menu del Deck.\n\n©BNEI",
       "SSI_累積BP報酬": "Ecco i Premi Punteggio resi disponibili tra ottobre e dicembre 2016!\nIn caso tu non sia riuscito ad ottenerli, ricevi anche gli emblemi.\nPuoi cambiare il dorso delle carte nel menu del Deck.",
       "SSN_累積BP報酬": "Premi Punteggio",
-      "SSN_構築済みデッキ": "Deck Pre-costruiti",
       "SSN_コラボレーション": "Collaborazioni",
-      "SSN_その他": "Altro",
-      "SSN_リーダースキン付きカード": "Versione con il Leader Incluso"
+      "SSN_ストーリー": "Modalità Storia",
+      "SSN_ショップ": "Negozio",
+      "SSN_キャンペーン": "Campagne",
+      "SSN_ゲーム外キャンペーン": "Eventi"
     },
     "Ger": {
       "SSN_ファーストシリーズ": "Rage of Bahamut",
@@ -131,10 +138,11 @@
       "SSI_アイドルマスターシンデレラガールズ": "Kartenrücken im Design von \\\"The Idolmaster: Cinderella Girls\\\".\nKartenrücken-Designs können auf dem Deckbildschirm geändert werden.\n\n©BNEI",
       "SSI_累積BP報酬": "Ursprünglich als KP-Belohnungen im Zeitraum von Oktober bis Dezember 2016 erhältlich.\n\nDaneben können spezielle Embleme erhalten werden, sofern Du diese noch nicht besitzt.\n\nKartenrücken-Designs können auf dem Deckbildschirm geändert werden.",
       "SSN_累積BP報酬": "KP-Belohnung",
-      "SSN_構築済みデッキ": "Starterdeck",
       "SSN_コラボレーション": "Kollaboration",
-      "SSN_その他": "Andere",
-      "SSN_リーダースキン付きカード": "Anführerskin-Edition"
+      "SSN_ストーリー": "Storymodus",
+      "SSN_ショップ": "Shop",
+      "SSN_キャンペーン": "Belohnung",
+      "SSN_ゲーム外キャンペーン": "Bonusitem"
     },
     "Spa": {
       "SSN_ファーストシリーズ": "Rage of Bahamut",
@@ -148,10 +156,11 @@
       "SSI_アイドルマスターシンデレラガールズ": "Dorso especial de \\\"The Idolmaster: Cinderella Girls\\\".\n\nPuedes cambiar el dorso de las cartas en el menú Mazos.",
       "SSI_累積BP報酬": "¡Las recompensas de puntuación de Octubre-Diciembre 2016 ya están aquí! También recibirás emblemas si aún no los has obtenido. \n\nPuedes cambiar el dorso de las cartas en el menú Mazos.\n",
       "SSN_累積BP報酬": "Recompensas por Puntuación",
-      "SSN_構築済みデッキ": "Mazos Preconstruidos",
       "SSN_コラボレーション": "Colaboraciones",
-      "SSN_その他": "Otros",
-      "SSN_リーダースキン付きカード": "Cartas con skin incluído"
+      "SSN_ストーリー": "Modo Historia",
+      "SSN_ショップ": "Tienda",
+      "SSN_キャンペーン": "Promociones",
+      "SSN_ゲーム外キャンペーン": "Eventos"
     }
   }
 }
