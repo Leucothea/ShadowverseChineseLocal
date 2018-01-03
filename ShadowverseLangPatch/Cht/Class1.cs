@@ -50,7 +50,14 @@ namespace Galstars.Extensions
                     string str2 = sub_dic.Contains(key) ? sub_dic[key].ToString() : target_dic[key];
                     if (!string.IsNullOrEmpty(key) && ((string.IsNullOrEmpty(str2) || ((STRING_CHS == "Eng") && (key.Trim().ToUpper() == str2.Trim().ToUpper()))) || ((STRING_CHS == "Chs") && (key[0] == str2[0]))))
                     {
-                        str2 = jp_dic[key].ToString();
+                        if (jp_dic.Contains(key))
+                        {
+                            str2 = jp_dic[key].ToString();
+                        }
+                        else
+                        {
+                            str2 = "NotFound";
+                        }
                     }
                     tmp_dic.Add(key, str2);
                 }

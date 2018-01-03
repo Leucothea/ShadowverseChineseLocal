@@ -16,7 +16,7 @@ namespace ShadowverseLangPatch
             try
             {
                 Console.ForegroundColor = ConsoleColor.Yellow;
-                Console.WriteLine("暗影之诗 Shadowverse PC+Mac简繁汉化补丁 v7.0.4\n");
+                Console.WriteLine("暗影之诗 Shadowverse PC+Mac简繁汉化补丁 v8.0.0\n");
                 Console.WriteLine("汉化：岚兮雨汐 町城安里 蔽月八云 淺夏");
                 Console.WriteLine("程序：永久告别 船长唱搁浅");
                 Console.WriteLine("PC测试：没有呆毛的Saber");
@@ -240,25 +240,36 @@ namespace ShadowverseLangPatch
                 var method = type.Methods.FirstOrDefault(o => o.Name == ".cctor");
                 if (method != null)
                 {
-                    if (method.Body.Instructions[222].OpCode == OpCodes.Ldstr && (string)method.Body.Instructions[222].Operand == "A-OTF-KaiminTuStd-Bold"
-                        && method.Body.Instructions[224].OpCode == OpCodes.Ldstr && (string)method.Body.Instructions[224].Operand == "A-OTF-KaiminTuStd-Bold"
-                        )
+                    bool found = false;
+                    for(int i = 0; i < method.Body.Instructions.Count - 2; ++i)
                     {
-                        method.Body.Instructions[222] = Instruction.Create(OpCodes.Ldstr, "TT0818M");
-                        method.Body.Instructions[224] = Instruction.Create(OpCodes.Ldstr, "TT0818M");
-                        //2
-                        type = assembly.MainModule.Types.FirstOrDefault(x => x.FullName == "UILabel");
-                        if (type != null)
+                        if (method.Body.Instructions[i].OpCode == OpCodes.Ldstr && (string)method.Body.Instructions[i].Operand == "A-OTF-KaiminTuStd-Bold"
+                        && method.Body.Instructions[i + 2].OpCode == OpCodes.Ldstr && (string)method.Body.Instructions[i + 2].Operand == "A-OTF-KaiminTuStd-Bold"
+                        )
                         {
-                            method = type.Methods.FirstOrDefault(o => o.Name == "OnInit");
-                            if (method != null)
+                            found = true;
+                            method.Body.Instructions[i] = Instruction.Create(OpCodes.Ldstr, "TT0818M");
+                            method.Body.Instructions[i + 2] = Instruction.Create(OpCodes.Ldstr, "TT0818M");
+                            //2
+                            type = assembly.MainModule.Types.FirstOrDefault(x => x.FullName == "UILabel");
+                            if (type != null)
                             {
-                                method.Body.Instructions[9] = Instruction.Create(OpCodes.Ldstr, "Fonts/Jpn/");
-                                method.Body.Instructions[10] = Instruction.Create(OpCodes.Ldstr, "TT0818M");
+                                method = type.Methods.FirstOrDefault(o => o.Name == "OnInit");
+                                if (method != null)
+                                {
+                                    for(int j = 0; j < method.Body.Instructions.Count; ++j)
+                                    {
+                                        if(method.Body.Instructions[j].OpCode == OpCodes.Ldstr && (string)method.Body.Instructions[j].Operand == "Fonts/Jpn/A-OTF-KaiminTuStd-Bold")
+                                        {
+                                            method.Body.Instructions[j] = Instruction.Create(OpCodes.Ldstr, "Fonts/Jpn/TT0818M");
+                                        }
+                                    }
+                                }
                             }
+                            break;
                         }
                     }
-                    else
+                    if(!found)
                     {
                         Console.ForegroundColor = ConsoleColor.Red;
                         Console.WriteLine("警告：字体补丁应用失败");
