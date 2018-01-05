@@ -206,7 +206,7 @@ namespace Galstars.Extensions
             Regex regex14 = new Regex("Defeat (.*?) on Elite difficulty.+?Practice.+");
             str = regex14.Replace(str, "练习模式：战胜超级难度的$1");
             Regex regex15 = new Regex("Defeat (.*?) on Elite 2 difficulty.+?Practice.+");
-            str = regex15.Replace(str, "练习模式：战胜超级难度(2)的$1");
+            str = regex15.Replace(str, "练习模式：战胜超级(2)难度的$1");
             //替换人名
             str = str.Replace("Forestcraft", "精灵");
             str = str.Replace("Swordcraft", "皇室护卫");
@@ -222,7 +222,8 @@ namespace Galstars.Extensions
             str = str.Replace("Luna", "露娜");
             str = str.Replace("Urias", "尤里亚斯");
             str = str.Replace("Eris", "伊莉丝");
-            str = str.Replace("Clear 7 leaders' stories up to Chapter 8", "完成全部7位英雄的主线剧情第8章");
+            str = str.Replace("Cleared 7 leaders' stories up to Chapter 8: The Morning Star", "完成7位英雄的主线剧情「第8章 灾厄之树」");
+            str = str.Replace("Cleared Chapter 12 of The Morning Star: Conclusion", "");
             str = str.Replace("Battle 20 players in Private Match", "和20个不同的玩家进行私人对战");
             str = str.Replace("without quitting", "中途不可弃权");
             //最后替换没什么用的东西
@@ -231,7 +232,6 @@ namespace Galstars.Extensions
             str = str.Replace("or ", "或者");
             str = str.Replace("Take Two", "双选模式");
             str = str.Replace("Link Shadowverse with another service", "绑定谷歌或者脸书");
-            str = str.Replace("Clear seven leaders' stories", "通关全部7位英雄的主线剧情");
             return str;
         }
 
@@ -278,10 +278,11 @@ namespace Galstars.Extensions
             str = str.Replace("プラクティス", "练习模式");
             str = str.Replace("ルームマッチ", "私人对战");
             str = str.Replace("の超級に勝利する", "的超级难度");
-            str = str.Replace("の超級2に勝利する", "的超级难度(2)");
+            str = str.Replace("の超級2に勝利する", "的超级(2)难度");
+            str = str.Replace("7リーダーのストーリー [8章 災いの樹] をクリアする", "完成7位英雄的主线剧情「第8章 灾厄之树」");
+            str = str.Replace("メインストーリー [災いの樹編-最終章-] を12章までクリアする", "");
             str = str.Replace("20人と対戦する", "和20个不同的玩家进行私人对战");
             str = str.Replace("お互いリタイアせず対戦を終える", "中途不可弃权");
-            str = str.Replace("7リーダーのストーリーを8章までクリアする", "完成全部7位英雄的主线剧情第8章");
             //最后替换没什么用的东西
             str = str.Replace("ランクマッチ", "天梯匹配");
             str = str.Replace("フリーマッチ", "自由匹配");
@@ -291,7 +292,6 @@ namespace Galstars.Extensions
             str = str.Replace("にする", "级");
             str = str.Replace("ランクに", "段位");
             str = str.Replace("到達する", "达成");
-            str = str.Replace("７リーダーのストーリーを全てクリアする", "通关全部7位英雄的主线剧情");
             str = str.Replace("で", "");
             return str;
         }
