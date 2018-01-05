@@ -205,7 +205,7 @@ namespace Galstars.Extensions
             Regex regex14 = new Regex("Defeat (.*?) on Elite difficulty.+?Practice.+");
             str = regex14.Replace(str, "練習模式：戰勝超級難度的$1");
             Regex regex15 = new Regex("Defeat (.*?) on Elite 2 difficulty.+?Practice.+");
-            str = regex15.Replace(str, "練習模式：戰勝超級難度(2)的$1");
+            str = regex15.Replace(str, "練習模式：戰勝超級(2)難度的$1");
             //替換人名
             str = str.Replace("Forestcraft", "精靈");
             str = str.Replace("Swordcraft", "皇室護衛");
@@ -214,6 +214,7 @@ namespace Galstars.Extensions
             str = str.Replace("Shadowcraft", "死靈術士");
             str = str.Replace("Bloodcraft", "吸血鬼");
             str = str.Replace("Havencraft", "主教");
+            str = str.Replace("Portalcraft", "復仇者");
             str = str.Replace("Arisa", "亞里莎");
             str = str.Replace("Erika", "艾莉華");
             str = str.Replace("Isabelle", "伊莎貝爾");
@@ -221,8 +222,10 @@ namespace Galstars.Extensions
             str = str.Replace("Luna", "露娜");
             str = str.Replace("Urias", "尤里亞斯");
             str = str.Replace("Eris", "伊莉絲");
-            str = str.Replace("Clear 7 leaders' stories up to Chapter 8", "完成全部7位英雄的主線劇情第8章");
-            str = str.Replace("Battle 20 players in Private Match", "和20個不同的玩家進行私人對戰");
+            str = str.Replace("Yuwan", "伊昂");
+            str = str.Replace("Cleared 7 leaders' stories up to Chapter 8: The Morning Star", "完成7位英雄的主線劇情「第8章 災厄之樹」");
+            str = str.Replace("Cleared Chapter 12 of The Morning Star: Conclusion", "完成主線劇情「災厄之樹篇 -終章-」的第12章");
+            str = str.Replace("Battle 20 players in Private Match", "與20位不同的玩家進行私人對戰");
             str = str.Replace("without quitting", "中途不可棄權");
             //最後替換沒什麼用的東西
             str = str.Replace("Ranked", "天梯匹配");
@@ -230,7 +233,6 @@ namespace Galstars.Extensions
             str = str.Replace("or ", "或者");
             str = str.Replace("Take Two", "雙選模式");
             str = str.Replace("Link Shadowverse with another service", "連攜谷歌或者臉書");
-            str = str.Replace("Clear seven leaders' stories", "通關全部7位英雄的主線劇情");
             return str;
         }
 
@@ -267,6 +269,7 @@ namespace Galstars.Extensions
             str = str.Replace("ネクロマンサー", "死靈術士");
             str = str.Replace("ヴァンパイア", "吸血鬼");
             str = str.Replace("ビショップ", "主教");
+            str = str.Replace("ネメシス", "復仇者");
             str = str.Replace("アリサ", "亞里莎");
             str = str.Replace("エリカ", "艾莉華");
             str = str.Replace("イザベル", "伊莎貝爾");
@@ -274,13 +277,15 @@ namespace Galstars.Extensions
             str = str.Replace("ルナ", "露娜");
             str = str.Replace("ユリアス", "尤里亞斯");
             str = str.Replace("イリス", "伊莉絲");
+            str = str.Replace("ユアン", "伊昂");
             str = str.Replace("プラクティス", "練習模式");
             str = str.Replace("ルームマッチ", "私人對戰");
             str = str.Replace("の超級に勝利する", "的超級難度");
-            str = str.Replace("の超級2に勝利する", "的超級難度(2)");
-            str = str.Replace("20人と対戦する", "和20個不同的玩家進行私人對戰");
+            str = str.Replace("の超級2に勝利する", "的超級(2)難度");
+            str = str.Replace("7リーダーのストーリー [8章 災いの樹] をクリアする", "完成7位英雄的主線劇情「第8章 災厄之樹」");
+            str = str.Replace("メインストーリー [災いの樹編-最終章-] を12章までクリアする", "完成主線劇情「災厄之樹篇 -終章-」的第12章");
+            str = str.Replace("20人と対戦する", "與20位不同的玩家進行私人對戰");
             str = str.Replace("お互いリタイアせず対戦を終える", "中途不可棄權");
-            str = str.Replace("7リーダーのストーリーを8章までクリアする", "完成全部7位英雄的主線劇情第8章");
             //最後替換沒什麼用的東西
             str = str.Replace("ランクマッチ", "天梯匹配");
             str = str.Replace("フリーマッチ", "自由匹配");
@@ -290,7 +295,6 @@ namespace Galstars.Extensions
             str = str.Replace("にする", "級");
             str = str.Replace("ランクに", "段位");
             str = str.Replace("到達する", "達成");
-            str = str.Replace("７リーダーのストーリーを全てクリアする", "通關全部7位英雄的主線劇情");
             str = str.Replace("で", "");
             return str;
         }

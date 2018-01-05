@@ -215,6 +215,7 @@ namespace Galstars.Extensions
             str = str.Replace("Shadowcraft", "死灵术士");
             str = str.Replace("Bloodcraft", "血族");
             str = str.Replace("Havencraft", "主教");
+            str = str.Replace("Portalcraft", "复仇者");
             str = str.Replace("Arisa", "亚里莎");
             str = str.Replace("Erika", "艾莉卡");
             str = str.Replace("Isabelle", "伊莎贝尔");
@@ -222,9 +223,10 @@ namespace Galstars.Extensions
             str = str.Replace("Luna", "露娜");
             str = str.Replace("Urias", "尤里亚斯");
             str = str.Replace("Eris", "伊莉丝");
+            str = str.Replace("Yuwan", "伊昂");
             str = str.Replace("Cleared 7 leaders' stories up to Chapter 8: The Morning Star", "完成7位英雄的主线剧情「第8章 灾厄之树」");
-            str = str.Replace("Cleared Chapter 12 of The Morning Star: Conclusion", "");
-            str = str.Replace("Battle 20 players in Private Match", "和20个不同的玩家进行私人对战");
+            str = str.Replace("Cleared Chapter 12 of The Morning Star: Conclusion", "完成主线剧情「灾厄之树篇 -终章-」的第12章");
+            str = str.Replace("Battle 20 players in Private Match", "与20位不同的玩家进行私人对战");
             str = str.Replace("without quitting", "中途不可弃权");
             //最后替换没什么用的东西
             str = str.Replace("Ranked", "天梯匹配");
@@ -268,6 +270,7 @@ namespace Galstars.Extensions
             str = str.Replace("ネクロマンサー", "死灵术士");
             str = str.Replace("ヴァンパイア", "血族");
             str = str.Replace("ビショップ", "主教");
+            str = str.Replace("ネメシス", "复仇者");
             str = str.Replace("アリサ", "亚里莎");
             str = str.Replace("エリカ", "艾莉卡");
             str = str.Replace("イザベル", "伊莎贝尔");
@@ -275,13 +278,14 @@ namespace Galstars.Extensions
             str = str.Replace("ルナ", "露娜");
             str = str.Replace("ユリアス", "尤里亚斯");
             str = str.Replace("イリス", "伊莉丝");
+            str = str.Replace("ユアン", "伊昂");
             str = str.Replace("プラクティス", "练习模式");
             str = str.Replace("ルームマッチ", "私人对战");
             str = str.Replace("の超級に勝利する", "的超级难度");
             str = str.Replace("の超級2に勝利する", "的超级(2)难度");
             str = str.Replace("7リーダーのストーリー [8章 災いの樹] をクリアする", "完成7位英雄的主线剧情「第8章 灾厄之树」");
-            str = str.Replace("メインストーリー [災いの樹編-最終章-] を12章までクリアする", "");
-            str = str.Replace("20人と対戦する", "和20个不同的玩家进行私人对战");
+            str = str.Replace("メインストーリー [災いの樹編-最終章-] を12章までクリアする", "完成主线剧情「灾厄之树篇 -终章-」的第12章");
+            str = str.Replace("20人と対戦する", "与20位不同的玩家进行私人对战");
             str = str.Replace("お互いリタイアせず対戦を終える", "中途不可弃权");
             //最后替换没什么用的东西
             str = str.Replace("ランクマッチ", "天梯匹配");
