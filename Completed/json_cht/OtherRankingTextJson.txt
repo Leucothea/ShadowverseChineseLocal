@@ -1,9 +1,9 @@
 {
       "Ranking_0001_Menu": "對戰積分",
       "Ranking_0001_Header": "對戰積分排行榜",
-      "Ranking_0002_Menu": "大師級積分",
+      "Ranking_0002_Menu": "大師級積分\n輪換",
       "Ranking_0002_Header": "大師級積分排行榜",
-      "Ranking_0003_Menu": "天梯勝場",
+      "Ranking_0003_Menu": "天梯勝場\n輪換",
       "Ranking_0003_Header": "天梯勝場排行榜",
       "Ranking_0004_Menu": "競技場",
       "Ranking_0004_Header_Old": "競技場勝場排行榜",
@@ -15,5 +15,8 @@
       "Ranking_0202": "排行榜統計中",
       "Ranking_0301": "上賽季",
       "Ranking_0302": "本賽季",
-      "Ranking_0303": "選擇賽季"
+      "Ranking_0303": "選擇賽季",
+      "Ranking_0304": "祢",
+      "Ranking_0305": "大師級積分\n無限",
+      "Ranking_0306": "天梯勝場\n無限"
 }

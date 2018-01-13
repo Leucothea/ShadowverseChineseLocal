@@ -30,5 +30,7 @@
       "OtherTop_0031": "遊戲台灣官網",
       "OtherTop_0032": "選擇語言",
       "OtherTop_0033": "回放",
-      "OtherTop_0034": "戰鬥特效設定"
+      "OtherTop_0034": "戰鬥特效設定",
+      "OtherTop_0035": "登録",
+      "OtherTop_0036": "註銷"
 }

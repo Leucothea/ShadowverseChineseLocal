@@ -102,5 +102,7 @@
       "RoomBattle_0101": "对战玩家的网络不稳定\n若在{0}秒内无法重连成功\n您将获得胜利。",
       "RoomBattle_0102": "随机",
       "RoomBattle_0103": "选择先手",
-      "RoomBattle_0104": "选择后手"
+      "RoomBattle_0104": "选择后手",
+      "RoomBattle_0106": "模式",
+      "RoomBattle_0107": "选择模式"
 }

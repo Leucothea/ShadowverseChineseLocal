@@ -27,5 +27,7 @@
       "URL_0014_steam": "https://shadowverse.com/cht/",
       "URL_0015": "https://shadowverse.com/cht/",
       "URL_0015_dmm": "https://dmm.shadowverse.jp/",
-      "URL_0015_steam": "http://store.steampowered.com/app/453480/"
+      "URL_0015_steam": "http://store.steampowered.com/app/453480/",
+      "URL_0016_steam": "https://shadowverse.com/cht/news/detail.php?announce_id={0}",
+      "URL_0016_dmm": "https://dmm.shadowverse.jp/news?announce_id={0}"
 }
