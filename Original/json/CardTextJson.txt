@@ -202,7 +202,10 @@
       "Card_0194": "プライズカードのため\n生成/分解できません",
       "Card_0195": "未入手の\nプライズカード",
       "Card_0196": "デッキ作成不可",
-      "Card_0197": "使用できないカードが含まれています。"
+      "Card_0197": "使用できないカードが含まれています。",
+      "Card_0204": "[ffcd45]アンリミテッドで禁止されているカードです[-]",
+      "Card_0205": "[ffcd45]アンリミテッドで1枚制限されているカードです[-]",
+      "Card_0206": "[ffcd45]アンリミテッドで2枚制限されているカードです[-]"
     },
     "Eng": {
       "Card_0001": "Decklist (Rotation)",
@@ -406,7 +409,10 @@
       "Card_0194": "Promo cards can't be created or liquefied.",
       "Card_0195": "Missing Promo Card",
       "Card_0196": "This deck cannot be used.",
-      "Card_0197": "This deck contains cards that cannot be used."
+      "Card_0197": "This deck contains cards that cannot be used.",
+      "Card_0204": "This card is banned in Unlimited.",
+      "Card_0205": "Only 1 copy of this card can be included in an Unlimited deck.",
+      "Card_0206": "Only 2 copies of this card can be included in an Unlimited deck."
     },
     "Chs": {
       "Card_0001": "牌组列表 限制模式",
@@ -610,7 +616,10 @@
       "Card_0194": "赠品卡牌不能分解和制作",
       "Card_0195": "未拥有的\n赠品卡牌",
       "Card_0196": "无法制作牌组",
-      "Card_0197": "包含无法使用的卡牌。"
+      "Card_0197": "包含无法使用的卡牌。",
+      "Card_0204": "[ffcd45]无限模式中被禁止的卡牌[-]",
+      "Card_0205": "[ffcd45]无限模式中仅限使用1张的卡牌[-]",
+      "Card_0206": "[ffcd45]无限模式中仅限使用2张的卡牌[-]"
     },
     "Kor": {
       "Card_0001": "로테이션 덱 리스트",
@@ -814,7 +823,10 @@
       "Card_0194": "한정 카드는\n제작/분해할 수 없습니다.",
       "Card_0195": "미획득\n한정 카드",
       "Card_0196": "덱 편성 불가",
-      "Card_0197": "사용할 수 없는 카드가 포함되어 있습니다."
+      "Card_0197": "사용할 수 없는 카드가 포함되어 있습니다.",
+      "Card_0204": "[ffcd45]언리미티드에서 사용할 수 없는 카드입니다.[-]",
+      "Card_0205": "[ffcd45]언리미티드에서 1장만 사용할 수 있는 카드입니다.[-]",
+      "Card_0206": "[ffcd45]언리미티드에서 2장까지 사용할 수 있는 카드입니다.[-]"
     },
     "Cht": {
       "Card_0001": "牌組清單 指定系列",
@@ -1018,7 +1030,10 @@
       "Card_0194": "無法製作/分解永久卡",
       "Card_0195": "未獲得的\n永久卡",
       "Card_0196": "無法製作牌組",
-      "Card_0197": "牌組中包含無法使用的卡片"
+      "Card_0197": "牌組中包含無法使用的卡片",
+      "Card_0204": "[ffcd45]無限制形式中禁用的卡片[-]",
+      "Card_0205": "[ffcd45]無限制形式中限用1張的卡片[-]",
+      "Card_0206": "[ffcd45]無限制形式中限用2張的卡片[-]"
     },
     "Fre": {
       "Card_0001": "Decks (Alterné)",
@@ -1036,7 +1051,7 @@
       "Card_0014": "Le nom a été modifié.",
       "Card_0018": "Sauvegarder",
       "Card_0019": "Le deck a été sauvegardé.",
-      "Card_0015": "Changer le dos de carte",
+      "Card_0015": "Changer dos de carte",
       "Card_0016": "Voulez-vous remplacer le dos de carte {0} par le dos de carte {1} ?",
       "Card_0017": "Statistiques PP",
       "Card_0020": "Édition auto",
@@ -1209,8 +1224,8 @@
       "Card_0181": "Copier dos de carte et skin meneur",
       "Card_0182": "Les skins meneurs sélectionnées dans votre Profil s'afficheront.",
       "Card_0183": "Cette carte ne peut pas être créée.",
-      "Card_0184": "Sélectionner la catégorie",
-      "Card_0185": "Sélectionner la catégorie",
+      "Card_0184": "Sélectionner catégorie",
+      "Card_0185": "Sélectionner catégorie",
       "Card_0186": "Toutes",
       "Card_0187": "Decks (Illimité)",
       "Card_0188": "Ce deck contient des cartes inutilisables.",
@@ -1222,7 +1237,10 @@
       "Card_0194": "Les cartes spéciales ne peuvent ni être créées ni dissoutes.",
       "Card_0195": "Cartes spéciales manquantes",
       "Card_0196": "Ce deck ne peut pas être créé",
-      "Card_0197": "Ce deck contient des cartes inutilisables."
+      "Card_0197": "Ce deck contient des cartes inutilisables.",
+      "Card_0204": "Cette carte ne peut pas être utilisée en Illimité.",
+      "Card_0205": "Une seule copie de cette carte peut être utilisée dans un deck Illimité.",
+      "Card_0206": "Seules 2 copies de cette carte peuvent être utilisées dans un deck Illimité."
     },
     "Ita": {
       "Card_0001": "Lista dei Deck (Avanzato)",
@@ -1426,7 +1444,10 @@
       "Card_0194": "Le carte premio non possono essere create o fuse. ",
       "Card_0195": "Carta Premio Mancante",
       "Card_0196": "Deck non Costruibile",
-      "Card_0197": "Sono incluse carte inutilizzabili."
+      "Card_0197": "Sono incluse carte inutilizzabili.",
+      "Card_0204": "Questa carta è bannata nel formato Illimitato.",
+      "Card_0205": "Puoi inserire solamente una copia di questa carta in un deck Illimitato.",
+      "Card_0206": "Puoi inserire solamente due copie di questa carta in un deck Illimitato."
     },
     "Ger": {
       "Card_0001": "Decks (Quintupel)",
@@ -1630,7 +1651,10 @@
       "Card_0194": "Preiskarten können weder erzeugt noch zersetzt werden.",
       "Card_0195": "Fehlende\nPreiskarte",
       "Card_0196": "Deckerstellung fehlgeschlagen",
-      "Card_0197": "Beinhaltet unzulässige Karten."
+      "Card_0197": "Beinhaltet unzulässige Karten.",
+      "Card_0204": "Diese Karte kann nicht in Unbegrenzt verwendet werden.",
+      "Card_0205": "Es kann lediglich 1 Exemplar dieser Karte in Unbegrenzt verwendet werden.",
+      "Card_0206": "Es können lediglich 2 Exemplare dieser Karte in Unbegrenzt verwendet werden."
     },
     "Spa": {
       "Card_0001": "Lista de Mazos (Rotación)",
@@ -1644,7 +1668,7 @@
       "Card_0009": "¿Deseas eliminar este mazo?",
       "Card_0010": "El mazo ha sido eliminado.",
       "Card_0011": "Nombre de Mazo",
-      "Card_0012": "Ingresa un nombre para este mazo.",
+      "Card_0012": "Introduce un nombre para este mazo.",
       "Card_0014": "El nombre del mazo ha sido cambiado.",
       "Card_0018": "Guardar",
       "Card_0019": "El mazo ha sido guardado.",
@@ -1714,7 +1738,7 @@
       "Card_0090": "Amuletos",
       "Card_0091": "{0}",
       "Card_0092": "¿Deseas crear un mazo aleatorio?",
-      "Card_0093": "Tres copias de cada carta serán guardadas, y las cartas restantes serán disueltas.\n(Excepto cartas animadas, básicas o marcadas como Favoritas).",
+      "Card_0093": "Tres copias de cada carta serán guardadas y las cartas restantes serán disueltas.\n(Excepto cartas animadas, básicas o marcadas como Favoritas).",
       "Card_0094": "{0}",
       "Card_0095": "{0}",
       "Card_0096": "¿Deseas disolver las cartas sobrantes?",
@@ -1726,7 +1750,7 @@
       "Card_0102": "Agregar",
       "Card_0103": "Remover",
       "Card_0104": "Eliminar",
-      "Card_0105": "Crear Nuevo",
+      "Card_0105": "Nuevo Mazo",
       "Card_0106": "Rareza",
       "Card_0107": "Un mazo solo puede contener {0} cartas.",
       "Card_Rarity_0004": "Legendaria",
@@ -1735,13 +1759,13 @@
       "Card_Rarity_0001": "Bronce",
       "Card_0108": "Crear Mazo Nuevo",
       "Card_0109": "Selecciona un Mazo para Copiarlo",
-      "Card_0110": "Ingresa un código de mazo.",
+      "Card_0110": "Introduce un código de mazo.",
       "Card_0111": "Código de Mazo",
       "Card_0112": "¿Deseas copiar {0}[-]?",
       "Card_0113": "Discrepancia entre Código de Mazo",
       "Card_0114": "Este código no concuerda con ningún mazo.",
       "Card_0115": "Se ha encontrado un mazo.\nSe abrirá la pantalla de Editar Mazo.\n",
-      "Card_0116": "El mazo ha sido creado. Aún no puede ser utilizado en batalla ya que no contiene suficientes cartas.",
+      "Card_0116": "El mazo ha sido creado. Aún no puede ser utilizado en batalla, ya que no contiene suficientes cartas.",
       "Card_0117": "Selecciona un método para crear tu mazo.",
       "Card_0118": "Nuevo",
       "Card_0119": "Copiar",
@@ -1756,20 +1780,20 @@
       "Card_0128": "Se ha creado un código de mazo:\n{0}\nEste código será válido durante los próximos 3 minutos.\n",
       "Card_0129": "Borrar",
       "Card_0130": "Buscar",
-      "Card_0131": "Ingresa una palabra para buscar.",
+      "Card_0131": "Introduce una palabra para buscar.",
       "Card_0132": "El código de mazo ha sido copiado.",
       "Card_0133": "Copiar Código de Mazo",
       "Card_0134": "Nombre",
       "Card_0135": "Detalles",
       "Card_0136": "Mazo",
       "Card_0137": "Colección",
-      "Card_0138": "Este mazo no puede ser utilizado en batalla ya que contiene {0} o más cartas.\n\n¿Deseas guardar este mazo?",
+      "Card_0138": "Este mazo no puede ser utilizado en batalla, ya que contiene {0} o más cartas.\n\n¿Deseas guardar este mazo?",
       "Card_0139": "El número de cartas excede el límite",
       "Card_0140": "Este mazo contiene demasiadas cartas.\n¿Deseas editarlo?",
       "Card_0141": "Viales",
       "Card_0142": "Mazo Creado",
       "Card_0143": "Crear Código de Mazo",
-      "Card_0144": "(Necesitas Esferas para crear cartas animadas)",
+      "Card_0144": "(Necesitas Esferas para crear cartas animadas).",
       "Card_0145": "Automático",
       "Card_0146": "Dorsos",
       "Card_Favorite_Normal": "Normal",
@@ -1777,7 +1801,7 @@
       "Card_0147": "Set de cartas:",
       "Card_0148": "No es posible disolver cartas marcadas como Favoritas.",
       "Card_0149": "",
-      "Card_0150": "Reacomodar",
+      "Card_0150": "Reorganizar",
       "Card_0151": "Confirmar",
       "Card_0152": "Resultados de Disolver Cartas Sobrantes",
       "Card_0153": "Las cartas sobrantes han sido disueltas.",
@@ -1792,13 +1816,13 @@
       "Card_0162_1": "Crear Cartas Animadas",
       "Card_0162_2": "¿Deseas usar 1 Esfera",
       "Card_0162_3": "para animar una copia de {0}?",
-      "Card_0162_4": "(Disolver cartas animadas no produce Esferas)",
+      "Card_0162_4": "(Disolver cartas animadas no produce Esferas).",
       "Card_0162_5": "Esferas disponibles",
       "Card_0162_6": "{0}",
       "Card_0162_7": "Crear",
       "Card_0163_1": "Esferas insuficientes",
       "Card_0163_2": "No tienes suficientes Esferas para crear cartas animadas.",
-      "Card_0164_1": "Limite de Creación",
+      "Card_0164_1": "Límite de Creación",
       "Card_0164_2": "Ya posees 3 o más copias de esta carta. No es posible crear más copias.",
       "Card_0165_1": "Favoritas",
       "Card_0165_2": "Las cartas marcadas como Favoritas no pueden ser usadas para crear cartas animadas. ¿Deseas eliminar esta carta de tus favoritas?",
@@ -1806,7 +1830,7 @@
       "Card_0166": "Disolver cartas",
       "Card_0167": "Modo Disolver",
       "Card_0168": "Disolver",
-      "Card_0169": "Seleccionado \nx {0}\n",
+      "Card_0169": "Selección \nx {0}\n",
       "Card_0170": "Se ha alcanzado el límite\n\nx {0}\n",
       "Card_0171": "Cartas seleccionadas",
       "Card_0172": "Disolver cartas",
@@ -1819,7 +1843,7 @@
       "Card_0179": "Carta Animada",
       "Card_0180": "Favoritas",
       "Card_0181": "Copiar dorso y skin de líder",
-      "Card_0182": "(Se mostrará el líder seleccionado en tu perfil)",
+      "Card_0182": "(Se mostrará el líder seleccionado en tu perfil).",
       "Card_0183": "Esta carta no puede ser creada.",
       "Card_0184": "Categoría",
       "Card_0185": "Seleccionar Categoría",
@@ -1834,7 +1858,10 @@
       "Card_0194": "No es posible crear o disolver cartas premio.",
       "Card_0195": "Falta la carta Premio correspondiente",
       "Card_0196": "No es posible construir este mazo",
-      "Card_0197": "El mazo contiene cartas no utilizables."
+      "Card_0197": "El mazo contiene cartas no utilizables.",
+      "Card_0204": "Esta carta no se puede utilizar en formato Ilimitado.",
+      "Card_0205": "Sólo puedes tener una copia de esta carta en un mazo de formato Ilimitado.",
+      "Card_0206": "Sólo puedes tener 2 copias de esta carta en un mazo de formato Ilimitado."
     }
   }
 }

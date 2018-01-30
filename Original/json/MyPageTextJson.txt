@@ -44,7 +44,11 @@
       "MyPage_0041": "大会デッキ登録",
       "MyPage_0042": "大会ルームマッチ",
       "MyPage_0043": "大会用のデッキを\n登録します",
-      "MyPage_0044": "大会用のルームマッチです"
+      "MyPage_0044": "大会用のルームマッチです",
+      "MyPage_0045": "勝利報酬キャンペーン",
+      "MyPage_0046": "{0}/{1}",
+      "MyPage_0047": "[ffcd45]宝箱発生中[-]",
+      "MyPage_0048": "{0}まで"
     },
     "Eng": {
       "MyPage_0001": "HOME",
@@ -90,7 +94,11 @@
       "MyPage_0041": "Register Deck",
       "MyPage_0042": "Tournament Match",
       "MyPage_0043": "Register tournament decks here",
-      "MyPage_0044": "Play private tournament matches"
+      "MyPage_0044": "Play private tournament matches",
+      "MyPage_0045": "Victory Rewards",
+      "MyPage_0046": "{0}/{1}",
+      "MyPage_0047": "Treasure Chests",
+      "MyPage_0048": "Until {0}"
     },
     "Chs": {
       "MyPage_0001": "主界面",
@@ -136,7 +144,11 @@
       "MyPage_0041": "登录大赛用牌组",
       "MyPage_0042": "大赛私人对战",
       "MyPage_0043": "登录\n大赛用牌组",
-      "MyPage_0044": "大赛专用的私人对战"
+      "MyPage_0044": "大赛专用的私人对战",
+      "MyPage_0045": "胜利报酬活动",
+      "MyPage_0046": "{0}/{1}",
+      "MyPage_0047": "[ffcd45]宝箱出现中[-]",
+      "MyPage_0048": "到{0}为止"
     },
     "Kor": {
       "MyPage_0001": "홈",
@@ -182,7 +194,11 @@
       "MyPage_0041": "대회 덱 등록",
       "MyPage_0042": "대회 친선전",
       "MyPage_0043": "대회용 덱을 등록합니다",
-      "MyPage_0044": "대회용 친선전입니다"
+      "MyPage_0044": "대회용 친선전입니다",
+      "MyPage_0045": "승리 보상 이벤트",
+      "MyPage_0046": "{0}/{1}",
+      "MyPage_0047": "[ffcd45]보물 상자 출현[-]",
+      "MyPage_0048": "{0}까지"
     },
     "Cht": {
       "MyPage_0001": "主頁面",
@@ -228,7 +244,11 @@
       "MyPage_0041": "登錄大會牌組",
       "MyPage_0042": "大會私人對戰",
       "MyPage_0043": "於此登錄大會用牌組",
-      "MyPage_0044": "這裡為大會用私人對戰"
+      "MyPage_0044": "這裡為大會用私人對戰",
+      "MyPage_0045": "勝利獎勵活動",
+      "MyPage_0046": "{0}/{1}",
+      "MyPage_0047": "[ffcd45]寶箱出現中[-]",
+      "MyPage_0048": "到{0}為止"
     },
     "Fre": {
       "MyPage_0001": "Menu",
@@ -274,7 +294,11 @@
       "MyPage_0041": "Enregistrement",
       "MyPage_0042": "Salon tournoi",
       "MyPage_0043": "Enregistre les decks de tournoi",
-      "MyPage_0044": "Ce salon est dédié aux tournois"
+      "MyPage_0044": "Ce salon est dédié aux tournois",
+      "MyPage_0045": "Bonus Récompenses Victoires",
+      "MyPage_0046": "{0}/{1}",
+      "MyPage_0047": "Coffres aux trésors",
+      "MyPage_0048": "Jusqu'à {0}"
     },
     "Ita": {
       "MyPage_0001": "Home",
@@ -320,7 +344,11 @@
       "MyPage_0041": "Registrazione",
       "MyPage_0042": "Match Torneo",
       "MyPage_0043": "Registra deck del torneo",
-      "MyPage_0044": "Gioca match dedicati al Torneo"
+      "MyPage_0044": "Gioca match dedicati al Torneo",
+      "MyPage_0045": "Bonus Ricompensa Vittoria",
+      "MyPage_0046": "{0}/{1}",
+      "MyPage_0047": "Scrigni del Tesoro",
+      "MyPage_0048": "Fino a {0}"
     },
     "Ger": {
       "MyPage_0001": "Start",
@@ -366,7 +394,11 @@
       "MyPage_0041": "Turnieranmeldung",
       "MyPage_0042": "Turnierkampf",
       "MyPage_0043": "Turnierdeck(s) anmelden",
-      "MyPage_0044": "Raum für Turnierkämpfe"
+      "MyPage_0044": "Raum für Turnierkämpfe",
+      "MyPage_0045": "Bonusaktion: Siegesbelohnungen",
+      "MyPage_0046": "{0}/{1}",
+      "MyPage_0047": "Schatztruhe erschienen",
+      "MyPage_0048": "Bis {0}"
     },
     "Spa": {
       "MyPage_0001": "Inicio",
@@ -412,7 +444,11 @@
       "MyPage_0041": "Registro de mazos",
       "MyPage_0042": "Partida de torneo",
       "MyPage_0043": "Registra aquí tu mazo de torneo",
-      "MyPage_0044": "Sala para partidas de torneo"
+      "MyPage_0044": "Sala para partidas de torneo",
+      "MyPage_0045": "Recompensas de victoria",
+      "MyPage_0046": "{0}/{1}",
+      "MyPage_0047": "¡Obtén cofres!",
+      "MyPage_0048": "Hasta {0}"
     }
   }
 }

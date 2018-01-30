@@ -435,7 +435,7 @@
       "Mission_0040": "¡Haz vinculado una cuenta exitosamente! \n(Las recompesas son cobradas automáticamente).\n",
       "Mission_0041": "La misión comenzará en {0}:{1}.",
       "Mission_0042": "Una nueva misión ya está disponible.",
-      "Mission_0043": "La temporada a terminado. Las recompensas pendientes pueden ser cobradas desde tu Baúl.",
+      "Mission_0043": "La temporada ha terminado. Las recompensas pendientes pueden ser cobradas desde tu Baúl.",
       "Mission_0044": "Las recompensas por puntuación no están disponibles actualmente.",
       "Mission_0045": "Disponible después del lanzamiento del próximo pack de cartas.",
       "Mission_0046": "Misiones en Solitario",

@@ -50,7 +50,7 @@
     },
     "Spa": {
       "LoginBonus_0001": "Recibido",
-      "LoginBonus_0002": "Próximo Accesso: {0} x{1}",
+      "LoginBonus_0002": "Próximo Acceso: {0} x{1}",
       "LoginBonus_0003": "Duración de la promoción: {0}",
       "LoginBonus_0004": "Siguiente"
     }
