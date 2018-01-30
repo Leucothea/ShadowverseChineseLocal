@@ -160,7 +160,7 @@
       "sleeve_13": "Muñeco de Nieve",
       "sleeve_14": "Guardia de Otohime",
       "sleeve_15": "Plegaria de Elana",
-      "sleeve_16": "Liza, Joven Elfa"
+      "sleeve_16": "Liza, Niña Elfa"
     }
   }
 }
