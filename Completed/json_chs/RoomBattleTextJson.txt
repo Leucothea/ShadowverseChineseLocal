@@ -80,8 +80,8 @@
       "RoomBattle_0079": "一局一胜模式",
       "RoomBattle_0080": "双选牌组互换模式",
       "RoomBattle_0081": "私人对战(牌组互换)",
-      "RoomBattle_0082": "私人对战(三局两胜)",
-      "RoomBattle_0083": "私人对战(五局三胜)",
+      "RoomBattle_0082": "私人对战(轮换 BO3)",
+      "RoomBattle_0083": "私人对战(轮换 BO5)",
       "RoomBattle_0084": "牌组{0}",
       "RoomBattle_0085": "※此职业已被选用",
       "RoomBattle_0086": "因牌组数量不足无法创建房间",
@@ -104,5 +104,9 @@
       "RoomBattle_0103": "选择先手",
       "RoomBattle_0104": "选择后手",
       "RoomBattle_0106": "模式",
-      "RoomBattle_0107": "选择模式"
+      "RoomBattle_0107": "选择模式",
+      "RoomBattle_0108": "私人对战(轮换 BO1)",
+      "RoomBattle_0109": "私人对战(无限 BO1)",
+      "RoomBattle_0110": "私人对战(无限 BO3)",
+      "RoomBattle_0111": "私人对战(无限 BO5)"
 }
