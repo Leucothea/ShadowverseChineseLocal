@@ -272,7 +272,8 @@
       "EM_竜の託宣": "竜の託宣",
       "EM_デモンオフィサー・エメラダ": "デモンオフィサー・エメラダ",
       "EM_RAGE_2018_Spring": "RAGE 2018 Spring",
-      "EM_JCG_4th_season": "JCG 4th Season"
+      "EM_JCG_4th_season": "JCG 4th Season",
+      "EM_幼き死霊術師・ルナ": "幼き死霊術師・ルナ"
     },
     "Eng": {
       "EM_シャドウバース": "Shadowverse",
@@ -546,7 +547,8 @@
       "EM_竜の託宣": "Dragon Oracle",
       "EM_デモンオフィサー・エメラダ": "Emeralda, Demonic Officer",
       "EM_RAGE_2018_Spring": "RAGE (Spring 2018)",
-      "EM_JCG_4th_season": "JCG 4th Season"
+      "EM_JCG_4th_season": "JCG 4th Season",
+      "EM_幼き死霊術師・ルナ": "Luna, Little Necromancer"
     },
     "Chs": {
       "EM_シャドウバース": "影之诗",
@@ -820,7 +822,8 @@
       "EM_竜の託宣": "龙之启示",
       "EM_デモンオフィサー・エメラダ": "恶魔武官·艾美拉达",
       "EM_RAGE_2018_Spring": "RAGE 2018 Spring",
-      "EM_JCG_4th_season": "JCG 4th Season"
+      "EM_JCG_4th_season": "JCG 4th Season",
+      "EM_幼き死霊術師・ルナ": "年幼的死灵法师·璐娜"
     },
     "Kor": {
       "EM_シャドウバース": "섀도우버스",
@@ -1094,7 +1097,8 @@
       "EM_竜の託宣": "용의 신탁",
       "EM_デモンオフィサー・エメラダ": "악마 장교 에메라다",
       "EM_RAGE_2018_Spring": "RAGE 2018 Spring",
-      "EM_JCG_4th_season": "JCG 4th Season"
+      "EM_JCG_4th_season": "JCG 4th Season",
+      "EM_幼き死霊術師・ルナ": "어린 사령술사 루나"
     },
     "Cht": {
       "EM_シャドウバース": "Shadowverse",
@@ -1368,7 +1372,8 @@
       "EM_竜の託宣": "龍之啟示",
       "EM_デモンオフィサー・エメラダ": "惡魔巡查官‧亞梅拉達",
       "EM_RAGE_2018_Spring": "RAGE 2018 Spring",
-      "EM_JCG_4th_season": "JCG 4th Season"
+      "EM_JCG_4th_season": "JCG 4th Season",
+      "EM_幼き死霊術師・ルナ": "蘿莉死靈法師‧露娜"
     },
     "Fre": {
       "EM_シャドウバース": "Shadowverse",
@@ -1642,7 +1647,8 @@
       "EM_竜の託宣": "Dragon-oracle",
       "EM_デモンオフィサー・エメラダ": "Emérelda la démone",
       "EM_RAGE_2018_Spring": "RAGE 2018 Spring",
-      "EM_JCG_4th_season": "JCG 4th Season"
+      "EM_JCG_4th_season": "JCG 4th Season",
+      "EM_幼き死霊術師・ルナ": "Luna, fillette nécromancière"
     },
     "Ita": {
       "EM_シャドウバース": "Shadowverse",
@@ -1916,7 +1922,8 @@
       "EM_竜の託宣": "Oracolo del Drago",
       "EM_デモンオフィサー・エメラダ": "Emeralda, Leader dei Demoni",
       "EM_RAGE_2018_Spring": "RAGE 2018 Spring",
-      "EM_JCG_4th_season": "JCG 4th Season"
+      "EM_JCG_4th_season": "JCG 4th Season",
+      "EM_幼き死霊術師・ルナ": "Luna, Giovane Guida Spiriti"
     },
     "Ger": {
       "EM_シャドウバース": "Shadowverse",
@@ -2190,7 +2197,8 @@
       "EM_竜の託宣": "Drachenorakel",
       "EM_デモンオフィサー・エメラダ": "Emerada, dämon. Offizierin",
       "EM_RAGE_2018_Spring": "RAGE 2018 Spring",
-      "EM_JCG_4th_season": "JCG 4th Season"
+      "EM_JCG_4th_season": "JCG 4th Season",
+      "EM_幼き死霊術師・ルナ": "Luna, junge Meister-Nekromantin"
     },
     "Spa": {
       "EM_シャドウバース": "Shadowverse",
@@ -2464,7 +2472,8 @@
       "EM_竜の託宣": "Oráculo del Dragón",
       "EM_デモンオフィサー・エメラダ": "Emeralda, Oficial Demonio",
       "EM_RAGE_2018_Spring": "RAGE 2018 Spring",
-      "EM_JCG_4th_season": "JCG 4th Season"
+      "EM_JCG_4th_season": "JCG 4th Season",
+      "EM_幼き死霊術師・ルナ": "Luna, Pequeña Maestra de Almas"
     }
   }
 }

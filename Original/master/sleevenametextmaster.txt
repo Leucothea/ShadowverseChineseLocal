@@ -179,7 +179,8 @@
       "SN_プリンセスマナリア・アン": "プリンセスマナリア・アン",
       "SN_竜の託宣": "竜の託宣",
       "SN_デモンオフィサー・エメラダ": "デモンオフィサー・エメラダ",
-      "SN_クレイゴーレム": "クレイゴーレム"
+      "SN_クレイゴーレム": "クレイゴーレム",
+      "SN_幼き死霊術師・ルナ": "幼き死霊術師・ルナ"
     },
     "Eng": {
       "SN_スタンダード1": "Classic",
@@ -360,7 +361,8 @@
       "SN_プリンセスマナリア・アン": "Anne, Belle of Mysteria",
       "SN_竜の託宣": "Dragon Oracle",
       "SN_デモンオフィサー・エメラダ": "Emeralda, Demonic Officer",
-      "SN_クレイゴーレム": "Clay Golem"
+      "SN_クレイゴーレム": "Clay Golem",
+      "SN_幼き死霊術師・ルナ": "Luna, Little Necromancer"
     },
     "Chs": {
       "SN_スタンダード1": "标准",
@@ -541,7 +543,8 @@
       "SN_プリンセスマナリア・アン": "公主学院·安",
       "SN_竜の託宣": "龙之启示",
       "SN_デモンオフィサー・エメラダ": "恶魔武官·艾美拉达",
-      "SN_クレイゴーレム": "泥土傀儡"
+      "SN_クレイゴーレム": "泥土傀儡",
+      "SN_幼き死霊術師・ルナ": "年幼的死灵法师·璐娜"
     },
     "Kor": {
       "SN_スタンダード1": "스탠다드",
@@ -722,7 +725,8 @@
       "SN_プリンセスマナリア・アン": "마나리아 공주 앤",
       "SN_竜の託宣": "용의 신탁",
       "SN_デモンオフィサー・エメラダ": "악마 장교 에메라다",
-      "SN_クレイゴーレム": "진흙 골렘"
+      "SN_クレイゴーレム": "진흙 골렘",
+      "SN_幼き死霊術師・ルナ": "어린 사령술사 루나"
     },
     "Cht": {
       "SN_スタンダード1": "標準",
@@ -903,7 +907,8 @@
       "SN_プリンセスマナリア・アン": "馬納歷亞公主‧安",
       "SN_竜の託宣": "龍之啟示",
       "SN_デモンオフィサー・エメラダ": "惡魔巡查官‧亞梅拉達",
-      "SN_クレイゴーレム": "泥塵巨像"
+      "SN_クレイゴーレム": "泥塵巨像",
+      "SN_幼き死霊術師・ルナ": "蘿莉死靈法師‧露娜"
     },
     "Fre": {
       "SN_スタンダード1": "Standard",
@@ -1084,7 +1089,8 @@
       "SN_プリンセスマナリア・アン": "Anne, Princesse de Manaria",
       "SN_竜の託宣": "Dragon-oracle",
       "SN_デモンオフィサー・エメラダ": "Emérelda la démone",
-      "SN_クレイゴーレム": "Golem d'argile"
+      "SN_クレイゴーレム": "Golem d'argile",
+      "SN_幼き死霊術師・ルナ": "Luna, fillette nécromancière"
     },
     "Ita": {
       "SN_スタンダード1": "Standard",
@@ -1265,7 +1271,8 @@
       "SN_プリンセスマナリア・アン": "Anne, Principessa di Manaria",
       "SN_竜の託宣": "Oracolo del Drago",
       "SN_デモンオフィサー・エメラダ": "Emeralda, Leader dei Demoni",
-      "SN_クレイゴーレム": "Golem di Argilla"
+      "SN_クレイゴーレム": "Golem di Argilla",
+      "SN_幼き死霊術師・ルナ": "Luna, Giovane Guida Spiriti"
     },
     "Ger": {
       "SN_スタンダード1": "Klassisch",
@@ -1446,7 +1453,8 @@
       "SN_プリンセスマナリア・アン": "Anne, Prinzessin v. Manaria",
       "SN_竜の託宣": "Drachenorakel",
       "SN_デモンオフィサー・エメラダ": "Emerada, dämon. Offizierin",
-      "SN_クレイゴーレム": "Lehmgolem"
+      "SN_クレイゴーレム": "Lehmgolem",
+      "SN_幼き死霊術師・ルナ": "Luna, junge Meister-Nekromantin"
     },
     "Spa": {
       "SN_スタンダード1": "Standard",
@@ -1627,7 +1635,8 @@
       "SN_プリンセスマナリア・アン": "Anne, Princesa de Manaria",
       "SN_竜の託宣": "Oráculo del Dragón",
       "SN_デモンオフィサー・エメラダ": "Emeralda, Oficial Demonio",
-      "SN_クレイゴーレム": "Gólem de Arcilla"
+      "SN_クレイゴーレム": "Gólem de Arcilla",
+      "SN_幼き死霊術師・ルナ": "Luna, Pequeña Maestra de Almas"
     }
   }
 }
