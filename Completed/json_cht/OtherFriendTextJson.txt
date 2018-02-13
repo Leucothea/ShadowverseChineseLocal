@@ -21,7 +21,7 @@
       "OtherFriend_0020": "已移除好友。",
       "OtherFriend_0021": "已拒絶申請。",
       "OtherFriend_0022": "已拒絶全部申請。",
-      "OtherFriend_0023": "沒有你正在申請中的好友。",
+      "OtherFriend_0023": "沒有祢正在申請中的好友。",
       "OtherFriend_0024": "沒有好友邀請需確認。",
       "OtherFriend_0025": "沒有好友。\n可向近期對戰過的玩家發送好友申請。",
       "OtherFriend_0026": "沒有近期對戰過的玩家。",

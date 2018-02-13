@@ -1,0 +1,4 @@
+{
+      "story_section_01": "災厄之樹篇",
+      "story_section_02": "災厄之樹篇 -終章-"
+}

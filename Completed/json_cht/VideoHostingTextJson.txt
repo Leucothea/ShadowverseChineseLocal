@@ -68,7 +68,7 @@
       "VideoHosting_0067": "直播中或直播暫停時\n無法進行此操作。\n請停止直播並重試。",
       "VideoHosting_0068": "録製中或録製暫停時\n無法進行此操作。\n請停止録製並重試。",
       "VideoHosting_0069": "接下來的畫面顯示方式與目前有異，\nNICO直播觀衆將無法觀看。\n請諒解。",
-      "VideoHosting_0070": "返回初始狀態",
+      "VideoHosting_0070": "返回初始状態",
       "VideoHosting_0071": "NICO直播",
       "VideoHosting_0072": "NICO直播中無法進行此操作。\n請暫停或停止NICO直播後重試。",
       "VideoHosting_0073": "發布至NICO視頻",
@@ -78,6 +78,6 @@
       "VideoHosting_0077": "接下來的畫面顯示方式與目前有異，\n無法顯示録製的視頻畫面。\n請諒解。",
       "VideoHosting_0078": "NICO直播",
       "VideoHosting_0079": "録影",
-      "VideoHosting_0080": "你使用的設備\n不支援此功能。",
+      "VideoHosting_0080": "祢使用的設備\n不支援此功能。",
       "VideoHosting_0081": "*** *** ***"
 }
