@@ -12,7 +12,7 @@
       "LSPPN_SF5_4": "隆",
       "LSPPN_SF5_5": "維加",
       "LSPPN_SF5_6": "巴羅克",
-      "LSPPN_SF5_7": "神月凱琳",
+      "LSPPN_SF5_7": "神月卡琳",
       "LSPPN_Fate_1": "衛宮士郎",
       "LSPPN_Fate_2": "庫丘林",
       "LSPPN_Fate_3": "遠坂凛",
