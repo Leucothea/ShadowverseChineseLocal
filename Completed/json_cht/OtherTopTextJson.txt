@@ -43,7 +43,7 @@
       "OtherTop_0044": "相機",
       "OtherTop_0045": "帳號信息",
       "OtherTop_0046": "電話旁聽功能",
-      "OtherTop_0047": "日歴",
+      "OtherTop_0047": "日暦",
       "OtherTop_0048": "通話記録",
       "OtherTop_0049": "連絡人信息",
       "OtherTop_0050": "存儲空間",
@@ -55,7 +55,7 @@
       "OtherTop_0056": "麥克風",
       "OtherTop_0057": "發送短信",
       "OtherTop_0058": "接打網路電話",
-      "OtherTop_0059": "編寫日歴",
+      "OtherTop_0059": "編寫日暦",
       "OtherTop_0060": "編寫通話記録",
       "OtherTop_0061": "編寫連絡人信息"
 }
