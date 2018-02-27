@@ -107,7 +107,7 @@
       "Contact_Dialog_003": "版本",
       "Contact_Dialog_004": "設備系統版本",
       "Contact_Dialog_005": "設備名稱",
-      "Contact_Dialog_006": "確認繼承此存档嗎？",
+      "Contact_Dialog_006": "確認繼承此存檔嗎？",
       "Contact_Dialog_001_Header": "諮詢",
       "Contact_Dialog_001_Button": "諮詢",
       "Dia_Battle_003_Title": "對戰結束確認",
