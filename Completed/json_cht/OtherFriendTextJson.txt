@@ -5,7 +5,7 @@
       "OtherFriend_0004": "等待通過",
       "OtherFriend_0005": "通過",
       "OtherFriend_0006": "好友檢索",
-      "OtherFriend_0007": "上次登録時間",
+      "OtherFriend_0007": "上次登錄時間",
       "OtherFriend_0008": "{0}分鐘前",
       "OtherFriend_0009": "{0}小時前",
       "OtherFriend_0010": "{0}天前",
