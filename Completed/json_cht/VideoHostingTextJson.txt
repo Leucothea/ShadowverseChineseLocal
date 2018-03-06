@@ -67,7 +67,7 @@
       "VideoHosting_0066": "為了保護個人隱私，\n已結束錄影。",
       "VideoHosting_0067": "直播中或直播暫停時\n無法進行此操作。\n請停止直播並重試。",
       "VideoHosting_0068": "錄製中或錄製暫停時\n無法進行此操作。\n請停止錄製並重試。",
-      "VideoHosting_0069": "接下來的畫面顯示方式與目前有異，\nNICO直播觀衆將無法觀看。\n請諒解。",
+      "VideoHosting_0069": "接下來的畫面顯示方式與目前有異，\nNICO直播觀眾將無法觀看。\n請諒解。",
       "VideoHosting_0070": "返回初始狀態",
       "VideoHosting_0071": "NICO直播",
       "VideoHosting_0072": "NICO直播中無法進行此操作。\n請暫停或停止NICO直播後重試。",
