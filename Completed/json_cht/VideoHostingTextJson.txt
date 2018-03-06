@@ -78,6 +78,6 @@
       "VideoHosting_0077": "接下來的畫面顯示方式與目前有異，\n無法顯示錄製的視頻畫面。\n請諒解。",
       "VideoHosting_0078": "NICO直播",
       "VideoHosting_0079": "錄影",
-      "VideoHosting_0080": "你使用的設備\n不支援此功能。",
+      "VideoHosting_0080": "您使用的設備\n不支援此功能。",
       "VideoHosting_0081": "*** *** ***"
 }
