@@ -1,9 +1,7 @@
-﻿暗影之诗 Shadowverse PC+Mac简繁汉化补丁 v7.0.4
+﻿淺夏影之诗汉化补丁 v1.0.0
 =====
-汉化：岚兮雨汐 町城安里 蔽月八云 淺夏<br>
-程序：永久告别 船长唱搁浅<br>
-PC测试：没有呆毛的Saber<br>
-Mac测试：L夕葉<br><br><br><br>
+汉化：岚兮雨汐 町城安里 蔽月八云 淺夏 甘蔗酱<br>
+程序：永久告别 船长唱搁浅<br><br><br><br>
 
 
 
@@ -13,24 +11,11 @@ Mac测试：L夕葉<br><br><br><br>
 
 
 
-【PC安装方法】
+【安装方法】
 -----
-★前言：不建议在繁体台版的基础上打汉化补丁，会导致字体大小不一致，非常影响美观，请切换到日版或美版打补丁。<br>
-1、确保游戏当前没有打过任何补丁（打开游戏若是旧版汉化，先按3卸载一次）。<br>
-2、解压ShadowverseLangPatch_v7.0.4到游戏根目录执行即可，输入1是简体、2是繁体。<br>
-3、卸载方法：运行程序按3。<br>
-4、若游戏没有更新但汉化补丁有更新，需要先按3卸载后再装新补丁；<br>
- 　若游戏自身有更新，更新后不需要卸载，直接按1或2给新版游戏打补丁。<br>
- 　更新后如果黑屏或无法登录，验证游戏完整性再打补丁即可。<br>
- 　※若登录界面文字全部消失，参照压缩包内附赠的文档释放字体补丁即可。<br><br><br><br>
-
-
-
-【Mac安装方法】
------
-1、进入网盘内“Mac版”下载适合自己的简体或繁体压缩包。<br>
-2、在Steam库中右击Shadowverse→属性→本地文件→浏览本地文件，再右击Shadowverse点“显示包内容”，依次进入Contents>Resources>Data>Managed，解压压缩包内的两个DLL文件至此覆盖即可。<br>
-3、卸载方法：验证游戏完整性。若补丁今后有更新直接下载新的覆盖即可，无需先验证再覆盖。<br><br><br><br>
+1、将压缩包内的Shadowverse_Patch_v1.0.0.exe解压到游戏根目录（例如：X:\Program Files\Steam\steamapps\common\Shadowverse）。<br>
+2、运行，点击安装，进度条走完后会自动弹出补丁安装界面，再次点击「安装补丁」即可。<br>
+3、如后续补丁有更新，直接解压并安装新版，有重名文件选择覆盖全部，在弹出的补丁安装界面先点「卸载补丁」，再点「安装补丁」即可完成更新。<br><br><br><br>
 
 
 
@@ -38,12 +23,11 @@ Mac测试：L夕葉<br><br><br><br>
 -----
 QQ群：550817506<br>
 个人博客：https://sennatsu.com/<br>
-Steam指南：http://steamcommunity.com/sharedfiles/filedetails/?id=796814505<br>
-GitHub：您现在所在的位置_(:з」∠)_<br>
-NGA：http://bbs.ngacn.cc/read.php?tid=10709138<br>
-巴哈哈拉版：https://forum.gamer.com.tw/C.php?bsn=29330&snA=2130<br><br>
+Steam指南：https://steamcommunity.com/sharedfiles/filedetails/?id=796814505<br>
+NGA：http://bbs.ngacn.cc/read.php?tid=13385393<br>
+GitHub：您现在所在的位置_(:з」∠)_<br><br>
 ※转载需注明出处，未经许可，禁止商业转载。<br><br><br><br>
 
 
 
-2017/12/01 Updated<br>
+2018/02/12 Updated<br>
