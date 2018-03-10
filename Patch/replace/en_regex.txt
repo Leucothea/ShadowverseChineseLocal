@@ -1,0 +1,15 @@
+Win (.+?) match[e]?[s]? as (.+?) or (.+?) \(
+Evolve followers (.+?) times(.+)
+Win (.+?) ranked match[e]?[s]? as (.+?)\b
+Win (.+?) unranked match[e]?[s]? as (.+?)\b
+Win (.+?) Take Two match[e]?[s]? as (.+?)\b
+Win (.+?) ranked matche[e]?[s]?
+Win (.+?) unranked matche[e]?[s]?
+Win all 5 Take Two matches (.+?) times
+Win (.+?) Private [Mm]atche[e]?[s]?
+Win (.+?) match[e]?[s]? as (.+?)\b
+Win (.+?) Take Two matche[e]?[s]?
+Reach level (.+?) in (.+?)\b
+Achieve (.*?) rank
+Defeat (.*?) on Elite difficulty.+?Practice.+
+Defeat (.*?) on Elite 2 difficulty.+?Practice.+
