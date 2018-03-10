@@ -58,7 +58,9 @@
       "Mail_0055": "(カードスリーブ)",
       "Mail_0056": "(称号)",
       "Mail_0057": "(エンブレム)",
-      "Mail_0058": "(リーダースキン)"
+      "Mail_0058": "(リーダースキン)",
+      "Mail_0059": "(オーブの欠片)",
+      "Mail_0060": "グランプリの開催中に使用できます。"
     },
     "Eng": {
       "Mail_0001": "Crate",
@@ -118,7 +120,9 @@
       "Mail_0055": "(Sleeves)",
       "Mail_0056": "(Flair)",
       "Mail_0057": "(Emblem)",
-      "Mail_0058": "(Leader)"
+      "Mail_0058": "(Leader)",
+      "Mail_0059": "(Seer's Globe Shard)",
+      "Mail_0060": "This ticket can only be used during a Grand Prix tournament."
     },
     "Chs": {
       "Mail_0001": "邮件",
@@ -173,12 +177,14 @@
       "Mail_0050": "道具获得履历",
       "Mail_0051": "道具获得履历可以确认获得后1周内最多100个道具。",
       "Mail_0052": "没有已领取的道具",
-      "Mail_0053": "复数道具没有成功获得\n或所持道具已达到上限，\n无法领取礼物。",
-      "Mail_0054": "(珍稀卡牌)",
-      "Mail_0055": "(卡套)",
-      "Mail_0056": "(称号)",
-      "Mail_0057": "(徽章)",
-      "Mail_0058": "(角色皮肤)"
+      "Mail_0053": "正在试图领取重复道具\n或所持道具已达到上限，\n导致无法领取礼物。",
+      "Mail_0054": "（珍稀卡牌）",
+      "Mail_0055": "（卡套）",
+      "Mail_0056": "（称号）",
+      "Mail_0057": "（徽章）",
+      "Mail_0058": "（角色皮肤）",
+      "Mail_0059": "（宝玉碎片）",
+      "Mail_0060": "在杯赛期间可以使用。"
     },
     "Kor": {
       "Mail_0001": "메일",
@@ -238,7 +244,9 @@
       "Mail_0055": "(카드뒷면)",
       "Mail_0056": "(칭호)",
       "Mail_0057": "(엠블럼)",
-      "Mail_0058": "(리더스킨)"
+      "Mail_0058": "(리더스킨)",
+      "Mail_0059": "(오브 조각)",
+      "Mail_0060": "그랑프리 기간 중에 사용할 수 있습니다."
     },
     "Cht": {
       "Mail_0001": "郵件",
@@ -298,7 +306,9 @@
       "Mail_0055": "(卡背)",
       "Mail_0056": "(稱號)",
       "Mail_0057": "(徽章)",
-      "Mail_0058": "(主戰者造型)"
+      "Mail_0058": "(主戰者造型)",
+      "Mail_0059": "(次元石的碎片)",
+      "Mail_0060": "可於大賽舉辦期間中使用。"
     },
     "Fre": {
       "Mail_0001": "Mails",
@@ -358,7 +368,9 @@
       "Mail_0055": "Dos de cartes",
       "Mail_0056": "Tag",
       "Mail_0057": "Icône",
-      "Mail_0058": "Skin meneur"
+      "Mail_0058": "Skin meneur",
+      "Mail_0059": "Fragment de Sphère",
+      "Mail_0060": "Ce ticket peut être utilisé pour participer à un Grand Prix en cours."
     },
     "Ita": {
       "Mail_0001": "Forziere",
@@ -418,7 +430,9 @@
       "Mail_0055": "(Dorso delle Carte)",
       "Mail_0056": "(Tag)",
       "Mail_0057": "(Emblema)",
-      "Mail_0058": "(Leader)"
+      "Mail_0058": "(Leader)",
+      "Mail_0059": "(Frammento di Sfera)",
+      "Mail_0060": "Può essere utilizzato per partecipare a un Grand Prix in corso."
     },
     "Ger": {
       "Mail_0001": "Nachrichten",
@@ -478,7 +492,9 @@
       "Mail_0055": "(Kartenrücken)",
       "Mail_0056": "(Banner)",
       "Mail_0057": "(Emblem)",
-      "Mail_0058": "(Anführerskin)"
+      "Mail_0058": "(Anführerskin)",
+      "Mail_0059": "(Sphärensplitter)",
+      "Mail_0060": "Kann im Veranstaltungszeitraum des Grand Prix genutzt werden."
     },
     "Spa": {
       "Mail_0001": "Baúl",
@@ -502,7 +518,7 @@
       "Mail_0008": "Eliminar",
       "Mail_0013": "¿Cobrar {0}?",
       "Mail_0014": "¿Borrar {0}?",
-      "Mail_0023": "Recibir",
+      "Mail_0023": "Cobrar",
       "Mail_0021": "Cobrado",
       "Mail_0024": "Historial",
       "Mail_0022": "Comprar Cartas",
@@ -538,7 +554,9 @@
       "Mail_0055": "(Dorso)",
       "Mail_0056": "(Tag)",
       "Mail_0057": "(Emblema)",
-      "Mail_0058": "(Líder)"
+      "Mail_0058": "(Líder)",
+      "Mail_0059": "(Fragmento de Esfera)",
+      "Mail_0060": "Podrás utilizar este ticket para participar en un Grand Prix cuando esté en curso."
     }
   }
 }

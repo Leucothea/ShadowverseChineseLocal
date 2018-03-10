@@ -135,7 +135,8 @@
       "Shop_0136": "獲得済み",
       "Shop_0137": "現在、購入可能な商品はありません",
       "Shop_0138": "作成するデッキの\nフォーマットを選んでください。",
-      "Shop_0139": "[ffcd45]ローテーションでは使用できないカードが含まれています[-]"
+      "Shop_0139": "[ffcd45]ローテーションでは使用できないカードが含まれています[-]",
+      "Shop_0140": "オーブの欠片[ffcd45]{0}[-]個使用して"
     },
     "Eng": {
       "Shop_0001": "Buy Packs",
@@ -272,7 +273,8 @@
       "Shop_0136": "Received",
       "Shop_0137": "There are no items that can be purchased at this time.",
       "Shop_0138": "Please select a deck format.",
-      "Shop_0139": "Cards that can't be used in Rotation are included in this deck."
+      "Shop_0139": "Cards that can't be used in Rotation are included in this deck.",
+      "Shop_0140": "Use {0@Seer's Globe Shard@Seer's Globe Shards} to"
     },
     "Chs": {
       "Shop_0001": "购买卡包",
@@ -409,7 +411,8 @@
       "Shop_0136": "已获得",
       "Shop_0137": "现在没有可以购买的商品",
       "Shop_0138": "请选择牌组的模式。",
-      "Shop_0139": "[ffcd45]包含限制模式无法使用的卡牌[-]"
+      "Shop_0139": "[ffcd45]包含限制模式无法使用的卡牌[-]",
+      "Shop_0140": "使用[ffcd45]{0}[-]个宝玉碎片"
     },
     "Kor": {
       "Shop_0001": "카드팩 구매",
@@ -546,7 +549,8 @@
       "Shop_0136": "획득 완료",
       "Shop_0137": "현재 구매할 수 있는 아이템이 없습니다.",
       "Shop_0138": "편성한 덱을 사용할 형식을 선택해 주십시오.",
-      "Shop_0139": "[ffcd45]로테이션에서는 사용할 수 없는 카드가 포함되어 있습니다.[-]"
+      "Shop_0139": "[ffcd45]로테이션에서는 사용할 수 없는 카드가 포함되어 있습니다.[-]",
+      "Shop_0140": "오브 조각 [ffcd45]{0}[-]개를 사용하여"
     },
     "Cht": {
       "Shop_0001": "購買卡包",
@@ -683,7 +687,8 @@
       "Shop_0136": "已獲得",
       "Shop_0137": "沒有可購買的商品",
       "Shop_0138": "請選擇牌組形式。",
-      "Shop_0139": "[ffcd45]包含指定系列中無法使用的卡片[-]"
+      "Shop_0139": "[ffcd45]包含指定系列中無法使用的卡片[-]",
+      "Shop_0140": "使用[ffcd45]{0}[-]個次元石的碎片"
     },
     "Fre": {
       "Shop_0001": "Achat card packs",
@@ -820,7 +825,8 @@
       "Shop_0136": "Reçu",
       "Shop_0137": "L'objet n'est pas disponible.",
       "Shop_0138": "Sélectionnez le format du deck à créer.",
-      "Shop_0139": "Ce deck contient des cartes inutilisables dans le format Alterné."
+      "Shop_0139": "Ce deck contient des cartes inutilisables dans le format Alterné.",
+      "Shop_0140": "Utiliser {0@Fragments de sphère@Fragments de sphère} pour"
     },
     "Ita": {
       "Shop_0001": "Acquista Pacchetti",
@@ -957,7 +963,8 @@
       "Shop_0136": "Ottenuto",
       "Shop_0137": "L'articolo non è disponibile.",
       "Shop_0138": "Seleziona il formato del deck che vuoi costruire.",
-      "Shop_0139": "Sono incluse delle carte non utilizzabili nel formato Avanzato."
+      "Shop_0139": "Sono incluse delle carte non utilizzabili nel formato Avanzato.",
+      "Shop_0140": "Utilizza {0} Frammenti di Sfera per"
     },
     "Ger": {
       "Shop_0001": "Kartenpacks kaufen",
@@ -1003,7 +1010,7 @@
       "Shop_0042": "Mit {0@Ticket@Tickets}",
       "Shop_0090": "Mit {0@Rupie@Rupien}",
       "Shop_0091": "Mit {0@Kristall@Kristallen}",
-      "Shop_0043": "{1}x {0} kaufen?",
+      "Shop_0043": "{1@{0}@{0}s} kaufen?",
       "Shop_0044": "In Besitz",
       "Shop_0045": "{0}",
       "Shop_0046": "{0@Kartenpack@Kartenpacks}",
@@ -1094,7 +1101,8 @@
       "Shop_0136": "Erhalten",
       "Shop_0137": "Item nicht vorrätig.",
       "Shop_0138": "Wähle das Format, für welches Du ein Deck erstellen willst.",
-      "Shop_0139": "Hinweis: Beinhaltet Karten, die in Quintupel nicht zur Verfügung stehen!"
+      "Shop_0139": "Hinweis: Beinhaltet Karten, die in Quintupel nicht zur Verfügung stehen!",
+      "Shop_0140": "Mit {0@Sphärensplitter@Sphärensplittern}"
     },
     "Spa": {
       "Shop_0001": "Comprar Packs",
@@ -1193,7 +1201,7 @@
       "Shop_0098": "Comprar con Cristales",
       "Shop_0099": "Gratis",
       "Shop_0100": "Comprado",
-      "Shop_0101": "¿Deseas comprar {0}?",
+      "Shop_0101": "comprar {0}?",
       "Shop_0102": "Los siguientes dorsos están incluidos en {0}.",
       "Shop_0103": "Este artículo es gratuito.",
       "Shop_0104": "Comprar skins de líderes",
@@ -1208,7 +1216,7 @@
       "Shop_0113": "{0} rupias",
       "Shop_0114": "Incluye:",
       "Shop_0115": "Shop_0115",
-      "Shop_0116": "Comprar Mazos Prefabricados",
+      "Shop_0116": "Comprar Mazos Preconstruidos",
       "Shop_0117": "Código de Mazo: {0}",
       "Shop_0118": "El código de mazo ha sido copiado.",
       "Shop_0119": "Cartas: {0}",
@@ -1231,7 +1239,8 @@
       "Shop_0136": "Recibido",
       "Shop_0137": "No hay artículos disponibles a la venta.",
       "Shop_0138": "Selecciona el formato del mazo a crear.",
-      "Shop_0139": "Este mazo incluye cartas no utilizables en el modo Rotación."
+      "Shop_0139": "Este mazo incluye cartas no utilizables en el modo Rotación.",
+      "Shop_0140": "¿Deseas usar {0@Fragmento de Esfera@Fragmentos de Esfera} para"
     }
   }
 }

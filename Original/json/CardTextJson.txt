@@ -205,7 +205,8 @@
       "Card_0197": "使用できないカードが含まれています。",
       "Card_0204": "[ffcd45]アンリミテッドで禁止されているカードです[-]",
       "Card_0205": "[ffcd45]アンリミテッドで1枚制限されているカードです[-]",
-      "Card_0206": "[ffcd45]アンリミテッドで2枚制限されているカードです[-]"
+      "Card_0206": "[ffcd45]アンリミテッドで2枚制限されているカードです[-]",
+      "Card_0207": "プレミアムカードを優先する"
     },
     "Eng": {
       "Card_0001": "Decklist (Rotation)",
@@ -412,7 +413,8 @@
       "Card_0197": "This deck contains cards that cannot be used.",
       "Card_0204": "This card is banned in Unlimited.",
       "Card_0205": "Only 1 copy of this card can be included in an Unlimited deck.",
-      "Card_0206": "Only 2 copies of this card can be included in an Unlimited deck."
+      "Card_0206": "Only 2 copies of this card can be included in an Unlimited deck.",
+      "Card_0207": "Prioritize animated cards"
     },
     "Chs": {
       "Card_0001": "牌组列表 限制模式",
@@ -619,7 +621,8 @@
       "Card_0197": "包含无法使用的卡牌。",
       "Card_0204": "[ffcd45]无限模式中被禁止的卡牌[-]",
       "Card_0205": "[ffcd45]无限模式中仅限使用1张的卡牌[-]",
-      "Card_0206": "[ffcd45]无限模式中仅限使用2张的卡牌[-]"
+      "Card_0206": "[ffcd45]无限模式中仅限使用2张的卡牌[-]",
+      "Card_0207": "优先放入珍稀卡牌"
     },
     "Kor": {
       "Card_0001": "로테이션 덱 리스트",
@@ -826,7 +829,8 @@
       "Card_0197": "사용할 수 없는 카드가 포함되어 있습니다.",
       "Card_0204": "[ffcd45]언리미티드에서 사용할 수 없는 카드입니다.[-]",
       "Card_0205": "[ffcd45]언리미티드에서 1장만 사용할 수 있는 카드입니다.[-]",
-      "Card_0206": "[ffcd45]언리미티드에서 2장까지 사용할 수 있는 카드입니다.[-]"
+      "Card_0206": "[ffcd45]언리미티드에서 2장까지 사용할 수 있는 카드입니다.[-]",
+      "Card_0207": "프리미엄 카드를 우선해서 편성"
     },
     "Cht": {
       "Card_0001": "牌組清單 指定系列",
@@ -1031,9 +1035,10 @@
       "Card_0195": "未獲得的\n永久卡",
       "Card_0196": "無法製作牌組",
       "Card_0197": "牌組中包含無法使用的卡片",
-      "Card_0204": "[ffcd45]無限制形式中禁用的卡片[-]",
-      "Card_0205": "[ffcd45]無限制形式中限用1張的卡片[-]",
-      "Card_0206": "[ffcd45]無限制形式中限用2張的卡片[-]"
+      "Card_0204": "[ffcd45]此為無限制形式中禁用的卡片[-]",
+      "Card_0205": "[ffcd45]此為無限制形式中限用1張的卡片[-]",
+      "Card_0206": "[ffcd45]此為無限制形式中限用2張的卡片[-]",
+      "Card_0207": "優先選用珍藏版卡片"
     },
     "Fre": {
       "Card_0001": "Decks (Alterné)",
@@ -1240,7 +1245,8 @@
       "Card_0197": "Ce deck contient des cartes inutilisables.",
       "Card_0204": "Cette carte ne peut pas être utilisée en Illimité.",
       "Card_0205": "Une seule copie de cette carte peut être utilisée dans un deck Illimité.",
-      "Card_0206": "Seules 2 copies de cette carte peuvent être utilisées dans un deck Illimité."
+      "Card_0206": "Seules 2 copies de cette carte peuvent être utilisées dans un deck Illimité.",
+      "Card_0207": "Privilégier les cartes animées"
     },
     "Ita": {
       "Card_0001": "Lista dei Deck (Avanzato)",
@@ -1447,7 +1453,8 @@
       "Card_0197": "Sono incluse carte inutilizzabili.",
       "Card_0204": "Questa carta è bannata nel formato Illimitato.",
       "Card_0205": "Puoi inserire solamente una copia di questa carta in un deck Illimitato.",
-      "Card_0206": "Puoi inserire solamente due copie di questa carta in un deck Illimitato."
+      "Card_0206": "Puoi inserire solamente due copie di questa carta in un deck Illimitato.",
+      "Card_0207": "Dai priorità alle carte animate."
     },
     "Ger": {
       "Card_0001": "Decks (Quintupel)",
@@ -1654,7 +1661,8 @@
       "Card_0197": "Beinhaltet unzulässige Karten.",
       "Card_0204": "Diese Karte kann nicht in Unbegrenzt verwendet werden.",
       "Card_0205": "Es kann lediglich 1 Exemplar dieser Karte in Unbegrenzt verwendet werden.",
-      "Card_0206": "Es können lediglich 2 Exemplare dieser Karte in Unbegrenzt verwendet werden."
+      "Card_0206": "Es können lediglich 2 Exemplare dieser Karte in Unbegrenzt verwendet werden.",
+      "Card_0207": "Premiumkarten bevorzugen"
     },
     "Spa": {
       "Card_0001": "Lista de Mazos (Rotación)",
@@ -1861,7 +1869,8 @@
       "Card_0197": "El mazo contiene cartas no utilizables.",
       "Card_0204": "Esta carta no se puede utilizar en formato Ilimitado.",
       "Card_0205": "Sólo puedes tener una copia de esta carta en un mazo de formato Ilimitado.",
-      "Card_0206": "Sólo puedes tener 2 copias de esta carta en un mazo de formato Ilimitado."
+      "Card_0206": "Sólo puedes tener 2 copias de esta carta en un mazo de formato Ilimitado.",
+      "Card_0207": "Dar prioridad a cartas animadas"
     }
   }
 }

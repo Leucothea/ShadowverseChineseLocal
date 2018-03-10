@@ -88,7 +88,9 @@
       "Common_0154": "ローテーション",
       "Common_0155": "アンリミテッド",
       "Common_0156": "フォーマット",
-      "Common_0157": "プライズ"
+      "Common_0157": "プライズ",
+      "Common_0158": "プレミアムオーブ",
+      "Common_0159": "オーブの欠片"
     },
     "Eng": {
       "Common_0001": "Yes",
@@ -178,7 +180,9 @@
       "Common_0154": "Rotation",
       "Common_0155": "Unlimited",
       "Common_0156": "Format",
-      "Common_0157": "Promo"
+      "Common_0157": "Promo",
+      "Common_0158": "Seer's Globe",
+      "Common_0159": "Seer's Globe Shards"
     },
     "Chs": {
       "Common_0001": "是",
@@ -268,7 +272,9 @@
       "Common_0154": "限制模式",
       "Common_0155": "无限模式",
       "Common_0156": "模式",
-      "Common_0157": "赠品"
+      "Common_0157": "赠品",
+      "Common_0158": "次元宝玉",
+      "Common_0159": "宝玉碎片"
     },
     "Kor": {
       "Common_0001": "네",
@@ -358,7 +364,9 @@
       "Common_0154": "로테이션",
       "Common_0155": "언리미티드",
       "Common_0156": "형식",
-      "Common_0157": "한정"
+      "Common_0157": "한정",
+      "Common_0158": "프리미엄 오브",
+      "Common_0159": "오브 조각"
     },
     "Cht": {
       "Common_0001": "是",
@@ -448,7 +456,9 @@
       "Common_0154": "指定系列",
       "Common_0155": "無限制",
       "Common_0156": "形式",
-      "Common_0157": "永久卡"
+      "Common_0157": "永久卡",
+      "Common_0158": "次元石",
+      "Common_0159": "次元石的碎片"
     },
     "Fre": {
       "Common_0001": "Oui",
@@ -538,7 +548,9 @@
       "Common_0154": "Alterné",
       "Common_0155": "Illimité",
       "Common_0156": "Format",
-      "Common_0157": "Spéciale"
+      "Common_0157": "Spéciale",
+      "Common_0158": "Sphère",
+      "Common_0159": "Fragments de sphère"
     },
     "Ita": {
       "Common_0001": "Sì",
@@ -628,7 +640,9 @@
       "Common_0154": "Avanzato",
       "Common_0155": "Illimitato",
       "Common_0156": "Formato",
-      "Common_0157": "Premio"
+      "Common_0157": "Premio",
+      "Common_0158": "Sfera Animata",
+      "Common_0159": "Frammenti di Sfera"
     },
     "Ger": {
       "Common_0001": "Ja",
@@ -718,7 +732,9 @@
       "Common_0154": "Quintupel",
       "Common_0155": "Unbegrenzt",
       "Common_0156": "Format",
-      "Common_0157": "Preis"
+      "Common_0157": "Preis",
+      "Common_0158": "Premiumsphäre",
+      "Common_0159": "Sphärensplitter"
     },
     "Spa": {
       "Common_0001": "Sí",
@@ -808,7 +824,9 @@
       "Common_0154": "Rotación",
       "Common_0155": "Ilimitado",
       "Common_0156": "Formato",
-      "Common_0157": "Premio"
+      "Common_0157": "Premio",
+      "Common_0158": "Esfera Animada",
+      "Common_0159": "Fragmento de Esfera"
     }
   }
 }

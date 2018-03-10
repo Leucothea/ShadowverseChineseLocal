@@ -36,7 +36,9 @@
       "FirstTips_0033": "【ランクマッチ】\n他のユーザーと対戦し、勝敗によってランクが変動します。\nローテーションとアンリミテッド、各フォーマットでそれぞれのランクが付きます。",
       "FirstTips_0034": "デッキ編成では、対戦フォーマットに対応したデッキを\n作成することができます。",
       "FirstTips_0035": "まずはローテーションのデッキを\n編成してみましょう。",
-      "FirstTips_0036": "画面左上のボタンをタップすると購入するパックのフォーマットを切り替えられます。\nローテーションでは最新の5つのカードパックが購入できます。\nアンリミテッドではそれ以外のカードパックが購入できます。"
+      "FirstTips_0036": "画面左上のボタンをタップすると購入するパックのフォーマットを切り替えられます。\nローテーションでは最新の5つのカードパックが購入できます。\nアンリミテッドではそれ以外のカードパックが購入できます。",
+      "FirstTips_0037": "【グランプリ】は期間限定で開催される大会に参加できるモードです。\n毎日、決められた回数だけ挑戦することができます。",
+      "FirstTips_0038": "「ラウンド1」「ラウンド2」「決勝ラウンド」があり、\n大会ごとに開催期間や進出条件などのルールが設定されています。\n詳細は開催情報をご確認ください。"
     },
     "Eng": {
       "FirstTips_0001": "Slide cards from your collection in and out of the deck to make changes. A complete deck must hold 40 cards.",
@@ -74,7 +76,9 @@
       "FirstTips_0033": "Your rank is determined by competing with other players in ranked matches. You will be ranked separately for playing in Rotation and Unlimited, respectively.",
       "FirstTips_0034": "You can create decks for either format from the Decks screen.",
       "FirstTips_0035": "Try making a Rotation deck first.",
-      "FirstTips_0036": "Toggle the button on the upper left of the screen to choose card sets based on format. Rotation lets you buy the five most recently released card sets, and Unlimited lets you buy any other card sets."
+      "FirstTips_0036": "Toggle the button on the upper left of the screen to choose card sets based on format. Rotation lets you buy the five most recently released card sets, and Unlimited lets you buy any other card sets.",
+      "FirstTips_0037": "The Grand Prix is an online tournament mode held over three stages. During each stage, you can play a number of rounds daily for free.",
+      "FirstTips_0038": "Stage 1, Stage 2, and the Final Stage each have different requirements for advancing. Check Info for more details."
     },
     "Chs": {
       "FirstTips_0001": "一套牌组由40张卡牌构成。\n请从画面下方的所持卡牌中\n把想要使用的卡牌向上滑动。\n如果要解除选择，请向下滑动。",
@@ -112,7 +116,9 @@
       "FirstTips_0033": "【天梯匹配】\n和其他玩家对战，根据胜负排名会产生变化。\n限制模式和无限模式有各自独立的排名。",
       "FirstTips_0034": "在组编牌组中，可以制作对应相关对战模式的牌组。",
       "FirstTips_0035": "先组编限制模式用的牌组吧。",
-      "FirstTips_0036": "点击画面左上的按钮,可以切换购买卡包的模式。\n限制模式可以购买最新的5弹卡包。\n无限模式可以购买除此之外的卡包。"
+      "FirstTips_0036": "点击画面左上的按钮,可以切换购买卡包的模式。\n限制模式可以购买最新的5弹卡包。\n无限模式可以购买除此之外的卡包。",
+      "FirstTips_0037": "FirstTips_0037",
+      "FirstTips_0038": "FirstTips_0038"
     },
     "Kor": {
       "FirstTips_0001": "덱은 40장의 카드로 구성됩니다.\n화면 아래에 표시된 보유 카드 중에서 사용하고 싶은 카드를 위로 끌어올려 세트해 주시기 바랍니다.\n또한, 덱에서 카드를 뺄 경우에는 세트 중인 카드를 밑으로 끌어내려 주시기 바랍니다.",
@@ -150,7 +156,9 @@
       "FirstTips_0033": "｢랭킹전｣\n다른 유저와 대전하고, 승패에 따라 랭크가 변동됩니다.\n로테이션과 언리미티드의 랭크는 각각의 대전 형식에 반영됩니다.",
       "FirstTips_0034": "덱 편성에서는 대전 형식별로 덱을 생성할 수 있습니다.",
       "FirstTips_0035": "먼저 로테이션의 덱을 생성해 보시기 바랍니다.",
-      "FirstTips_0036": "화면 왼쪽 위 아이콘을 선택하면 구매할 수 있는 카드팩 종류를 변경할 수 있습니다.\n로테이션에서는 최신 카드팩 5종류를 구매할 수 있으며,\n언리미티드에서는 그 외 나머지 카드팩을 구매할 수 있습니다."
+      "FirstTips_0036": "화면 왼쪽 위 아이콘을 선택하면 구매할 수 있는 카드팩 종류를 변경할 수 있습니다.\n로테이션에서는 최신 카드팩 5종류를 구매할 수 있으며,\n언리미티드에서는 그 외 나머지 카드팩을 구매할 수 있습니다.",
+      "FirstTips_0037": "｢그랑프리｣는 기간 한정으로 개최되는 대회에 참가할 수 있는 모드입니다.\n매일 정해진 횟수만큼 도전할 수 있습니다.",
+      "FirstTips_0038": "｢Round 1｣, ｢Round 2｣, ｢최종 Round｣ 순으로 진행되며,\n대회마다 개최 기간 및 진출 조건 등의 규칙이 지정되어 있습니다.\n자세한 내용은 개최정보를 확인하여 주시기 바랍니다."
     },
     "Cht": {
       "FirstTips_0001": "牌組是以40張卡片所構成。\n編輯牌組介面中，可從畫面下排的所持卡片一覽，\n將想使用的卡片移動至上排加入牌組中。\n如果想移除則將想取出的卡片往下排移動即可。",
@@ -188,7 +196,9 @@
       "FirstTips_0033": "【階級對戰】\n與其他玩家對戰，階級將依勝負而變動。\n指定系列與無限制兩種形式的階級將分別計算。",
       "FirstTips_0034": "編輯牌組頁面中，可依選擇的形式\n製作相對應的牌組。",
       "FirstTips_0035": "首先就來製作指定系列的牌組吧。",
-      "FirstTips_0036": "按下畫面左上方的按鈕即可切換對應的遊戲形式。\n指定系列為最新的5彈卡包。\n無限制則是其他彈的卡包。"
+      "FirstTips_0036": "按下畫面左上方的按鈕即可切換對應的遊戲形式。\n指定系列為最新的5彈卡包。\n無限制則是其他彈的卡包。",
+      "FirstTips_0037": "【大賽】為限定期間內由官方所舉辦的賽事模式，\n每日皆有固定的挑戰次數。",
+      "FirstTips_0038": "共分為「第1輪」、「第2輪」、「決賽」，\n每場賽事皆設有舉辦期間、晉級條件等規則，\n詳情請確認活動資訊。"
     },
     "Fre": {
       "FirstTips_0001": "Un deck se compose de 40 cartes. Sélectionnez les cartes désirées en bas de l'écran et faites-les glisser vers le haut pour les inclure à votre deck. La manipulation inverse permet d'enlever les cartes non désirées.",
@@ -226,12 +236,14 @@
       "FirstTips_0033": "Dans les batailles classées, vous affrontez d'autres utilisateurs et votre rang évolue avec vos victoires ou vos défaites. Deux rangs distincts existent ; ils évoluent indépendamment selon le format utilisé.",
       "FirstTips_0034": "L'écran de création de decks vous permet de créer des decks pour chaque format.",
       "FirstTips_0035": "Essayez tout d'abord de créer un deck en format Alterné.",
-      "FirstTips_0036": "Le bouton en haut à gauche de l'écran vous permet de choisir le format lors de l'achat de card packs.\nLe format Illimité vous permet d'acheter des card packs comprenant toutes les cartes du jeu. Le format Alterné, seulement ceux comprenant les cartes des 5 dernières extensions."
+      "FirstTips_0036": "Le bouton en haut à gauche de l'écran vous permet de choisir le format lors de l'achat de card packs.\nLe format Illimité vous permet d'acheter des card packs comprenant toutes les cartes du jeu. Le format Alterné, seulement ceux comprenant les cartes des 5 dernières extensions.",
+      "FirstTips_0037": "Le Grand Prix est un mode de jeu permettant de participer à des compétitions organisées pendant une durée limitée. Le nombre de participations journalières est cependant limité.",
+      "FirstTips_0038": "Un Grand Prix se compose de 3 étapes : le 1e tour, le 2e tour et le tour final. La durée et les conditions de passage aux tours suivants de chaque Grand Prix dépendent des paramètres de celui-ci."
     },
     "Ita": {
       "FirstTips_0001": "Trascina in alto le carte presenti nella tua collezione per aggiungerle o toglierle dal tuo deck. Un deck deve contenere esattamente 40 carte.",
       "FirstTips_0002": "Le fiale vengono usate per creare le carte. Puoi ottenerle tramite le ricompense o fondendo le carte che non ti servono.",
-      "FirstTips_0003": "Nel menu puoi fondere o creare copie della maggior parte delle carte.",
+      "FirstTips_0003": "Puoi utilizzare le fiale per creare le carte che ancora non possiedi. Ricorda che alcune speciali tipologie di carte, però, non possono essere né create né fuse.",
       "FirstTips_0004": "In Forza 2, ti vengono mostrate due paia di carte. Scegline un paio da mettere nel tuo deck, scarta l'altro, e ripeti. Una volta che avrai concluso il deck avrai 5 sfide da affrontare contro altri partecipanti a Forza 2. Più riuscirai a vincere, migliori saranno i premi che vincerai.",
       "FirstTips_0005": "Benvenuto in Shadowverse. Puoi ottenere le ricompense che hai ottenuto nel tutorial dal tuo Forziere.",
       "FirstTips_0006": "Per cominciare, seleziona \"Solo\". Nella modalità Solo puoi sfidare la CPU e ottenere molte carte da aggiungere al tuo deck.",
@@ -264,7 +276,9 @@
       "FirstTips_0033": "Il tuo grado cambia a seconda delle vittorie o delle sconfitte riportate contro gli altri giocatori. I formati Avanzato e Illimitato hanno due classifiche differenti.",
       "FirstTips_0034": "Puoi creare deck di entrambi i formati dalla schermata di modifica del deck.",
       "FirstTips_0035": "Prova a creare un deck utilizzabile nel formato Avanzato.",
-      "FirstTips_0036": "Cliccando sul pulsante in alto a sinistra dello schermo è possibile dividere per formato i vari set di carte. Avanzato permette di acquistare scegliendo tra le ultime cinque espansioni, mentre Illimitato permette di scegliere tra tutte le altre."
+      "FirstTips_0036": "Cliccando sul pulsante in alto a sinistra dello schermo è possibile dividere per formato i vari set di carte. Avanzato permette di acquistare scegliendo tra le ultime cinque espansioni, mentre Illimitato permette di scegliere tra tutte le altre.",
+      "FirstTips_0037": "Il Grand Prix è una modalità torneo che si tiene durante un periodo limitato di tempo. Ogni giorno è possibile affrontare un numero stabilito di match.",
+      "FirstTips_0038": "In ogni torneo saranno stabilite delle regole riguardanti il torneo in generale e delle condizioni per avanzare al primo turno, al secondo turno e alle finali. Tutti i dettagli su Informazioni evento."
     },
     "Ger": {
       "FirstTips_0001": "Karten können aus Deiner Sammlung in Dein Deck gezogen bzw. in umgekehrter Weise aus Deinem Deck entfernt werden. Ein vollständiges Deck besteht aus insgesamt 40 Karten.",
@@ -302,7 +316,9 @@
       "FirstTips_0033": "In Ranglistenkämpfen kannst Du Dich mit anderen Spielern in gewerteten Duellen messen und auf diese Weise Deinen Spielerrang verbessern. Der Rang eines Spielers wird für die Spielformate Quintupel und Unbegrenzt jeweils individuell berechnet.",
       "FirstTips_0034": "In diesem Menü kannst Du eigene, auf die Spielformate Quintupel und Unbegrenzt individuell zugeschnittene Decks erstellen.",
       "FirstTips_0035": "Versuche am besten zunächst einmal ein Quintupel-Deck zu kreieren.",
-      "FirstTips_0036": "Es ist möglich, die Auswahl der verfügbaren Kartenpacks per Klick auf die Schaltfläche mit dem Logo des jeweiligen Spielformats zu ändern: Während über Quintupel Packs der 5 neuesten Spielerweiterungen gekauft werden können, findest Du über Unbegrenzt alle weiteren Kartensets."
+      "FirstTips_0036": "Es ist möglich, die Auswahl der verfügbaren Kartenpacks per Klick auf die Schaltfläche mit dem Logo des jeweiligen Spielformats zu ändern: Während über Quintupel Packs der 5 neuesten Spielerweiterungen gekauft werden können, findest Du über Unbegrenzt alle weiteren Kartensets.",
+      "FirstTips_0037": "Grand Prix ist ein turnusmäßig veranstalteter Turniermodus, in dem täglich eine festgelegte Anzahl von Duellen bestritten werden.",
+      "FirstTips_0038": "Das Turnier ist in insgesamt drei Runden gestaffelt, von denen jede individuelle Rahmenbedingungen und Qualifikationsregeln besitzt. (Weitere Details können den jeweiligen Turnierinformationen entnommen werden.)"
     },
     "Spa": {
       "FirstTips_0001": "Un mazo completo contiene 40 cartas. Para agregar una carta a tu mazo, arrástrala desde tu colección hacia arriba. Para remover cartas, arrástralas hacia abajo.",
@@ -340,7 +356,9 @@
       "FirstTips_0033": "Tu rango depende de tus victorias o derrotas al enfrentarte contra otros usuarios. Cada formato, Rotación e Ilimitado, tiene sus propios rangos.",
       "FirstTips_0034": "En el menú de Mazos puedes crear mazos para cada formato.",
       "FirstTips_0035": "Primero prueba a crear un mazo de formato Rotación.",
-      "FirstTips_0036": "Haz clic en el botón superior derecho para elegir packs de cartas de cada formato. En Rotación podrás adquirir packs de las cinco expansiones más recientes. En Ilimitado podrás comprar otros packs."
+      "FirstTips_0036": "Haz clic en el botón superior derecho para elegir packs de cartas de cada formato. En Rotación podrás adquirir packs de las cinco expansiones más recientes. En Ilimitado podrás comprar otros packs.",
+      "FirstTips_0037": "En Grand Prix podrás participar en torneos de duración limitada, con un número fijo de intentos por día. ",
+      "FirstTips_0038": "Generalmente los torneos tienen 3 rondas y cada uno tiene una duración y reglas distintas. Consulta la descripción de cada torneo para más detalles."
     }
   }
 }

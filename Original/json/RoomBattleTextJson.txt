@@ -754,8 +754,8 @@
       "RoomBattle_0079": "Match singolo",
       "RoomBattle_0080": "Crea il deck avversario",
       "RoomBattle_0081": "Match Forza 2 (Crea Deck Avversario)",
-      "RoomBattle_0082": "Match Privato (Meglio dei 3 Avanzato)",
-      "RoomBattle_0083": "Match Privato (Meglio dei 5 Avanzato)",
+      "RoomBattle_0082": "Match Privato (Meglio dei 3)",
+      "RoomBattle_0083": "Match Privato (Meglio dei 5)",
       "RoomBattle_0084": "Deck {0}",
       "RoomBattle_0085": "Hai già utilizzato questa classe.",
       "RoomBattle_0086": "Non hai abbastanza deck per creare un Match Privato",
@@ -781,8 +781,8 @@
       "RoomBattle_0107": "Scegli Formato",
       "RoomBattle_0108": "Match Privato (Avanzato)",
       "RoomBattle_0109": "Match Privato (Illimitato)",
-      "RoomBattle_0110": "Match Privato (Meglio dei 3 Illimitato)",
-      "RoomBattle_0111": "Match Privato (Meglio dei 5 Illimitato)"
+      "RoomBattle_0110": "RoomBattle_0110",
+      "RoomBattle_0111": "RoomBattle_0111"
     },
     "Ger": {
       "RoomBattle_0001": "Raumkampf",

@@ -1521,7 +1521,7 @@
       "Dia_Room_001_Title": "Confirmar",
       "Dia_Room_001_Text": "Crear una {0} partida privada",
       "Dia_Room_001_CheckBox": "Autorizar el Modo Espectador para amigos",
-      "Dia_BuyBuildDeck_001_Title": "Mazos prefabricados",
+      "Dia_BuyBuildDeck_001_Title": "Mazos preconstruidos",
       "Dia_BuyBuildDeck_002_Title": "Comprar Mazo",
       "Dia_BuyBuildDeck_003_Title": "Detalles del Mazo",
       "Dia_BuyBuildDeck_004_Title": "Crear Mazo",

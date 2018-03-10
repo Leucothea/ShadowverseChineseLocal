@@ -422,7 +422,7 @@
       "MyPage_0019": "Partida contra CPU",
       "MyPage_0020": "Juega contra usuarios aleatorios sin afectar tu rango",
       "MyPage_0021": "Juega contra usuarios aleatorios para modificar tu rango",
-      "MyPage_0022": "Retar a un usuario específico",
+      "MyPage_0022": "Enfrenta a un usuario específico",
       "MyPage_0023": "MyPage_0023",
       "MyPage_0024": "MyPage_0024",
       "MyPage_0025": "MyPage_0025",

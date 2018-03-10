@@ -193,7 +193,7 @@
       "Ranking_0202": "Los rankings están siendo actualizados",
       "Ranking_0301": "Temporada Previa",
       "Ranking_0302": "Temporada Actual",
-      "Ranking_0303": "Selección de Temporadas",
+      "Ranking_0303": "Temporadas",
       "Ranking_0304": "TÚ",
       "Ranking_0305": "Puntos Master (Ilimitado)",
       "Ranking_0306": "Victorias por Clase (Ilimitado)"

@@ -169,7 +169,9 @@
       "Battle_0485": "現在、共鳴状態ではありません",
       "Battle_0486": "現在、共鳴状態です",
       "Battle_0487": "共鳴",
-      "Battle_0488": "デッキ選択　シャドバカップ"
+      "Battle_0488": "デッキ選択　グランプリ",
+      "Battle_0489": "拠点へ戻る",
+      "Battle_0490": "タイムアウトしました。\n\n拠点へ戻るか\nリトライを選択してください。"
     },
     "Eng": {
       "Battle_0004": "Take Two",
@@ -246,7 +248,7 @@
       "Battle_0200": "Missions",
       "Battle_0201": "Story",
       "Battle_0202": "Home",
-      "Battle_0203": "Take Two",
+      "Battle_0203": "Back",
       "Battle_0204": "Battle Again",
       "Battle_0205": "Next level in:",
       "Battle_0206": "Next rank in:",
@@ -284,7 +286,7 @@
       "Battle_0426": "Outcome of the match will be determined shortly.\n\nPlease wait a moment.",
       "Battle_0427": "Checking match results.",
       "Battle_0428": "Outcome of the match will be determined shortly.\n\nPlease wait a moment.",
-      "Battle_0429": "Take Two",
+      "Battle_0429": "Back",
       "Battle_0430": "1st",
       "Battle_0431": "2nd",
       "Battle_0432": "You go first.",
@@ -316,7 +318,7 @@
       "Battle_0458": "Vengeance is active.",
       "Battle_0459": "Number of shadows held.",
       "Battle_0460": "Details of followers summoned by Countdown amulets.",
-      "Battle_0461": "The connection timed out. Go to the Take Two screen or try again.",
+      "Battle_0461": "The connection timed out. Go back or try again.",
       "Battle_0462": "You're about to quit spectating this match.",
       "Battle_0463": "Regular",
       "Battle_0464": "Take Two",
@@ -340,7 +342,9 @@
       "Battle_0485": "Resonance is not active.",
       "Battle_0486": "Resonance is active.",
       "Battle_0487": "Resonance",
-      "Battle_0488": "Battle_0488"
+      "Battle_0488": "Select Deck (Grand Prix)",
+      "Battle_0489": "Back",
+      "Battle_0490": "The connection timed out. Go back or try again."
     },
     "Chs": {
       "Battle_0004": "双选模式",
@@ -511,7 +515,9 @@
       "Battle_0485": "现在不为天机状态。",
       "Battle_0486": "现在为天机状态。",
       "Battle_0487": "天机",
-      "Battle_0488": "Battle_0488"
+      "Battle_0488": "选择牌组 杯赛",
+      "Battle_0489": "返回据点",
+      "Battle_0490": "通信超时。\n\n返回据点或重试。"
     },
     "Kor": {
       "Battle_0004": "2Pick",
@@ -682,7 +688,9 @@
       "Battle_0485": "현재 공명 상태가 아닙니다.",
       "Battle_0486": "현재 공명 상태입니다.",
       "Battle_0487": "공명",
-      "Battle_0488": "Battle_0488"
+      "Battle_0488": "덱 선택  그랑프리",
+      "Battle_0489": "거점으로",
+      "Battle_0490": "시간이 초과되었습니다.\n\n덱 선택 화면으로 돌아가거나\n다시 시도해 주시기 바랍니다."
     },
     "Cht": {
       "Battle_0004": "2Pick",
@@ -853,7 +861,9 @@
       "Battle_0485": "現在共鳴狀態未發動",
       "Battle_0486": "現在共鳴狀態已發動",
       "Battle_0487": "共鳴",
-      "Battle_0488": "Battle_0488"
+      "Battle_0488": "選擇牌組 大賽",
+      "Battle_0489": "返回據點",
+      "Battle_0490": "連線已逾時。\n\n請返回據點\n或選擇再試一次。"
     },
     "Fre": {
       "Battle_0004": "Double Pioche",
@@ -968,7 +978,7 @@
       "Battle_0426": "L'issue de la bataille est en cours d'analyse. \nVeuillez patienter.",
       "Battle_0427": "L'issue de la bataille est en cours d'analyse.\nVeuillez patienter.",
       "Battle_0428": "L'issue de la bataille est en cours d'analyse.\nVeuillez patienter.",
-      "Battle_0429": "Double Pioche",
+      "Battle_0429": "Retourner au menu Double Pioche",
       "Battle_0430": "Premier",
       "Battle_0431": "Second",
       "Battle_0432": "Vous êtes le premier joueur.",
@@ -1000,7 +1010,7 @@
       "Battle_0458": "État Vengeance activé.",
       "Battle_0459": "Nombre de cartes envoyées en défausse.",
       "Battle_0460": "Combattants invoqués par les amulettes de type Aria.",
-      "Battle_0461": "La connexion a échoué.\nRetournez à l'écran Double Pioche ou réessayez.",
+      "Battle_0461": "La connexion a échoué.\nRetournez au menu ou sélectionnez Réessayer.",
       "Battle_0462": "Quitter le mode Spectateur ?",
       "Battle_0463": "Bataille standard",
       "Battle_0464": "Double Pioche",
@@ -1024,7 +1034,9 @@
       "Battle_0485": "Séquence n'est pas actuellement activée.",
       "Battle_0486": "Séquence est activée.",
       "Battle_0487": "Séquence",
-      "Battle_0488": "Choix du deck : Colysée (Alterné)"
+      "Battle_0488": "Sélection du deck (Grand Prix)",
+      "Battle_0489": "Retourner au Menu Grand Prix",
+      "Battle_0490": "La connexion a échoué.\nRetourner au menu Grand Prix ou sélectionnez Réessayer."
     },
     "Ita": {
       "Battle_0004": "Forza 2",
@@ -1195,7 +1207,9 @@
       "Battle_0485": "Risonanza non è attiva.",
       "Battle_0486": "Risonanza è attiva.",
       "Battle_0487": "Risonanza",
-      "Battle_0488": "Battle_0488"
+      "Battle_0488": "Selezione dei deck: Grand Prix",
+      "Battle_0489": "Grand Prix",
+      "Battle_0490": "La connessione è scaduta. Ritorna al menu del Grand Prix o riprova."
     },
     "Ger": {
       "Battle_0004": "Nimm 2",
@@ -1366,7 +1380,9 @@
       "Battle_0485": "Resonanz ist nicht aktiv.",
       "Battle_0486": "Resonanz ist aktiv.",
       "Battle_0487": "Resonanz",
-      "Battle_0488": "Deckauswahl: Kolosseum (Quintupel)"
+      "Battle_0488": "Deckauswahl: Grand Prix",
+      "Battle_0489": "Grand Prix",
+      "Battle_0490": "Zeitüberschreitung der Verbindung.\n\nKehre zum Grand Prix-Bildschirm zurück oder versuche es erneut."
     },
     "Spa": {
       "Battle_0004": "Toma Dos",
@@ -1396,7 +1412,7 @@
       "Battle_0104": "El oponente está seleccionando cartas",
       "Battle_0105": "Esperando al oponente.",
       "Battle_0106": "El oponente no ha cambiado cartas.",
-      "Battle_0107": "El oponente cambió\n{0@carta@cartas}\n",
+      "Battle_0107": "El oponente cambió\n{0@carta@cartas}",
       "Battle_0109": "Terminar\nTurno",
       "Battle_0110": "Aún puedes jugar cartas ¿Deseas terminar tu turno?",
       "Battle_0108": "Losaria",
@@ -1481,7 +1497,7 @@
       "Battle_0426": "El resultado de la partida será determinado en breve.\n\nPor favor espera un momento.\n",
       "Battle_0427": "Esperando fin del turno del oponente.",
       "Battle_0428": "El oponente no responde. El resultado de la partida será determinado en breve.\n\nPor favor espera un momento.\n",
-      "Battle_0429": "Toma Dos",
+      "Battle_0429": "Volver a Toma Dos",
       "Battle_0430": "Primero",
       "Battle_0431": "Segundo",
       "Battle_0432": "Juegas el primer turno",
@@ -1537,7 +1553,9 @@
       "Battle_0485": "Resonancia no se ha activado",
       "Battle_0486": "Resonancia se ha activado",
       "Battle_0487": "Resonancia",
-      "Battle_0488": "Battle_0488"
+      "Battle_0488": "Selección de mazos: Grand Prix",
+      "Battle_0489": "Grand Prix",
+      "Battle_0490": "Tiempo de espera de conexión agotado. Regresa a la pantalla de Grand Prix o vuelve a intentarlo."
     }
   }
 }
