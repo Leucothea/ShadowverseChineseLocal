@@ -62,7 +62,7 @@
       "BDSSN_構築済みデッキ2弾": "BDSSN_構築済みデッキ2弾",
       "BDSI_構築済みデッキ2弾": "In jedem Deck findet sich eine legendäre Premiumkarte mit brandneuem, animiertem Kartenmotiv.\nJedes Set kann bis zu 3-mal gekauft werden.\n(Hinweis: Umtausch und Rückerstattung aufgrund Kartenfähigkeiten betreffender Änderungen sind ausgeschlossen.)",
       "BDSSN_構築済みデッキ3弾": "BDSSN_構築済みデッキ3弾",
-      "BDSI_構築済みデッキ3弾": "Jedes Deck ist 34 Karten stark und enthält 2 legendäre\nPremiumkarten mit neuem, animiertem Kartenmotiv.\n[b]Einmaliges Angebot:[/b] 800 Kristalle!"
+      "BDSI_構築済みデッキ3弾": "Jedes Deck ist 34 Karten stark und enthält 2 Karten von legen-\ndärem Seltenheitsgrad sowie 1 Satz exklusive Kartenrücken.\n[b]Einmaliges Angebot:[/b] 800 Kristalle!"
     },
     "Spa": {
       "BDSSN_構築済みデッキ1弾": "BDSSN_構築済みデッキ1弾",
@@ -70,7 +70,7 @@
       "BDSSN_構築済みデッキ2弾": "BDSSN_構築済みデッキ2弾",
       "BDSI_構築済みデッキ2弾": "¡Cada mazo prefabricado contiene una carta Legendaria animada exclusiva! Cada mazo puede ser adquirido 3 veces, costando 500 cristales la primera vez, y 750 cristales después.",
       "BDSSN_構築済みデッキ3弾": "BDSSN_構築済みデッキ3弾",
-      "BDSI_構築済みデッキ3弾": "Cada pack contiene 34 cartas e incluye 2 cartas Legendarias con dorsos animados exclusivos.\n[b]Precio limitado para la primera compra:[/b] ¡800 cristales! "
+      "BDSI_構築済みデッキ3弾": "Cada pack contiene 34 cartas e incluye 2 cartas Legendarias con dorsos exclusivos.\n[b]Precio limitado para la primera compra:[/b] ¡800 cristales! "
     }
   }
 }

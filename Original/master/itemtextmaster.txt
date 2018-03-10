@@ -10,7 +10,9 @@
       "IT_10005": "ワンダーランド・ドリームズカードパックチケット",
       "IT_10006": "星神の伝説カードパックチケット",
       "IT_10007": "時空転生カードパックチケット",
-      "IT_10008": "新カードパックチケット"
+      "IT_10008": "新カードパックチケット",
+      "IT_1001": "オーブの欠片",
+      "IT_2": "グランプリチケット"
     },
     "Eng": {
       "IT_1": "Take Two Ticket",
@@ -22,7 +24,9 @@
       "IT_10005": "Wonderland Dreams Card Pack Ticket",
       "IT_10006": "Starforged Legends Card Pack Ticket",
       "IT_10007": "Chronogenesis Card Pack Ticket",
-      "IT_10008": "Upcoming Card Pack Ticket"
+      "IT_10008": "Upcoming Card Pack Ticket",
+      "IT_1001": "Seer's Globe Shard",
+      "IT_2": "Grand Prix Ticket"
     },
     "Chs": {
       "IT_1": "双选模式入场券",
@@ -34,7 +38,9 @@
       "IT_10005": "梦游仙境卡包兑换券",
       "IT_10006": "星神传说卡包兑换券",
       "IT_10007": "时空转生卡包兑换券",
-      "IT_10008": "新卡包兑换券"
+      "IT_10008": "新卡包兑换券",
+      "IT_1001": "宝玉碎片",
+      "IT_2": "杯赛入场券"
     },
     "Kor": {
       "IT_1": "2Pick티켓",
@@ -46,7 +52,9 @@
       "IT_10005": "동화 속 세상 카드팩 티켓",
       "IT_10006": "별들의 신화 카드팩 티켓",
       "IT_10007": "시공의 재탄생 카드팩 티켓",
-      "IT_10008": "신규 카드팩 티켓"
+      "IT_10008": "신규 카드팩 티켓",
+      "IT_1001": "오브 조각",
+      "IT_2": "그랑프리 티켓"
     },
     "Cht": {
       "IT_1": "2Pick入場券",
@@ -58,7 +66,9 @@
       "IT_10005": "夢境奇想卡包兌換券",
       "IT_10006": "星神傳說卡包兌換券",
       "IT_10007": "時空轉生卡包兌換券",
-      "IT_10008": "新卡包兌換券"
+      "IT_10008": "新卡包兌換券",
+      "IT_1001": "次元石的碎片",
+      "IT_2": "大賽入場券"
     },
     "Fre": {
       "IT_1": "Ticket Double Pioche",
@@ -70,7 +80,9 @@
       "IT_10005": "Ticket Wonderland Dreams card pack",
       "IT_10006": "Ticket Starforged Legends card pack",
       "IT_10007": "Ticket Chronogenesis card pack",
-      "IT_10008": "Ticket prochain card pack"
+      "IT_10008": "Ticket prochain card pack",
+      "IT_1001": "Fragments de sphère",
+      "IT_2": "Ticket Grand Prix"
     },
     "Ita": {
       "IT_1": "Ticket Forza 2 ",
@@ -82,7 +94,9 @@
       "IT_10005": "Ticket Wonderland Dreams Card Pack",
       "IT_10006": "Ticket Starforged Legends Card Pack",
       "IT_10007": "Ticket Chronogenesis Card Pack",
-      "IT_10008": "Ticket Nuova Espansione"
+      "IT_10008": "Ticket Nuova Espansione",
+      "IT_1001": "Frammenti di Sfera",
+      "IT_2": "Ticket Grand Prix"
     },
     "Ger": {
       "IT_1": "Ticket: Nimm 2",
@@ -94,7 +108,9 @@
       "IT_10005": "Ticket: Wonderland Dreams-Kartenpack",
       "IT_10006": "Ticket: Starforged Legends-Kartenpack",
       "IT_10007": "Ticket: Chronogenesis-Kartenpack",
-      "IT_10008": "Ticket: Neues Kartenpack"
+      "IT_10008": "Ticket: Neues Kartenpack",
+      "IT_1001": "Sphärensplitter",
+      "IT_2": "Ticket: Grand Prix"
     },
     "Spa": {
       "IT_1": "Ticket: Toma Dos",
@@ -106,7 +122,9 @@
       "IT_10005": "Ticket de pack Wonderland Dreams",
       "IT_10006": "Ticket de pack Starforged Legends",
       "IT_10007": "Ticket de pack Chronogenesis",
-      "IT_10008": "Ticket de pack de la Próxima Expansión"
+      "IT_10008": "Ticket de pack de la Próxima Expansión",
+      "IT_1001": "Fragmento de Esfera",
+      "IT_2": "Ticket: Grand Prix"
     }
   }
 }

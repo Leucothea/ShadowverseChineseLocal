@@ -60,7 +60,11 @@
       "CC_ディートリッヒ": "ディートリッヒ",
       "CC_アルベール": "アルベール",
       "CC_ケルベロス": "ケルベロス",
-      "CC_エクセラ": "エクセラ"
+      "CC_エクセラ": "エクセラ",
+      "CC_エレノア": "エレノア",
+      "CC_スライム": "魔導生物",
+      "CC_無暁の暗殺者(女)": "無暁の暗殺者",
+      "CC_無暁の暗殺者(男)": "無暁の暗殺者"
     },
     "Eng": {
       "CC_アリサ": "Arisa",
@@ -122,7 +126,11 @@
       "CC_ディートリッヒ": "Dietrich",
       "CC_アルベール": "Albert",
       "CC_ケルベロス": "Cerberus",
-      "CC_エクセラ": "Exella"
+      "CC_エクセラ": "Exella",
+      "CC_エレノア": "Eleanor",
+      "CC_スライム": "Magical Lifeform",
+      "CC_無暁の暗殺者(女)": "Countersolari Assassin",
+      "CC_無暁の暗殺者(男)": "Countersolari Assassin"
     },
     "Chs": {
       "CC_アリサ": "亚里莎",
@@ -184,7 +192,11 @@
       "CC_ディートリッヒ": "迪特里希",
       "CC_アルベール": "阿尔贝尔",
       "CC_ケルベロス": "坎贝萝丝",
-      "CC_エクセラ": "艾塞拉"
+      "CC_エクセラ": "艾塞拉",
+      "CC_エレノア": "埃蕾诺娅",
+      "CC_スライム": "魔导生物",
+      "CC_無暁の暗殺者(女)": "无晓的暗杀者",
+      "CC_無暁の暗殺者(男)": "无晓的暗杀者"
     },
     "Kor": {
       "CC_アリサ": "아리사",
@@ -246,7 +258,11 @@
       "CC_ディートリッヒ": "디트리히",
       "CC_アルベール": "알베르",
       "CC_ケルベロス": "케르베로스",
-      "CC_エクセラ": "엑셀라"
+      "CC_エクセラ": "엑셀라",
+      "CC_エレノア": "엘레노아",
+      "CC_スライム": "마법 생물",
+      "CC_無暁の暗殺者(女)": "암월 암살자",
+      "CC_無暁の暗殺者(男)": "암월 암살자"
     },
     "Cht": {
       "CC_アリサ": "亞里莎",
@@ -308,7 +324,11 @@
       "CC_ディートリッヒ": "迪特里希",
       "CC_アルベール": "阿爾貝爾",
       "CC_ケルベロス": "凱爾貝洛斯",
-      "CC_エクセラ": "艾瑟菈"
+      "CC_エクセラ": "艾瑟菈",
+      "CC_エレノア": "愛蓮娜",
+      "CC_スライム": "魔導生物",
+      "CC_無暁の暗殺者(女)": "無曉的暗殺者",
+      "CC_無暁の暗殺者(男)": "無曉的暗殺者"
     },
     "Fre": {
       "CC_アリサ": "Arisa",
@@ -370,7 +390,11 @@
       "CC_ディートリッヒ": "Dietrich",
       "CC_アルベール": "Albert",
       "CC_ケルベロス": "Cerbère",
-      "CC_エクセラ": "Exella"
+      "CC_エクセラ": "Exella",
+      "CC_エレノア": "Eleanor",
+      "CC_スライム": "Créature magique",
+      "CC_無暁の暗殺者(女)": "Assassin (Nuit éternelle)",
+      "CC_無暁の暗殺者(男)": "Assassin (Nuit éternelle)"
     },
     "Ita": {
       "CC_アリサ": "Arisa",
@@ -429,10 +453,14 @@
       "CC_次元の魔女・ドロシー": "Daria",
       "CC_インペリアルドラグーン": "Aldos",
       "CC_虚の影4": "Ombra Vuota",
-      "CC_ディートリッヒ": "",
+      "CC_ディートリッヒ": "Dietrich",
       "CC_アルベール": "Albert",
       "CC_ケルベロス": "Cerbero",
-      "CC_エクセラ": "Exella"
+      "CC_エクセラ": "Exella",
+      "CC_エレノア": "Eleanor",
+      "CC_スライム": "Creatura Magica",
+      "CC_無暁の暗殺者(女)": "Assassina (Buio Perpetuo)",
+      "CC_無暁の暗殺者(男)": "Assassino (Buio Perpetuo)"
     },
     "Ger": {
       "CC_アリサ": "Arisa",
@@ -494,7 +522,11 @@
       "CC_ディートリッヒ": "Dietrich",
       "CC_アルベール": "Albert",
       "CC_ケルベロス": "Zerberus",
-      "CC_エクセラ": "Excella"
+      "CC_エクセラ": "Excella",
+      "CC_エレノア": "Eleanor",
+      "CC_スライム": "Magische Lebensform",
+      "CC_無暁の暗殺者(女)": "Attentäterin (Nimmermorgen)",
+      "CC_無暁の暗殺者(男)": "Attentäter (Nimmermorgen)"
     },
     "Spa": {
       "CC_アリサ": "Arisa",
@@ -556,7 +588,11 @@
       "CC_ディートリッヒ": "Dietrich",
       "CC_アルベール": "Albert",
       "CC_ケルベロス": "Cerberus",
-      "CC_エクセラ": "Excella"
+      "CC_エクセラ": "Excella",
+      "CC_エレノア": "Eleanor",
+      "CC_スライム": "Criatura Mágica",
+      "CC_無暁の暗殺者(女)": "Asesina (Ocaso Eterno)",
+      "CC_無暁の暗殺者(男)": "Asesino (Ocaso Eterno)"
     }
   }
 }

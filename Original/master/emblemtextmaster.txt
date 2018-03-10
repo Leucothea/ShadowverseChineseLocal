@@ -273,7 +273,13 @@
       "EM_デモンオフィサー・エメラダ": "デモンオフィサー・エメラダ",
       "EM_RAGE_2018_Spring": "RAGE 2018 Spring",
       "EM_JCG_4th_season": "JCG 4th Season",
-      "EM_幼き死霊術師・ルナ": "幼き死霊術師・ルナ"
+      "EM_NGE_CGS_EU": "Chronogenesis EU Open",
+      "EM_NGE_CGS_NA": "Chronogenesis NA Open",
+      "EM_NGE_CGS_SEAO": "Chronogenesis SEAO Open",
+      "EM_幼き死霊術師・ルナ": "幼き死霊術師・ルナ",
+      "EM_メイシア": "メイシア",
+      "EM_セタス": "セタス",
+      "EM_さよならの朝に約束の花をかざろう": "さよならの朝に約束の花をかざろう"
     },
     "Eng": {
       "EM_シャドウバース": "Shadowverse",
@@ -548,7 +554,13 @@
       "EM_デモンオフィサー・エメラダ": "Emeralda, Demonic Officer",
       "EM_RAGE_2018_Spring": "RAGE (Spring 2018)",
       "EM_JCG_4th_season": "JCG 4th Season",
-      "EM_幼き死霊術師・ルナ": "Luna, Little Necromancer"
+      "EM_NGE_CGS_EU": "Chronogenesis EU Open",
+      "EM_NGE_CGS_NA": "Chronogenesis NA Open",
+      "EM_NGE_CGS_SEAO": "Chronogenesis SEAO Open",
+      "EM_幼き死霊術師・ルナ": "Luna, Little Necromancer",
+      "EM_メイシア": "Maisha",
+      "EM_セタス": "Setus",
+      "EM_さよならの朝に約束の花をかざろう": "MAQUIA: When the Promised Flower Blooms"
     },
     "Chs": {
       "EM_シャドウバース": "影之诗",
@@ -822,8 +834,14 @@
       "EM_竜の託宣": "龙之启示",
       "EM_デモンオフィサー・エメラダ": "恶魔武官·艾美拉达",
       "EM_RAGE_2018_Spring": "RAGE 2018 Spring",
-      "EM_JCG_4th_season": "JCG 4th Season",
-      "EM_幼き死霊術師・ルナ": "年幼的死灵法师·璐娜"
+      "EM_JCG_4th_season": "JCG 第4赛季",
+      "EM_NGE_CGS_EU": "Chronogenesis EU Open",
+      "EM_NGE_CGS_NA": "Chronogenesis NA Open",
+      "EM_NGE_CGS_SEAO": "Chronogenesis SEAO Open",
+      "EM_幼き死霊術師・ルナ": "年幼的死灵法师·璐娜",
+      "EM_メイシア": "梅茜娅",
+      "EM_セタス": "塞达斯",
+      "EM_さよならの朝に約束の花をかざろう": "MAQUIA: When the Promised Flower Blooms"
     },
     "Kor": {
       "EM_シャドウバース": "섀도우버스",
@@ -1098,7 +1116,13 @@
       "EM_デモンオフィサー・エメラダ": "악마 장교 에메라다",
       "EM_RAGE_2018_Spring": "RAGE 2018 Spring",
       "EM_JCG_4th_season": "JCG 4th Season",
-      "EM_幼き死霊術師・ルナ": "어린 사령술사 루나"
+      "EM_NGE_CGS_EU": "Chronogenesis EU Open",
+      "EM_NGE_CGS_NA": "Chronogenesis NA Open",
+      "EM_NGE_CGS_SEAO": "Chronogenesis SEAO Open",
+      "EM_幼き死霊術師・ルナ": "어린 사령술사 루나",
+      "EM_メイシア": "메이시아",
+      "EM_セタス": "세타스",
+      "EM_さよならの朝に約束の花をかざろう": "MAQUIA: When the Promised Flower Blooms"
     },
     "Cht": {
       "EM_シャドウバース": "Shadowverse",
@@ -1373,7 +1397,13 @@
       "EM_デモンオフィサー・エメラダ": "惡魔巡查官‧亞梅拉達",
       "EM_RAGE_2018_Spring": "RAGE 2018 Spring",
       "EM_JCG_4th_season": "JCG 4th Season",
-      "EM_幼き死霊術師・ルナ": "蘿莉死靈法師‧露娜"
+      "EM_NGE_CGS_EU": "Chronogenesis EU Open",
+      "EM_NGE_CGS_NA": "Chronogenesis NA Open",
+      "EM_NGE_CGS_SEAO": "Chronogenesis SEAO Open",
+      "EM_幼き死霊術師・ルナ": "蘿莉死靈法師‧露娜",
+      "EM_メイシア": "梅希亞",
+      "EM_セタス": "賽德斯",
+      "EM_さよならの朝に約束の花をかざろう": "さよならの朝に約束の花をかざろう"
     },
     "Fre": {
       "EM_シャドウバース": "Shadowverse",
@@ -1648,7 +1678,13 @@
       "EM_デモンオフィサー・エメラダ": "Emérelda la démone",
       "EM_RAGE_2018_Spring": "RAGE 2018 Spring",
       "EM_JCG_4th_season": "JCG 4th Season",
-      "EM_幼き死霊術師・ルナ": "Luna, fillette nécromancière"
+      "EM_NGE_CGS_EU": "Chronogenesis EU Open",
+      "EM_NGE_CGS_NA": "Chronogenesis NA Open",
+      "EM_NGE_CGS_SEAO": "Chronogenesis SEAO Open",
+      "EM_幼き死霊術師・ルナ": "Luna, fillette nécromancière",
+      "EM_メイシア": "Maysia",
+      "EM_セタス": "Setus",
+      "EM_さよならの朝に約束の花をかざろう": "MAQUIA: When the Promised Flower Blooms"
     },
     "Ita": {
       "EM_シャドウバース": "Shadowverse",
@@ -1923,7 +1959,13 @@
       "EM_デモンオフィサー・エメラダ": "Emeralda, Leader dei Demoni",
       "EM_RAGE_2018_Spring": "RAGE 2018 Spring",
       "EM_JCG_4th_season": "JCG 4th Season",
-      "EM_幼き死霊術師・ルナ": "Luna, Giovane Guida Spiriti"
+      "EM_NGE_CGS_EU": "Chronogenesis EU Open",
+      "EM_NGE_CGS_NA": "Chronogenesis NA Open",
+      "EM_NGE_CGS_SEAO": "Chronogenesis SEAO Open",
+      "EM_幼き死霊術師・ルナ": "Luna, Giovane Guida Spiriti",
+      "EM_メイシア": "Maisha",
+      "EM_セタス": "Setus",
+      "EM_さよならの朝に約束の花をかざろう": "MAQUIA: When the Promised Flower Blooms"
     },
     "Ger": {
       "EM_シャドウバース": "Shadowverse",
@@ -2175,7 +2217,7 @@
       "EM_ヘヴンリーナイト": "Himmlischer Ritter",
       "EM_マグナレガシー": "Magna hereditas",
       "EM_神秘の番人・スピネ": "Spine, Hüterin der Arkana",
-      "EM_デウスエクスマキナ": "Deus ex machina",
+      "EM_デウスエクスマキナ": "Deus ex Machina",
       "EM_レヴィオンセイバー・アルベール_スキン付": "Albert",
       "EM_ケルベロス_スキン付": "Zerberus",
       "EM_ダークジェネラル・エクセラ_スキン付": "Excella",
@@ -2198,7 +2240,13 @@
       "EM_デモンオフィサー・エメラダ": "Emerada, dämon. Offizierin",
       "EM_RAGE_2018_Spring": "RAGE 2018 Spring",
       "EM_JCG_4th_season": "JCG 4th Season",
-      "EM_幼き死霊術師・ルナ": "Luna, junge Meister-Nekromantin"
+      "EM_NGE_CGS_EU": "Chronogenesis EU Open",
+      "EM_NGE_CGS_NA": "Chronogenesis NA Open",
+      "EM_NGE_CGS_SEAO": "Chronogenesis SEAO Open",
+      "EM_幼き死霊術師・ルナ": "Luna, junge Meister-Nekromantin",
+      "EM_メイシア": "Maecia",
+      "EM_セタス": "Sethus",
+      "EM_さよならの朝に約束の花をかざろう": "MAQUIA: When the Promised Flower Blooms"
     },
     "Spa": {
       "EM_シャドウバース": "Shadowverse",
@@ -2473,7 +2521,13 @@
       "EM_デモンオフィサー・エメラダ": "Emeralda, Oficial Demonio",
       "EM_RAGE_2018_Spring": "RAGE 2018 Spring",
       "EM_JCG_4th_season": "JCG 4th Season",
-      "EM_幼き死霊術師・ルナ": "Luna, Pequeña Maestra de Almas"
+      "EM_NGE_CGS_EU": "Chronogenesis EU Open",
+      "EM_NGE_CGS_NA": "Chronogenesis NA Open",
+      "EM_NGE_CGS_SEAO": "Chronogenesis SEAO Open",
+      "EM_幼き死霊術師・ルナ": "Luna, Pequeña Maestra de Almas",
+      "EM_メイシア": "Maysia",
+      "EM_セタス": "Setus",
+      "EM_さよならの朝に約束の花をかざろう": "MAQUIA: When the Promised Flower Blooms"
     }
   }
 }

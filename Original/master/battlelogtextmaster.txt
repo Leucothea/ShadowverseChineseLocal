@@ -1146,7 +1146,7 @@
       "BattleLog_0107": "{0} {2} {1} ins Blatt aufgenommen",
       "BattleLog_0108": "Beim Ausspielen von Zaubersprüchen:",
       "BattleLog_0109": "Erlittener Schaden um -{0} verringert",
-      "BattleLog_0110": "{0} {1} {2@Karte@Karten} werden ins Blatt aufgenommen",
+      "BattleLog_0110": "{0}{1} {2@Karte wird@Karten werden} ins Blatt aufgenommen",
       "BattleLog_0111": "{0} SP wiederhergestellt",
       "BattleLog_0112": "Der gegnerische Anführer und alle gegnerischen Vasallen",
       "BattleLog_0113": "Bei Erfüllung der Voraussetzungen:",
