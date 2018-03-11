@@ -1,4 +1,10 @@
 {
+      "story_section_00": "序章",
       "story_section_01": "災厄之樹篇",
-      "story_section_02": "災厄之樹篇 -終章-"
+      "story_section_02": "災厄之樹篇 -終章-",
+      "story_section_03": "公會動亂篇",
+      "story_section_no_00": "0.",
+      "story_section_no_01": "1.",
+      "story_section_no_02": "2.",
+      "story_section_no_03": "3."
 }
