@@ -64,7 +64,12 @@
       "CC_エレノア": "エレノア",
       "CC_スライム": "魔導生物",
       "CC_無暁の暗殺者(女)": "無暁の暗殺者",
-      "CC_無暁の暗殺者(男)": "無暁の暗殺者"
+      "CC_無暁の暗殺者(男)": "無暁の暗殺者",
+      "CC_アリア": "アリア",
+      "CC_ラミナ": "ラミナ",
+      "CC_龍化ローウェン": "ローウェン",
+      "CC_エスカマリの信徒(男)": "エスカマリの信徒",
+      "CC_エスカマリの信徒(女)": "エスカマリの信徒"
     },
     "Eng": {
       "CC_アリサ": "Arisa",
@@ -130,7 +135,12 @@
       "CC_エレノア": "Eleanor",
       "CC_スライム": "Magical Lifeform",
       "CC_無暁の暗殺者(女)": "Countersolari Assassin",
-      "CC_無暁の暗殺者(男)": "Countersolari Assassin"
+      "CC_無暁の暗殺者(男)": "Countersolari Assassin",
+      "CC_アリア": "Aria",
+      "CC_ラミナ": "Ramina",
+      "CC_龍化ローウェン": "Rowen",
+      "CC_エスカマリの信徒(男)": "Eschamali Adherent",
+      "CC_エスカマリの信徒(女)": "Eschamali Adherent"
     },
     "Chs": {
       "CC_アリサ": "亚里莎",
@@ -196,7 +206,12 @@
       "CC_エレノア": "埃蕾诺娅",
       "CC_スライム": "魔导生物",
       "CC_無暁の暗殺者(女)": "无晓的暗杀者",
-      "CC_無暁の暗殺者(男)": "无晓的暗杀者"
+      "CC_無暁の暗殺者(男)": "无晓的暗杀者",
+      "CC_アリア": "雅莉娅",
+      "CC_ラミナ": "拉米娜",
+      "CC_龍化ローウェン": "罗文",
+      "CC_エスカマリの信徒(男)": "神之天平的信徒",
+      "CC_エスカマリの信徒(女)": "神之天平的信徒"
     },
     "Kor": {
       "CC_アリサ": "아리사",
@@ -262,7 +277,12 @@
       "CC_エレノア": "엘레노아",
       "CC_スライム": "마법 생물",
       "CC_無暁の暗殺者(女)": "암월 암살자",
-      "CC_無暁の暗殺者(男)": "암월 암살자"
+      "CC_無暁の暗殺者(男)": "암월 암살자",
+      "CC_アリア": "아리아",
+      "CC_ラミナ": "라미나",
+      "CC_龍化ローウェン": "로웬",
+      "CC_エスカマリの信徒(男)": "에샤마리 신도",
+      "CC_エスカマリの信徒(女)": "에샤마리 신도"
     },
     "Cht": {
       "CC_アリサ": "亞里莎",
@@ -328,7 +348,12 @@
       "CC_エレノア": "愛蓮娜",
       "CC_スライム": "魔導生物",
       "CC_無暁の暗殺者(女)": "無曉的暗殺者",
-      "CC_無暁の暗殺者(男)": "無曉的暗殺者"
+      "CC_無暁の暗殺者(男)": "無曉的暗殺者",
+      "CC_アリア": "阿麗雅",
+      "CC_ラミナ": "菈米娜",
+      "CC_龍化ローウェン": "羅文",
+      "CC_エスカマリの信徒(男)": "耶斯嘉馬利的信徒",
+      "CC_エスカマリの信徒(女)": "耶斯嘉馬利的信徒"
     },
     "Fre": {
       "CC_アリサ": "Arisa",
@@ -394,7 +419,12 @@
       "CC_エレノア": "Eleanor",
       "CC_スライム": "Créature magique",
       "CC_無暁の暗殺者(女)": "Assassin (Nuit éternelle)",
-      "CC_無暁の暗殺者(男)": "Assassin (Nuit éternelle)"
+      "CC_無暁の暗殺者(男)": "Assassin (Nuit éternelle)",
+      "CC_アリア": "Aria",
+      "CC_ラミナ": "Lamina",
+      "CC_龍化ローウェン": "Rowen",
+      "CC_エスカマリの信徒(男)": "Fidèle d'Eschamali",
+      "CC_エスカマリの信徒(女)": "Fidèle d'Eschamali"
     },
     "Ita": {
       "CC_アリサ": "Arisa",
@@ -460,7 +490,12 @@
       "CC_エレノア": "Eleanor",
       "CC_スライム": "Creatura Magica",
       "CC_無暁の暗殺者(女)": "Assassina (Buio Perpetuo)",
-      "CC_無暁の暗殺者(男)": "Assassino (Buio Perpetuo)"
+      "CC_無暁の暗殺者(男)": "Assassino (Buio Perpetuo)",
+      "CC_アリア": "Aria",
+      "CC_ラミナ": "Lamina",
+      "CC_龍化ローウェン": "Rowen",
+      "CC_エスカマリの信徒(男)": "Fedele (Eschamali)",
+      "CC_エスカマリの信徒(女)": "Fedele (Eschamali)"
     },
     "Ger": {
       "CC_アリサ": "Arisa",
@@ -526,7 +561,12 @@
       "CC_エレノア": "Eleanor",
       "CC_スライム": "Magische Lebensform",
       "CC_無暁の暗殺者(女)": "Attentäterin (Nimmermorgen)",
-      "CC_無暁の暗殺者(男)": "Attentäter (Nimmermorgen)"
+      "CC_無暁の暗殺者(男)": "Attentäter (Nimmermorgen)",
+      "CC_アリア": "Aria",
+      "CC_ラミナ": "Lamina",
+      "CC_龍化ローウェン": "Rowen",
+      "CC_エスカマリの信徒(男)": "Anhänger (Eschamali)",
+      "CC_エスカマリの信徒(女)": "Anhängerin (Eschamali)"
     },
     "Spa": {
       "CC_アリサ": "Arisa",
@@ -592,7 +632,12 @@
       "CC_エレノア": "Eleanor",
       "CC_スライム": "Criatura Mágica",
       "CC_無暁の暗殺者(女)": "Asesina (Ocaso Eterno)",
-      "CC_無暁の暗殺者(男)": "Asesino (Ocaso Eterno)"
+      "CC_無暁の暗殺者(男)": "Asesino (Ocaso Eterno)",
+      "CC_アリア": "Aria",
+      "CC_ラミナ": "Lamina",
+      "CC_龍化ローウェン": "Rowen",
+      "CC_エスカマリの信徒(男)": "Adepto de Escamari",
+      "CC_エスカマリの信徒(女)": "Adepta de Escamari"
     }
   }
 }

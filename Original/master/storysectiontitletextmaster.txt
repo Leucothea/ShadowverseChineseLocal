@@ -75,10 +75,10 @@
       "story_section_01": "Die Leidesche",
       "story_section_02": "Die Leidesche: Finale",
       "story_section_03": "Die Gildenfehde",
-      "story_section_no_00": "0.",
-      "story_section_no_01": "1.",
-      "story_section_no_02": "2.",
-      "story_section_no_03": "3."
+      "story_section_no_00": "0. ",
+      "story_section_no_01": "1. ",
+      "story_section_no_02": "2. ",
+      "story_section_no_03": "3. "
     },
     "Spa": {
       "story_section_00": "Prólogo",
