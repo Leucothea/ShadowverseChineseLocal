@@ -514,7 +514,7 @@
       "Mail_0019": "No hay mensajes nuevos.",
       "Mail_0020": "No hay mensajes que puedan ser borrados.",
       "Mail_0006": "Todos los artículos han sido cobrados.",
-      "Mail_0007": "Recibir",
+      "Mail_0007": "Cobrar",
       "Mail_0008": "Eliminar",
       "Mail_0013": "¿Cobrar {0}?",
       "Mail_0014": "¿Borrar {0}?",

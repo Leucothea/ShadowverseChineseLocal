@@ -799,7 +799,7 @@
       "Common_0129": "Bajo",
       "Common_0130": "Restaurar",
       "Common_0131": "Pantalla de título",
-      "Common_0132": "Menú principal",
+      "Common_0132": "Menú de Inicio",
       "Common_0133": "Reintentar",
       "Common_0134": "Dispositivos compatibles",
       "Common_0135": "Salir",
@@ -826,7 +826,7 @@
       "Common_0156": "Formato",
       "Common_0157": "Premio",
       "Common_0158": "Esfera Animada",
-      "Common_0159": "Fragmento de Esfera"
+      "Common_0159": "Fragmentos de Esfera"
     }
   }
 }

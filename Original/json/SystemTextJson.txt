@@ -74,7 +74,8 @@
       "System_Ger_Jpn": "Japanisch",
       "System_Chs_Jpn": "日语",
       "System_Spa_Eng": "Inglés",
-      "System_Spa_Jpn": "Japonés"
+      "System_Spa_Jpn": "Japonés",
+      "System_0052": "問題が発生したため、ゲームを進行することができません。\nキャッシュクリアを行うことで問題が解消される場合があります。\n\nプレイ中のゲームデータは削除されません。\nキャッシュクリア後は再度データをダウンロードします。\n通信状況により、ダウンロードに時間が\nかかる場合があります。\n\nキャッシュクリアをしてもよろしいですか？\n[ffcd45]プレイ中のバトルがある場合は、バトルは敗北となります。[-]"
     },
     "Eng": {
       "System_TimeDateLong": "h:mm tt, MMM dd, yyyy",
@@ -150,7 +151,8 @@
       "System_Ger_Jpn": "Japanisch",
       "System_Chs_Jpn": "日语",
       "System_Spa_Eng": "Inglés",
-      "System_Spa_Jpn": "Japonés"
+      "System_Spa_Jpn": "Japonés",
+      "System_0052": "An error has occurred. Clearing this app's cache data may resolve the issue.\n\nYou're about to clear this app's cache. This may help resolve lag issues, and will not affect your progress in the game. Some data is automatically redownloaded after you clear the cache.\n\nClear the app's cache?\n[b](Clearing the cache on a match in progress will result in a loss.)[/b]"
     },
     "Chs": {
       "System_TimeDateLong": "yyyy/MM/dd HH:mm",
@@ -226,7 +228,8 @@
       "System_Ger_Jpn": "Japanisch",
       "System_Chs_Jpn": "日语",
       "System_Spa_Eng": "Inglés",
-      "System_Spa_Jpn": "Japonés"
+      "System_Spa_Jpn": "Japonés",
+      "System_0052": "发生错误，游戏无法继续进行。\n清除缓存后可能可以解决问题。\n\n游玩中的游戏数据不会被删除。\n清除缓存后会再次下载相关数据。\n根据网络连接状况，可能会花费较长时间。\n\n确定清除缓存吗？\n[ffcd45]若存在正在进行的对战，则被判定为败北。[-]"
     },
     "Kor": {
       "System_TimeDateLong": "yyyy/MM/dd HH:mm",
@@ -302,7 +305,8 @@
       "System_Ger_Jpn": "Japanisch",
       "System_Chs_Jpn": "日语",
       "System_Spa_Eng": "Inglés",
-      "System_Spa_Jpn": "Japonés"
+      "System_Spa_Jpn": "Japonés",
+      "System_0052": "문제가 발생하여 게임을 진행할 수 없습니다.\n캐시를 삭제하면 문제가 해결될 수 있습니다.\n\n플레이 중인 게임 데이터는 삭제되지 않으며,\n캐시 삭제 후에는 다시 데이터를 다운로드합니다.\n네트워크 상황에 따라 다운로드에 다소 시간이 소요될 수 있습니다.\n\n캐시를 삭제하시겠습니까?\n[ffcd45]플레이 중인 대전이 있는 경우, 패배로 처리됩니다.[-]"
     },
     "Cht": {
       "System_TimeDateLong": "yyyy/MM/dd HH:mm",
@@ -378,7 +382,8 @@
       "System_Ger_Jpn": "Japanisch",
       "System_Chs_Jpn": "日语",
       "System_Spa_Eng": "Inglés",
-      "System_Spa_Jpn": "Japonés"
+      "System_Spa_Jpn": "Japonés",
+      "System_0052": "因發生錯誤，無法繼續進行遊戲。\n請嘗試清除快取以解決此問題。\n\n正在使用中的遊戲資料不會刪除。\n清除快取後會再次下載所需資料。\n依照您的連線情形，下載可能花費較長時間。\n\n請問是否清除快取？\n[ffcd45]如果有正在進行中的對戰，將判定為敗北。[-]"
     },
     "Fre": {
       "System_TimeDateLong": "HH:mm dd/MM/yyyy",
@@ -454,7 +459,8 @@
       "System_Ger_Jpn": "Japanisch",
       "System_Chs_Jpn": "日语",
       "System_Spa_Eng": "Inglés",
-      "System_Spa_Jpn": "Japonés"
+      "System_Spa_Jpn": "Japonés",
+      "System_0052": "Une erreur empêche de continuer à jouer. Vider le cache peut, dans certains cas, résoudre le problème.\n\nLes données de jeu en cours ne seront pas supprimées. Toutes les données de jeu seront à nouveau téléchargées après la procédure. \nLe téléchargement peut prendre un certain temps en fonction de la qualité de la connexion.\n\nVoulez-vous vider le cache ?\n[b]Toute bataille en cours lors de cette opération se soldera par une défaite.[/b]"
     },
     "Ita": {
       "System_TimeDateLong": "HH:mm dd/MM/yyyy",
@@ -530,7 +536,8 @@
       "System_Ger_Jpn": "Japanisch",
       "System_Chs_Jpn": "日语",
       "System_Spa_Eng": "Inglés",
-      "System_Spa_Jpn": "Japonés"
+      "System_Spa_Jpn": "Japonés",
+      "System_0052": "A causa di un errore, non è più possibile proseguire nel gioco.\nSvuotare la cache potrebbe risolvere il problema senza influenzare i progressi di gioco.\nDopo la pulizia della cache alcuni dati verranno scaricati nuovamente.\n\nSvuotare la cache?\n[b](Svuotare la cache con un match in corso equivale a perdere quel match.)[/b]\n"
     },
     "Ger": {
       "System_TimeDateLong": "dd.MM.yyyy, HH:mm U\hr",
@@ -606,7 +613,8 @@
       "System_Ger_Jpn": "Japanisch",
       "System_Chs_Jpn": "日语",
       "System_Spa_Eng": "Inglés",
-      "System_Spa_Jpn": "Japonés"
+      "System_Spa_Jpn": "Japonés",
+      "System_0052": "Aufgrund eines Fehlers kann das Spiel nicht fortgesetzt werden. Dieses Problem kann möglicherweise durch Leeren des Anwendungs-Cache behoben werden.\n\nDas Leeren des Anwendungs-Cache hat keinerlei Auswirkungen auf Deinen Spielstand.\n\nIm Anschluss werden einige Daten automatisch neu heruntergeladen. Die Dauer des Downloads ist stark von der Signalstärke Deiner Internetverbindung abhängig.\n\nMöchtest Du den Anwendungs-Cache leeren?\n\n[b](Hinweis: Solltest Du Dich in einem unbeendeten Duell befinden, wird dieses automatisch als Deine Niederlage gewertet.)[/b]"
     },
     "Spa": {
       "System_TimeDateLong": "HH:mm dd/MM/yyyy",
@@ -682,7 +690,8 @@
       "System_Ger_Jpn": "Japanisch",
       "System_Chs_Jpn": "日语",
       "System_Spa_Eng": "Inglés",
-      "System_Spa_Jpn": "Japonés"
+      "System_Spa_Jpn": "Japonés",
+      "System_0052": "Debido a un error, no es posible proseguir en el juego. Eliminar la memoria caché de la aplicación puede ayudar a resolver el problema.\n\nEliminar la memoria caché puede mejorar problemas de lag y no afectará tus datos en el juego. Ciertos datos serán descargados nuevamente.\n\n¿Deseas eliminar la memoria caché?\n(Eliminar la caché teniendo una partida en progreso causará una derrota automática)."
     }
   }
 }

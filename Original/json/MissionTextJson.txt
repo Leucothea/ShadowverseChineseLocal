@@ -47,7 +47,17 @@
       "Mission_0044": "累積BP報酬の集計期間外です。",
       "Mission_0045": "新カードパックのリリース後に使用できます。",
       "Mission_0046": "ソロプレイミッション",
-      "Mission_0047": "※ソロプレイミッションをオンにするとミッション達成または変更したときにソロプレイミッションが追加されます"
+      "Mission_0047": "※ソロプレイミッションをオンにするとミッション達成または変更したときにソロプレイミッションが追加されます",
+      "Mission_0048": "キャンペーン",
+      "Mission_0049": "キャンペーンサイトへ",
+      "Mission_0050": "送付先登録",
+      "Mission_0051": "未応募",
+      "Mission_0052": "結果待ち",
+      "Mission_0053": "応募済み",
+      "Mission_0054": "受取済み",
+      "Mission_0055": "当選",
+      "Mission_0056": "{0}日目",
+      "Mission_0057": "応募期間：{0}　※受取可能期間：{1}まで"
     },
     "Eng": {
       "Mission_0001": "Missions",
@@ -96,7 +106,17 @@
       "Mission_0044": "Score Rewards are currently unavailable.",
       "Mission_0045": "Available upon release of the upcoming card pack.",
       "Mission_0046": "Solo Player Missions",
-      "Mission_0047": "Check the box on the right to add new solo play missions after completing or replacing a mission."
+      "Mission_0047": "Check the box on the right to add new solo play missions after completing or replacing a mission.",
+      "Mission_0048": "Event",
+      "Mission_0049": "Visit Event Site",
+      "Mission_0050": "Detail Registration",
+      "Mission_0051": "Not registered",
+      "Mission_0052": "Awaiting results",
+      "Mission_0053": "Registered",
+      "Mission_0054": "Received",
+      "Mission_0055": "Congratulations!",
+      "Mission_0056": "Day {0}",
+      "Mission_0057": "Registration period: {0} Rewards available until: {1}"
     },
     "Chs": {
       "Mission_0001": "任务",
@@ -145,7 +165,17 @@
       "Mission_0044": "不在累计BP报酬的统计期间内。",
       "Mission_0045": "新卡包在正式上线后可以使用。",
       "Mission_0046": "单人任务",
-      "Mission_0047": "※选择“单人任务”后，单人任务会在现在现有任务完成后追加。"
+      "Mission_0047": "※选择“单人任务”后，单人任务会在现在现有任务完成后追加。",
+      "Mission_0048": "活动",
+      "Mission_0049": "前往活动网页",
+      "Mission_0050": "登录中奖者信息",
+      "Mission_0051": "未报名",
+      "Mission_0052": "等待结果",
+      "Mission_0053": "已报名",
+      "Mission_0054": "已领取",
+      "Mission_0055": "中奖了！",
+      "Mission_0056": "第{0}天",
+      "Mission_0057": "报名期间：{0} ※领取期限：{1}为止"
     },
     "Kor": {
       "Mission_0001": "미션",
@@ -194,7 +224,17 @@
       "Mission_0044": "누적 BP 보상의 집계기간이 아닙니다.",
       "Mission_0045": "신규 카드팩 출시 후에 사용 가능합니다.",
       "Mission_0046": "모험 미션",
-      "Mission_0047": "※모험 미션에 체크하면 미션을 달성하거나 변경했을 때 모험 미션이 추가됩니다."
+      "Mission_0047": "※모험 미션에 체크하면 미션을 달성하거나 변경했을 때 모험 미션이 추가됩니다.",
+      "Mission_0048": "이벤트",
+      "Mission_0049": "이벤트 페이지로",
+      "Mission_0050": "당첨자 정보 등록",
+      "Mission_0051": "미응모",
+      "Mission_0052": "결과 대기",
+      "Mission_0053": "응모 완료",
+      "Mission_0054": "수령 완료",
+      "Mission_0055": "당첨",
+      "Mission_0056": "{0}일째",
+      "Mission_0057": "응모 기간: {0}　※수령 가능 기간: {1}까지"
     },
     "Cht": {
       "Mission_0001": "任務",
@@ -243,7 +283,17 @@
       "Mission_0044": "現在非累積BP報酬的採計期間。",
       "Mission_0045": "新卡包登場後即可使用。",
       "Mission_0046": "單人遊戲任務",
-      "Mission_0047": "※如果勾選「單人遊戲任務」，完成任務或選擇變更之後，將可能出現單人遊戲模式限定的任務。"
+      "Mission_0047": "※如果勾選「單人遊戲任務」，完成任務或選擇變更之後，將可能出現單人遊戲模式限定的任務。",
+      "Mission_0048": "活動",
+      "Mission_0049": "前往活動專頁",
+      "Mission_0050": "登錄獲獎者資料",
+      "Mission_0051": "未參加",
+      "Mission_0052": "待公布",
+      "Mission_0053": "已參加",
+      "Mission_0054": "已領取",
+      "Mission_0055": "當選",
+      "Mission_0056": "第{0}天",
+      "Mission_0057": "參加期間：{0} ※領取期限：至{1}截止"
     },
     "Fre": {
       "Mission_0001": "Missions",
@@ -292,7 +342,17 @@
       "Mission_0044": "Les récompenses Points de batailles cumulés (PBC) ne sont pas disponibles.",
       "Mission_0045": "Ce nouveau card pack sera disponible à partir de la prochaine extension.",
       "Mission_0046": "Missions Jeu solo",
-      "Mission_0047": "Cochez la case à droite pour avoir accès aux Missions Jeu solo après avoir complété ou changé une mission."
+      "Mission_0047": "Cochez la case à droite pour avoir accès aux Missions Jeu solo après avoir complété ou changé une mission.",
+      "Mission_0048": "Bonus",
+      "Mission_0049": "Aller à la page dédiée à ce bonus",
+      "Mission_0050": "Formulaire d'inscription",
+      "Mission_0051": "Pas encore inscrit",
+      "Mission_0052": "En attente des résultats",
+      "Mission_0053": "Déjà inscrit",
+      "Mission_0054": "Déjà récupéré",
+      "Mission_0055": "Bonus remporté",
+      "Mission_0056": "Jour {0}",
+      "Mission_0057": "Période d'inscription : {0}  Bonus à récupérer avant le : {1} "
     },
     "Ita": {
       "Mission_0001": "Missioni",
@@ -341,7 +401,17 @@
       "Mission_0044": "Premi Punteggio non è al momento disponibile.",
       "Mission_0045": "Disponibile al rilascio della prossima espansione.",
       "Mission_0046": "Missioni Solo",
-      "Mission_0047": "Se il pulsante è attivo, tutte le missioni aggiunte alla tua lista saranno solo Missioni Solo."
+      "Mission_0047": "Se il pulsante è attivo, tutte le missioni aggiunte alla tua lista saranno solo Missioni Solo.",
+      "Mission_0048": "Bonus",
+      "Mission_0049": "Vai alla pagina dedicata",
+      "Mission_0050": "Informazioni vincitore",
+      "Mission_0051": "Non iscritto",
+      "Mission_0052": "In attesa dei risultati",
+      "Mission_0053": "Iscritto",
+      "Mission_0054": "Ricevuto",
+      "Mission_0055": "Selezione",
+      "Mission_0056": "Giorno: {0}",
+      "Mission_0057": "Periodo iscrizione：{0}　Ritiro Bonus： entro il {1}"
     },
     "Ger": {
       "Mission_0001": "Missionen",
@@ -390,7 +460,17 @@
       "Mission_0044": "Belohnungen für KP aktuell nicht verfügbar.",
       "Mission_0045": "Nach Erscheinen neuer Kartenpacks verfügbar.",
       "Mission_0046": "Solo-Missionen",
-      "Mission_0047": "Nach Aktivierung von \"Solo-Missionen\" werden ausschließlich Einzelspieler-Missionen neu hinzugefügt."
+      "Mission_0047": "Nach Aktivierung von \"Solo-Missionen\" werden ausschließlich Einzelspieler-Missionen neu hinzugefügt.",
+      "Mission_0048": "Bonuskampagne",
+      "Mission_0049": "Zur offiziellen HP",
+      "Mission_0050": "Spielerinformationen registrieren",
+      "Mission_0051": "Nicht teilgenommen",
+      "Mission_0052": "In Auswertung",
+      "Mission_0053": "Teilgenommen",
+      "Mission_0054": "Abgeholt",
+      "Mission_0055": "Ausgewählt",
+      "Mission_0056": "{0}. Tag",
+      "Mission_0057": "Teilnahmefrist: {0} | Abholfrist für Belohnungen: Bis {1}"
     },
     "Spa": {
       "Mission_0001": "Misiones",
@@ -439,7 +519,17 @@
       "Mission_0044": "Las recompensas por puntuación no están disponibles actualmente.",
       "Mission_0045": "Disponible después del lanzamiento del próximo pack de cartas.",
       "Mission_0046": "Misiones en Solitario",
-      "Mission_0047": "Activa la opción \"Misiones en Solitario\" para agregar nuevas misiones en solitario después de completar o reemplazar una misión."
+      "Mission_0047": "Activa la opción \"Misiones en Solitario\" para agregar nuevas misiones en solitario después de completar o reemplazar una misión.",
+      "Mission_0048": "Bonus",
+      "Mission_0049": "Sitio web",
+      "Mission_0050": "Registrar destinatario",
+      "Mission_0051": "No inscrito",
+      "Mission_0052": "Esperando resultado",
+      "Mission_0053": "Inscrito",
+      "Mission_0054": "Recibido",
+      "Mission_0055": "¡Enhorabuena!",
+      "Mission_0056": "Día {0}",
+      "Mission_0057": "Periodo de inscripción: {0}. Los bonus pueden ser cobrados antes de: {1})"
     }
   }
 }

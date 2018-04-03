@@ -61,7 +61,8 @@
       "OtherConfig_0058": "決定・ターン終了のショートカット操作（スペース）",
       "OtherConfig_0059": "エンハンスを持つカードの補足情報を表示する",
       "OtherConfig_0060": "通信を暗号化する",
-      "OtherConfig_0061": "墓場、デッキ、手札の枚数を常に表示する"
+      "OtherConfig_0061": "墓場、デッキ、手札の枚数を常に表示する",
+      "OtherConfig_0062": "カードの能力発動時に補足情報を表示する"
     },
     "Eng": {
       "OtherConfig_0001": "Music",
@@ -124,7 +125,8 @@
       "OtherConfig_0058": "Confirm/end turn shortcut (Space)",
       "OtherConfig_0059": "Display cost of Enhance effect",
       "OtherConfig_0060": "Encrypt Network",
-      "OtherConfig_0061": "Display the number of cards in deck, cards in hand, and shadows"
+      "OtherConfig_0061": "Display the number of cards in deck, cards in hand, and shadows",
+      "OtherConfig_0062": "Display card information when activated"
     },
     "Chs": {
       "OtherConfig_0001": "背景音乐",
@@ -187,7 +189,8 @@
       "OtherConfig_0058": "确定与回合结束快捷键（空格键）",
       "OtherConfig_0059": "拥有增强能力的卡牌的补充信息",
       "OtherConfig_0060": "加密网络连接",
-      "OtherConfig_0061": "一直显示墓地，牌组，手牌的张数。"
+      "OtherConfig_0061": "一直显示墓地，牌组，手牌的张数。",
+      "OtherConfig_0062": "显示卡牌能力发动时的补充信息"
     },
     "Kor": {
       "OtherConfig_0001": "BGM",
@@ -250,7 +253,8 @@
       "OtherConfig_0058": "결정/턴 종료 단축기 조작(스페이스)",
       "OtherConfig_0059": "강화를 지닌 카드의 추가 정보를 표시",
       "OtherConfig_0060": "네트워크 암호화",
-      "OtherConfig_0061": "묘지, 덱, 손에 있는 카드 수를 항상 표시"
+      "OtherConfig_0061": "묘지, 덱, 손에 있는 카드 수를 항상 표시",
+      "OtherConfig_0062": "카드 능력 발동 시에 추가 정보를 표시"
     },
     "Cht": {
       "OtherConfig_0001": "BGM",
@@ -313,7 +317,8 @@
       "OtherConfig_0058": "確定及回合結束時的單鍵操作（空白鍵）",
       "OtherConfig_0059": "顯示持有爆能強化能力卡片的補充資訊",
       "OtherConfig_0060": "啟用加密連線",
-      "OtherConfig_0061": "隨時顯示墓場、牌堆、手牌的張數"
+      "OtherConfig_0061": "隨時顯示墓場、牌堆、手牌的張數",
+      "OtherConfig_0062": "顯示卡片能力發動時的補充資訊"
     },
     "Fre": {
       "OtherConfig_0001": "Musiques",
@@ -376,7 +381,8 @@
       "OtherConfig_0058": "Raccourci Confirmer/Finir le tour (espace)",
       "OtherConfig_0059": "Afficher tous les détails des cartes possédant l'habileté Augmentation.",
       "OtherConfig_0060": "Crypter la connexion",
-      "OtherConfig_0061": "Toujours afficher les points de défausse, le nombre de cartes du deck et de la main."
+      "OtherConfig_0061": "Toujours afficher les points de défausse, le nombre de cartes du deck et de la main.",
+      "OtherConfig_0062": "Afficher des informations complémentaires lors de l'activation des habiletés."
     },
     "Ita": {
       "OtherConfig_0001": "Musica",
@@ -439,7 +445,8 @@
       "OtherConfig_0058": "Tasto rapido (Spazio) per conferma/fine turno",
       "OtherConfig_0059": "Visualizza informazioni aggiuntive per le carte con l'abilità Sviluppo",
       "OtherConfig_0060": "Cripta la connessione",
-      "OtherConfig_0061": "Visualizza il numero di ombre, di carte nel deck e nella mano"
+      "OtherConfig_0061": "Visualizza il numero di ombre, di carte nel deck e nella mano",
+      "OtherConfig_0062": "Visualizza informazioni aggiuntive quando si attivano le abilità delle carte"
     },
     "Ger": {
       "OtherConfig_0001": "Musik",
@@ -502,7 +509,8 @@
       "OtherConfig_0058": "Bestätigen/Zug beenden (Leertaste)",
       "OtherConfig_0059": "Zusatzinformationen für Karten mit Entfesselungs-Effekten anzeigen",
       "OtherConfig_0060": "Verbindung verschlüsseln",
-      "OtherConfig_0061": "Anzahl der Karten in Friedhof, Deck und Blatt permanent anzeigen"
+      "OtherConfig_0061": "Anzahl der Karten in Friedhof, Deck und Blatt permanent anzeigen",
+      "OtherConfig_0062": "Zusatzinformationen beim Wirken von Karteneffekten anzeigen"
     },
     "Spa": {
       "OtherConfig_0001": "Música",
@@ -540,7 +548,7 @@
       "OtherConfig_0033": "Off",
       "OtherConfig_0034": "Resolución",
       "OtherConfig_0035": "Pantalla completa",
-      "OtherConfig_0036": "Reproducir el Sonido de fondo",
+      "OtherConfig_0036": "Reproducir sonido en segundo plano",
       "OtherConfig_0037": "Aceptar invitaciones de Batalla Privada enviadas por amigos",
       "OtherConfig_0038": "Aceptar invitaciones enviadas por otro jugador durante batallas en curso",
       "OtherConfig_0039": "Aceptar invitaciones enviadas, aún desconectado.",
@@ -565,7 +573,8 @@
       "OtherConfig_0058": "Atajo para confirmar/terminar turno (Espacio)",
       "OtherConfig_0059": "Mostrar costo adicional de cartas con Aumento",
       "OtherConfig_0060": "Encriptar la conexión",
-      "OtherConfig_0061": "Mostrar número de sombras y cartas en mano/mazo"
+      "OtherConfig_0061": "Mostrar número de sombras y cartas en mano/mazo",
+      "OtherConfig_0062": "Mostrar información adicional al activar habilidades de cartas"
     }
   }
 }

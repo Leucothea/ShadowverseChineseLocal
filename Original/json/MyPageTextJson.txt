@@ -48,7 +48,8 @@
       "MyPage_0045": "勝利報酬キャンペーン",
       "MyPage_0046": "{0}/{1}",
       "MyPage_0047": "[ffcd45]宝箱発生中[-]",
-      "MyPage_0048": "{0}まで"
+      "MyPage_0048": "{0}まで",
+      "MyPage_0049": "キャンペーン開催中"
     },
     "Eng": {
       "MyPage_0001": "HOME",
@@ -98,7 +99,8 @@
       "MyPage_0045": "Victory Rewards",
       "MyPage_0046": "{0}/{1}",
       "MyPage_0047": "Treasure Chests",
-      "MyPage_0048": "Until {0}"
+      "MyPage_0048": "Until {0}",
+      "MyPage_0049": "Event in Progress"
     },
     "Chs": {
       "MyPage_0001": "主界面",
@@ -148,7 +150,8 @@
       "MyPage_0045": "胜利报酬活动",
       "MyPage_0046": "{0}/{1}",
       "MyPage_0047": "[ffcd45]宝箱出现中[-]",
-      "MyPage_0048": "到{0}为止"
+      "MyPage_0048": "到{0}为止",
+      "MyPage_0049": "特别活动举办中"
     },
     "Kor": {
       "MyPage_0001": "홈",
@@ -198,7 +201,8 @@
       "MyPage_0045": "승리 보상 이벤트",
       "MyPage_0046": "{0}/{1}",
       "MyPage_0047": "[ffcd45]보물 상자 출현[-]",
-      "MyPage_0048": "{0}까지"
+      "MyPage_0048": "{0}까지",
+      "MyPage_0049": "이벤트 진행 중"
     },
     "Cht": {
       "MyPage_0001": "主頁面",
@@ -248,7 +252,8 @@
       "MyPage_0045": "勝利獎勵活動",
       "MyPage_0046": "{0}/{1}",
       "MyPage_0047": "[ffcd45]寶箱出現中[-]",
-      "MyPage_0048": "到{0}為止"
+      "MyPage_0048": "到{0}為止",
+      "MyPage_0049": "特別活動現正舉辦中"
     },
     "Fre": {
       "MyPage_0001": "Menu",
@@ -298,7 +303,8 @@
       "MyPage_0045": "Bonus Récompenses Victoires",
       "MyPage_0046": "{0}/{1}",
       "MyPage_0047": "Coffres aux trésors",
-      "MyPage_0048": "Jusqu'à {0}"
+      "MyPage_0048": "Jusqu'à {0}",
+      "MyPage_0049": "Bonus disponible"
     },
     "Ita": {
       "MyPage_0001": "Home",
@@ -348,7 +354,8 @@
       "MyPage_0045": "Bonus Ricompensa Vittoria",
       "MyPage_0046": "{0}/{1}",
       "MyPage_0047": "Scrigni del Tesoro",
-      "MyPage_0048": "Fino a {0}"
+      "MyPage_0048": "Fino a {0}",
+      "MyPage_0049": "Bonus disponible"
     },
     "Ger": {
       "MyPage_0001": "Start",
@@ -398,7 +405,8 @@
       "MyPage_0045": "Bonusaktion: Siegesbelohnungen",
       "MyPage_0046": "{0}/{1}",
       "MyPage_0047": "Schatztruhe erschienen",
-      "MyPage_0048": "Bis {0}"
+      "MyPage_0048": "Bis {0}",
+      "MyPage_0049": "Mit aktueller Bonuskampagne!"
     },
     "Spa": {
       "MyPage_0001": "Inicio",
@@ -448,7 +456,8 @@
       "MyPage_0045": "Recompensas de victoria",
       "MyPage_0046": "{0}/{1}",
       "MyPage_0047": "¡Obtén cofres!",
-      "MyPage_0048": "Hasta {0}"
+      "MyPage_0048": "Hasta {0}",
+      "MyPage_0049": "¡Promoción en curso!"
     }
   }
 }

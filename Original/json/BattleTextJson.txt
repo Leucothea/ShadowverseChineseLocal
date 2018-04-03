@@ -157,7 +157,7 @@
       "Battle_0470": "ユーザーID",
       "Battle_0471": "リプレイを終了しますか？",
       "Battle_0472": "攻撃済み",
-      "Battle_0473": "復帰中",
+      "Battle_0473": "再開中",
       "Battle_0474": "バトル中の環境がメンテナンスに入ったため\n前回のバトルは無効となりました。\n\n何卒ご了承ください。",
       "Battle_0475": "ニュートラル・カードを選択してください。",
       "Battle_0476": "ニュートラルでないカードを選択してください。",
@@ -171,7 +171,13 @@
       "Battle_0487": "共鳴",
       "Battle_0488": "デッキ選択　グランプリ",
       "Battle_0489": "拠点へ戻る",
-      "Battle_0490": "タイムアウトしました。\n\n拠点へ戻るか\nリトライを選択してください。"
+      "Battle_0490": "タイムアウトしました。\n\n拠点へ戻るか\nリトライを選択してください。",
+      "Battle_0491": "プレイするカードを【チョイス】してください",
+      "Battle_0492": "通信状況が不安定です。通信状況を確認してください。",
+      "Battle_0493": "場に出すカードを【チョイス】してください",
+      "Battle_0494": "手札に加えるカードを【チョイス】してください",
+      "Battle_0495": "リーダーが持っている能力",
+      "Battle_0496": "進化前と同じ能力。"
     },
     "Eng": {
       "Battle_0004": "Take Two",
@@ -344,7 +350,13 @@
       "Battle_0487": "Resonance",
       "Battle_0488": "Select Deck (Grand Prix)",
       "Battle_0489": "Back",
-      "Battle_0490": "The connection timed out. Go back or try again."
+      "Battle_0490": "The connection timed out. Go back or try again.",
+      "Battle_0491": "Choose what to play this card as.",
+      "Battle_0492": "Connection unstable.\nPlease check your internet connection. ",
+      "Battle_0493": "Choose a card to summon.",
+      "Battle_0494": "Choose a card to put into your hand.",
+      "Battle_0495": "Leader Effects",
+      "Battle_0496": "(Same as the unevolved form.)"
     },
     "Chs": {
       "Battle_0004": "双选模式",
@@ -517,7 +529,13 @@
       "Battle_0487": "天机",
       "Battle_0488": "选择牌组 杯赛",
       "Battle_0489": "返回据点",
-      "Battle_0490": "通信超时。\n\n返回据点或重试。"
+      "Battle_0490": "通信超时。\n\n返回据点或重试。",
+      "Battle_0491": "请“抉择”要使用的卡牌",
+      "Battle_0492": "网络连接状态不稳定。请确认网络状况。",
+      "Battle_0493": "请“抉择”要登场的卡牌",
+      "Battle_0494": "请“抉择”要加入手牌的卡牌",
+      "Battle_0495": "角色拥有的能力",
+      "Battle_0496": "能力与进化前相同。"
     },
     "Kor": {
       "Battle_0004": "2Pick",
@@ -676,7 +694,7 @@
       "Battle_0470": "유저ID",
       "Battle_0471": "리플레이를 종료하시겠습니까?",
       "Battle_0472": "공격 완료",
-      "Battle_0473": "복귀중",
+      "Battle_0473": "이어하기 시도 중",
       "Battle_0474": "대전 중에 점검이 시작되었기 때문에\n이전의 대전은 무효 처리됩니다.\n\n부디 양해해 주시기 바랍니다.",
       "Battle_0475": "중립 클래스 카드를 선택해 주십시오.",
       "Battle_0476": "중립 클래스가 아닌 카드를 선택해 주십시오.",
@@ -690,7 +708,13 @@
       "Battle_0487": "공명",
       "Battle_0488": "덱 선택  그랑프리",
       "Battle_0489": "거점으로",
-      "Battle_0490": "시간이 초과되었습니다.\n\n덱 선택 화면으로 돌아가거나\n다시 시도해 주시기 바랍니다."
+      "Battle_0490": "시간이 초과되었습니다.\n\n덱 선택 화면으로 돌아가거나\n다시 시도해 주시기 바랍니다.",
+      "Battle_0491": "[ffcd45]결단[-] 사용할 카드를 선택해 주십시오.",
+      "Battle_0492": "네트워크 연결 상태가 불안정합니다.\n연결 상태를 확인해 주시기 바랍니다.",
+      "Battle_0493": "[ffcd45]결단[-] 전장에 소환할 카드를 선택해 주십시오.",
+      "Battle_0494": "[ffcd45]결단[-] 손에 넣을 카드를 선택해 주십시오.",
+      "Battle_0495": "리더에게 부여된 능력",
+      "Battle_0496": "진화 전과 동일."
     },
     "Cht": {
       "Battle_0004": "2Pick",
@@ -863,7 +887,13 @@
       "Battle_0487": "共鳴",
       "Battle_0488": "選擇牌組 大賽",
       "Battle_0489": "返回據點",
-      "Battle_0490": "連線已逾時。\n\n請返回據點\n或選擇再試一次。"
+      "Battle_0490": "連線已逾時。\n\n請返回據點\n或選擇再試一次。",
+      "Battle_0491": "【命運抉擇】請選擇卡片",
+      "Battle_0492": "連線狀況不穩定。請確認您的連線狀況。",
+      "Battle_0493": "【命運抉擇】請選擇進入戰場的卡片",
+      "Battle_0494": "【命運抉擇】請選擇加入手牌的卡片",
+      "Battle_0495": "主戰者已獲得的效果",
+      "Battle_0496": "與進化前能力相同。"
     },
     "Fre": {
       "Battle_0004": "Double Pioche",
@@ -1010,7 +1040,7 @@
       "Battle_0458": "État Vengeance activé.",
       "Battle_0459": "Nombre de cartes envoyées en défausse.",
       "Battle_0460": "Combattants invoqués par les amulettes de type Aria.",
-      "Battle_0461": "La connexion a échoué.\nRetournez au menu ou sélectionnez Réessayer.",
+      "Battle_0461": "La connexion a échoué.\nRetournez à l'écran Double Pioche ou réessayez.",
       "Battle_0462": "Quitter le mode Spectateur ?",
       "Battle_0463": "Bataille standard",
       "Battle_0464": "Double Pioche",
@@ -1034,9 +1064,15 @@
       "Battle_0485": "Séquence n'est pas actuellement activée.",
       "Battle_0486": "Séquence est activée.",
       "Battle_0487": "Séquence",
-      "Battle_0488": "Sélection du deck (Grand Prix)",
+      "Battle_0488": "Choix du deck : Grand Prix",
       "Battle_0489": "Retourner au Menu Grand Prix",
-      "Battle_0490": "La connexion a échoué.\nRetourner au menu Grand Prix ou sélectionnez Réessayer."
+      "Battle_0490": "La connexion a échoué.\nRetourner au menu Grand Prix ou sélectionnez Réessayer.",
+      "Battle_0491": "Choisissez une carte.",
+      "Battle_0492": "La connexion est instable. Veuillez vérifier vos paramètres de connexion.",
+      "Battle_0493": "Veuillez choisir la carte à mettre sur le plateau de jeu.",
+      "Battle_0494": "Veuillez choisir la carte à mettre dans la main.",
+      "Battle_0495": "",
+      "Battle_0496": "Agit de la même façon qu'avant l'évolution."
     },
     "Ita": {
       "Battle_0004": "Forza 2",
@@ -1209,7 +1245,13 @@
       "Battle_0487": "Risonanza",
       "Battle_0488": "Selezione dei deck: Grand Prix",
       "Battle_0489": "Grand Prix",
-      "Battle_0490": "La connessione è scaduta. Ritorna al menu del Grand Prix o riprova."
+      "Battle_0490": "La connessione è scaduta. Ritorna al menu del Grand Prix o riprova.",
+      "Battle_0491": "Scegli la carta.",
+      "Battle_0492": "La connessione è instabile. Verifica la tua connessione.",
+      "Battle_0493": "Scegli la carta da mettere sul terreno.",
+      "Battle_0494": "Scegli la carta da aggiungere alla tua mano.",
+      "Battle_0495": "",
+      "Battle_0496": "not use"
     },
     "Ger": {
       "Battle_0004": "Nimm 2",
@@ -1382,7 +1424,13 @@
       "Battle_0487": "Resonanz",
       "Battle_0488": "Deckauswahl: Grand Prix",
       "Battle_0489": "Grand Prix",
-      "Battle_0490": "Zeitüberschreitung der Verbindung.\n\nKehre zum Grand Prix-Bildschirm zurück oder versuche es erneut."
+      "Battle_0490": "Zeitüberschreitung der Verbindung.\n\nKehre zum Grand Prix-Bildschirm zurück oder versuche es erneut.",
+      "Battle_0491": "Qual der Wahl: Wähle die Karte, die ausgespielt werden soll.",
+      "Battle_0492": "Netzwerkverbindung instabil. Bitte überprüfe Deine Verbindung.",
+      "Battle_0493": "Qual der Wahl: Wähle die Karte, die beschworen werden soll.",
+      "Battle_0494": "Qual der Wahl: Wähle die Karte, die Deinem Blatt hinzugefügt werden soll.",
+      "Battle_0495": "Anführereffekt",
+      "Battle_0496": "not use"
     },
     "Spa": {
       "Battle_0004": "Toma Dos",
@@ -1555,7 +1603,13 @@
       "Battle_0487": "Resonancia",
       "Battle_0488": "Selección de mazos: Grand Prix",
       "Battle_0489": "Grand Prix",
-      "Battle_0490": "Tiempo de espera de conexión agotado. Regresa a la pantalla de Grand Prix o vuelve a intentarlo."
+      "Battle_0490": "Tiempo de espera de conexión agotado. Regresa a la pantalla de Grand Prix o vuelve a intentarlo.",
+      "Battle_0491": "Elección: selecciona una carta.",
+      "Battle_0492": "La conexión es inestable. Verifica el estado de tu conexión.",
+      "Battle_0493": "Elige una carta para colocar en el tablero.",
+      "Battle_0494": "Elige una carta para colocar en tu mano.",
+      "Battle_0495": "Habilidad del líder",
+      "Battle_0496": "not use"
     }
   }
 }
