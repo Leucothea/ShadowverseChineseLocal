@@ -72,5 +72,6 @@
       "System_Ger_Jpn": "Japanisch",
       "System_Chs_Jpn": "日文",
       "System_Spa_Eng": "Inglés",
-      "System_Spa_Jpn": "Japonés"
+      "System_Spa_Jpn": "Japonés",
+      "System_0052": "發生錯誤，遊戲無法繼續進行。\n清除緩存或許可以解決問題。\n\n您的遊戲存檔資料不會被刪除。\n清除緩存後會再次下載相關資料。\n根據網路連接狀況，可能會花費較長時間。\n\n確定清除緩存嗎？\n[ffcd45]清除緩存會導致正在進行中的對局結算為敗北。[-]"
 }

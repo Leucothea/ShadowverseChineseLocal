@@ -72,5 +72,6 @@
       "System_Ger_Jpn": "Japanisch",
       "System_Chs_Jpn": "日文",
       "System_Spa_Eng": "Inglés",
-      "System_Spa_Jpn": "Japonés"
+      "System_Spa_Jpn": "Japonés",
+      "System_0052": "发生错误，游戏无法继续进行。\n清除缓存或许可以解决问题。\n\n您的游戏存档数据不会被删除。\n清除缓存后会再次下载相关数据。\n根据网络连接状况，可能会花费较长时间。\n\n确定清除缓存吗？\n[ffcd45]清除缓存会导致正在进行中的对局结算为败北。[-]"
 }
