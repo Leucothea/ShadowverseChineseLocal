@@ -140,7 +140,7 @@
       "Card_0146": "变更卡背",
       "Card_Favorite_Normal": "通常",
       "Card_Favorite_Favorite": "收藏",
-      "Card_0147": "牌包名：",
+      "Card_0147": "卡包名：",
       "Card_0148": "收藏卡不能分解",
       "Card_0149": "CV：",
       "Card_0150": "顺序变更",
