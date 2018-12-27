@@ -1,0 +1,3 @@
+        "Cht": {
+            "OtherShareMovie_0001": "分享遊戲影片"
+        },
