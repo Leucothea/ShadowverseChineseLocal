@@ -1,0 +1,7 @@
+        "Cht": {
+            "Country_Category_Asia": "亞洲",
+            "Country_Category_Europe": "歐洲",
+            "Country_Category_Americas": "北美及中南美",
+            "Country_Category_Oceania": "大洋洲",
+            "Country_Category_Africa": "非洲"
+        },
