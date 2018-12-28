@@ -112,7 +112,7 @@
             "RoomBattle_0112": "私人對戰(All-Star 雙選)",
             "RoomBattle_0113": "All-Star 雙選模式",
             "RoomBattle_0114": "All-Star 雙選模式",
-            "RoomBattle_0115": "您於前次私人對戰中結束了程式。\n是否要重啟對戰？",
+            "RoomBattle_0115": "您於前次私人對戰中結束了程式。\n是否要重啓對戰？",
             "RoomBattle_0116": "返回對戰",
             "RoomBattle_0117": "不要返回對戰"
         },

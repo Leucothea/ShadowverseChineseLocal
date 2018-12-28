@@ -26,7 +26,7 @@
             "OtherTop_0027": "確定返回開始介面嗎？",
             "OtherTop_0028": "確定",
             "OtherTop_0029": "退出遊戲",
-            "OtherTop_0030": "卡查網站",
+            "OtherTop_0030": "卡査網站",
             "OtherTop_0031": "官方網站",
             "OtherTop_0032": "選擇語言",
             "OtherTop_0033": "回放",

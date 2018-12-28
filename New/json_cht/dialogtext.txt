@@ -102,7 +102,7 @@
             "Dia_Transfer_005_Button": "連攜",
             "Dia_Transfer_006_Button": "連攜",
             "Dia_Other_001_Button": "OK",
-            "Contact_Dialog_001": "以下您勾選的資訊會傳送至客服平台，以便確認用戸的使用情形。\n如無勾選，可能會有無法確認或無法調查的狀況發生。",
+            "Contact_Dialog_001": "以下您勾選的資訊會傳送至客服平台，以便確認用戸的使用情形。\n如無勾選，可能會有無法確認或無法調査的狀況發生。",
             "Contact_Dialog_002": "玩家ID",
             "Contact_Dialog_003": "遊戲版本",
             "Contact_Dialog_004": "設備系統版本",
