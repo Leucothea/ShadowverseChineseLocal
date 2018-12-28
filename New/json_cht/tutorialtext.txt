@@ -1,10 +1,10 @@
         "Cht": {
             "Tutorial_0001": "蘿莎麗亞果然很厲害耶",
             "Tutorial_0002": "好期待呀",
-            "Tutorial_0003": "新手教學信息３",
-            "Tutorial_0004": "Stage{0}",
+            "Tutorial_0003": "教程資訊(3)",
+            "Tutorial_0004": "章節{0}",
             "Tutorial_0005": "亞里莎",
-            "Tutorial_0006": "Stage{0}",
+            "Tutorial_0006": "章節{0}",
             "Tutorial_0007": "序章",
             "Tutorial_0008": "略過新手教學",
             "Tutorial_0009": "是否要略過本次對戰？",
