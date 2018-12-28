@@ -108,7 +108,7 @@
             "RoomBattle_0108": "私人對戰(輪換 BO1)",
             "RoomBattle_0109": "私人對戰(無限 BO1)",
             "RoomBattle_0110": "私人對戰(無限 BO3)",
-            "RoomBattle_0111": "私人對戰(無限 BO5)"
+            "RoomBattle_0111": "私人對戰(無限 BO5)",
             "RoomBattle_0112": "私人對戰(All-Star 雙選)",
             "RoomBattle_0113": "All-Star 雙選模式",
             "RoomBattle_0114": "All-Star 雙選模式",
