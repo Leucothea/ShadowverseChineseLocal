@@ -205,7 +205,7 @@
             "Card_0199_BattleKeyWord_02": "消費{0} {1}／{2}",
             "Card_0200_BattleKeyWord_03": "消費{0} {1}／{2}{3}",
             "Card_0201_BattleKeyWord_04": "{0}/{1}",
-            "Card_0202_BattleKeyWord_05": "（進化後）",
+            "Card_0202_BattleKeyWord_05": "(進化後)",
             "Card_0203_BattleKeyWord_06": "「{0}」",
             "Card_0204": "[ffcd45]此為無限模式中禁用的卡片[-]",
             "Card_0205": "[ffcd45]此為無限模式中限用1張的卡片[-]",

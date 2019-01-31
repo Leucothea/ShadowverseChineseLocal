@@ -424,5 +424,17 @@
             "DEG_Grand Master ALT ローテーション": "次元歪曲宗師(輪換)",
             "DEG_ALT ローテーション杯 優勝": "ALT輪換杯優勝",
             "DEG_ALT アンリミテッド杯 優勝": "ALT無限杯優勝",
-            "DEG_JCG_8th_season_優勝": "JCG Open Champion 8th Season"
+            "DEG_JCG_8th_season_優勝": "JCG Open Champion 8th Season",
+            "DEG_黄金の王": "黄金之王",
+            "DEG_無貌の暗殺者": "無貌的暗殺者",
+            "DEG_宝石魔術の使い手": "寶石魔術使",
+            "DEG_半人前魔術師": "淺學的魔術師",
+            "DEG_－マキリの杯－": "瑪奇利之杯",
+            "DEG_偽りのマスター": "虛偽的御主",
+            "DEG_不倒の大英雄": "不倒的英豪",
+            "DEG_聖杯戦争監督役": "聖杯戰爭監察者",
+            "DEG_RAGE_2019_Spring_優勝": "RAGE Champion (Spring 2019)",
+            "DEG_RAGE_2019_Spring_準優勝": "RAGE 1st Runner-Up (Spring 2019)",
+            "DEG_RAGE_2019_Spring_3位": "RAGE 2nd Runner-Up (Spring 2019)",
+            "DEG_Fate_[HF]_Cup_優勝": "命運長夜杯優勝"
         },
