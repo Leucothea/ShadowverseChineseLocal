@@ -8,7 +8,7 @@ del /f /q "%~n0.ps1"
 
 #************用户设置区**************
 $THREADS=10;#最大线程数
-$SrcDir='E:\ShadowverseChineseLocal\New\scenario_cht';#源目录
+$SrcDir='C:\Users\Yi Xiao\Desktop\1';#源目录
 $ListFile='keylist.txt';#关键字列表文件,UTF8编码
 #************************************
 
