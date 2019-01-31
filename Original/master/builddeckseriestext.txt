@@ -1,46 +1,4 @@
-{
-    "builddeckseriestext": {
-        "Jpn": {
-            "BDSSN_構築済みデッキ1弾": "BDSSN_構築済みデッキ1弾",
-            "BDSI_構築済みデッキ1弾": "各デッキに限定イラストプレミアムレジェンド(分解不可)が1枚封入。\n初回購入…クリスタル500個、2～3回目購入…クリスタル750個\n[ffcd45]※限定イラストプレミアムレジェンドの能力変更に伴う補てん対応は行いません。[-]",
-            "BDSSN_構築済みデッキ2弾": "BDSSN_構築済みデッキ2弾",
-            "BDSI_構築済みデッキ2弾": "各デッキに限定イラストプレミアムレジェンド(分解不可)が1枚封入。\n初回購入…クリスタル500個、2～3回目購入…クリスタル750個\n[ffcd45]※限定イラストプレミアムレジェンドの能力変更に伴う補てん対応は行いません。[-]",
-            "BDSSN_構築済みデッキ3弾": "BDSSN_構築済みデッキ3弾",
-            "BDSI_構築済みデッキ3弾": "各デッキ34枚入りレジェンドカード2枚封入\n限定レジェンドカードスリーブ付き！\n[ffcd45]1回購入限定！！[-]…クリスタル800個",
-            "BDSSN_構築済みデッキ4弾": "BDSSN_構築済みデッキ4弾",
-            "BDSI_構築済みデッキ4弾": "各デッキにグランブルーファンタジーのキャラクターの限定イラストカードがノーマルカードとプレミアムカード両方3枚封入！\nさらにエンブレムとスリーブが手に入ります！\n[ffcd45]1回購入限定！！[-]…クリスタル800個"
-        },
-        "Eng": {
-            "BDSSN_構築済みデッキ1弾": "BDSSN_構築済みデッキ1弾",
-            "BDSI_構築済みデッキ1弾": "Prebuilt decks contain an animated legendary with special art! Special legendaries can't be liquefied nor can extra vials be gained if card cost or abilities are adjusted.",
-            "BDSSN_構築済みデッキ2弾": "BDSSN_構築済みデッキ2弾",
-            "BDSI_構築済みデッキ2弾": "Prebuilt decks contain an animated legendary with special art! Special legendaries can't be liquefied nor can extra vials be gained if card cost or abilities are adjusted.",
-            "BDSSN_構築済みデッキ3弾": "BDSSN_構築済みデッキ3弾",
-            "BDSI_構築済みデッキ3弾": "If you are new to Shadowverse and need a hand putting a deck together, look no further! These special starter packs will get you all set up and ready for battle!",
-            "BDSSN_構築済みデッキ4弾": "BDSSN_構築済みデッキ4弾",
-            "BDSI_構築済みデッキ4弾": "Prebuilt decks contain cards featuring Granblue Fantasy characters! You get three copies each of both the normal and animated versions of the card! Each prebuilt deck also comes with a special emblem and sleeve. Limited to only one purchase each!"
-        },
-        "Chs": {
-            "BDSSN_構築済みデッキ1弾": "BDSSN_構築済みデッキ1弾",
-            "BDSI_構築済みデッキ1弾": "各套拥有1张限定版插画的珍稀传说级卡牌。\n首次购买：500水晶，第2～3次购买：750水晶\n[ffcd45]※限定版插画的珍稀传说级卡牌无法获得卡片能力变更时产生的补偿。[-]",
-            "BDSSN_構築済みデッキ2弾": "BDSSN_構築済みデッキ2弾",
-            "BDSI_構築済みデッキ2弾": "各套拥有1张限定版插画的珍稀传说级卡牌。\n首次购买：500水晶，第2～3次购买：750水晶\n[ffcd45]※限定版插画的珍稀传说级卡牌无法获得卡片能力变更时产生的补偿。[-]",
-            "BDSSN_構築済みデッキ3弾": "BDSSN_構築済みデッキ3弾",
-            "BDSI_構築済みデッキ3弾": "各套牌组34张卡牌中有2张传说级卡牌和限定版传说级卡套！\n[ffcd45]限购1次！！[-]…水晶800个",
-            "BDSSN_構築済みデッキ4弾": "BDSSN_構築済みデッキ4弾",
-            "BDSI_構築済みデッキ4弾": "各套牌组中有碧蓝幻想角色的限定版插画普通卡牌和珍稀卡牌各3张！\n并且可额外获得徽章和卡套！\n[ffcd45]限购1次！！[-]…水晶800个"
-        },
-        "Kor": {
-            "BDSSN_構築済みデッキ1弾": "BDSSN_構築済みデッキ1弾",
-            "BDSI_構築済みデッキ1弾": "특별 일러스트의 프리미엄 레전드 카드가 1장 포함된 테마팩 판매!\n첫 구매 시 크리스탈 500개, 이후 3회까지 구매 시 크리스탈 750개\n[ffcd45]※특별 일러스트의 프리미엄 레전드 카드는 분해할 수 없으며,\n능력 변경 시 보상 대상에 포함되지 않습니다.[-]",
-            "BDSSN_構築済みデッキ2弾": "BDSSN_構築済みデッキ2弾",
-            "BDSI_構築済みデッキ2弾": "특별 일러스트의 프리미엄 레전드 카드가 1장 포함된 테마팩 판매!\n첫 구매 시 크리스탈 500개, 이후 3회까지 구매 시 크리스탈 750개\n[ffcd45]※특별 일러스트의 프리미엄 레전드 카드는 분해할 수 없으며,\n능력 변경 시 보상 대상에 포함되지 않습니다.[-]",
-            "BDSSN_構築済みデッキ3弾": "BDSSN_構築済みデッキ3弾",
-            "BDSI_構築済みデッキ3弾": "레전드 카드 2장을 포함하여 총 34장으로 이루어진 테마팩\n테마 카드의 한정 카드뒷면 포함!\n[ffcd45]1회 구매 한정!![-] 크리스탈 800개",
-            "BDSSN_構築済みデッキ4弾": "BDSSN_構築済みデッキ4弾",
-            "BDSI_構築済みデッキ4弾": "그랑블루 판타지 캐릭터 특별 일러스트의 노멀 카드와\n프리미엄 카드가 각각 3장 포함된 테마팩\n엠블럼과 카드뒷면 포함!\n[ffcd45]1회 구매 한정!![-] 크리스탈 800개"
-        },
-        "Cht": {
+﻿        "Cht": {
             "BDSSN_構築済みデッキ1弾": "BDSSN_主題牌組第1彈",
             "BDSI_構築済みデッキ1弾": "主題牌組內容包含１張限定插畫的珍藏版傳說卡（無法分解）。\n首次購買：500水晶，第2～3次購買：750水晶\n[ffcd45]※限定插畫的珍藏版傳說卡若進行卡片能力變更時將無法獲得補償。[-]",
             "BDSSN_構築済みデッキ2弾": "BDSSN_構築済みデッキ2弾",
@@ -49,46 +7,4 @@
             "BDSI_構築済みデッキ3弾": "每副主題牌組皆為34張卡片，內含2張傳說卡\n並且附贈限定版傳說卡的美術圖卡背！\n[ffcd45]限購1次！！[-]…800水晶",
             "BDSSN_構築済みデッキ4弾": "BDSSN_構築済みデッキ4弾",
             "BDSI_構築済みデッキ4弾": "每副主題牌組皆包含碧藍幻想角色的限定插畫版卡片（普通版及珍藏版各3張）！\n並且額外附贈「徽章」及「卡背」！\n[ffcd45]限購1次！！[-]…800水晶"
-        },
-        "Fre": {
-            "BDSSN_構築済みデッキ1弾": "BDSSN_構築済みデッキ1弾",
-            "BDSI_構築済みデッキ1弾": "Ces decks incluent 1 carte animée Légendaire exclusive et chaque deck peut être acheté 3 fois. 500 cristaux pour le 1er deck, 750 à partir du second. (Pas de compensation prévue dans le cas de changements dans les habiletés et effets de ces cartes.)",
-            "BDSSN_構築済みデッキ2弾": "BDSSN_構築済みデッキ2弾",
-            "BDSI_構築済みデッキ2弾": "Ces decks incluent 1 carte animée Légendaire exclusive et chaque deck peut être acheté 3 fois. 500 cristaux pour le 1er deck, 750 à partir du second. (Pas de compensation prévue dans le cas de changements dans les habiletés et effets de ces cartes.)",
-            "BDSSN_構築済みデッキ3弾": "BDSSN_構築済みデッキ3弾",
-            "BDSI_構築済みデッキ3弾": "Chaque deck se compose de 34 cartes, dont 2 de rareté Légendaire.\n1 dos de carte Légendaire exclusif est également inclu !\n[b]Achat unique :[/b] 800 cristaux !\n",
-            "BDSSN_構築済みデッキ4弾": "BDSSN_構築済みデッキ4弾",
-            "BDSI_構築済みデッキ4弾": "6 cartes illustrées exclusives à l'effigie des personnages de Granblue Fantasy, dont 3 normales et 3 animées, sont incluses dans chaque deck ! Vous avez droit en plus à une icône et un dos de carte !  \n[ffcd45]Achat unique :[-] 800 cristaux"
-        },
-        "Ita": {
-            "BDSSN_構築済みデッキ1弾": "BDSSN_構築済みデッキ1弾",
-            "BDSI_構築済みデッキ1弾": "In ogni deck è inclusa una carta animata esclusiva Leggendaria! Ogni deck pre-costruito può essere acquistato fino a 3 volte. (Non è previsto alcun rimborso nel caso in cui l'effetto della carta esclusiva dovesse cambiare.)",
-            "BDSSN_構築済みデッキ2弾": "BDSSN_構築済みデッキ2弾",
-            "BDSI_構築済みデッキ2弾": "In ogni deck è inclusa una carta animata esclusiva Leggendaria! Ogni deck pre-costruito può essere acquistato fino a 3 volte. (Non è previsto alcun rimborso nel caso in cui l'effetto della carta esclusiva dovesse cambiare.)",
-            "BDSSN_構築済みデッキ3弾": "BDSSN_構築済みデッキ3弾",
-            "BDSI_構築済みデッキ3弾": "Ogni deck di 34 carte include 2 carte leggendarie e un dorso esclusivo!\n[b]Acquistabile solo una volta![/b]",
-            "BDSSN_構築済みデッキ4弾": "BDSSN_構築済みデッキ4弾",
-            "BDSI_構築済みデッキ4弾": "In ogni deck sono incluse 3 carte animate e normali esclusive dei personaggi di Granblue Fantasy!\nInoltre, otterrai anche i relativi Emblemi e Dorsi delle carte!\n[b]Acquistabile solo una volta[/b] per 800 cristalli!\n"
-        },
-        "Ger": {
-            "BDSSN_構築済みデッキ1弾": "BDSSN_構築済みデッキ1弾",
-            "BDSI_構築済みデッキ1弾": "In jedem Deck findet sich eine legendäre Premiumkarte mit brandneuem, animiertem Kartenmotiv.\nJedes Set kann bis zu 3-mal gekauft werden.\n(Hinweis: Umtausch und Rückerstattung aufgrund Kartenfähigkeiten betreffender Änderungen sind ausgeschlossen.)",
-            "BDSSN_構築済みデッキ2弾": "BDSSN_構築済みデッキ2弾",
-            "BDSI_構築済みデッキ2弾": "In jedem Deck findet sich eine legendäre Premiumkarte mit brandneuem, animiertem Kartenmotiv.\nJedes Set kann bis zu 3-mal gekauft werden.\n(Hinweis: Umtausch und Rückerstattung aufgrund Kartenfähigkeiten betreffender Änderungen sind ausgeschlossen.)",
-            "BDSSN_構築済みデッキ3弾": "BDSSN_構築済みデッキ3弾",
-            "BDSI_構築済みデッキ3弾": "Jedes Deck ist 34 Karten stark und enthält 2 Karten von legen-\ndärem Seltenheitsgrad sowie 1 Satz exklusive Kartenrücken.\n[b]Einmaliges Angebot:[/b] 800 Kristalle!",
-            "BDSSN_構築済みデッキ4弾": "BDSSN_構築済みデッキ4弾",
-            "BDSI_構築済みデッキ4弾": "In jedem Deck finden sich je 3 Exemplare einer Karte (normale sowie animierte Premiumausgabe) mit brandneuem Motiv im Design von Granblue Fantasy. Im Set mit exklusivem Emblem & Kartenrücken.\n[b]Einmaliges Angebot:[/b] 800 Kristalle!"
-        },
-        "Spa": {
-            "BDSSN_構築済みデッキ1弾": "BDSSN_構築済みデッキ1弾",
-            "BDSI_構築済みデッキ1弾": "¡Cada mazo prefabricado contiene una carta Legendaria animada exclusiva! Cada mazo puede ser adquirido 3 veces, costando 500 cristales la primera vez, y 750 cristales después.",
-            "BDSSN_構築済みデッキ2弾": "BDSSN_構築済みデッキ2弾",
-            "BDSI_構築済みデッキ2弾": "¡Cada mazo prefabricado contiene una carta Legendaria animada exclusiva! Cada mazo puede ser adquirido 3 veces, costando 500 cristales la primera vez, y 750 cristales después.",
-            "BDSSN_構築済みデッキ3弾": "BDSSN_構築済みデッキ3弾",
-            "BDSI_構築済みデッキ3弾": "Cada pack contiene 34 cartas e incluye 2 cartas Legendarias con dorsos exclusivos.\n[b]Precio limitado para la primera compra:[/b] ¡800 cristales! ",
-            "BDSSN_構築済みデッキ4弾": "BDSSN_構築済みデッキ4弾",
-            "BDSI_構築済みデッキ4弾": "En cada mazo encontrarás 3 cartas normales y 3 animadas con ilustraciones exclusivas de Granblue Fantasy. ¡Además, también recibirás sus respectivos emblemas y dorsos!\n[b]Adquirible solo una vez:[/b] ¡800 cristales!"
-        }
-    }
-}
+        },
