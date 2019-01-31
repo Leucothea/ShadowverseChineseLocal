@@ -20,7 +20,7 @@
             "URL_0007_steam": "https://shadowverse.com/cht/privacy/",
             "URL_0008_steam": "/URL_0008_steam/",
             "URL_0009_steam": "/URL_0009_steam/",
-            "URL_0010_steam": "https://shadowverse.com/cht/drawrates?pack_id={0}",
+            "URL_0010_steam": "https://shadowverse.com/cht/drawrates?pack_id={0}&pack_category={1}",
             "URL_0011_steam": "https://shadowverse.com/cht/help/",
             "URL_0012_steam": "https://shadowverse.com/cht/gameguide/",
             "URL_0013_steam": "https://shadowverse.com/cht/faq/?fromapp",
