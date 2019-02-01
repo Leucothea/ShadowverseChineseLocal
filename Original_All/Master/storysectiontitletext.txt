@@ -1,0 +1,112 @@
+{
+    "storysectiontitletext": {
+        "Jpn": {
+            "story_section_00": "プロローグ",
+            "story_section_01": "災いの樹編",
+            "story_section_02": "災いの樹編-最終章-",
+            "story_section_03": "ギルド争乱編",
+            "story_section_04": "ギルド争乱編-最終章-",
+            "story_section_no_00": "0.",
+            "story_section_no_01": "1.",
+            "story_section_no_02": "2.",
+            "story_section_no_03": "3.",
+            "story_section_no_04": "4."
+        },
+        "Eng": {
+            "story_section_00": "Prologue",
+            "story_section_01": "The Morning Star",
+            "story_section_02": "The Morning Star: Conclusion",
+            "story_section_03": "The Guild War",
+            "story_section_04": "The Guild War: Conclusion",
+            "story_section_no_00": "0.",
+            "story_section_no_01": "1.",
+            "story_section_no_02": "2.",
+            "story_section_no_03": "3.",
+            "story_section_no_04": "4."
+        },
+        "Chs": {
+            "story_section_00": "教程",
+            "story_section_01": "天启之树篇",
+            "story_section_02": "天启之树篇 -最终章-",
+            "story_section_03": "公会动乱篇",
+            "story_section_04": "公会动乱篇 -最终章-",
+            "story_section_no_00": "0.",
+            "story_section_no_01": "1.",
+            "story_section_no_02": "2.",
+            "story_section_no_03": "3.",
+            "story_section_no_04": "4."
+        },
+        "Kor": {
+            "story_section_00": "프롤로그",
+            "story_section_01": "재앙의 나무 편",
+            "story_section_02": "재앙의 나무 편 -마지막 장-",
+            "story_section_03": "길드 전쟁 편",
+            "story_section_04": "길드 전쟁 편 -마지막 장-",
+            "story_section_no_00": "0.",
+            "story_section_no_01": "1.",
+            "story_section_no_02": "2.",
+            "story_section_no_03": "3.",
+            "story_section_no_04": "4."
+        },
+        "Cht": {
+            "story_section_00": "序章",
+            "story_section_01": "天啟之樹篇",
+            "story_section_02": "天啟之樹篇─最終章─",
+            "story_section_03": "公會動亂篇",
+            "story_section_04": "公會動亂篇─最終章─",
+            "story_section_no_00": "0.",
+            "story_section_no_01": "1.",
+            "story_section_no_02": "2.",
+            "story_section_no_03": "3.",
+            "story_section_no_04": "4."
+        },
+        "Fre": {
+            "story_section_00": "Prologue",
+            "story_section_01": "L'Arbre du Chaos",
+            "story_section_02": "L'Arbre du Chaos : Conclusion",
+            "story_section_03": "La guerre des Guildes",
+            "story_section_04": "La guerre des Guildes : Conclusion",
+            "story_section_no_00": "0.",
+            "story_section_no_01": "1.",
+            "story_section_no_02": "2.",
+            "story_section_no_03": "3.",
+            "story_section_no_04": "4."
+        },
+        "Ita": {
+            "story_section_00": "Prologo",
+            "story_section_01": "Albero della Vita",
+            "story_section_02": "Albero della Vita: Conclusione",
+            "story_section_03": "Tumulto delle Gilde",
+            "story_section_04": "Tumulto delle Gilde: Conclusione",
+            "story_section_no_00": "",
+            "story_section_no_01": "",
+            "story_section_no_02": "",
+            "story_section_no_03": "",
+            "story_section_no_04": ""
+        },
+        "Ger": {
+            "story_section_00": "Prolog",
+            "story_section_01": "Die Leidesche",
+            "story_section_02": "Die Leidesche: Finale",
+            "story_section_03": "Die Gildenfehde",
+            "story_section_04": "Die Gildenfehde: Finale",
+            "story_section_no_00": "0. ",
+            "story_section_no_01": "1. ",
+            "story_section_no_02": "2. ",
+            "story_section_no_03": "3. ",
+            "story_section_no_04": "4. "
+        },
+        "Spa": {
+            "story_section_00": "Prólogo",
+            "story_section_01": "El Árbol del Caos",
+            "story_section_02": "El Árbol del Caos: Final",
+            "story_section_03": "La Lucha de los Gremios",
+            "story_section_04": "La Lucha de los Gremios: Final",
+            "story_section_no_00": "0. ",
+            "story_section_no_01": "1. ",
+            "story_section_no_02": "2. ",
+            "story_section_no_03": "3. ",
+            "story_section_no_04": "4. "
+        }
+    }
+}
