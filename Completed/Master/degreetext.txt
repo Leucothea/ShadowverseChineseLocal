@@ -372,7 +372,7 @@
             "DEG_NGE_BOS_SEAO_UNLIMITED_CHAMPION": "Brigade of the Sky SEAO Unlimited Champion",
             "DEG_絢爛の紡ぎ手": "絢麗的紡織者",
             "DEG_炎帝": "炎帝",
-            "DEG_開闢の錬金術師": "開闢的鍊金術師",
+            "DEG_開闢の錬金術師": "開闢的錬金術師",
             "DEG_大いなる調停者": "偉大的調停者",
             "DEG_幽想の少女": "幽想的少女",
             "DEG_狂恋の華鎧": "狂戀華鎧",
